@@ -43,7 +43,7 @@ function getRouteStyle(feature) {
         return { color: "#27ae60", weight: 6, opacity: 0.9 }; // 🟢 本線は「太い緑」
     }
 const layerDefs = {
-    trend: { url: 'trend_spots.geojson', icon: icons.red }, // 👈これを追加！
+    trend: { url: 'https://raw.githubusercontent.com/ResoSynQ/wayfarer-trend-engine/main/trend_spots.geojson', icon: icons.red },
     rel: { url: 'rel.geojson', icon: icons.blue },
     park: { url: 'park.geojson', icon: icons.blue },
     // ... 以下略
