@@ -42,11 +42,6 @@ function getRouteStyle(feature) {
     if (name.includes("東海自然歩道")) {
         return { color: "#27ae60", weight: 6, opacity: 0.9 }; // 🟢 本線は「太い緑」
     }
-const layerDefs = {
-    trend: { url: 'https://raw.githubusercontent.com/ResoSynQ/wayfarer-trend-engine/main/trend_spots.geojson', icon: icons.red },
-    rel: { url: 'rel.geojson', icon: icons.blue },
-    park: { url: 'park.geojson', icon: icons.blue },
-    // ... 以下略
     
     // 2. 五街道の判定
     const palettes = {
@@ -69,6 +64,10 @@ const layerDefs = {
 }
 
 const layerDefs = {
+    // 1. 今回追加したトレンド
+    trend: { url: 'https://raw.githubusercontent.com/ResoSynQ/wayfarer-trend-engine/main/trend_spots.geojson', icon: icons.red },
+    
+    // 2. もともとあった大事なデータたち
     rel: { url: 'rel.geojson', icon: icons.blue },
     park: { url: 'park.geojson', icon: icons.blue },
     com: { url: 'com.geojson', icon: icons.green },
@@ -86,7 +85,7 @@ const layerDefs = {
     trail: { url: 'OSM_trail.geojson', icon: icons.purple },
     shizenhodo: { url: 'TokaiNatureTrail_Route.geojson', style: getRouteStyle },
     gokaido: { url: 'gokaido_routes.geojson', style: getRouteStyle }
-};
+}; // 👈 ここでしっかりフタを閉める！
 
 const immediateLayers = ['trend', 'keikan', 'tree', 'fudo', 'denken', 'fuchi', 'kanko', 'trail', 'shizenhodo', 'gokaido'];
 
