@@ -64,10 +64,7 @@ function getRouteStyle(feature) {
 }
 
 const layerDefs = {
-    // 1. 今回追加したトレンド
-    trend: { url: 'https://raw.githubusercontent.com/ResoSynQ/wayfarer-trend-engine/main/trend_spots.geojson', icon: icons.red },
-    
-    // 2. もともとあった大事なデータたち
+
     rel: { url: 'rel.geojson', icon: icons.blue },
     park: { url: 'park.geojson', icon: icons.blue },
     com: { url: 'com.geojson', icon: icons.green },
@@ -83,11 +80,16 @@ const layerDefs = {
     kanko: { url: 'P12_観光資源_近畿.geojson', style: {color: '#FF8C00', weight: 2, fillOpacity: 0.3} },
     restaurants: { url: 'restaurant.geojson', icon: icons.orange },
     trail: { url: 'OSM_trail.geojson', icon: icons.purple },
-    shizenhodo: { url: 'TokaiNatureTrail_Route.geojson', style: getRouteStyle },
-    gokaido: { url: 'gokaido_routes.geojson', style: getRouteStyle }
-}; // 👈 ここでしっかりフタを閉める！
+　　shizenhodo: { url: 'TokaiNatureTrail_Route.geojson', style: getRouteStyle },
+    gokaido: { url: 'gokaido_routes.geojson', style: getRouteStyle }, // 👈 このカンマを絶対に追加！
 
-const immediateLayers = ['trend', 'keikan', 'tree', 'fudo', 'denken', 'fuchi', 'kanko', 'trail', 'shizenhodo', 'gokaido'];
+    // ▼ 実験ライブマップ（1つのファイルからカテゴリ別に抽出して50m円を描く）
+    live_trend: { url: 'https://raw.githubusercontent.com/ResoSynQ/wayfarer-trend-engine/main/trend_spots.geojson', category: 'trend', color: '#ff4b00' }, // オレンジ赤
+    live_flower: { url: 'https://raw.githubusercontent.com/ResoSynQ/wayfarer-trend-engine/main/trend_spots.geojson', category: 'flower', color: '#ff69b4' }, // ピンク
+    live_local: { url: 'https://raw.githubusercontent.com/ResoSynQ/wayfarer-trend-engine/main/trend_spots.geojson', category: 'local', color: '#32cd32' }  // ライムグリーン
+}; // 👈 最後にフタを閉める
+
+const immediateLayers = ['keikan', 'tree', 'fudo', 'denken', 'fuchi', 'kanko', 'trail', 'shizenhodo', 'gokaido'];
 
 const rawData = {};
 const layers = {};
@@ -97,19 +99,47 @@ function renderGeoJson(key, bounds = null) {
     layers[key].clearLayers();
     const def = layerDefs[key];
     L.geoJSON(rawData[key], {
-        filter: function(feature) {
+filter: function(feature) {
+            // ▼ 実験ライブマップ用：自分のカテゴリ以外のデータは無視する
+            if (key === 'live_trend' || key === 'live_flower' || key === 'live_local') {
+                if (feature.properties.category !== def.category) {
+                    return false; // カテゴリが違えば表示しない
+                }
+            }
+            // ... (これ以降は元々あった if (bounds && ...) などの処理をそのまま残す) ...
             if (bounds && feature.geometry && feature.geometry.type === "Point") {
                 const latlng = L.latLng(feature.geometry.coordinates[1], feature.geometry.coordinates[0]);
                 return bounds.contains(latlng);
             }
             return true;
         },
-        pointToLayer: function(feature, latlng) {
-            if(def.isCircle) return L.circleMarker(latlng, { radius: 6, fillColor: 'red', color: '#fff', weight: 2, fillOpacity: 0.8 });
+pointToLayer: function(feature, latlng) {
+            // ▼ ここから追加：実験ライブマップ用（50mのホットサークルを描く！）
+            if (key === 'live_trend' || key === 'live_flower' || key === 'live_local') {
+                return L.circle(latlng, {
+                    color: def.color,
+                    fillColor: def.color,
+                    fillOpacity: 0.5,
+                    radius: 50,  // 50メートル
+                    weight: 2
+                }).bindPopup(`
+                    <div style="text-align:center;">
+                        <b style="color:${def.color}; font-size:1.1em;">【${feature.properties.category}】</b><br>
+                        <span style="font-size:1.2em; font-weight:bold;">${feature.properties.trend_word}</span><br>
+                        <span style="color:#666;">📍 ${feature.properties.name}</span>
+                    </div>
+                `);
+            }
+            // ▲ ここまで追加
+    
+if(def.isCircle) return L.circleMarker(latlng, { radius: 6, fillColor: 'red', color: '#fff', weight: 2, fillOpacity: 0.8 });
             return L.marker(latlng, { icon: def.icon || new L.Icon.Default() });
         },
         style: def.style,
         onEachFeature: function(feature, layer) {
+            // ▼ この1行を絶対に追加！（ライブマップのカッコいい吹き出しを守る盾）
+            if (key === 'live_trend' || key === 'live_flower' || key === 'live_local') return;
+
             const name = getFeatureName(feature.properties);
             layer.bindPopup(`<strong>${name}</strong>`);
         }
@@ -130,7 +160,7 @@ async function fetchAllData() {
 fetchAllData();
 
 const overlayMaps = {
-    "🔥 今日のトレンド": layers.trend, "♟️ 道標": layers.rel, "🌳 公園・遊具": layers.park, "🏟️ 公共施設": layers.com, "📚 文化施設": layers.mus, "🏃‍♂️ 体育施設": layers.gym, "🏯 文化財": layers.cul, "🚾 トイレ (赤丸)": layers.wc,
+    "♟️ 道標": layers.rel, "🌳 公園・遊具": layers.park, "🏟️ 公共施設": layers.com, "📚 文化施設": layers.mus, "🏃‍♂️ 体育施設": layers.gym, "🏯 文化財": layers.cul, "🚾 トイレ (赤丸)": layers.wc,
     "🏞️ 景観地区": layers.keikan, "🌲 景観重要建造物樹木": layers.tree, "📜 歴史的風土保存区域": layers.fudo, "🏘️ 伝統的建造物群保存地区": layers.denken, "🗺️ 歴史的風致重点地区": layers.fuchi, "🎆 観光資源": layers.kanko, 
     "🍽️ 喫茶店・レストラン": layers.restaurants, "🐾 トレイル.古道": layers.trail, "🛤️ 東海自然歩道": layers.shizenhodo, "🛣️ 五街道": layers.gokaido
 };
@@ -196,3 +226,14 @@ setTimeout(hideLoadingScreen, 4000);
 
 map.on('locationfound', (e) => { L.circleMarker(e.latlng, {radius: 8, fillColor: '#007BFF', color: '#fff', weight: 2, fillOpacity: 1}).addTo(map).bindPopup("現在地").openPopup(); });
 map.on('locationerror', () => { alert("現在地を取得できませんでした。端末の位置情報設定を確認してください。"); });
+// ▼ 追加：実験ライブマップのチェックボックス用ON/OFF機能 ▼
+window.toggleLayer = function(key) {
+    if (map.hasLayer(layers[key])) {
+        map.removeLayer(layers[key]); // チェックが外れたら消す
+    } else {
+        map.addLayer(layers[key]);    // チェックが入ったら表示する
+        // 今見ている画面の範囲内だけを計算して描画（重くならないための工夫！）
+        renderGeoJson(key, map.getBounds()); 
+    }
+};
+// ▲ ここまで ▲
