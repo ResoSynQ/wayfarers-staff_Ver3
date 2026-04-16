@@ -162,7 +162,11 @@ fetchAllData();
 const overlayMaps = {
     "♟️ 道標": layers.rel, "🌳 公園・遊具": layers.park, "🏟️ 公共施設": layers.com, "📚 文化施設": layers.mus, "🏃‍♂️ 体育施設": layers.gym, "🏯 文化財": layers.cul, "🚾 トイレ (赤丸)": layers.wc,
     "🏞️ 景観地区": layers.keikan, "🌲 景観重要建造物樹木": layers.tree, "📜 歴史的風土保存区域": layers.fudo, "🏘️ 伝統的建造物群保存地区": layers.denken, "🗺️ 歴史的風致重点地区": layers.fuchi, "🎆 観光資源": layers.kanko, 
-    "🍽️ 喫茶店・レストラン": layers.restaurants, "🐾 トレイル.古道": layers.trail, "🛤️ 東海自然歩道": layers.shizenhodo, "🛣️ 五街道": layers.gokaido
+    "🍽️ 喫茶店・レストラン": layers.restaurants, "🐾 トレイル.古道": layers.trail, "🛤️ 東海自然歩道": layers.shizenhodo, "🛣️ 五街道": layers.gokaido,
+    // ▼ ここに「実験ライブマップ」の3つを追加！ ▼
+    "🌍 トレンド": layers.live_trend,
+    "🌸 開花": layers.live_flower,
+    "😊 ローカルニュース": layers.live_local
 };
 
 layers.rel.addTo(map); layers.park.addTo(map); layers.com.addTo(map);
@@ -175,10 +179,12 @@ function insertCategoryHeaders() {
     document.querySelectorAll('.leaflet-control-layers-overlays label').forEach(label => {
         const text = label.textContent.trim();
         let headerHtml = "";
-if (text.includes("今日のトレンド")) headerHtml = "<div class='custom-layer-header' style='font-size:1.05em; font-weight:bold; color:#d32f2f; margin-top:5px; margin-bottom:10px;'>【🔥 リアルタイム】</div>";
-        else if (text.includes("道標")) headerHtml = "<div class='custom-layer-header' style='margin:18px 0 10px 0;'><hr style='margin:0 0 12px 0; border:0; border-top:1px solid #ddd;'><div style='font-size:1.05em; font-weight:bold; color:#1565C0;'>【基本探索】</div></div>";
+        if (text.includes("道標")) headerHtml = "<div class='custom-layer-header' style='margin:18px 0 10px 0;'><hr style='margin:0 0 12px 0; border:0; border-top:1px solid #ddd;'><div style='font-size:1.05em; font-weight:bold; color:#1565C0;'>【基本探索】</div></div>";
         else if (text.includes("景観地区")) headerHtml = "<div class='custom-layer-header' style='margin:18px 0 10px 0;'><hr style='margin:0 0 12px 0; border:0; border-top:1px solid #ddd;'><div style='font-size:1.05em; font-weight:bold; color:#E65100;'>【広域地域データ】</div></div>";
         else if (text.includes("喫茶店")) headerHtml = "<div class='custom-layer-header' style='margin:18px 0 10px 0;'><hr style='margin:0 0 12px 0; border:0; border-top:1px solid #ddd;'><div style='font-size:1.05em; font-weight:bold; color:#2E7D32;'>【上級者向け】</div></div>";
+        // ▼ メニューの最後に【実験機能】のヘッダーを追加 ▼
+        else if (text.includes("トレンド")) headerHtml = "<div class='custom-layer-header' style='margin:18px 0 10px 0;'><hr style='margin:0 0 12px 0; border:0; border-top:1px solid #ddd;'><div style='font-size:1.05em; font-weight:bold; color:#8e44ad;'>【実験機能】</div></div>";
+        
         if (headerHtml) label.insertAdjacentHTML('beforebegin', headerHtml);
     });
 }
@@ -208,6 +214,11 @@ scanBtn?.addEventListener('click', () => {
 
 let restaurantWarningShown = false, advanceWarningShown = false;
 map.on('overlayadd', function(e) {
+    // ▼ メニューのチェックを入れた瞬間にデータを地図に描画する仕掛け ▼
+    if (e.name.includes('トレンド') && rawData['live_trend']) renderGeoJson('live_trend');
+    if (e.name.includes('開花') && rawData['live_flower']) renderGeoJson('live_flower');
+    if (e.name.includes('ローカル') && rawData['live_local']) renderGeoJson('live_local');
+
     if (e.name.includes('喫茶店') && !restaurantWarningShown) { alert("飲食店データは最大で10mの誤差があることがあります。立ち寄る際は十分に確認してください。"); restaurantWarningShown = true; }
     if ((e.name.includes('トレイル') || e.name.includes('自然歩道') || e.name.includes('五街道')) && !advanceWarningShown) { alert("【上級者向け警告】\n難易度の高いルートが含まれます。事前に計画を立てましょう。"); advanceWarningShown = true; }
 });
