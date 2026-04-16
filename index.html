@@ -36,5 +36,21 @@
 
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <script src="app.js?v=2.0.10"></script>
+<div id="experimental-menu" style="position: absolute; bottom: 30px; right: 20px; z-index: 1000; background: rgba(255, 255, 255, 0.85); padding: 12px; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.3); font-family: sans-serif; font-size: 14px; backdrop-filter: blur(4px);">
+    <div style="font-size: 0.85em; font-weight: bold; color: #555; margin-bottom: 10px; border-bottom: 1px solid #ccc; padding-bottom: 5px; text-align: center;">
+        - 実験ライブマップ -
+    </div>
+    
+    <label style="display: block; margin-bottom: 8px; cursor: pointer;">
+        <input type="checkbox" onchange="toggleLayer('live_trend')"> 🌍 トレンド
+    </label>
+    <label style="display: block; margin-bottom: 8px; cursor: pointer;">
+        <input type="checkbox" onchange="toggleLayer('live_flower')"> 🌸 開花
+    </label>
+    <label style="display: block; cursor: pointer;">
+        <input type="checkbox" onchange="toggleLayer('live_local')"> 😊 ローカル
+    </label>
+</div>
+    
 </body>
 </html>
