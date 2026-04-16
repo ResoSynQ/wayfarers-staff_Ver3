@@ -214,11 +214,12 @@ scanBtn?.addEventListener('click', () => {
 
 let restaurantWarningShown = false, advanceWarningShown = false;
 map.on('overlayadd', function(e) {
-    // ▼ メニューのチェックを入れた瞬間にデータを地図に描画する仕掛け ▼
+    // ▼ 実験ライブマップ：チェックを入れた瞬間にサークルを描画する（カメラは動かさない！）
     if (e.name.includes('トレンド') && rawData['live_trend']) renderGeoJson('live_trend');
     if (e.name.includes('開花') && rawData['live_flower']) renderGeoJson('live_flower');
     if (e.name.includes('ローカル') && rawData['live_local']) renderGeoJson('live_local');
 
+    // ▼ 今まで通りの警告アラート
     if (e.name.includes('喫茶店') && !restaurantWarningShown) { alert("飲食店データは最大で10mの誤差があることがあります。立ち寄る際は十分に確認してください。"); restaurantWarningShown = true; }
     if ((e.name.includes('トレイル') || e.name.includes('自然歩道') || e.name.includes('五街道')) && !advanceWarningShown) { alert("【上級者向け警告】\n難易度の高いルートが含まれます。事前に計画を立てましょう。"); advanceWarningShown = true; }
 });
