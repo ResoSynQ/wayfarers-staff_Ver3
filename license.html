@@ -56,6 +56,27 @@
     <p>OpenStreetMap の著作権・ライセンス情報：<br><a href="https://www.openstreetmap.org/copyright" target="_blank">https://www.openstreetmap.org/copyright</a></p>
     <p>Tile Usage Policy：<br><a href="https://operations.osmfoundation.org/policies/tiles/" target="_blank">https://operations.osmfoundation.org/policies/tiles/</a></p>
 
+<h2>■ Yahoo! JAPAN API</h2>
+    <p>本アプリの「実験機能（ライブマップ）」等におけるニューステキストの解析（地名の抽出等）および、施設名・住所から地図上の座標を特定する処理には、Yahoo! JAPAN の提供するAPIを利用しています。</p>
+    
+    <span style="margin:15px 15px 15px 15px"><a href="https://developer.yahoo.co.jp/sitemap/">Web Services by Yahoo! JAPAN</a></span>
+    ```
+
+---
+
+### 🗺️ 2. `app.js` の修正（マップ右下のクレジット）
+
+実は `app.js` の方（マップの右下に出るやつ）も、より安全にするなら修正しておいた方がいい！
+Leafletの右下の狭いスペースに `margin: 15px` のついたHTMLを入れるとレイアウトが崩れてしまう可能性がある。
+
+こういう「アプリのUIに組み込む場合」のために、Yahooは**「（D）プレーンテキスト形式」**というテキストだけのルールも用意してくれているんだ！これを使えばレイアウトも崩れず、規約も100%クリアできる。
+
+**【`app.js` の 11行目付近の変数をコレに書き換え】**
+
+```javascript
+// ▼ Yahoo! APIのクレジット表記用テキスト（規約完全準拠のプレーンテキスト形式Dを採用）
+const yahooCredit = 'Web Services by Yahoo! JAPAN （https://developer.yahoo.co.jp/sitemap/）';
+    </p>
     <h2>■ 国・省庁データ</h2>
     <p>1. 国土交通省「国土数値情報」<br>
     国土数値情報は、各データセットに適用される利用条件に従って利用しています。本アプリでは、出典を記載し、データを加工（GeoJSONへの形式変換およびフィルタリング処理等）して利用しています。<br>
@@ -64,7 +85,6 @@
 
     <p>2. デジタル庁「オープンデータ」<br>
     デジタル庁その他の公共データについては、公共データ利用規約（第1.0版 / PDL1.0）又は各提供元が別に定める利用条件に従って、出典を記載し、データを加工（GeoJSONへの形式変換およびフィルタリング処理等）して利用しています。<br>
-    。<br>
     <a href="https://www.digital.go.jp/resources/open_data/public_data_license_v1.0" target="_blank">https://www.digital.go.jp/resources/open_data/public_data_license_v1.0</a></p>
 
     <p>3. 文化庁「国指定文化財等データベース」および文部科学省関連データ<br>
@@ -130,7 +150,7 @@
 
     <p>箕面市  本アプリは以下の著作物を改変して利用しています。 「公衆トイレ一覧」、箕面市、 URL: <a href="https://data.bodik.jp/dataset/272205_public_toilet" target="_blank">https://data.bodik.jp/dataset/272205_public_toilet</a> 本アプリでは、上記データをGeoJSONに変換し、位置情報表示用に整形して使用しています。</p>
 
-    <p>豊中市  データ提供元：豊中市オープンデータカタログサイト データ名：公衆トイレ一覧、食品等営業許可一覧（オープンデータ）（豊中市） URL: <a href="https://data.bodik.jp/dataset/272035_public_toilet" target="_blank">https://data.bodik.jp/dataset/272035_public_toilet</a> 　 URL: <a href="https://www.city.toyonaka.osaka.jp/kurashi/moushikomi/soshiki/moushikomi13/syokuhin/open_data.html" target="_blank">https://www.city.toyonaka.osaka.jp/kurashi/moushikomi/soshiki/moushikomi13/syokuhin/open_data.html</a></p>
+    <p>豊中市  データ提供元：豊中市オープンデータカタログサイト データ名：公衆トイレ一覧、食品等営業許可一覧（オープンデータ）（豊中市） URL: <a href="https://data.bodik.jp/dataset/272035_public_toilet" target="_blank">https://data.bodik.jp/dataset/272035_public_toilet</a>   URL: <a href="https://www.city.toyonaka.osaka.jp/kurashi/moushikomi/soshiki/moushikomi13/syokuhin/open_data.html" target="_blank">https://www.city.toyonaka.osaka.jp/kurashi/moushikomi/soshiki/moushikomi13/syokuhin/open_data.html</a></p>
 
     <p>枚方市  本アプリは以下の著作物を改変して利用しています。 「公衆トイレ一覧」、「枚方市_2025年9月末日時点 全ての許可施設」 URL: <a href="https://www.city.hirakata.osaka.jp/0000023432.html" target="_blank">https://www.city.hirakata.osaka.jp/0000023432.html</a> URL: <a href="https://www.city.hirakata.osaka.jp/0000023479.html?utm_source=chatgpt.com" target="_blank">https://www.city.hirakata.osaka.jp/0000023479.html?utm_source=chatgpt.com</a>本アプリでは、上記データをGeoJSONに変換し、位置情報表示用に整形して使用しています。</p>
 
