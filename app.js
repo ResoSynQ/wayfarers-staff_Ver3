@@ -232,8 +232,9 @@ setTimeout(hideLoadingScreen, 4000);
 
 map.on('locationfound', (e) => { L.circleMarker(e.latlng, {radius: 8, fillColor: '#007BFF', color: '#fff', weight: 2, fillOpacity: 1}).addTo(map).bindPopup("現在地").openPopup(); });
 map.on('locationerror', () => { alert("現在地を取得できませんでした。端末の位置情報設定を確認してください。"); });
-// ▼ スマート・リロード（重いデータはそのまま、最新ニュースだけを強制取得！）
-window.smartReload = async function() {
+
+// ▼ リロードボタン（↻）を押した時の処理（スマート・リロード）
+document.getElementById('reload-btn')?.addEventListener('click', async () => {
     const btn = document.getElementById('reload-btn');
     btn.innerText = "⏳"; // 読み込み中は砂時計アイコンに変更
 
@@ -264,4 +265,4 @@ window.smartReload = async function() {
 
     // 処理が終わったら元のアイコンに戻す
     setTimeout(() => { btn.innerText = "↻"; }, 500);
-};
+});
