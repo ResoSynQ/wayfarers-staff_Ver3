@@ -114,6 +114,17 @@
             transition: background-color 0.2s;
         }
         .contact-btn:hover { background-color: #0d47a1; }
+        
+        /* API表記用の枠 */
+        .api-credit {
+            font-size: 0.85rem;
+            color: #555;
+            background: #f0f4f8;
+            padding: 12px;
+            border-radius: 6px;
+            margin-top: 15px;
+            border-left: 4px solid #8e44ad;
+        }
     </style>
 </head>
 <body>
@@ -148,6 +159,10 @@
         <div class="icon-box">
             <div class="icon">🧭</div>
             <div><b>現在地ボタン（右上）</b><br>ワンタップで自分の現在地にカメラが戻ります。</div>
+        </div>
+        <div class="icon-box">
+            <div class="icon">↻</div>
+            <div><b>リロードボタン（右上）</b><br>ピンが増えすぎて動作が重くなった時や、最新情報に更新したい時に押してください。</div>
         </div>
         <div class="icon-box">
             <div class="icon">📡</div>
@@ -192,15 +207,28 @@
         <p style="font-size: 0.8rem; color: #666; margin-top: 15px;">※緊急時は警察・救急へご連絡ください。</p>
     </div>
 
-    <h2>6. 💡 快適な探索のために</h2>
+    <h2>6. 🧪 実験機能（ライブマップ）について</h2>
+    <div class="card">
+        <p>メニュー最下部の「実験機能」カテゴリにチェックを入れると、日々更新されるニュースに基づいた<b>「最新の熱気スポット（サークル）」</b>がマップ上に浮かび上がります。</p>
+        <ul>
+            <li><b>🌍 トレンド:</b> 話題の新店舗やイベント情報</li>
+            <li><b>🌸 開花:</b> 季節の自然や見ごろ情報</li>
+            <li><b>😊 ローカル:</b> 地元の気になるニュース</li>
+        </ul>
+        <div class="api-credit">
+            <b>【APIの利用について】</b><br>
+            本機能におけるニューステキストの解析（地名の抽出等）および、施設名から地図上の座標を特定する処理には、<a href="https://developer.yahoo.co.jp/sitemap/" target="_blank" style="color: var(--primary-color);">Yahoo! JAPAN のAPI</a>を利用しています。
+        </div>
+    </div>
+    <h2>7. 💡 快適な探索のために</h2>
     <div class="card">
         <p>本アプリは<b>「PWA」</b>に対応しています。ブラウザのメニューから<b>「ホーム画面に追加」</b>を実行してください。全画面でより高速に動作します！</p>
     </div>
 
-    <h2>7. アプリの削除とデータについて</h2>
+    <h2>8. アプリの削除とデータについて</h2>
     <div class="card">
         <p><b>📱 アイコンの削除:</b> ホーム画面のアイコンを長押しで消去できます。</p>
-        <p><b>⚠️ キャッシュについて:</b> データを端末に一時保存（キャッシュ）することで高速化しています。動作が重い場合はブラウザの履歴消去でキャッシュを消すと改善します。</p>
+        <p><b>⚠️ キャッシュについて:</b> データを端末に一時保存（キャッシュ）することで高速化しています。動作が重い場合はブラウザの履歴消去でキャッシュを消すか、マップ右上の「↻（リロード）」ボタンをお試しください。</p>
     </div>
 
     <div class="footer-btns">
