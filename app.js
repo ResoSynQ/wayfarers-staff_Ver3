@@ -232,3 +232,36 @@ setTimeout(hideLoadingScreen, 4000);
 
 map.on('locationfound', (e) => { L.circleMarker(e.latlng, {radius: 8, fillColor: '#007BFF', color: '#fff', weight: 2, fillOpacity: 1}).addTo(map).bindPopup("現在地").openPopup(); });
 map.on('locationerror', () => { alert("現在地を取得できませんでした。端末の位置情報設定を確認してください。"); });
+// ▼ スマート・リロード（重いデータはそのまま、最新ニュースだけを強制取得！）
+window.smartReload = async function() {
+    const btn = document.getElementById('reload-btn');
+    btn.innerText = "⏳"; // 読み込み中は砂時計アイコンに変更
+
+    try {
+        // 1. まずは開いているポップアップを閉じて画面をスッキリさせる
+        map.closePopup();
+
+        // 2. GitHubのキャッシュを突破する裏技！（URLの末尾に現在の時刻をくっつける）
+        const freshUrl = layerDefs.live_trend.url + '?t=' + new Date().getTime();
+        
+        // 3. ライブデータだけを再取得
+        const res = await fetch(freshUrl);
+        if (res.ok) {
+            const freshData = await res.json();
+            // メモリ上のデータを最新に書き換え
+            rawData['live_trend'] = freshData;
+            rawData['live_flower'] = freshData;
+            rawData['live_local'] = freshData;
+
+            // もし今チェックが入って表示されていたら、新しいデータで描き直す
+            if (map.hasLayer(layers['live_trend'])) renderGeoJson('live_trend');
+            if (map.hasLayer(layers['live_flower'])) renderGeoJson('live_flower');
+            if (map.hasLayer(layers['live_local'])) renderGeoJson('live_local');
+        }
+    } catch(e) {
+        console.error("最新データの取得に失敗しました:", e);
+    }
+
+    // 処理が終わったら元のアイコンに戻す
+    setTimeout(() => { btn.innerText = "↻"; }, 500);
+};
