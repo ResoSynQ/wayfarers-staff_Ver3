@@ -6,7 +6,7 @@ body, html, #map {
 }
 
 /* 📱 画面上の固定ボタン群（左上・右上） */
-#menu-btn, #location-btn {
+#menu-btn, #location-btn, #reload-btn {
     position: fixed;
     background: white; border: 2px solid rgba(0,0,0,0.2); border-radius: 8px;
     width: 45px; height: 45px; font-weight: bold; cursor: pointer;
@@ -19,6 +19,11 @@ body, html, #map {
 #location-btn { 
     top: 15px; right: 15px; 
     z-index: 900;
+}
+#reload-btn { 
+    top: 70px; right: 15px; /* 🧭ボタンの下に、右下ボタンと同じ間隔で配置！ */
+    z-index: 900;
+    font-size: 22px; /* ↻マークが少し大きいので微調整 */
 }
 
 /* 🚪 スライドメニュー */
