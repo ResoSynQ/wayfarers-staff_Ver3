@@ -60,22 +60,7 @@
     <p>本アプリの「実験機能（ライブマップ）」等におけるニューステキストの解析（地名の抽出等）および、施設名・住所から地図上の座標を特定する処理には、Yahoo! JAPAN の提供するAPIを利用しています。</p>
     
     <span style="margin:15px 15px 15px 15px"><a href="https://developer.yahoo.co.jp/sitemap/">Web Services by Yahoo! JAPAN</a></span>
-    ```
 
----
-
-### 🗺️ 2. `app.js` の修正（マップ右下のクレジット）
-
-実は `app.js` の方（マップの右下に出るやつ）も、より安全にするなら修正しておいた方がいい！
-Leafletの右下の狭いスペースに `margin: 15px` のついたHTMLを入れるとレイアウトが崩れてしまう可能性がある。
-
-こういう「アプリのUIに組み込む場合」のために、Yahooは**「（D）プレーンテキスト形式」**というテキストだけのルールも用意してくれているんだ！これを使えばレイアウトも崩れず、規約も100%クリアできる。
-
-**【`app.js` の 11行目付近の変数をコレに書き換え】**
-
-```javascript
-// ▼ Yahoo! APIのクレジット表記用テキスト（規約完全準拠のプレーンテキスト形式Dを採用）
-const yahooCredit = 'Web Services by Yahoo! JAPAN （https://developer.yahoo.co.jp/sitemap/）';
     </p>
     <h2>■ 国・省庁データ</h2>
     <p>1. 国土交通省「国土数値情報」<br>
