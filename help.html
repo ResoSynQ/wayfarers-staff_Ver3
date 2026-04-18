@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>アプリの使用方法について - 旅人の杖と救いの泉</title>
-    <style>
+<style>
         :root {
             --primary-color: #1565C0;
             --accent-color: #E65100;
@@ -59,11 +59,15 @@
             box-shadow: 0 2px 8px rgba(0,0,0,0.05);
             margin-bottom: 20px;
         }
-        /* 文字サイズを0.9remに統一 */
-        .card p, .card li, .desc-text {
+
+        /* ★ 修正ポイント：アイコン横のテキストも 0.9rem に統一 */
+        .card p, .card li, .desc-text, .icon-box div {
             font-size: 0.9rem;
             color: #555;
         }
+        /* 太字は濃い色をキープ */
+        b { color: var(--text-color); }
+
         .icon-box {
             display: flex;
             align-items: flex-start;
@@ -121,6 +125,18 @@
             font-weight: bold;
             margin-bottom: 12px;
         }
+
+        /* ★ 修正ポイント：APIクレジットの枠デザインと文字サイズを復活 */
+        .api-credit {
+            font-size: 0.9rem;
+            color: #555;
+            background: #f0f4f8;
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 20px;
+            border-left: 4px solid var(--primary-color);
+        }
+
         .contact-btn {
             background-color: var(--primary-color);
             color: white;
@@ -308,8 +324,7 @@
 
     <h2>6. 🚾 トイレモードと調査機能</h2>
     <div class="card">
-        <p>メニューの「トイレ」をONにすると、現在範囲のトイレ（赤い丸）が浮かび上がります。</p>
-        <p>「壊れている」「載っていない」等の情報をメールで報告できます。ご協力をお願いします。</p>
+        <p>メニューの「トイレ」をONにすると、現在範囲のトイレ（赤い丸）が浮かび上がります。「壊れている」「載っていない」等の情報をメールで報告できます。ご協力をお願いします。</p>
         <button id="toilet-contact-btn" class="contact-btn">✉️ トイレについて連絡</button>
     </div>
 
@@ -321,7 +336,7 @@
     <h2>8. アプリの削除とデータについて</h2>
     <div class="card">
         <p><b>📱 アイコンの削除:</b> ホーム画面のアイコンを長押しで消去できます。</p>
-        <p><b>⚠ 履歴の削除:</b> ブラウザの履歴やキャッシュを消去することで、データをリセットできます。</p>
+        <p><b>⚠ 履歴の削除:</b> ブラウザの履歴やキャッシュを消去することで、アプリのデータを消去できます。</p>
     </div>
 
     <div class="footer-btns">
