@@ -89,10 +89,29 @@ const rawData = {};
 const layers = {};
 Object.keys(layerDefs).forEach(key => { layers[key] = L.layerGroup(); });
 
+// [Fix④ 真の原因] 不正ジオメトリ修復関数
+// P12等で geometry が {"type":"Point","coordinates":[...]} ではなく
+// 生配列 [lng, lat] になっているfeatureをLeafletが読める形式に変換する
+function repairGeoJson(data) {
+    if (!data || !data.features) return data;
+    return {
+        ...data,
+        features: data.features.map(ft => {
+            const geom = ft.geometry;
+            // [lng, lat] の生配列をPointジオメトリに正規化
+            if (Array.isArray(geom) && geom.length === 2 &&
+                typeof geom[0] === 'number' && typeof geom[1] === 'number') {
+                return { ...ft, geometry: { type: 'Point', coordinates: geom } };
+            }
+            return ft;
+        })
+    };
+}
+
 function renderGeoJson(key, bounds = null) {
     layers[key].clearLayers();
     const def = layerDefs[key];
-    L.geoJSON(rawData[key], {
+    L.geoJSON(repairGeoJson(rawData[key]), {
         filter: function(feature) {
             // ライブマップ用フィルタ
             if (key === 'live_trend' || key === 'live_flower' || key === 'live_local') {
