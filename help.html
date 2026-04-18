@@ -68,7 +68,6 @@
             align-items: flex-start;
             margin-bottom: 20px;
         }
-        .icon-box:last-child { margin-bottom: 0; }
         .icon {
             font-size: 1.4rem;
             margin-right: 18px;
@@ -77,22 +76,31 @@
             padding-top: 2px;
         }
         
-        .pin-list { list-style: none; padding: 0; margin: 0; }
-        .pin-item {
-            display: flex;
-            align-items: center;
-            margin-bottom: 12px;
-            padding: 8px 0;
+        .category-list { list-style: none; padding: 0; margin: 0; }
+        .category-item {
+            margin-bottom: 20px;
+            padding-bottom: 15px;
             border-bottom: 1px solid #f0f0f0;
         }
-        .pin-item:last-child { border-bottom: none; }
+        .category-item:last-child { border-bottom: none; }
+        .category-title {
+            display: flex;
+            align-items: center;
+            font-weight: bold;
+            margin-bottom: 6px;
+        }
         .pin-chip {
-            min-width: 20px;
-            height: 20px;
+            min-width: 18px;
+            height: 18px;
             border-radius: 50%;
-            margin-right: 12px;
+            margin-left: 10px;
             border: 2px solid #fff;
             box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+        }
+        .desc-text {
+            font-size: 0.9rem;
+            color: #555;
+            padding-left: 28px;
         }
 
         .warning-card {
@@ -102,8 +110,6 @@
         .warning-title {
             color: #d84315;
             font-weight: bold;
-            display: flex;
-            align-items: center;
             margin-bottom: 12px;
         }
 
@@ -132,10 +138,8 @@
             border-radius: 35px;
             cursor: pointer;
             box-shadow: 0 4px 15px rgba(21, 101, 192, 0.3);
-            transition: transform 0.2s, background-color 0.2s;
             width: 85%;
         }
-        .close-btn:active { transform: scale(0.96); background-color: #0d47a1; }
 
         .contact-btn {
             background-color: var(--primary-color);
@@ -148,7 +152,6 @@
             cursor: pointer;
             width: 100%;
             margin: 15px 0;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.15);
         }
 
         ul { padding-left: 20px; margin: 0; }
@@ -168,16 +171,16 @@
 
     <div class="card">
         <p>『旅人の杖（関西版）』へようこそ。このアプリは、探索の目的となる対象物をマップ上に可視化し、あなたの冒険をサポートするツールです。</p>
-        <p style="font-size: 0.9rem; color: #666;">※収録データは主に関西圏を対象としています。既に撤去・閉店している場合もあるため、参考情報としてお使いください。</p>
+        <p style="font-size: 0.85rem; color: #666; margin-top: 10px;">※収録データは主に関西圏を対象としています。既に撤去・閉店している場合もあるため、参考情報としてお使いください。</p>
     </div>
 
     <h2>1. 基本の探索フロー</h2>
     <div class="card">
         <ul>
-            <li><b>地図を動かす:</b> 探索したいエリアを表示するか、右上の「🧭」ボタンで現在地に飛びます。 [cite: 1]</li>
-            <li><b>メニューを開く:</b> 左上の「☰」ボタンから、対象にチェックを入れます。（※広域データは即時表示されます） [cite: 1]</li>
-            <li><b>スキャン実行:</b> 下部の「周辺をスキャン」ボタンを押すと、画面内の候補がピンとして出現します。 [cite: 1]</li>
-            <li><b>詳細を見る:</b> ピンやルートをタップすると、名称や詳細を確認できます。 [cite: 1]</li>
+            <li><b>地図を動かす:</b> 探索したいエリアを表示するか、右上の「🧭」ボタンで現在地に飛びます。</li>
+            <li><b>メニューを開く:</b> 左上の「☰」ボタンから、対象にチェックを入れます。</li>
+            <li><b>スキャン実行:</b> 下部の「周辺をスキャン」ボタンを押すと、画面内の候補がピンとして出現します。</li>
+            <li><b>詳細を見る:</b> ピンやルートをタップすると、名称や詳細を確認できます。</li>
         </ul>
     </div>
 
@@ -185,88 +188,124 @@
     <div class="card">
         <div class="icon-box">
             <div class="icon">☰</div>
-            <div><b>探索メニュー（左上）</b><br>ジャンルをON/OFFできるフィルターです。 [cite: 1]</div>
+            <div><b>探索メニュー（左上）</b><br>ジャンルをON/OFFできるフィルターです。</div>
         </div>
         <div class="icon-box">
             <div class="icon">🧭</div>
-            <div><b>現在地ボタン（右上）</b><br>ワンタップで自分の現在地にカメラが戻ります。 [cite: 1]</div>
+            <div><b>現在地ボタン（右上）</b><br>ワンタップで自分の現在地にカメラが戻ります。</div>
         </div>
         <div class="icon-box">
             <div class="icon">↻</div>
-            <div><b>リロードボタン（右上）</b><br>トレンド、開花、ローカルの最新情報に更新します。（主に昼2時ごろ更新） [cite: 1]</div>
+            <div><b>リロードボタン（右上）</b><br>トレンド、開花、ローカルの最新情報に更新します。（昼2時ごろ更新）</div>
         </div>
         <div class="icon-box">
             <div class="icon">📡</div>
-            <div><b>周辺をスキャン（下部）</b><br>メインエンジンです。画面内の候補を索敵します。※広域すぎると押せません。 [cite: 1]</div>
-        </div>
-        <div class="icon-box">
-            <div class="icon">❓📜</div>
-            <div><b>各種ボタン（右下）</b><br>このヘルプ画面とライセンス画面を開きます。 [cite: 1]</div>
+            <div><b>周辺をスキャン（下部）</b><br>メインエンジンです。画面内の候補を一斉に索敵します。</div>
         </div>
     </div>
 
-    <h2>3. メニューカテゴリとピンの説明</h2>
+    <h2>3. メニューカテゴリの詳細説明</h2>
     <div class="card">
-        <div class="pin-list">
-            <div class="pin-item"><div class="pin-chip" style="background:#4363d8;"></div><div><b>道標・公園・遊具</b>（🔵 青ピン）<br>史跡案内や遊具のデータ。 [cite: 1]</div></div>
-            <div class="pin-item"><div class="pin-chip" style="background:#3cb44b;"></div><div><b>公共・文化・体育施設・文化財</b>（🟢 緑ピン）<br>国指定文化財なども含まれます。 [cite: 1]</div></div>
-            <div class="pin-item"><div class="pin-chip" style="background:#e6194B;"></div><div><b>トイレ</b>（⭕ 赤い丸）<br>公衆トイレ等の位置。 [cite: 1]</div></div>
-            <div class="pin-item"><div class="pin-chip" style="background:#f58231;"></div><div><b>喫茶店・レストラン</b>（🟠 橙ピン）<br>保健所データに基づく飲食店情報。 [cite: 1]</div></div>
-            <div class="pin-item"><div class="pin-chip" style="background:#911eb4;"></div><div><b>トレイル・古道</b>（🟣 紫ピン）<br>OSMに掲載されているルート。 [cite: 1]</div></div>
-            <div class="pin-item"><div class="pin-chip" style="background:#3cb44b; border-radius:0; width:15px; height:4px; border:none; box-shadow:none;"></div><div><b>東海自然歩道</b>（緑ライン）<br>環境省GPSデータに基づく公式ルート。 [cite: 1]</div></div>
-            <div class="pin-item"><div class="pin-chip" style="background:linear-gradient(to right, red, blue); border-radius:0; width:15px; height:4px; border:none; box-shadow:none;"></div><div><b>五街道</b>（五色ライン）<br>主要な旧街道のルート。 [cite: 1]</div></div>
+        <div class="category-list">
+            <div class="category-item">
+                <div class="category-title">♟️ 道標 <div class="pin-chip" style="background:#4363d8;"></div></div>
+                <div class="desc-text">OpenStreetMapに掲載されている史跡の案内や祠、寺社仏閣のデータが収録されています。</div>
+            </div>
+            <div class="category-item">
+                <div class="category-title">🌳 公園・遊具 <div class="pin-chip" style="background:#4363d8;"></div></div>
+                <div class="desc-text">国土数値情報、OpenStreetMapに掲載されている遊具・公園のデータが収録されています。</div>
+            </div>
+            <div class="category-item">
+                <div class="category-title">🏟️ 公共施設 <div class="pin-chip" style="background:#3cb44b;"></div></div>
+                <div class="desc-text">国土数値情報ダウンロードサービスに掲載されている公共施設のデータが収録されています。</div>
+            </div>
+            <div class="category-item">
+                <div class="category-title">📚 文化施設 <div class="pin-chip" style="background:#3cb44b;"></div></div>
+                <div class="desc-text">国土数値情報ダウンロードサービスに掲載されている文化施設のデータが収録されています。</div>
+            </div>
+            <div class="category-item">
+                <div class="category-title">🏃‍♂️ 体育施設 <div class="pin-chip" style="background:#3cb44b;"></div></div>
+                <div class="desc-text">国土数値情報ダウンロードサービスに掲載されている体育施設のデータが収録されています。</div>
+            </div>
+            <div class="category-item">
+                <div class="category-title">🏯 文化財 <div class="pin-chip" style="background:#3cb44b;"></div></div>
+                <div class="desc-text">文化庁国指定文化財サービスに掲載されている史跡名勝天然記念物、国宝・重要文化財、登録有形文化財(建造物)が収録されています。</div>
+            </div>
+            <div class="category-item">
+                <div class="category-title">🚾 トイレ <div class="pin-chip" style="background:#e6194B;"></div></div>
+                <div class="desc-text">各地方自治体のオープンデータ、OpenStreetMapに掲載されているトイレデータが収録されています。</div>
+            </div>
+            <div class="category-item">
+                <div class="category-title">🏞️ 景観地区</div>
+                <div class="desc-text">国土数値情報に掲載されている景観地区のデータが青いエリアとして収録されています。</div>
+            </div>
+            <div class="category-item">
+                <div class="category-title">🌲 景観重要建造物樹木 <div class="pin-chip" style="background:#4363d8;"></div></div>
+                <div class="desc-text">国土数値情報ダウンロードサービスに掲載されている景観重要建造物樹木のデータが収録されています。</div>
+            </div>
+            <div class="category-item">
+                <div class="category-title">📜 歴史的風土保存区域</div>
+                <div class="desc-text">国土数値情報に掲載されている歴史的風土保存区域のデータが茶色いエリアとして収録されています。</div>
+            </div>
+            <div class="category-item">
+                <div class="category-title">🏘️ 伝統的建造物群保存地区</div>
+                <div class="desc-text">国土数値情報に掲載されている伝統的建造物群保存地区のデータが紫のエリアとして収録されています。</div>
+            </div>
+            <div class="category-item">
+                <div class="category-title">🗺️ 歴史的風致重点地区</div>
+                <div class="desc-text">国土数値情報に掲載されている歴史的風致重点地区のデータが黄色いエリアとして収録されています。</div>
+            </div>
+            <div class="category-item">
+                <div class="category-title">🎆 観光資源</div>
+                <div class="desc-text">国土数値情報ダウンロードサービスに掲載されている観光資源のデータが収録されています。</div>
+            </div>
+            <div class="category-item">
+                <div class="category-title">🍽️ 喫茶店・レストラン <div class="pin-chip" style="background:#f58231;"></div></div>
+                <div class="desc-text">各地方自治体の保健所が公開しているオープンデータを基にジオコーディングを施した位置情報が収録されています。</div>
+            </div>
+            <div class="category-item">
+                <div class="category-title">🐾 トレイル.古道 <div class="pin-chip" style="background:#911eb4;"></div></div>
+                <div class="desc-text">OpenStreetMapに掲載されているトレイル.古道のデータが収録されています。</div>
+            </div>
+            <div class="category-item">
+                <div class="category-title">🛤️ 東海自然歩道</div>
+                <div class="desc-text">環境省が公開しているGPSデータを基にした緑のラインです。</div>
+            </div>
+            <div class="category-item">
+                <div class="category-title">🛣️ 五街道</div>
+                <div class="desc-text">japan-road-jp様のデータを基にした五色のラインです。</div>
+            </div>
         </div>
-        <p style="margin-top:15px; font-size: 0.9rem; color: #666;">※景観地区や歴史的風土保存区域は、それぞれの設定色でエリア表示されます。 [cite: 1]</p>
     </div>
 
-    <h3>ピンの表示ルールについて</h3>
+    <h3>ピンの表示ルール</h3>
     <div class="card">
-        <p><b>🔍 狭域カテゴリ（ズームが必要）:</b></p>
-        <p style="font-size: 0.95rem; margin-bottom: 12px;">視認性確保のため、一定以上ズームしないと表示されません。<br>（道標、公園、各種施設、文化財、飲食店など） [cite: 1]</p>
-        <p><b>🌐 広域カテゴリ（即時表示）:</b></p>
-        <p style="font-size: 0.95rem;">チェックを入れた瞬間に、全域のデータが表示されます。<br>（景観地区、樹木、保存地区、観光資源、各種ルート、ライブマップなど） [cite: 1]</p>
+        <p><b>🔍 狭域カテゴリ（要ズーム）:</b><br>道標、公園、施設、文化財、飲食店などは、視認性確保のため一定以上ズームしないと表示されません。</p>
+        <hr>
+        <p><b>🌐 広域カテゴリ（即時表示）:</b><br>景観地区、各種保存区域、観光資源、古道・街道ルート、ライブマップなどは✅を入れた瞬間に全域が表示されます。</p>
     </div>
 
     <h2>4. ⚠️ 重要：ご利用上の注意</h2>
     <div class="card warning-card">
-        <div class="warning-title">【トレイル・古道・自然歩道】 [cite: 1]</div>
-        <p style="font-size: 0.95rem;">
-            本格的な登山道や難所が含まれる場合があります。探索の際は<b>必ず事前のルート計画と準備</b>を行い、周囲の人に一声かけてから出発してください。 [cite: 1]
-        </p>
+        <div class="warning-title">【トレイル・古道・自然歩道】</div>
+        <p style="font-size: 0.9rem;">本格的な登山道や難所が含まれる場合があります。探索の際は必ず事前のルート計画と準備を行い、周囲に一声かけてから出発してください。</p>
         <hr>
-        <div class="warning-title">【喫茶店・レストラン】 [cite: 1]</div>
-        <p style="font-size: 0.95rem;">
-            座標変換の都合上、実際の場所から<b>最大10m程度の誤差</b>が生じることがあります。現地では周囲の状況を十分に確認してください。 [cite: 1]
-        </p>
+        <div class="warning-title">【喫茶店・レストラン】</div>
+        <p style="font-size: 0.9rem;">住所から変換しているため、実際の場所から最大10m程度の誤差が生じることがあります。現地で十分に確認してください。</p>
     </div>
 
-    <h2>5. 🚾 トイレモードと調査機能</h2>
+    <h2>5. 🧪 実験機能（ライブマップ）</h2>
     <div class="card">
-        <p>メニューの「トイレ」をONにすると、現在範囲のトイレ（赤い丸）が浮かび上がります。 [cite: 1]</p>
-        <p>「壊れている」「載っていない」等の情報をメールで報告できます。ご協力をお願いします。</p>
-        <button id="toilet-contact-btn" class="contact-btn">✉️ トイレについて連絡 [cite: 1]</button>
-        <p style="font-size: 0.8rem; color: #666; margin-top: 10px;">※緊急時は警察・救急（110/119）へご連絡ください。 [cite: 1]</p>
-    </div>
-
-    <h2>6. 🧪 実験機能（ライブマップ）について</h2>
-    <div class="card">
-        <p>ニュースに基づいた<b>「最新の熱気スポット」</b>を表示します。 [cite: 1]</p>
+        <p>ニュースに基づいた「最新の熱気スポット」を表示します。</p>
         <ul>
-            <li><b>🌍 トレンド:</b> 話題の新店舗やイベント情報 [cite: 1]</li>
-            <li><b>🌸 開花:</b> 季節の自然や見ごろ情報 [cite: 1]</li>
-            <li><b>😊 ローカル:</b> 地元の気になるニュース [cite: 1]</li>
+            <li><b>🌍 トレンド:</b> 話題の新店舗やイベント情報</li>
+            <li><b>🌸 開花:</b> 季節の自然や見ごろ情報</li>
+            <li><b>😊 ローカル:</b> 地元の気になるニュース</li>
         </ul>
         <div class="api-credit">
             <b>【APIの利用について】</b><br>
-            本機能の解析および座標特定には、<a href="https://developer.yahoo.co.jp/sitemap/" target="_blank" style="color: var(--primary-color);">Yahoo! JAPAN API</a>を利用しています。 [cite: 1, 2]
+            本機能の解析および座標特定には、<a href="https://developer.yahoo.co.jp/sitemap/" target="_blank" style="color: var(--primary-color);">Yahoo! JAPAN API</a>を利用しています。
         </div>
-    </div>
-
-    <h2>7. 💡 快適な探索のために</h2>
-    <div class="card">
-        <p><b>📱 PWA（ホーム画面に追加）:</b><br>ブラウザメニューから「ホーム画面に追加」を行うと、全画面で高速に動作します！ [cite: 1]</p>
-        <hr>
-        <p><b>🧹 キャッシュの削除:</b><br>動作が重い場合はブラウザ履歴の消去か、マップ右上の「↻」ボタンをお試しください。 [cite: 1]</p>
     </div>
 
     <div class="footer-btns">
@@ -274,35 +313,6 @@
     </div>
 
 </div>
-
-<script>
-    document.getElementById('toilet-contact-btn').addEventListener('click', function() {
-        const btn = this;
-        if ("geolocation" in navigator) {
-            btn.innerText = "🔄 座標を取得中...";
-            navigator.geolocation.getCurrentPosition(
-                function(p) {
-                    const lat = p.coords.latitude;
-                    const lng = p.coords.longitude;
-                    const subject = encodeURIComponent("トイレ情報提供（旅人の杖）");
-                    const body = encodeURIComponent(
-                        "【トイレに関する情報提供】\n\n現在地の座標：\n" + lat + ", " + lng + "\n\n" +
-                        "状況（閉鎖、新設など）をご記入ください：\n\n"
-                    );
-                    window.location.href = "mailto:information.app.excellent@gmail.com?subject=" + subject + "&body=" + body;
-                    btn.innerText = "✉️ トイレについて連絡";
-                },
-                function() {
-                    alert("位置情報が取得できませんでした。端末の設定を確認してください。");
-                    btn.innerText = "✉️ トイレについて連絡";
-                },
-                { enableHighAccuracy: true, timeout: 10000 }
-            );
-        } else {
-            alert("お使いのブラウザは位置情報に対応していません。");
-        }
-    });
-</script>
 
 </body>
 </html>
