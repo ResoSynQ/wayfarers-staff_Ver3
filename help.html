@@ -11,6 +11,7 @@
             --bg-color: #f8f9fa;
             --card-bg: #ffffff;
             --text-color: #333;
+            --border-radius: 12px;
         }
         body {
             font-family: 'Helvetica Neue', Arial, 'Hiragino Kaku Gothic ProN', 'Hiragino Sans', Meiryo, sans-serif;
@@ -28,39 +29,72 @@
         header {
             background-color: var(--primary-color);
             color: white;
-            padding: 30px 20px;
+            padding: 40px 20px;
             text-align: center;
             border-radius: 0 0 20px 20px;
             margin-bottom: 30px;
             box-shadow: 0 4px 10px rgba(0,0,0,0.1);
         }
-        h1 { margin: 0; font-size: 1.5rem; }
+        h1 { margin: 0; font-size: 1.6rem; }
+        .header-sub { margin-top: 10px; opacity: 0.9; font-size: 0.9rem; }
+        
         h2 {
             font-size: 1.2rem;
             color: var(--primary-color);
             border-left: 5px solid var(--primary-color);
             padding-left: 10px;
-            margin-top: 30px;
-            margin-bottom: 15px;
+            margin-top: 40px;
+            margin-bottom: 20px;
         }
+        h3 {
+            font-size: 1.05rem;
+            color: var(--text-color);
+            margin-top: 25px;
+            margin-bottom: 12px;
+        }
+
         .card {
             background: var(--card-bg);
-            padding: 20px;
-            border-radius: 12px;
+            padding: 22px;
+            border-radius: var(--border-radius);
             box-shadow: 0 2px 8px rgba(0,0,0,0.05);
             margin-bottom: 20px;
         }
+        .card p:first-child { margin-top: 0; }
+        .card p:last-child { margin-bottom: 0; }
+
         .icon-box {
             display: flex;
             align-items: flex-start;
-            margin-bottom: 15px;
+            margin-bottom: 20px;
         }
+        .icon-box:last-child { margin-bottom: 0; }
         .icon {
-            font-size: 1.5rem;
-            margin-right: 15px;
-            min-width: 30px;
+            font-size: 1.4rem;
+            margin-right: 18px;
+            min-width: 32px;
             text-align: center;
+            padding-top: 2px;
         }
+        
+        .pin-list { list-style: none; padding: 0; margin: 0; }
+        .pin-item {
+            display: flex;
+            align-items: center;
+            margin-bottom: 12px;
+            padding: 8px 0;
+            border-bottom: 1px solid #f0f0f0;
+        }
+        .pin-item:last-child { border-bottom: none; }
+        .pin-chip {
+            min-width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            margin-right: 12px;
+            border: 2px solid #fff;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+        }
+
         .warning-card {
             border: 2px solid #ffccbc;
             background-color: #fff5f2;
@@ -70,35 +104,39 @@
             font-weight: bold;
             display: flex;
             align-items: center;
-            margin-bottom: 10px;
+            margin-bottom: 12px;
         }
-        ul { padding-left: 20px; margin: 0; }
-        li { margin-bottom: 8px; }
-        b { color: #000; }
-        
+
+        .api-credit {
+            font-size: 0.85rem;
+            color: #555;
+            background: #f0f4f8;
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 20px;
+            border-left: 4px solid #8e44ad;
+        }
+
         .footer-btns {
-            margin-top: 40px;
-            padding-bottom: 60px;
+            margin-top: 50px;
+            padding-bottom: 80px;
             text-align: center;
         }
         .close-btn {
             background-color: var(--primary-color);
             color: white;
             border: none;
-            padding: 15px 40px;
+            padding: 16px 45px;
             font-size: 1.1rem;
             font-weight: bold;
-            border-radius: 30px;
+            border-radius: 35px;
             cursor: pointer;
             box-shadow: 0 4px 15px rgba(21, 101, 192, 0.3);
-            transition: transform 0.2s;
-            width: 80%;
+            transition: transform 0.2s, background-color 0.2s;
+            width: 85%;
         }
-        .close-btn:active { transform: scale(0.95); }
-        
-        hr { border: 0; border-top: 1px solid #eee; margin: 20px 0; }
+        .close-btn:active { transform: scale(0.96); background-color: #0d47a1; }
 
-        /* トイレ連絡ボタン用のCSS */
         .contact-btn {
             background-color: var(--primary-color);
             color: white;
@@ -106,47 +144,40 @@
             padding: 12px 20px;
             font-size: 1rem;
             font-weight: bold;
-            border-radius: 5px;
+            border-radius: 8px;
             cursor: pointer;
             width: 100%;
             margin: 15px 0;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.2);
-            transition: background-color 0.2s;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.15);
         }
-        .contact-btn:hover { background-color: #0d47a1; }
-        
-        /* API表記用の枠 */
-        .api-credit {
-            font-size: 0.85rem;
-            color: #555;
-            background: #f0f4f8;
-            padding: 12px;
-            border-radius: 6px;
-            margin-top: 15px;
-            border-left: 4px solid #8e44ad;
-        }
+
+        ul { padding-left: 20px; margin: 0; }
+        li { margin-bottom: 10px; }
+        b { color: #000; }
+        hr { border: 0; border-top: 1px solid #eee; margin: 20px 0; }
     </style>
 </head>
 <body>
 
 <header>
     <h1>アプリの使用方法について</h1>
-    <p style="margin-top:10px; opacity: 0.9;">旅人の杖-Wayfarer's Staff-（関西版）マニュアル</p>
+    <p class="header-sub">旅人の杖-Wayfarer's Staff-（関西版）マニュアル</p>
 </header>
 
 <div class="container">
 
     <div class="card">
-        <p>『旅人の杖（関西版）』へようこそ。ここではアプリの基本的な使い方と機能について解説します。</p>
+        <p>『旅人の杖（関西版）』へようこそ。このアプリは、探索の目的となる対象物をマップ上に可視化し、あなたの冒険をサポートするツールです。</p>
+        <p style="font-size: 0.9rem; color: #666;">※収録データは主に関西圏を対象としています。既に撤去・閉店している場合もあるため、参考情報としてお使いください。</p>
     </div>
 
     <h2>1. 基本の探索フロー</h2>
     <div class="card">
         <ul>
-            <li><b>地図を動かす:</b> 探索したいエリアを表示するか、右上の「🧭」ボタンで現在地に飛びます。</li>
-            <li><b>メニューを開く:</b> 左上の「☰」ボタンから、対象にチェックを入れます。（※広域データやルートなどは即時表示されます）</li>
-            <li><b>スキャン実行:</b> 下部の「周辺をスキャン」ボタンを押すと、画面内の候補がピンとして出現します。</li>
-            <li><b>詳細を見る:</b> ピンやルートをタップすると、名称や詳細を確認できます。</li>
+            <li><b>地図を動かす:</b> 探索したいエリアを表示するか、右上の「🧭」ボタンで現在地に飛びます。 [cite: 1]</li>
+            <li><b>メニューを開く:</b> 左上の「☰」ボタンから、対象にチェックを入れます。（※広域データは即時表示されます） [cite: 1]</li>
+            <li><b>スキャン実行:</b> 下部の「周辺をスキャン」ボタンを押すと、画面内の候補がピンとして出現します。 [cite: 1]</li>
+            <li><b>詳細を見る:</b> ピンやルートをタップすると、名称や詳細を確認できます。 [cite: 1]</li>
         </ul>
     </div>
 
@@ -154,81 +185,88 @@
     <div class="card">
         <div class="icon-box">
             <div class="icon">☰</div>
-            <div><b>探索メニュー（左上）</b><br>ジャンルをON/OFFできるフィルターです。</div>
+            <div><b>探索メニュー（左上）</b><br>ジャンルをON/OFFできるフィルターです。 [cite: 1]</div>
         </div>
         <div class="icon-box">
             <div class="icon">🧭</div>
-            <div><b>現在地ボタン（右上）</b><br>ワンタップで自分の現在地にカメラが戻ります。</div>
+            <div><b>現在地ボタン（右上）</b><br>ワンタップで自分の現在地にカメラが戻ります。 [cite: 1]</div>
         </div>
         <div class="icon-box">
             <div class="icon">↻</div>
-            <div><b>リロードボタン（右上）</b><br>ピンが増えすぎて動作が重くなった時や、最新情報に更新したい時に押してください。</div>
+            <div><b>リロードボタン（右上）</b><br>トレンド、開花、ローカルの最新情報に更新します。（主に昼2時ごろ更新） [cite: 1]</div>
         </div>
         <div class="icon-box">
             <div class="icon">📡</div>
-            <div><b>周辺をスキャン（下部）</b><br>メインエンジンです。画面内の候補を一斉に索敵します。※広域すぎるとボタンは押せません。</div>
+            <div><b>周辺をスキャン（下部）</b><br>メインエンジンです。画面内の候補を索敵します。※広域すぎると押せません。 [cite: 1]</div>
         </div>
         <div class="icon-box">
             <div class="icon">❓📜</div>
-            <div><b>各種ボタン（右下）</b><br>ヘルプ画面とライセンス画面を開きます。</div>
+            <div><b>各種ボタン（右下）</b><br>このヘルプ画面とライセンス画面を開きます。 [cite: 1]</div>
         </div>
     </div>
 
-    <h2>3. マップ上の表示について</h2>
+    <h2>3. メニューカテゴリとピンの説明</h2>
     <div class="card">
-        <p>🔵 <b>青いピン（基本探索）:</b> 道標、公園・遊具など。</p>
-        <p>🟢 <b>緑のピン（施設・文化財）:</b> 公共施設、文化施設、文化財など。</p>
-        <p>🟠 <b>オレンジのピン:</b> 喫茶店・レストラン。※後述の注意参照</p>
-        <p>🟣 <b>紫のピン・線:</b> トレイル・古道などのルート。※後述の注意参照</p>
-        <p>🗺️ <b>色付きエリア:</b> 景観地区、歴史的風土保存区域などの指定範囲。</p>
-        <p>⭕ <b>赤い丸:</b> 公衆トイレ。</p>
+        <div class="pin-list">
+            <div class="pin-item"><div class="pin-chip" style="background:#4363d8;"></div><div><b>道標・公園・遊具</b>（🔵 青ピン）<br>史跡案内や遊具のデータ。 [cite: 1]</div></div>
+            <div class="pin-item"><div class="pin-chip" style="background:#3cb44b;"></div><div><b>公共・文化・体育施設・文化財</b>（🟢 緑ピン）<br>国指定文化財なども含まれます。 [cite: 1]</div></div>
+            <div class="pin-item"><div class="pin-chip" style="background:#e6194B;"></div><div><b>トイレ</b>（⭕ 赤い丸）<br>公衆トイレ等の位置。 [cite: 1]</div></div>
+            <div class="pin-item"><div class="pin-chip" style="background:#f58231;"></div><div><b>喫茶店・レストラン</b>（🟠 橙ピン）<br>保健所データに基づく飲食店情報。 [cite: 1]</div></div>
+            <div class="pin-item"><div class="pin-chip" style="background:#911eb4;"></div><div><b>トレイル・古道</b>（🟣 紫ピン）<br>OSMに掲載されているルート。 [cite: 1]</div></div>
+            <div class="pin-item"><div class="pin-chip" style="background:#3cb44b; border-radius:0; width:15px; height:4px; border:none; box-shadow:none;"></div><div><b>東海自然歩道</b>（緑ライン）<br>環境省GPSデータに基づく公式ルート。 [cite: 1]</div></div>
+            <div class="pin-item"><div class="pin-chip" style="background:linear-gradient(to right, red, blue); border-radius:0; width:15px; height:4px; border:none; box-shadow:none;"></div><div><b>五街道</b>（五色ライン）<br>主要な旧街道のルート。 [cite: 1]</div></div>
+        </div>
+        <p style="margin-top:15px; font-size: 0.9rem; color: #666;">※景観地区や歴史的風土保存区域は、それぞれの設定色でエリア表示されます。 [cite: 1]</p>
+    </div>
+
+    <h3>ピンの表示ルールについて</h3>
+    <div class="card">
+        <p><b>🔍 狭域カテゴリ（ズームが必要）:</b></p>
+        <p style="font-size: 0.95rem; margin-bottom: 12px;">視認性確保のため、一定以上ズームしないと表示されません。<br>（道標、公園、各種施設、文化財、飲食店など） [cite: 1]</p>
+        <p><b>🌐 広域カテゴリ（即時表示）:</b></p>
+        <p style="font-size: 0.95rem;">チェックを入れた瞬間に、全域のデータが表示されます。<br>（景観地区、樹木、保存地区、観光資源、各種ルート、ライブマップなど） [cite: 1]</p>
     </div>
 
     <h2>4. ⚠️ 重要：ご利用上の注意</h2>
     <div class="card warning-card">
-        <div class="warning-title">【トレイル・古道・自然歩道】</div>
+        <div class="warning-title">【トレイル・古道・自然歩道】 [cite: 1]</div>
         <p style="font-size: 0.95rem;">
-            本格的な登山道や通り抜け困難な難所が含まれる場合があります。探索の際は<b>必ず事前のルート計画と装備の準備</b>を行い、周囲の人に<b>「どこへ行くか」を一声かけてから</b>出発してください。
+            本格的な登山道や難所が含まれる場合があります。探索の際は<b>必ず事前のルート計画と準備</b>を行い、周囲の人に一声かけてから出発してください。 [cite: 1]
         </p>
         <hr>
-        <div class="warning-title">【喫茶店・レストラン】</div>
+        <div class="warning-title">【喫茶店・レストラン】 [cite: 1]</div>
         <p style="font-size: 0.95rem;">
-            住所を座標に変換しているため、実際の場所から<b>最大で10m程度の誤差</b>が生じることがあります。現地では周囲の状況や最新の営業状態を十分に確認してください。
+            座標変換の都合上、実際の場所から<b>最大10m程度の誤差</b>が生じることがあります。現地では周囲の状況を十分に確認してください。 [cite: 1]
         </p>
     </div>
 
     <h2>5. 🚾 トイレモードと調査機能</h2>
     <div class="card">
-        <p>メニュー内の「トイレ」スイッチをONにすると、現在範囲のトイレ（赤い丸）が浮かび上がります。</p>
-        
-        <p>現在地の座標をメールで報告できます。「壊れている」「載っていない」等の情報提供にご協力ください。</p>
-        <button id="toilet-contact-btn" class="contact-btn">✉️ トイレについて連絡</button>
-        
-        <p style="font-size: 0.8rem; color: #666; margin-top: 15px;">※緊急時は警察・救急へご連絡ください。</p>
+        <p>メニューの「トイレ」をONにすると、現在範囲のトイレ（赤い丸）が浮かび上がります。 [cite: 1]</p>
+        <p>「壊れている」「載っていない」等の情報をメールで報告できます。ご協力をお願いします。</p>
+        <button id="toilet-contact-btn" class="contact-btn">✉️ トイレについて連絡 [cite: 1]</button>
+        <p style="font-size: 0.8rem; color: #666; margin-top: 10px;">※緊急時は警察・救急（110/119）へご連絡ください。 [cite: 1]</p>
     </div>
 
     <h2>6. 🧪 実験機能（ライブマップ）について</h2>
     <div class="card">
-        <p>メニュー最下部の「実験機能」カテゴリにチェックを入れると、日々更新されるニュースに基づいた<b>「最新の熱気スポット（サークル）」</b>がマップ上に浮かび上がります。</p>
+        <p>ニュースに基づいた<b>「最新の熱気スポット」</b>を表示します。 [cite: 1]</p>
         <ul>
-            <li><b>🌍 トレンド:</b> 話題の新店舗やイベント情報</li>
-            <li><b>🌸 開花:</b> 季節の自然や見ごろ情報</li>
-            <li><b>😊 ローカル:</b> 地元の気になるニュース</li>
+            <li><b>🌍 トレンド:</b> 話題の新店舗やイベント情報 [cite: 1]</li>
+            <li><b>🌸 開花:</b> 季節の自然や見ごろ情報 [cite: 1]</li>
+            <li><b>😊 ローカル:</b> 地元の気になるニュース [cite: 1]</li>
         </ul>
         <div class="api-credit">
             <b>【APIの利用について】</b><br>
-            本機能におけるニューステキストの解析（地名の抽出等）および、施設名から地図上の座標を特定する処理には、<a href="https://developer.yahoo.co.jp/sitemap/" target="_blank" style="color: var(--primary-color);">Yahoo! JAPAN API</a>を利用しています。
+            本機能の解析および座標特定には、<a href="https://developer.yahoo.co.jp/sitemap/" target="_blank" style="color: var(--primary-color);">Yahoo! JAPAN API</a>を利用しています。 [cite: 1, 2]
         </div>
     </div>
+
     <h2>7. 💡 快適な探索のために</h2>
     <div class="card">
-        <p>本アプリは<b>「PWA」</b>に対応しています。ブラウザのメニューから<b>「ホーム画面に追加」</b>を実行してください。全画面でより高速に動作します！</p>
-    </div>
-
-    <h2>8. アプリの削除とデータについて</h2>
-    <div class="card">
-        <p><b>📱 アイコンの削除:</b> ホーム画面のアイコンを長押しで消去できます。</p>
-        <p><b>⚠️ キャッシュについて:</b> データを端末に一時保存（キャッシュ）することで高速化しています。動作が重い場合はブラウザの履歴消去でキャッシュを消すか、マップ右上の「↻（リロード）」ボタンをお試しください。</p>
+        <p><b>📱 PWA（ホーム画面に追加）:</b><br>ブラウザメニューから「ホーム画面に追加」を行うと、全画面で高速に動作します！ [cite: 1]</p>
+        <hr>
+        <p><b>🧹 キャッシュの削除:</b><br>動作が重い場合はブラウザ履歴の消去か、マップ右上の「↻」ボタンをお試しください。 [cite: 1]</p>
     </div>
 
     <div class="footer-btns">
@@ -240,41 +278,25 @@
 <script>
     document.getElementById('toilet-contact-btn').addEventListener('click', function() {
         const btn = this;
-        // GPSが使えるかチェック
         if ("geolocation" in navigator) {
             btn.innerText = "🔄 座標を取得中...";
-            
             navigator.geolocation.getCurrentPosition(
-                function(position) {
-                    // 座標の取得成功！
-                    const lat = position.coords.latitude;
-                    const lng = position.coords.longitude;
-                    
-                    // メールの件名と本文をセット
-                    const subject = encodeURIComponent("トイレ情報提供（旅人の杖 関西版）");
+                function(p) {
+                    const lat = p.coords.latitude;
+                    const lng = p.coords.longitude;
+                    const subject = encodeURIComponent("トイレ情報提供（旅人の杖）");
                     const body = encodeURIComponent(
-                        "【トイレに関する情報提供】\n\n" +
-                        "現在地の座標：\n" +
-                        "緯度: " + lat + "\n" +
-                        "経度: " + lng + "\n\n" +
-                        "▼Googleマップで位置を確認\n" +
-                        "https://www.google.com/maps?q=" + lat + "," + lng + "\n\n" +
-                        "状況を下記にご記入ください：\n" +
-                        "（例：トイレが閉鎖されている、新しいトイレがある、など）\n\n"
+                        "【トイレに関する情報提供】\n\n現在地の座標：\n" + lat + ", " + lng + "\n\n" +
+                        "状況（閉鎖、新設など）をご記入ください：\n\n"
                     );
-                    
-                    // メールアプリを起動！
                     window.location.href = "mailto:information.app.excellent@gmail.com?subject=" + subject + "&body=" + body;
-                    
-                    // ボタンのテキストを戻す
                     btn.innerText = "✉️ トイレについて連絡";
                 },
-                function(error) {
-                    // エラー処理
-                    alert("位置情報が取得できませんでした。端末の設定で位置情報サービスがオンになっているか確認してください。");
+                function() {
+                    alert("位置情報が取得できませんでした。端末の設定を確認してください。");
                     btn.innerText = "✉️ トイレについて連絡";
                 },
-                { enableHighAccuracy: true, timeout: 10000, maximumAge: 0 } // 高精度で取得
+                { enableHighAccuracy: true, timeout: 10000 }
             );
         } else {
             alert("お使いのブラウザは位置情報に対応していません。");
