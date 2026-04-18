@@ -47,12 +47,11 @@
             margin-bottom: 20px;
         }
         h3 {
-            font-size: 1.05rem;
-            color: var(--text-color);
+            font-size: 1.1rem;
+            color: var(--primary-color);
             margin-top: 25px;
             margin-bottom: 12px;
         }
-
         .card {
             background: var(--card-bg);
             padding: 22px;
@@ -60,9 +59,6 @@
             box-shadow: 0 2px 8px rgba(0,0,0,0.05);
             margin-bottom: 20px;
         }
-        .card p:first-child { margin-top: 0; }
-        .card p:last-child { margin-bottom: 0; }
-
         .icon-box {
             display: flex;
             align-items: flex-start;
@@ -73,9 +69,7 @@
             margin-right: 18px;
             min-width: 32px;
             text-align: center;
-            padding-top: 2px;
         }
-        
         .category-list { list-style: none; padding: 0; margin: 0; }
         .category-item {
             margin-bottom: 20px;
@@ -100,9 +94,8 @@
         .desc-text {
             font-size: 0.9rem;
             color: #555;
-            padding-left: 28px;
+            padding-left: 5px;
         }
-
         .warning-card {
             border: 2px solid #ffccbc;
             background-color: #fff5f2;
@@ -112,35 +105,6 @@
             font-weight: bold;
             margin-bottom: 12px;
         }
-
-        .api-credit {
-            font-size: 0.85rem;
-            color: #555;
-            background: #f0f4f8;
-            padding: 15px;
-            border-radius: 8px;
-            margin-top: 20px;
-            border-left: 4px solid #8e44ad;
-        }
-
-        .footer-btns {
-            margin-top: 50px;
-            padding-bottom: 80px;
-            text-align: center;
-        }
-        .close-btn {
-            background-color: var(--primary-color);
-            color: white;
-            border: none;
-            padding: 16px 45px;
-            font-size: 1.1rem;
-            font-weight: bold;
-            border-radius: 35px;
-            cursor: pointer;
-            box-shadow: 0 4px 15px rgba(21, 101, 192, 0.3);
-            width: 85%;
-        }
-
         .contact-btn {
             background-color: var(--primary-color);
             color: white;
@@ -154,11 +118,20 @@
             margin: 15px 0;
             box-shadow: 0 2px 5px rgba(0,0,0,0.1);
         }
-
-        ul { padding-left: 20px; margin: 0; }
+        .footer-btns { margin-top: 50px; padding-bottom: 80px; text-align: center; }
+        .close-btn {
+            background-color: var(--primary-color);
+            color: white;
+            border: none;
+            padding: 16px 45px;
+            font-size: 1.1rem;
+            font-weight: bold;
+            border-radius: 35px;
+            cursor: pointer;
+            width: 85%;
+        }
+        ul { padding-left: 20px; }
         li { margin-bottom: 10px; }
-        b { color: #000; }
-        hr { border: 0; border-top: 1px solid #eee; margin: 20px 0; }
     </style>
 </head>
 <body>
@@ -192,15 +165,15 @@
         </div>
         <div class="icon-box">
             <div class="icon">🧭</div>
-            <div><b>現在地ボタン（右上）</b><br>ワンタップで自分の現在地にカメラが戻ります。</div>
+            <div><b>現在地ボタン（右上）</b><br>カメラを自分の現在地に戻します。</div>
         </div>
         <div class="icon-box">
             <div class="icon">↻</div>
-            <div><b>リロードボタン（右上）</b><br>トレンド、開花、ローカルの最新情報に更新します。（昼2時ごろ更新）</div>
+            <div><b>リロードボタン（右上）</b><br>ライブ情報を最新に更新します。</div>
         </div>
         <div class="icon-box">
             <div class="icon">📡</div>
-            <div><b>周辺をスキャン（下部）</b><br>メインエンジンです。画面内の候補を一斉に索敵します。</div>
+            <div><b>周辺をスキャン（下部）</b><br>メインエンジン。画面内の候補を一斉に索敵します。</div>
         </div>
     </div>
 
@@ -292,34 +265,63 @@
                     japan-road-jp様のデータを基にGeoJsonへ変換したデータを収録しています。データは街道ごとに五色でいろわけされています。</div>
             </div>
         </div>
+
+        <p style="font-size: 0.9rem; margin-top: 20px; color: #1565C0; font-weight: bold;">
+            ※下記カテゴリについては「5. 🧪 実験機能」をご参照ください<br>
+            🌍 トレンド / 🌸 開花 / 😊 ローカルニュース
+        </p>
+
+        <hr style="margin: 25px 0;">
+
+        <h3>📍 ピン表示の仕組み</h3>
+        <p><b>🔍 狭域カテゴリピン</b><br>
+        画面上にピンが密集すると視認性が低下するため、一定以上ズームしないと表示されません。<br>
+        （♟️ 道標、🌳 公園・遊具、🏟️ 公共施設、📚 文化施設、🏃‍♂️ 体育施設、🏯 文化財、🍽️ 喫茶店・レストラン）</p>
+
+        <p><b>🌐 広域カテゴリピン</b><br>
+        対象物が広域にまたがって存在するため、ズームに関係なくチェックを入れた瞬間に表示されます。<br>
+        （🏞️ 景観地区、🌲 景観重要建造物樹木、📜 歴史的風土保存区域、🏘️ 伝統的建造物群保存地区、🗺️ 歴史的風致重点地区、🎆 観光資源、🐾 トレイル.古道、🛤️ 東海自然歩道、🛣️ 五街道、🌍 トレンド、🌸 開花、😊 ローカルニュース）</p>
     </div>
 
     <h2>4. ⚠️ 重要：ご利用上の注意</h2>
     <div class="card warning-card">
         <div class="warning-title">【トレイル・古道・自然歩道】</div>
-        <p style="font-size: 0.9rem;">本格的な登山道や難所が含まれる場合があります。探索の際は必ず事前のルート計画と準備を行い、周囲に一声かけてから出発してください。</p>
+        <p style="font-size: 0.9rem;">本格的な登山道や難所が含まれる場合があります。探索の際は必ず事前のルート計画と準備を行ってください。</p>
         <hr>
         <div class="warning-title">【喫茶店・レストラン】</div>
-        <p style="font-size: 0.9rem;">保健所の住所データを変換しているため、実際の場所から最大10m程度の誤差が生じることがあります。現地で十分に確認してください。</p>
+        <p style="font-size: 0.9rem;">実際の場所から最大10m程度の誤差が生じることがあります。現地で十分に確認してください。</p>
     </div>
 
-    <h2>5. 🚾 トイレモードと調査機能</h2>
+    <h2>5. 🧪 実験機能（ライブマップ）</h2>
     <div class="card">
-        <p>メニュー内の「トイレ」スイッチをONにすると、現在範囲のトイレ（赤い丸）が浮かび上がります。</p>
-        <p>現在地の座標をメールで報告できます。「壊れている」「載っていない」等の情報提供にご協力ください。</p>
+        <p>ニュースに基づいた「最新の熱気スポット」を表示します。</p>
+        <ul>
+            <li><b>🌍 トレンド:</b> 話題の新店舗やイベント情報</li>
+            <li><b>🌸 開花:</b> 季節の自然や見ごろ情報</li>
+            <li><b>😊 ローカル:</b> 地元の気になるニュース</li>
+        </ul>
+        <div class="api-credit">
+            <b>【APIの利用について】</b><br>
+            本機能におけるニューステキストの解析（地名の抽出等）および、施設名から地図上の座標を特定する処理には、<a href="https://developer.yahoo.co.jp/sitemap/" target="_blank" style="color: var(--primary-color);">Yahoo! JAPAN のAPI</a>を利用しています。
+        </div>
+    </div>
+
+    <h2>6. 🚾 トイレモードと調査機能</h2>
+    <div class="card">
+        <p>メニューの「トイレ」をONにすると、現在範囲のトイレ（赤い丸）が浮かび上がります。</p>
+        <p>「壊れている」「載っていない」等の情報をメールで報告できます。ご協力をお願いします。</p>
         <button id="toilet-contact-btn" class="contact-btn">✉️ トイレについて連絡</button>
-        <p style="font-size: 0.8rem; color: #666; margin-top: 15px;">※緊急時は警察・救急へご連絡ください。</p>
     </div>
 
-    <h2>6. 💡 快適な探索のために</h2>
+    <h2>7. 💡 快適な探索のために</h2>
     <div class="card">
-        <p>本アプリは<b>「PWA」</b>に対応しています。ブラウザのメニューから<b>「ホーム画面に追加」</b>を実行してください。全画面でより高速に動作します！</p>
+        <p>本アプリは<b>「PWA」</b>に対応しています。ブラウザのメニューから<b>「ホーム画面に追加」</b>を実行すると全画面で高速に動作します！</p>
     </div>
 
-    <h2>7. アプリの削除とデータについて</h2>
+    <h2>8. アプリの削除とデータについて</h2>
     <div class="card">
         <p><b>📱 アイコンの削除:</b> ホーム画面のアイコンを長押しで消去できます。</p>
-        <p><b>⚠ 履歴の削除:</b> ブラウザの履歴やキャッシュを消去することで、アプリのデータをリセットできます。</p>
+        <p><b>⚠ 履歴の削除:</b> ブラウザの履歴やキャッシュを消去することで、データをリセットできます。</p>
     </div>
 
     <div class="footer-btns">
@@ -331,17 +333,12 @@
 <script>
     document.getElementById('toilet-contact-btn').addEventListener('click', function() {
         const btn = this;
-        // GPSが使えるかチェック
         if ("geolocation" in navigator) {
             btn.innerText = "🔄 座標を取得中...";
-            
             navigator.geolocation.getCurrentPosition(
                 function(position) {
-                    // 座標の取得成功！
                     const lat = position.coords.latitude;
                     const lng = position.coords.longitude;
-                    
-                    // メールの件名と本文をセット
                     const subject = encodeURIComponent("トイレ情報提供（旅人の杖 関西版）");
                     const body = encodeURIComponent(
                         "【トイレに関する情報提供】\n\n" +
@@ -353,19 +350,14 @@
                         "状況を下記にご記入ください：\n" +
                         "（例：トイレが閉鎖されている、新しいトイレがある、など）\n\n"
                     );
-                    
-                    // メールアプリを起動！
                     window.location.href = "mailto:information.app.excellent@gmail.com?subject=" + subject + "&body=" + body;
-                    
-                    // ボタンのテキストを戻す
                     btn.innerText = "✉️ トイレについて連絡";
                 },
                 function(error) {
-                    // エラー処理
-                    alert("位置情報が取得できませんでした。端末の設定で位置情報サービスがオンになっているか確認してください。");
+                    alert("位置情報が取得できませんでした。端末の設定を確認してください。");
                     btn.innerText = "✉️ トイレについて連絡";
                 },
-                { enableHighAccuracy: true, timeout: 10000, maximumAge: 0 } // 高精度で取得
+                { enableHighAccuracy: true, timeout: 10000, maximumAge: 0 }
             );
         } else {
             alert("お使いのブラウザは位置情報に対応していません。");
