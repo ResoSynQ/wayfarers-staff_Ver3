@@ -319,12 +319,17 @@
 <script>
     document.getElementById('toilet-contact-btn').addEventListener('click', function() {
         const btn = this;
+        // GPSが使えるかチェック
         if ("geolocation" in navigator) {
             btn.innerText = "🔄 座標を取得中...";
+            
             navigator.geolocation.getCurrentPosition(
                 function(position) {
+                    // 座標の取得成功！
                     const lat = position.coords.latitude;
                     const lng = position.coords.longitude;
+                    
+                    // メールの件名と本文をセット
                     const subject = encodeURIComponent("トイレ情報提供（旅人の杖 関西版）");
                     const body = encodeURIComponent(
                         "【トイレに関する情報提供】\n\n" +
@@ -336,14 +341,19 @@
                         "状況を下記にご記入ください：\n" +
                         "（例：トイレが閉鎖されている、新しいトイレがある、など）\n\n"
                     );
+                    
+                    // メールアプリを起動！
                     window.location.href = "mailto:information.app.excellent@gmail.com?subject=" + subject + "&body=" + body;
+                    
+                    // ボタンのテキストを戻す
                     btn.innerText = "✉️ トイレについて連絡";
                 },
                 function(error) {
-                    alert("位置情報が取得できませんでした。端末の設定を確認してください。");
+                    // エラー処理
+                    alert("位置情報が取得できませんでした。端末の設定で位置情報サービスがオンになっているか確認してください。");
                     btn.innerText = "✉️ トイレについて連絡";
                 },
-                { enableHighAccuracy: true, timeout: 10000, maximumAge: 0 }
+                { enableHighAccuracy: true, timeout: 10000, maximumAge: 0 } // 高精度で取得
             );
         } else {
             alert("お使いのブラウザは位置情報に対応していません。");
