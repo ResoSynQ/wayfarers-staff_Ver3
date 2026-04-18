@@ -46,6 +46,13 @@
             margin-top: 40px;
             margin-bottom: 20px;
         }
+        h3 {
+            font-size: 1.05rem;
+            color: var(--text-color);
+            margin-top: 25px;
+            margin-bottom: 12px;
+        }
+
         .card {
             background: var(--card-bg);
             padding: 22px;
@@ -53,6 +60,9 @@
             box-shadow: 0 2px 8px rgba(0,0,0,0.05);
             margin-bottom: 20px;
         }
+        .card p:first-child { margin-top: 0; }
+        .card p:last-child { margin-bottom: 0; }
+
         .icon-box {
             display: flex;
             align-items: flex-start;
@@ -63,7 +73,9 @@
             margin-right: 18px;
             min-width: 32px;
             text-align: center;
+            padding-top: 2px;
         }
+        
         .category-list { list-style: none; padding: 0; margin: 0; }
         .category-item {
             margin-bottom: 20px;
@@ -88,8 +100,9 @@
         .desc-text {
             font-size: 0.9rem;
             color: #555;
-            padding-left: 5px;
+            padding-left: 28px;
         }
+
         .warning-card {
             border: 2px solid #ffccbc;
             background-color: #fff5f2;
@@ -99,6 +112,35 @@
             font-weight: bold;
             margin-bottom: 12px;
         }
+
+        .api-credit {
+            font-size: 0.85rem;
+            color: #555;
+            background: #f0f4f8;
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 20px;
+            border-left: 4px solid #8e44ad;
+        }
+
+        .footer-btns {
+            margin-top: 50px;
+            padding-bottom: 80px;
+            text-align: center;
+        }
+        .close-btn {
+            background-color: var(--primary-color);
+            color: white;
+            border: none;
+            padding: 16px 45px;
+            font-size: 1.1rem;
+            font-weight: bold;
+            border-radius: 35px;
+            cursor: pointer;
+            box-shadow: 0 4px 15px rgba(21, 101, 192, 0.3);
+            width: 85%;
+        }
+
         .contact-btn {
             background-color: var(--primary-color);
             color: white;
@@ -112,20 +154,11 @@
             margin: 15px 0;
             box-shadow: 0 2px 5px rgba(0,0,0,0.1);
         }
-        .footer-btns { margin-top: 50px; padding-bottom: 80px; text-align: center; }
-        .close-btn {
-            background-color: var(--primary-color);
-            color: white;
-            border: none;
-            padding: 16px 45px;
-            font-size: 1.1rem;
-            font-weight: bold;
-            border-radius: 35px;
-            cursor: pointer;
-            width: 85%;
-        }
-        ul { padding-left: 20px; }
+
+        ul { padding-left: 20px; margin: 0; }
         li { margin-bottom: 10px; }
+        b { color: #000; }
+        hr { border: 0; border-top: 1px solid #eee; margin: 20px 0; }
     </style>
 </head>
 <body>
@@ -159,15 +192,15 @@
         </div>
         <div class="icon-box">
             <div class="icon">🧭</div>
-            <div><b>現在地ボタン（右上）</b><br>カメラを自分の現在地に戻します。</div>
+            <div><b>現在地ボタン（右上）</b><br>ワンタップで自分の現在地にカメラが戻ります。</div>
         </div>
         <div class="icon-box">
             <div class="icon">↻</div>
-            <div><b>リロードボタン（右上）</b><br>ライブ情報を最新に更新します。（昼2時ごろ更新）</div>
+            <div><b>リロードボタン（右上）</b><br>トレンド、開花、ローカルの最新情報に更新します。（昼2時ごろ更新）</div>
         </div>
         <div class="icon-box">
             <div class="icon">📡</div>
-            <div><b>周辺をスキャン（下部）</b><br>メインエンジン。画面内の候補を索敵します。</div>
+            <div><b>周辺をスキャン（下部）</b><br>メインエンジンです。画面内の候補を一斉に索敵します。</div>
         </div>
     </div>
 
@@ -196,51 +229,67 @@
             </div>
             <div class="category-item">
                 <div class="category-title">🏯 文化財 <div class="pin-chip" style="background:#3cb44b;"></div></div>
-                <div class="desc-text">史跡名勝天然記念物は、その土地や自然そのものが過去の記憶を今に伝える点に特徴があります。国宝・重要文化財（建造物）は技術・意匠を代表する証拠、登録有形文化財は地域の歴史的景観を形づくっている建物です。文化庁国指定文化財サービスに基づき収録されています。</div>
+                <div class="desc-text">史跡名勝天然記念物は、その土地や自然そのものが過去の暮らし・出来事・景観の記憶を今に伝える点に特徴があります。
+                    国宝・重要文化財（建造物）は、建物自体がその時代の技術・意匠・社会・信仰を代表する証拠である点が評価されて建造物。登録有形文化財（建造物）は、
+                    地域の歴史的景観を形づくっている建物です。文化庁国指定文化財サービスに掲載されている史跡名勝天然記念物、国宝・重要文化財(建造物)、登録有形文化財(建造物)が収録されています。</div>
             </div>
             <div class="category-item">
                 <div class="category-title">🚾 トイレ <div class="pin-chip" style="background:#e6194B;"></div></div>
-                <div class="desc-text">自治体オープンデータ、OpenStreetMapに掲載されているトイレデータが収録されています。</div>
+                <div class="desc-text">各地方自治体のオープンデータ、OpenStreetMapに掲載されているトイレデータが収録されています。</div>
             </div>
             <div class="category-item">
                 <div class="category-title">🏞️ 景観地区</div>
-                <div class="desc-text">景観法に基づき良好な景観を形成するために自治体が定める地区。地域の歴史や雰囲気を保つため、建物のデザインなどが規制されています。青いエリアとして収録されています。</div>
+                <div class="desc-text">景観地区とは、景観法に基づき、市街地の良好な景観を形成するために自治体が都市計画に定める地区です。
+                    地域独自の歴史や雰囲気（京都市や鎌倉市など）を保つため、建物のデザイン、色彩、高さ、敷地面積、壁面の位置などが細かく規制され、
+                    建築には市区町村長の認定が必要です。国土数値情報に掲載されている景観地区のデータが青いエリアとして収録されています。</div>
             </div>
             <div class="category-item">
                 <div class="category-title">🌲 景観重要建造物樹木 <div class="pin-chip" style="background:#4363d8;"></div></div>
-                <div class="desc-text">市町村長が地域の良好な景観形成に特に重要と認めて指定した樹木です。国土数値情報を基に収録されています。</div>
+                <div class="desc-text">景観重要樹木とは、景観法に基づき、市町村長が地域の良好な景観形成に特に重要と認めて指定した樹木です。
+                    国土数値情報ダウンロードサービスに掲載されている景観重要建造物樹木のデータが収録されています。</div>
             </div>
             <div class="category-item">
                 <div class="category-title">📜 歴史的風土保存区域</div>
-                <div class="desc-text">古都において歴史的価値の高い街並みや自然景観を保護するため指定されるエリア。茶色いエリアとして収録されています。</div>
+                <div class="desc-text">歴史的風土保存区域とは、京都、奈良、鎌倉などの古都において、歴史的価値の高い街並みや自然景観を保護するため、
+                    「古都保存法」に基づき国土交通大臣が指定するエリアです。国土数値情報に掲載されている歴史的風土保存区域のデータが茶色いエリアとして収録されています。</div>
             </div>
             <div class="category-item">
                 <div class="category-title">🏘️ 伝統的建造物群保存地区</div>
-                <div class="desc-text">城下町、宿場町、門前町など歴史的な町並みを保存する地区。紫のエリアとして収録されています。</div>
+                <div class="desc-text">伝統的建造物群保存地区（伝建地区）は、城下町、宿場町、門前町など、歴史的な集落や町並みを保存するために、
+                    市町村が条例に基づき指定する地区です。建物だけでなく、周辺の塀や生垣、地割り（土地の区画）などの環境を一体として保護する制度で、
+                    昭和50年（1975年）の文化財保護法改正で発足しました。国土数値情報に掲載されている伝統的建造物群保存地区のデータが紫のエリアとして収録されています。</div>
             </div>
             <div class="category-item">
                 <div class="category-title">🗺️ 歴史的風致重点地区</div>
-                <div class="desc-text">歴史的建造物と伝統的な活動が一体となった区域。黄色いエリアとして収録されています。</div>
+                <div class="desc-text">国土数値情報ダウンロードサービスの「歴史的風致維持向上計画の重点地区」データは、歴史まちづくり法に基づき認定された都市における、
+                    歴史的建造物と伝統的な活動が一体となった区域の範囲をGIS（面データ）で整備したものです。国土数値情報に掲載されている歴史的風致重点地区のデータが黄色いエリアとして収録されています。</div>
             </div>
             <div class="category-item">
                 <div class="category-title">🎆 観光資源</div>
-                <div class="desc-text">観光資源台帳（A級以上）や観光地点等名簿を基に、全国の観光スポットをデータ化したものです。</div>
+                <div class="desc-text">日本交通公社の「観光資源台帳（A級以上）」や観光庁の「観光地点等名簿」を基に、全国の観光スポットをGIS（地理情報システム）データ化したものです。
+                    国土数値情報ダウンロードサービスに掲載されている観光資源のデータが収録されています。</div>
             </div>
             <div class="category-item">
                 <div class="category-title">🍽️ 喫茶店・レストラン <div class="pin-chip" style="background:#f58231;"></div></div>
-                <div class="desc-text">保健所が公開している飲食店のオープンデータを基にした位置情報が収録されています。</div>
+                <div class="desc-text">各地方自治体の保健所が公開している飲食店のオープンデータを基にジオコーディングを施した位置情報が収録されています。</div>
             </div>
             <div class="category-item">
                 <div class="category-title">🐾 トレイル.古道 <div class="pin-chip" style="background:#911eb4;"></div></div>
-                <div class="desc-text">OpenStreetMapに掲載されているトレイル・古道のデータです。</div>
+                <div class="desc-text">OpenStreetMapに掲載されているトレイル.古道のデータが収録されています。</div>
             </div>
             <div class="category-item">
                 <div class="category-title">🛤️ 東海自然歩道</div>
-                <div class="desc-text">東京都から大阪府までを結ぶ長大な自然歩道。環境省のGPSデータを基にした緑のラインです。</div>
+                <div class="desc-text">東海自然歩道は、東京都八王子市から大阪府箕面市までを結ぶ全長1697.2km、1都8県2府にまたがる長大な自然歩道で、
+                    広い地域の自然や風景、歴史ある土地を歩いて楽しめるよう整備された、日本の「長距離自然歩道」第一号として誕生した、
+                    単なるハイキングコースではなく日本各地の自然を歩いて体感するための先駆けとなった記念的な道です。
+                    環境省が公開しているGPSデータに基づきGeoJsonへ変換したデータを収録しています。</div>
             </div>
             <div class="category-item">
                 <div class="category-title">🛣️ 五街道</div>
-                <div class="desc-text">江戸時代の主要陸上交通網。japan-road-jp様のデータを基にした五色のラインです。</div>
+                <div class="desc-text">五街道とは、江戸時代の初めに徳川幕府が整備した、江戸（日本橋）を起点とする幕府直轄の主要陸上交通網で、
+                    東海道・中山道・甲州道中（甲州街道）・日光道中・奥州道中の五路線から成り、宿場や伝馬制度を通じて、参勤交代や公用移動だけでなく、
+                    物資の流通、飛脚による通信、庶民の旅や寺社参詣まで支える、近世日本の交通と地域発展の骨格となりました。
+                    japan-road-jp様のデータを基にGeoJsonへ変換したデータを収録しています。データは街道ごとに五色でいろわけされています。</div>
             </div>
         </div>
     </div>
@@ -248,23 +297,23 @@
     <h2>4. ⚠️ 重要：ご利用上の注意</h2>
     <div class="card warning-card">
         <div class="warning-title">【トレイル・古道・自然歩道】</div>
-        <p style="font-size: 0.9rem;">本格的な登山道や難所が含まれる場合があります。探索の際は必ず事前のルート計画と準備を行ってください。</p>
+        <p style="font-size: 0.9rem;">本格的な登山道や難所が含まれる場合があります。探索の際は必ず事前のルート計画と準備を行い、周囲に一声かけてから出発してください。</p>
         <hr>
         <div class="warning-title">【喫茶店・レストラン】</div>
-        <p style="font-size: 0.9rem;">住所からの変換のため、実際の場所から最大10m程度の誤差が生じることがあります。現地で十分に確認してください。</p>
+        <p style="font-size: 0.9rem;">保健所の住所データを変換しているため、実際の場所から最大10m程度の誤差が生じることがあります。現地で十分に確認してください。</p>
     </div>
 
     <h2>5. 🚾 トイレモードと調査機能</h2>
     <div class="card">
         <p>メニュー内の「トイレ」スイッチをONにすると、現在範囲のトイレ（赤い丸）が浮かび上がります。</p>
-        <p>「壊れている」「載っていない」等の情報をメールで報告できます。ご協力をお願いします。</p>
+        <p>現在地の座標をメールで報告できます。「壊れている」「載っていない」等の情報提供にご協力ください。</p>
         <button id="toilet-contact-btn" class="contact-btn">✉️ トイレについて連絡</button>
         <p style="font-size: 0.8rem; color: #666; margin-top: 15px;">※緊急時は警察・救急へご連絡ください。</p>
     </div>
 
     <h2>6. 💡 快適な探索のために</h2>
     <div class="card">
-        <p>本アプリは<b>「PWA」</b>に対応しています。ブラウザのメニューから<b>「ホーム画面に追加」</b>を実行すると全画面で高速に動作します！</p>
+        <p>本アプリは<b>「PWA」</b>に対応しています。ブラウザのメニューから<b>「ホーム画面に追加」</b>を実行してください。全画面でより高速に動作します！</p>
     </div>
 
     <h2>7. アプリの削除とデータについて</h2>
@@ -282,12 +331,17 @@
 <script>
     document.getElementById('toilet-contact-btn').addEventListener('click', function() {
         const btn = this;
+        // GPSが使えるかチェック
         if ("geolocation" in navigator) {
             btn.innerText = "🔄 座標を取得中...";
+            
             navigator.geolocation.getCurrentPosition(
                 function(position) {
+                    // 座標の取得成功！
                     const lat = position.coords.latitude;
                     const lng = position.coords.longitude;
+                    
+                    // メールの件名と本文をセット
                     const subject = encodeURIComponent("トイレ情報提供（旅人の杖 関西版）");
                     const body = encodeURIComponent(
                         "【トイレに関する情報提供】\n\n" +
@@ -299,14 +353,19 @@
                         "状況を下記にご記入ください：\n" +
                         "（例：トイレが閉鎖されている、新しいトイレがある、など）\n\n"
                     );
+                    
+                    // メールアプリを起動！
                     window.location.href = "mailto:information.app.excellent@gmail.com?subject=" + subject + "&body=" + body;
+                    
+                    // ボタンのテキストを戻す
                     btn.innerText = "✉️ トイレについて連絡";
                 },
                 function(error) {
-                    alert("位置情報が取得できませんでした。端末の設定を確認してください。");
+                    // エラー処理
+                    alert("位置情報が取得できませんでした。端末の設定で位置情報サービスがオンになっているか確認してください。");
                     btn.innerText = "✉️ トイレについて連絡";
                 },
-                { enableHighAccuracy: true, timeout: 10000, maximumAge: 0 }
+                { enableHighAccuracy: true, timeout: 10000, maximumAge: 0 } // 高精度で取得
             );
         } else {
             alert("お使いのブラウザは位置情報に対応していません。");
