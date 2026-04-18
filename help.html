@@ -59,6 +59,11 @@
             box-shadow: 0 2px 8px rgba(0,0,0,0.05);
             margin-bottom: 20px;
         }
+        /* 文字サイズを0.9remに統一 */
+        .card p, .card li, .desc-text {
+            font-size: 0.9rem;
+            color: #555;
+        }
         .icon-box {
             display: flex;
             align-items: flex-start;
@@ -82,7 +87,9 @@
             align-items: center;
             font-weight: bold;
             margin-bottom: 6px;
+            color: var(--text-color);
         }
+        /* ピン記号（共通） */
         .pin-chip {
             min-width: 18px;
             height: 18px;
@@ -90,12 +97,21 @@
             margin-left: 10px;
             border: 2px solid #fff;
             box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+            display: inline-block;
         }
-        .desc-text {
-            font-size: 0.9rem;
-            color: #555;
-            padding-left: 5px;
+        /* エリア記号（四角） */
+        .pin-chip.square {
+            border-radius: 2px;
         }
+        /* ライン記号（点線） */
+        .line-chip {
+            width: 30px;
+            height: 0;
+            margin-left: 10px;
+            display: inline-block;
+            vertical-align: middle;
+        }
+        
         .warning-card {
             border: 2px solid #ffccbc;
             background-color: #fff5f2;
@@ -182,91 +198,75 @@
         <div class="category-list">
             <div class="category-item">
                 <div class="category-title">♟️ 道標 <div class="pin-chip" style="background:#4363d8;"></div></div>
-                <div class="desc-text">OpenStreetMapに掲載されている史跡の案内や祠、寺社仏閣のデータが収録されています。</div>
+                <p>OpenStreetMapに掲載されている史跡の案内や祠、寺社仏閣のデータが収録されています。</p>
             </div>
             <div class="category-item">
                 <div class="category-title">🌳 公園・遊具 <div class="pin-chip" style="background:#4363d8;"></div></div>
-                <div class="desc-text">国土数値情報、OpenStreetMapに掲載されている遊具・公園のデータが収録されています。</div>
+                <p>国土数値情報、OpenStreetMapに掲載されている遊具・公園のデータが収録されています。</p>
             </div>
             <div class="category-item">
                 <div class="category-title">🏟️ 公共施設 <div class="pin-chip" style="background:#3cb44b;"></div></div>
-                <div class="desc-text">国土数値情報ダウンロードサービスに掲載されている公共施設のデータが収録されています。</div>
+                <p>国土数値情報ダウンロードサービスに掲載されている公共施設のデータが収録されています。</p>
             </div>
             <div class="category-item">
                 <div class="category-title">📚 文化施設 <div class="pin-chip" style="background:#3cb44b;"></div></div>
-                <div class="desc-text">国土数値情報ダウンロードサービスに掲載されている文化施設のデータが収録されています。</div>
+                <p>国土数値情報ダウンロードサービスに掲載されている文化施設のデータが収録されています。</p>
             </div>
             <div class="category-item">
                 <div class="category-title">🏃‍♂️ 体育施設 <div class="pin-chip" style="background:#3cb44b;"></div></div>
-                <div class="desc-text">国土数値情報ダウンロードサービスに掲載されている体育施設のデータが収録されています。</div>
+                <p>国土数値情報ダウンロードサービスに掲載されている体育施設のデータが収録されています。</p>
             </div>
             <div class="category-item">
                 <div class="category-title">🏯 文化財 <div class="pin-chip" style="background:#3cb44b;"></div></div>
-                <div class="desc-text">史跡名勝天然記念物は、その土地や自然そのものが過去の暮らし・出来事・景観の記憶を今に伝える点に特徴があります。
-                    国宝・重要文化財（建造物）は、建物自体がその時代の技術・意匠・社会・信仰を代表する証拠である点が評価されて建造物。登録有形文化財（建造物）は、
-                    地域の歴史的景観を形づくっている建物です。文化庁国指定文化財サービスに掲載されている史跡名勝天然記念物、国宝・重要文化財(建造物)、登録有形文化財(建造物)が収録されています。</div>
+                <p>史跡名勝天然記念物は、その土地や自然そのものが過去の暮らし・出来事・景観の記憶を今に伝える点に特徴があります。国宝・重要文化財（建造物）は、建物自体がその時代の技術・意匠・社会・信仰を代表する証拠である点が評価されて建造物。登録有形文化財（建造物）は、地域の歴史的景観を形づくっている建物です。文化庁国指定文化財サービスに掲載されている史跡名勝天然記念物、国宝・重要文化財(建造物)、登録有形文化財(建造物)が収録されています。</p>
             </div>
             <div class="category-item">
                 <div class="category-title">🚾 トイレ <div class="pin-chip" style="background:#e6194B;"></div></div>
-                <div class="desc-text">各地方自治体のオープンデータ、OpenStreetMapに掲載されているトイレデータが収録されています。</div>
+                <p>各地方自治体のオープンデータ、OpenStreetMapに掲載されているトイレデータが収録されています。</p>
             </div>
             <div class="category-item">
-                <div class="category-title">🏞️ 景観地区</div>
-                <div class="desc-text">景観地区とは、景観法に基づき、市街地の良好な景観を形成するために自治体が都市計画に定める地区です。
-                    地域独自の歴史や雰囲気（京都市や鎌倉市など）を保つため、建物のデザイン、色彩、高さ、敷地面積、壁面の位置などが細かく規制され、
-                    建築には市区町村長の認定が必要です。国土数値情報に掲載されている景観地区のデータが青いエリアとして収録されています。</div>
+                <div class="category-title">🏞️ 景観地区 <div class="pin-chip square" style="background:#1E90FF;"></div></div>
+                <p>景観地区とは、景観法に基づき、市街地の良好な景観を形成するために自治体が都市計画に定める地区です。地域独自の歴史や雰囲気（京都市や鎌倉市など）を保つため、建物のデザイン、色彩、高さ、敷地面積、壁面の位置などが細かく規制され、建築には市区町村長の認定が必要です。国土数値情報に掲載されている景観地区のデータが青いエリアとして収録されています。</p>
             </div>
             <div class="category-item">
                 <div class="category-title">🌲 景観重要建造物樹木 <div class="pin-chip" style="background:#4363d8;"></div></div>
-                <div class="desc-text">景観重要樹木とは、景観法に基づき、市町村長が地域の良好な景観形成に特に重要と認めて指定した樹木です。
-                    国土数値情報ダウンロードサービスに掲載されている景観重要建造物樹木のデータが収録されています。</div>
+                <p>景観重要樹木とは、景観法に基づき、市町村長が地域の良好な景観形成に特に重要と認めて指定した樹木です。国土数値情報ダウンロードサービスに掲載されている景観重要建造物樹木のデータが収録されています。</p>
             </div>
             <div class="category-item">
-                <div class="category-title">📜 歴史的風土保存区域</div>
-                <div class="desc-text">歴史的風土保存区域とは、京都、奈良、鎌倉などの古都において、歴史的価値の高い街並みや自然景観を保護するため、
-                    「古都保存法」に基づき国土交通大臣が指定するエリアです。国土数値情報に掲載されている歴史的風土保存区域のデータが茶色いエリアとして収録されています。</div>
+                <div class="category-title">📜 歴史的風土保存区域 <div class="pin-chip square" style="background:#8B4513;"></div></div>
+                <p>歴史的風土保存区域とは、京都、奈良、鎌倉などの古都において、歴史的価値の高い街並みや自然景観を保護するため、「古都保存法」に基づき国土交通大臣が指定するエリアです。国土数値情報に掲載されている歴史的風土保存区域のデータが茶色いエリアとして収録されています。</p>
             </div>
             <div class="category-item">
-                <div class="category-title">🏘️ 伝統的建造物群保存地区</div>
-                <div class="desc-text">伝統的建造物群保存地区（伝建地区）は、城下町、宿場町、門前町など、歴史的な集落や町並みを保存するために、
-                    市町村が条例に基づき指定する地区です。建物だけでなく、周辺の塀や生垣、地割り（土地の区画）などの環境を一体として保護する制度で、
-                    昭和50年（1975年）の文化財保護法改正で発足しました。国土数値情報に掲載されている伝統的建造物群保存地区のデータが紫のエリアとして収録されています。</div>
+                <div class="category-title">🏘️ 伝統的建造物群保存地区 <div class="pin-chip square" style="background:#800080;"></div></div>
+                <p>伝統的建造物群保存地区（伝建地区）は、城下町、宿場町、門前町など、歴史的な集落や町並みを保存するために、市町村が条例に基づき指定する地区です。建物だけでなく、周辺の塀や生垣、地割り（土地の区画）などの環境を一体として保護する制度で、昭和50年（1975年）の文化財保護法改正で発足しました。国土数値情報に掲載されている伝統的建造物群保存地区のデータが紫のエリアとして収録されています。</p>
             </div>
             <div class="category-item">
-                <div class="category-title">🗺️ 歴史的風致重点地区</div>
-                <div class="desc-text">国土数値情報ダウンロードサービスの「歴史的風致維持向上計画の重点地区」データは、歴史まちづくり法に基づき認定された都市における、
-                    歴史的建造物と伝統的な活動が一体となった区域の範囲をGIS（面データ）で整備したものです。国土数値情報に掲載されている歴史的風致重点地区のデータが黄色いエリアとして収録されています。</div>
+                <div class="category-title">🗺️ 歴史的風致重点地区 <div class="pin-chip square" style="background:#FFD700;"></div></div>
+                <p>国土数値情報ダウンロードサービスの「歴史的風致維持向上計画の重点地区」データは、歴史まちづくり法に基づき認定された都市における、歴史的建造物と伝統的な活動が一体となった区域の範囲をGIS（面データ）で整備したものです。国土数値情報に掲載されている歴史的風致重点地区のデータが黄色いエリアとして収録されています。</p>
             </div>
             <div class="category-item">
-                <div class="category-title">🎆 観光資源</div>
-                <div class="desc-text">日本交通公社の「観光資源台帳（A級以上）」や観光庁の「観光地点等名簿」を基に、全国の観光スポットをGIS（地理情報システム）データ化したものです。
-                    国土数値情報ダウンロードサービスに掲載されている観光資源のデータが収録されています。</div>
+                <div class="category-title">🎆 観光資源 <div class="pin-chip" style="background:#FF8C00;"></div></div>
+                <p>日本交通公社の「観光資源台帳（A級以上）」や観光庁の「観光地点等名簿」を基に、全国の観光スポットをGIS（地理情報システム）データ化したものです。国土数値情報ダウンロードサービスに掲載されている観光資源のデータが収録されています。</p>
             </div>
             <div class="category-item">
                 <div class="category-title">🍽️ 喫茶店・レストラン <div class="pin-chip" style="background:#f58231;"></div></div>
-                <div class="desc-text">各地方自治体の保健所が公開している飲食店のオープンデータを基にジオコーディングを施した位置情報が収録されています。</div>
+                <p>各地方自治体の保健所が公開している飲食店のオープンデータを基にジオコーディングを施した位置情報が収録されています。</p>
             </div>
             <div class="category-item">
                 <div class="category-title">🐾 トレイル.古道 <div class="pin-chip" style="background:#911eb4;"></div></div>
-                <div class="desc-text">OpenStreetMapに掲載されているトレイル.古道のデータが収録されています。</div>
+                <p>OpenStreetMapに掲載されているトレイル.古道のデータが収録されています。</p>
             </div>
             <div class="category-item">
-                <div class="category-title">🛤️ 東海自然歩道</div>
-                <div class="desc-text">東海自然歩道は、東京都八王子市から大阪府箕面市までを結ぶ全長1697.2km、1都8県2府にまたがる長大な自然歩道で、
-                    広い地域の自然や風景、歴史ある土地を歩いて楽しめるよう整備された、日本の「長距離自然歩道」第一号として誕生した、
-                    単なるハイキングコースではなく日本各地の自然を歩いて体感するための先駆けとなった記念的な道です。
-                    環境省が公開しているGPSデータに基づきGeoJsonへ変換したデータを収録しています。</div>
+                <div class="category-title">🛤️ 東海自然歩道 <div class="line-chip" style="border-top: 3px dotted #27ae60;"></div></div>
+                <p>東海自然歩道は、東京都八王子市から大阪府箕面市までを結ぶ全長1697.2km、1都8県2府にまたがる長大な自然歩道で、広い地域の自然や風景、歴史ある土地を歩いて楽しめるよう整備された道です。環境省が公開しているGPSデータに基づきGeoJsonへ変換したデータを収録しています。</p>
             </div>
             <div class="category-item">
-                <div class="category-title">🛣️ 五街道</div>
-                <div class="desc-text">五街道とは、江戸時代の初めに徳川幕府が整備した、江戸（日本橋）を起点とする幕府直轄の主要陸上交通網で、
-                    東海道・中山道・甲州道中（甲州街道）・日光道中・奥州道中の五路線から成り、宿場や伝馬制度を通じて、参勤交代や公用移動だけでなく、
-                    物資の流通、飛脚による通信、庶民の旅や寺社参詣まで支える、近世日本の交通と地域発展の骨格となりました。
-                    japan-road-jp様のデータを基にGeoJsonへ変換したデータを収録しています。データは街道ごとに五色で色分けされています。</div>
+                <div class="category-title">🛣️ 五街道 <div class="line-chip" style="border-top: 3px dotted #d91e18;"></div></div>
+                <p>五街道とは、江戸時代の初めに徳川幕府が整備した、江戸（日本橋）を起点とする幕府直轄の主要陸上交通網です。japan-road-jp様のデータを基にGeoJsonへ変換したデータを収録しています。データは街道ごとに五色で色分けされています。</p>
             </div>
         </div>
 
-        <p style="font-size: 0.9rem; margin-top: 20px; color: #1565C0; font-weight: bold;">
+        <p style="margin-top: 20px; color: #1565C0; font-weight: bold;">
             ※下記カテゴリについては「5. 🧪 実験機能」をご参照ください<br>
             🌍 トレンド / 🌸 開花 / 😊 ローカルニュース
         </p>
@@ -286,10 +286,10 @@
     <h2>4. ⚠️ 重要：ご利用上の注意</h2>
     <div class="card warning-card">
         <div class="warning-title">【トレイル・古道・自然歩道】</div>
-        <p style="font-size: 0.9rem;">本格的な登山道や難所が含まれる場合があります。探索の際は必ず事前のルート計画と準備を行ってください。</p>
+        <p>本格的な登山道や難所が含まれる場合があります。探索の際は必ず事前のルート計画と準備を行い、周囲に一声かけてから出発してください。</p>
         <hr>
         <div class="warning-title">【喫茶店・レストラン】</div>
-        <p style="font-size: 0.9rem;">実際の場所から最大10m程度の誤差が生じることがあります。現地で十分に確認してください。</p>
+        <p>保健所の住所データを変換しているため、実際の場所から最大10m程度の誤差が生じることがあります。現地で十分に確認してください。</p>
     </div>
 
     <h2>5. 🧪 実験機能（ライブマップ）</h2>
@@ -302,7 +302,7 @@
         </ul>
         <div class="api-credit">
             <b>【APIの利用について】</b><br>
-            本機能におけるニューステキストの解析（地名の抽出等）および、施設名から地図上の座標を特定する処理には、<a href="https://developer.yahoo.co.jp/sitemap/" target="_blank" style="color: var(--primary-color);">Yahoo! JAPAN のAPI</a>を利用しています。
+            本機能におけるニューステキストの解析および、座標特定には、<a href="https://developer.yahoo.co.jp/sitemap/" target="_blank" style="color: var(--primary-color);">Yahoo! JAPAN のAPI</a>を利用しています。
         </div>
     </div>
 
