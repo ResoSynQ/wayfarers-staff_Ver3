@@ -145,13 +145,14 @@
             background-color: var(--primary-color);
             color: white;
             border: none;
-            padding: 12px 20px;
+            padding: 14px 20px;
             font-size: 1rem;
             font-weight: bold;
             border-radius: 8px;
             cursor: pointer;
             width: 100%;
             margin: 15px 0;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
         }
 
         ul { padding-left: 20px; margin: 0; }
@@ -171,7 +172,6 @@
 
     <div class="card">
         <p>『旅人の杖（関西版）』へようこそ。このアプリは、探索の目的となる対象物をマップ上に可視化し、あなたの冒険をサポートするツールです。</p>
-        <p style="font-size: 0.85rem; color: #666; margin-top: 10px;">※収録データは主に関西圏を対象としています。既に撤去・閉店している場合もあるため、参考情報としてお使いください。</p>
     </div>
 
     <h2>1. 基本の探索フロー</h2>
@@ -229,7 +229,7 @@
             </div>
             <div class="category-item">
                 <div class="category-title">🏯 文化財 <div class="pin-chip" style="background:#3cb44b;"></div></div>
-                <div class="desc-text">文化庁国指定文化財サービスに掲載されている史跡名勝天然記念物、国宝・重要文化財、登録有形文化財(建造物)が収録されています。</div>
+                <div class="desc-text">文化庁国指定文化財サービスに掲載されている史跡名勝天然記念物、国宝・重要文化財(建造物)、登録有形文化財(建造物)が収録されています。</div>
             </div>
             <div class="category-item">
                 <div class="category-title">🚾 トイレ <div class="pin-chip" style="background:#e6194B;"></div></div>
@@ -269,20 +269,17 @@
             </div>
             <div class="category-item">
                 <div class="category-title">🛤️ 東海自然歩道</div>
-                <div class="desc-text">環境省が公開しているGPSデータを基にした緑のラインです。</div>
+                <div class="desc-text">東海自然歩道は、東京都八王子市から大阪府箕面市までを結ぶ全長1697.2km、1都8県2府にまたがる長大な自然歩道で、
+                    広い地域の自然や風景、歴史ある土地を歩いて楽しめるよう整備された、日本の「長距離自然歩道」第一号として誕生した、
+                    単なるハイキングコースではなく日本各地の自然を歩いて体感するための先駆けとなった記念的な道です。
+                    環境省が公開しているGPSデータに基づきGeoJsonへ変換したデータを収録しています。</div>
             </div>
             <div class="category-item">
                 <div class="category-title">🛣️ 五街道</div>
-                <div class="desc-text">japan-road-jp様のデータを基にした五色のラインです。</div>
+                <div class="desc-text">江戸時代に徳川幕府が整備した、江戸（日本橋）を起点とする5つの主要幹線道路です。（東海道、中山道、甲州道中、日光道中、奥州道中)
+                    japan-road-jp様のデータを基にGeoJsonへ変換したデータを収録しています。</div>
             </div>
         </div>
-    </div>
-
-    <h3>ピンの表示ルール</h3>
-    <div class="card">
-        <p><b>🔍 狭域カテゴリ（要ズーム）:</b><br>道標、公園、施設、文化財、飲食店などは、視認性確保のため一定以上ズームしないと表示されません。</p>
-        <hr>
-        <p><b>🌐 広域カテゴリ（即時表示）:</b><br>景観地区、各種保存区域、観光資源、古道・街道ルート、ライブマップなどは✅を入れた瞬間に全域が表示されます。</p>
     </div>
 
     <h2>4. ⚠️ 重要：ご利用上の注意</h2>
@@ -291,21 +288,26 @@
         <p style="font-size: 0.9rem;">本格的な登山道や難所が含まれる場合があります。探索の際は必ず事前のルート計画と準備を行い、周囲に一声かけてから出発してください。</p>
         <hr>
         <div class="warning-title">【喫茶店・レストラン】</div>
-        <p style="font-size: 0.9rem;">住所から変換しているため、実際の場所から最大10m程度の誤差が生じることがあります。現地で十分に確認してください。</p>
+        <p style="font-size: 0.9rem;">保健所の住所データを変換しているため、実際の場所から最大10m程度の誤差が生じることがあります。現地で十分に確認してください。</p>
     </div>
 
-    <h2>5. 🧪 実験機能（ライブマップ）</h2>
+    <h2>5. 🚾 トイレモードと調査機能</h2>
     <div class="card">
-        <p>ニュースに基づいた「最新の熱気スポット」を表示します。</p>
-        <ul>
-            <li><b>🌍 トレンド:</b> 話題の新店舗やイベント情報</li>
-            <li><b>🌸 開花:</b> 季節の自然や見ごろ情報</li>
-            <li><b>😊 ローカル:</b> 地元の気になるニュース</li>
-        </ul>
-        <div class="api-credit">
-            <b>【APIの利用について】</b><br>
-            本機能の解析および座標特定には、<a href="https://developer.yahoo.co.jp/sitemap/" target="_blank" style="color: var(--primary-color);">Yahoo! JAPAN API</a>を利用しています。
-        </div>
+        <p>メニュー内の「トイレ」スイッチをONにすると、現在範囲のトイレ（赤い丸）が浮かび上がります。</p>
+        <p>現在地の座標をメールで報告できます。「壊れている」「載っていない」等の情報提供にご協力ください。</p>
+        <button id="toilet-contact-btn" class="contact-btn">✉️ トイレについて連絡</button>
+        <p style="font-size: 0.8rem; color: #666; margin-top: 15px;">※緊急時は警察・救急へご連絡ください。</p>
+    </div>
+
+    <h2>6. 💡 快適な探索のために</h2>
+    <div class="card">
+        <p>本アプリは<b>「PWA」</b>に対応しています。ブラウザのメニューから<b>「ホーム画面に追加」</b>を実行してください。全画面でより高速に動作します！</p>
+    </div>
+
+    <h2>7. アプリの削除とデータについて</h2>
+    <div class="card">
+        <p><b>📱 アイコンの削除:</b> ホーム画面のアイコンを長押しで消去できます。</p>
+        <p><b>⚠ 履歴の削除:</b> ブラウザの履歴やキャッシュを消去することで、アプリのデータをリセットできます。</p>
     </div>
 
     <div class="footer-btns">
@@ -313,6 +315,41 @@
     </div>
 
 </div>
+
+<script>
+    document.getElementById('toilet-contact-btn').addEventListener('click', function() {
+        const btn = this;
+        if ("geolocation" in navigator) {
+            btn.innerText = "🔄 座標を取得中...";
+            navigator.geolocation.getCurrentPosition(
+                function(position) {
+                    const lat = position.coords.latitude;
+                    const lng = position.coords.longitude;
+                    const subject = encodeURIComponent("トイレ情報提供（旅人の杖 関西版）");
+                    const body = encodeURIComponent(
+                        "【トイレに関する情報提供】\n\n" +
+                        "現在地の座標：\n" +
+                        "緯度: " + lat + "\n" +
+                        "経度: " + lng + "\n\n" +
+                        "▼Googleマップで位置を確認\n" +
+                        "https://www.google.com/maps?q=" + lat + "," + lng + "\n\n" +
+                        "状況を下記にご記入ください：\n" +
+                        "（例：トイレが閉鎖されている、新しいトイレがある、など）\n\n"
+                    );
+                    window.location.href = "mailto:information.app.excellent@gmail.com?subject=" + subject + "&body=" + body;
+                    btn.innerText = "✉️ トイレについて連絡";
+                },
+                function(error) {
+                    alert("位置情報が取得できませんでした。端末の設定を確認してください。");
+                    btn.innerText = "✉️ トイレについて連絡";
+                },
+                { enableHighAccuracy: true, timeout: 10000, maximumAge: 0 }
+            );
+        } else {
+            alert("お使いのブラウザは位置情報に対応していません。");
+        }
+    });
+</script>
 
 </body>
 </html>
