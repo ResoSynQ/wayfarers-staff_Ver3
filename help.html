@@ -385,7 +385,9 @@
                         "状況を下記にご記入ください：\n" +
                         "（例：トイレが閉鎖されている、新しいトイレがある、など）\n\n"
                     );
-                    window.location.href = "mailto:information.app.excellent@gmail.com?subject=" + subject + "&body=" + body;
+                    const mailLink = document.createElement('a');
+                    mailLink.href = "mailto:information.app.excellent@gmail.com?subject=" + subject + "&body=" + body;
+                    mailLink.click();
                     btn.innerText = "✉️ トイレについて連絡";
                 },
                 function(error) {
@@ -408,7 +410,9 @@
             "（例：〇〇というピンの位置がずれている、画面がおかしくなる、など）\n\n" +
             "-------------------------\n"
         );
-        window.location.href = "mailto:information.app.excellent@gmail.com?subject=" + subject + "&body=" + body;
+        const mailLink = document.createElement('a');
+        mailLink.href = "mailto:information.app.excellent@gmail.com?subject=" + subject + "&body=" + body;
+        mailLink.click();
     });
 </script>
 
