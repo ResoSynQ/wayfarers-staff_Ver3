@@ -289,3 +289,71 @@ document.getElementById('reload-btn')?.addEventListener('click', async () => {
 
     setTimeout(() => { btn.innerText = "↻"; }, 500);
 });
+// ▼ マップDJ リクエスト機能（申請ピン）
+let requestMarker = null;
+
+document.getElementById('request-btn')?.addEventListener('click', () => {
+    if (requestMarker) map.removeLayer(requestMarker);
+
+    const center = map.getCenter();
+    requestMarker = L.marker(center, {
+        draggable: true,
+        icon: icons.red
+    }).addTo(map);
+
+    const popupContent = `
+        <div style="text-align:center; min-width:180px;">
+            <b style="font-size:1.1em; color:#d35400;">この地点を申請しますか？</b><br>
+            <span style="font-size:0.8em; color:#666;">※ピンをドラッグして微調整できます</span><br><br>
+            <button id="confirm-request-btn" style="padding:8px 15px; background:#e67e22; color:white; border:none; border-radius:5px; cursor:pointer; font-weight:bold; width:100%;">✉️ この地点を申請</button>
+        </div>
+    `;
+
+    requestMarker.bindPopup(popupContent).openPopup();
+
+    requestMarker.on('popupclose', () => {
+        if (requestMarker) {
+            map.removeLayer(requestMarker);
+            requestMarker = null;
+        }
+    });
+});
+
+document.addEventListener('click', (e) => {
+    if (e.target && e.target.id === 'confirm-request-btn') {
+        if (!requestMarker) return;
+
+        const latlng = requestMarker.getLatLng();
+        const lat = latlng.lat.toFixed(6);
+        const lng = latlng.lng.toFixed(6);
+
+        // ★相棒のサポート用メールアドレスに変更してくれ！
+        const supportEmail = "your-support-email@example.com"; 
+
+        const subject = encodeURIComponent("【マップDJ】新規スポット追加申請");
+
+        const body = encodeURIComponent(
+`マップDJへ！新しい熱気スポットの申請だ！
+
+【スポット名】
+（ここに名称を入力してください）
+
+【おすすめの理由・説明】
+（ここにおすすめの理由を入力してください）
+
+-------------------------
+【位置情報（自動取得）】
+緯度: ${lat}
+経度: ${lng}
+Googleマップで確認:
+https://www.google.com/maps?q=$${lat},${lng}
+-------------------------`
+        );
+
+        window.location.href = `mailto:${supportEmail}?subject=${subject}&body=${body}`;
+
+        map.closePopup();
+        map.removeLayer(requestMarker);
+        requestMarker = null;
+    }
+});
