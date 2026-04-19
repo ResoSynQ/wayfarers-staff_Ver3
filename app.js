@@ -328,7 +328,7 @@ document.addEventListener('click', (e) => {
         const lng = latlng.lng.toFixed(6);
 
         // ★相棒のサポート用メールアドレスに変更してくれ！
-        const supportEmail = "your-support-email@example.com"; 
+        const supportEmail = "information.app.excellent@gmail.com"; 
 
         const subject = encodeURIComponent("【マップDJ】新規スポット追加申請");
 
