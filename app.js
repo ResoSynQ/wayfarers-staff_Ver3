@@ -75,7 +75,6 @@ const layerDefs = {
     live_trend: { url: 'https://raw.githubusercontent.com/ResoSynQ/wayfarer-trend-engine/main/trend_spots.geojson', category: 'trend', color: '#ff4b00' },
     live_flower: { url: 'https://raw.githubusercontent.com/ResoSynQ/wayfarer-trend-engine/main/trend_spots.geojson', category: 'flower', color: '#ff69b4' },
     live_local: { url: 'https://raw.githubusercontent.com/ResoSynQ/wayfarer-trend-engine/main/trend_spots.geojson', category: 'local', color: '#32cd32' },
-    // ▼ ここに追加！：ユーザー投稿用のレイヤー定義
     user_spots: { url: 'https://raw.githubusercontent.com/ResoSynQ/wayfarer-trend-engine/main/user_spots.geojson', icon: icons.orange, isUserSpot: true }
 };
 
@@ -116,6 +115,10 @@ function renderGeoJson(key, bounds = null) {
         },
         pointToLayer: function(feature, latlng) {
             if (key === 'live_trend' || key === 'live_flower' || key === 'live_local') {
+                
+                // ▼ ここに「ニュースを見る」ボタンを生成する処理を追加！
+                const linkHtml = feature.properties.link ? `<br><a href="${feature.properties.link}" target="_blank" style="display:inline-block; margin-top:8px; padding:6px 12px; background:${def.color}; color:#fff; text-decoration:none; border-radius:6px; font-size:0.9em; font-weight:bold; box-shadow:0 2px 4px rgba(0,0,0,0.2);">📰 ニュースを見る</a>` : '';
+
                 return L.circleMarker(latlng, {
                     radius: 12,
                     color: '#ffffff',
@@ -127,6 +130,7 @@ function renderGeoJson(key, bounds = null) {
                         <b style="color:${def.color}; font-size:1.1em;">【${feature.properties.category}】</b><br>
                         <span style="font-size:1.2em; font-weight:bold;">${feature.properties.trend_word}</span><br>
                         <span style="color:#666;">📍 ${feature.properties.name}</span>
+                        ${linkHtml}
                     </div>
                 `);
             }
@@ -144,7 +148,6 @@ function renderGeoJson(key, bounds = null) {
         onEachFeature: function(feature, layer) {
             if (key === 'live_trend' || key === 'live_flower' || key === 'live_local') return;
             
-            // ▼ ここに追加！：ユーザー投稿用のリッチなポップアップ
             if (def.isUserSpot) {
                 const name = feature.properties.name || "名称未定";
                 const reason = feature.properties.reason || "";
@@ -185,7 +188,6 @@ const overlayMaps = {
     "🌍 トレンド": layers.live_trend,
     "🌸 開花": layers.live_flower,
     "😊 ローカルニュース": layers.live_local,
-    // ▼ ここに追加！：メニュー項目に表示
     "🗣️ ユーザー投稿スポット": layers.user_spots
 };
 
@@ -203,7 +205,6 @@ function insertCategoryHeaders() {
         else if (text.includes("景観地区")) headerHtml = "<div class='custom-layer-header' style='margin:18px 0 10px 0;'><hr style='margin:0 0 12px 0; border:0; border-top:1px solid #ddd;'><div style='font-size:1.05em; font-weight:bold; color:#E65100;'>【広域地域データ】</div></div>";
         else if (text.includes("喫茶店")) headerHtml = "<div class='custom-layer-header' style='margin:18px 0 10px 0;'><hr style='margin:0 0 12px 0; border:0; border-top:1px solid #ddd;'><div style='font-size:1.05em; font-weight:bold; color:#2E7D32;'>【上級者向け】</div></div>";
         else if (text.includes("トレンド")) headerHtml = "<div class='custom-layer-header' style='margin:18px 0 10px 0;'><hr style='margin:0 0 12px 0; border:0; border-top:1px solid #ddd;'><div style='font-size:1.05em; font-weight:bold; color:#8e44ad;'>【実験機能】</div></div>";
-        // ▼ ここに追加！：新しいカテゴリヘッダー
         else if (text.includes("ユーザー投稿")) headerHtml = "<div class='custom-layer-header' style='margin:18px 0 10px 0;'><hr style='margin:0 0 12px 0; border:0; border-top:1px solid #ddd;'><div style='font-size:1.05em; font-weight:bold; color:#e67e22;'>【コミュニティ】</div></div>";
         
         if (headerHtml) label.insertAdjacentHTML('beforebegin', headerHtml);
@@ -366,7 +367,7 @@ document.addEventListener('click', (e) => {
 緯度: ${lat}
 経度: ${lng}
 Googleマップで確認:
-http://maps.google.com/maps?q=${lat},${lng}
+https://www.google.com/maps?q=${lat},${lng}
 -------------------------`
         );
 
