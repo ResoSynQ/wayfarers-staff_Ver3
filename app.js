@@ -1,8 +1,7 @@
 /**
  * 旅人の杖 Ver 2.0.23 (全国熱気レーダー対応版)
  * メインロジック（東海自然歩道・本線緑/支線青 完璧塗り分け版）
- * 
- * [修正箇所]
+ * * [修正箇所]
  * Fix①: kankoレイヤー定義をisCircle:true + circleColor指定に変更（Point対応）
  * Fix②: getFeatureName()にP12_001プロパティ名を追加
  * Fix③: pointToLayerでdef.circleColorを参照するよう変更
@@ -23,8 +22,6 @@ const icons = {
     orange: new L.Icon({ iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-orange.png', shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png', iconSize: [25, 41], iconAnchor: [12, 41], popupAnchor: [1, -34] })
 };
 
-// 名前取得の共通安全関数
-// [Fix②] p.P12_001（国土数値情報P12の正式な観光資源名属性）を追加
 function getFeatureName(p) {
     if (!p) return "名称未定";
     let name = p.name || p.名称 || p.屋号 || p.地区名 || p.観光資源名 || p.P12_001 || p.指定名称 || p.文化財名 || p.通称 || "名称未定";
@@ -40,11 +37,10 @@ function getFeatureName(p) {
     return name;
 }
 
-// 🚨 ルート別の固定色設定
 function getRouteStyle(feature) {
     const name = getFeatureName(feature.properties);
-    if (name.includes("東海自然歩道本線以外")) return { color: "#0052cc", weight: 4, opacity: 0.8 }; // 🔵 支線
-    if (name.includes("東海自然歩道")) return { color: "#27ae60", weight: 6, opacity: 0.9 }; // 🟢 本線
+    if (name.includes("東海自然歩道本線以外")) return { color: "#0052cc", weight: 4, opacity: 0.8 }; 
+    if (name.includes("東海自然歩道")) return { color: "#27ae60", weight: 6, opacity: 0.9 }; 
     
     const palettes = { "東海道": "#0052cc", "中山道": "#d91e18", "甲州街道": "#f39c12", "奥州街道": "#8e44ad", "日光街道": "#16a085" };
     for (let key in palettes) {
@@ -71,16 +67,16 @@ const layerDefs = {
     fudo: { url: 'A42_歴史的風土保存区域_近畿.geojson', style: {color: '#8B4513', weight: 2, fillOpacity: 0.3} },
     denken: { url: 'A43_伝統的建造物群保存地区_近畿.geojson', style: {color: '#800080', weight: 2, fillOpacity: 0.3} },
     fuchi: { url: 'A44_歴史的風致重点地区_近畿.geojson', style: {color: '#FFD700', weight: 2, fillOpacity: 0.3} },
-    // [Fix①] isCircle:true と circleColor を追加。Pointジオメトリを正しくcircleMarkerで描画する
     kanko: { url: 'P12_観光資源_近畿.geojson', isCircle: true, circleColor: '#FF8C00', style: {color: '#FF8C00', weight: 2, fillOpacity: 0.3} },
     restaurants: { url: 'restaurant.geojson', icon: icons.orange },
     trail: { url: 'OSM_trail.geojson', icon: icons.purple },
     shizenhodo: { url: 'TokaiNatureTrail_Route.geojson', style: getRouteStyle },
     gokaido: { url: 'gokaido_routes.geojson', style: getRouteStyle },
-    // ▼ 実験ライブマップ
     live_trend: { url: 'https://raw.githubusercontent.com/ResoSynQ/wayfarer-trend-engine/main/trend_spots.geojson', category: 'trend', color: '#ff4b00' },
     live_flower: { url: 'https://raw.githubusercontent.com/ResoSynQ/wayfarer-trend-engine/main/trend_spots.geojson', category: 'flower', color: '#ff69b4' },
-    live_local: { url: 'https://raw.githubusercontent.com/ResoSynQ/wayfarer-trend-engine/main/trend_spots.geojson', category: 'local', color: '#32cd32' } 
+    live_local: { url: 'https://raw.githubusercontent.com/ResoSynQ/wayfarer-trend-engine/main/trend_spots.geojson', category: 'local', color: '#32cd32' },
+    // ▼ ここに追加！：ユーザー投稿用のレイヤー定義
+    user_spots: { url: 'https://raw.githubusercontent.com/ResoSynQ/wayfarer-trend-engine/main/user_spots.geojson', icon: icons.orange, isUserSpot: true }
 };
 
 const immediateLayers = ['keikan', 'tree', 'fudo', 'denken', 'fuchi', 'kanko', 'trail', 'shizenhodo', 'gokaido'];
@@ -89,16 +85,12 @@ const rawData = {};
 const layers = {};
 Object.keys(layerDefs).forEach(key => { layers[key] = L.layerGroup(); });
 
-// [Fix④ 真の原因] 不正ジオメトリ修復関数
-// P12等で geometry が {"type":"Point","coordinates":[...]} ではなく
-// 生配列 [lng, lat] になっているfeatureをLeafletが読める形式に変換する
 function repairGeoJson(data) {
     if (!data || !data.features) return data;
     return {
         ...data,
         features: data.features.map(ft => {
             const geom = ft.geometry;
-            // [lng, lat] の生配列をPointジオメトリに正規化
             if (Array.isArray(geom) && geom.length === 2 &&
                 typeof geom[0] === 'number' && typeof geom[1] === 'number') {
                 return { ...ft, geometry: { type: 'Point', coordinates: geom } };
@@ -113,7 +105,6 @@ function renderGeoJson(key, bounds = null) {
     const def = layerDefs[key];
     L.geoJSON(repairGeoJson(rawData[key]), {
         filter: function(feature) {
-            // ライブマップ用フィルタ
             if (key === 'live_trend' || key === 'live_flower' || key === 'live_local') {
                 if (feature.properties.category !== def.category) return false;
             }
@@ -140,7 +131,6 @@ function renderGeoJson(key, bounds = null) {
                 `);
             }
 
-            // [Fix③] def.circleColorを参照することでkankoのオレンジ色を反映
             if(def.isCircle) return L.circleMarker(latlng, {
                 radius: 6,
                 fillColor: def.circleColor || 'red',
@@ -152,8 +142,23 @@ function renderGeoJson(key, bounds = null) {
         },
         style: def.style,
         onEachFeature: function(feature, layer) {
-            // ライブマップは上でPopupを設定済みなのでスキップ
             if (key === 'live_trend' || key === 'live_flower' || key === 'live_local') return;
+            
+            // ▼ ここに追加！：ユーザー投稿用のリッチなポップアップ
+            if (def.isUserSpot) {
+                const name = feature.properties.name || "名称未定";
+                const reason = feature.properties.reason || "";
+                layer.bindPopup(`
+                    <div style="text-align:center; min-width:180px;">
+                        <b style="color:#e67e22; font-size:1.1em;">【🗣️ ユーザー投稿】</b><br>
+                        <span style="font-size:1.2em; font-weight:bold;">${name}</span><br>
+                        <hr style="margin:8px 0; border:0; border-top:1px dashed #ccc;">
+                        <span style="color:#555; font-size:0.9em;">${reason}</span>
+                    </div>
+                `);
+                return;
+            }
+
             const name = getFeatureName(feature.properties);
             layer.bindPopup(`<strong>${name}</strong>`);
         }
@@ -179,7 +184,9 @@ const overlayMaps = {
     "🍽️ 喫茶店・レストラン": layers.restaurants, "🐾 トレイル.古道": layers.trail, "🛤️ 東海自然歩道": layers.shizenhodo, "🛣️ 五街道": layers.gokaido,
     "🌍 トレンド": layers.live_trend,
     "🌸 開花": layers.live_flower,
-    "😊 ローカルニュース": layers.live_local
+    "😊 ローカルニュース": layers.live_local,
+    // ▼ ここに追加！：メニュー項目に表示
+    "🗣️ ユーザー投稿スポット": layers.user_spots
 };
 
 layers.rel.addTo(map); layers.park.addTo(map); layers.com.addTo(map);
@@ -196,6 +203,8 @@ function insertCategoryHeaders() {
         else if (text.includes("景観地区")) headerHtml = "<div class='custom-layer-header' style='margin:18px 0 10px 0;'><hr style='margin:0 0 12px 0; border:0; border-top:1px solid #ddd;'><div style='font-size:1.05em; font-weight:bold; color:#E65100;'>【広域地域データ】</div></div>";
         else if (text.includes("喫茶店")) headerHtml = "<div class='custom-layer-header' style='margin:18px 0 10px 0;'><hr style='margin:0 0 12px 0; border:0; border-top:1px solid #ddd;'><div style='font-size:1.05em; font-weight:bold; color:#2E7D32;'>【上級者向け】</div></div>";
         else if (text.includes("トレンド")) headerHtml = "<div class='custom-layer-header' style='margin:18px 0 10px 0;'><hr style='margin:0 0 12px 0; border:0; border-top:1px solid #ddd;'><div style='font-size:1.05em; font-weight:bold; color:#8e44ad;'>【実験機能】</div></div>";
+        // ▼ ここに追加！：新しいカテゴリヘッダー
+        else if (text.includes("ユーザー投稿")) headerHtml = "<div class='custom-layer-header' style='margin:18px 0 10px 0;'><hr style='margin:0 0 12px 0; border:0; border-top:1px solid #ddd;'><div style='font-size:1.05em; font-weight:bold; color:#e67e22;'>【コミュニティ】</div></div>";
         
         if (headerHtml) label.insertAdjacentHTML('beforebegin', headerHtml);
     });
@@ -230,6 +239,7 @@ map.on('overlayadd', function(e) {
     if (e.name.includes('トレンド') && rawData['live_trend']) renderGeoJson('live_trend');
     if (e.name.includes('開花') && rawData['live_flower']) renderGeoJson('live_flower');
     if (e.name.includes('ローカル') && rawData['live_local']) renderGeoJson('live_local');
+    if (e.name.includes('ユーザー投稿') && rawData['user_spots']) renderGeoJson('user_spots');
 
     if (e.name.includes('トレンド') || e.name.includes('開花') || e.name.includes('ローカル')) {
         map.attributionControl.addAttribution(yahooCredit);
@@ -283,12 +293,22 @@ document.getElementById('reload-btn')?.addEventListener('click', async () => {
             if (map.hasLayer(layers['live_flower'])) renderGeoJson('live_flower');
             if (map.hasLayer(layers['live_local'])) renderGeoJson('live_local');
         }
+
+        // ユーザー投稿もリロードする処理
+        const freshUserUrl = layerDefs.user_spots.url + '?t=' + new Date().getTime();
+        const resUser = await fetch(freshUserUrl);
+        if (resUser.ok) {
+            rawData['user_spots'] = await resUser.json();
+            if (map.hasLayer(layers['user_spots'])) renderGeoJson('user_spots');
+        }
+
     } catch(e) {
         console.error("最新データの取得に失敗しました:", e);
     }
 
     setTimeout(() => { btn.innerText = "↻"; }, 500);
 });
+
 // ▼ マップDJ リクエスト機能（申請ピン）
 let requestMarker = null;
 
@@ -327,7 +347,7 @@ document.addEventListener('click', (e) => {
         const lat = latlng.lat.toFixed(6);
         const lng = latlng.lng.toFixed(6);
 
-        // ★相棒のサポート用メールアドレスに変更してくれ！
+        // ★相棒のサポート用メールアドレス
         const supportEmail = "information.app.excellent@gmail.com"; 
 
         const subject = encodeURIComponent("【マップDJ】新規スポット追加申請");
@@ -346,7 +366,7 @@ document.addEventListener('click', (e) => {
 緯度: ${lat}
 経度: ${lng}
 Googleマップで確認:
-https://www.google.com/maps?q=$${lat},${lng}
+http://maps.google.com/maps?q=${lat},${lng}
 -------------------------`
         );
 
