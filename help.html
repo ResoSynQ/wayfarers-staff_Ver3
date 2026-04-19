@@ -60,12 +60,10 @@
             margin-bottom: 20px;
         }
 
-        /* ★ 修正ポイント：アイコン横のテキストも 0.9rem に統一 */
         .card p, .card li, .desc-text, .icon-box div {
             font-size: 0.9rem;
             color: #555;
         }
-        /* 太字は濃い色をキープ */
         b { color: var(--text-color); }
 
         .icon-box {
@@ -93,7 +91,6 @@
             margin-bottom: 6px;
             color: var(--text-color);
         }
-        /* ピン記号（共通） */
         .pin-chip {
             min-width: 18px;
             height: 18px;
@@ -103,11 +100,9 @@
             box-shadow: 0 1px 3px rgba(0,0,0,0.2);
             display: inline-block;
         }
-        /* エリア記号（四角） */
         .pin-chip.square {
             border-radius: 2px;
         }
-        /* ライン記号（点線） */
         .line-chip {
             width: 30px;
             height: 0;
@@ -126,7 +121,6 @@
             margin-bottom: 12px;
         }
 
-        /* ★ 修正ポイント：APIクレジットの枠デザインと文字サイズを復活 */
         .api-credit {
             font-size: 0.9rem;
             color: #555;
@@ -203,6 +197,10 @@
         <div class="icon-box">
             <div class="icon">↻</div>
             <div><b>リロードボタン（右上）</b><br>ライブ情報を最新に更新します。</div>
+        </div>
+        <div class="icon-box">
+            <div class="icon">📍</div>
+            <div><b>スポット申請（右下）</b><br>追加してほしい地点をリクエストできます。</div>
         </div>
         <div class="icon-box">
             <div class="icon">📡</div>
@@ -329,12 +327,28 @@
         <button id="toilet-contact-btn" class="contact-btn">✉️ トイレについて連絡</button>
     </div>
 
-    <h2>7. 💡 快適な探索のために</h2>
+    <h2>7. 📍 スポット申請について</h2>
+    <div class="card">
+        <p>マップ上で「ここにピンを追加してほしい！」という熱いスポットを見つけたら、申請を送ることができます。</p>
+        <ol style="padding-left: 20px; font-size: 0.9rem; color: #555;">
+            <li style="margin-bottom: 8px;">画面右下の「📍」ボタンを押すと、画面中央に赤いピンがドロップされます。</li>
+            <li style="margin-bottom: 8px;">場所がずれている場合は、ピンを指で動かして（ドラッグして）正確な位置に合わせてください。<br>※キャンセルする場合はポップアップの「✖」で閉じられます。</li>
+            <li style="margin-bottom: 8px;">ピンの上の「✉️ この地点を申請」を押すと、メールフォームが立ち上がります（位置情報は自動で取得・入力されます）。</li>
+            <li style="margin-bottom: 8px;">スポットの名称やおすすめの理由を記入して送信してください！</li>
+        </ol>
+    </div>
+
+    <h2>8. 🛠️ マップの不具合を報告</h2>
+    <div class="card">
+        <p>マップに不備があった場合（存在しない道、間違ったピン、画面の不具合など）は、下記フォームよりご連絡ください。</p>
+        <button id="bug-contact-btn" class="contact-btn" style="background-color: #E65100;">✉️ 不具合を報告する</button>
+    </div>
+    <h2>9. 💡 快適な探索のために</h2>
     <div class="card">
         <p>本アプリは<b>「PWA」</b>に対応しています。ブラウザのメニューから<b>「ホーム画面に追加」</b>を実行すると全画面で高速に動作します！</p>
     </div>
 
-    <h2>8. アプリの削除とデータについて</h2>
+    <h2>10. アプリの削除とデータについて</h2>
     <div class="card">
         <p><b>📱 アイコンの削除:</b> ホーム画面のアイコンを長押しで消去できます。</p>
         <p><b>⚠ 履歴の削除:</b> ブラウザの履歴やキャッシュを消去することで、アプリのデータを消去できます。</p>
@@ -347,6 +361,7 @@
 </div>
 
 <script>
+    // ▼ トイレ報告ボタンの処理
     document.getElementById('toilet-contact-btn').addEventListener('click', function() {
         const btn = this;
         if ("geolocation" in navigator) {
@@ -378,6 +393,18 @@
         } else {
             alert("お使いのブラウザは位置情報に対応していません。");
         }
+    });
+
+    // ▼ 新規追加：不具合報告ボタンの処理
+    document.getElementById('bug-contact-btn').addEventListener('click', function() {
+        const subject = encodeURIComponent("マップの不具合報告（旅人の杖 関西版）");
+        const body = encodeURIComponent(
+            "【マップの不具合についてのご連絡】\n\n" +
+            "不備の内容を下記にご記入ください：\n" +
+            "（例：〇〇というピンの位置がずれている、画面がおかしくなる、など）\n\n" +
+            "-------------------------\n"
+        );
+        window.location.href = "mailto:information.app.excellent@gmail.com?subject=" + subject + "&body=" + body;
     });
 </script>
 
