@@ -371,7 +371,9 @@ https://www.google.com/maps?q=${lat},${lng}
 -------------------------`
         );
 
-        window.location.href = `mailto:${supportEmail}?subject=${subject}&body=${body}`;
+        const mailLink = document.createElement('a');
+        mailLink.href = `mailto:${supportEmail}?subject=${subject}&body=${body}`;
+        mailLink.click();
 
         map.closePopup();
         map.removeLayer(requestMarker);
