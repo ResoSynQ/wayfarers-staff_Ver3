@@ -373,7 +373,10 @@ https://www.google.com/maps?q=${lat},${lng}
 
         const mailLink = document.createElement('a');
         mailLink.href = `mailto:${supportEmail}?subject=${subject}&body=${body}`;
+        mailLink.style.display = 'none';
+        document.body.appendChild(mailLink);
         mailLink.click();
+        document.body.removeChild(mailLink);
 
         map.closePopup();
         map.removeLayer(requestMarker);
