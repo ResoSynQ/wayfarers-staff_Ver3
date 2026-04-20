@@ -21,9 +21,9 @@ body, html, #map {
     z-index: 900;
 }
 #reload-btn { 
-    top: 70px; right: 15px; /* 🧭ボタンの下に、右下ボタンと同じ間隔で配置！ */
+    top: 70px; right: 15px; 
     z-index: 900;
-    font-size: 22px; /* ↻マークが少し大きいので微調整 */
+    font-size: 22px; 
 }
 
 /* 🚪 スライドメニュー */
@@ -34,8 +34,11 @@ body, html, #map {
     box-shadow: 4px 0 15px rgba(0,0,0,0.3) !important; background: rgba(255, 255, 255, 0.95) !important;
     transition: left 0.3s ease-in-out !important;
     z-index: 1000 !important;
+    /* ▼ 修正ポイント①：最新スマホのバーに隠れない高さ設定 */
     height: 100vh !important; 
-    padding: 75px 20px 40px 20px !important; 
+    height: 100dvh !important; 
+    /* ▼ 修正ポイント②：一番下までスクロールできるよう、下の余白（40px→120px）をガッツリ増やしたぜ！ */
+    padding: 75px 20px 120px 20px !important; 
     box-sizing: border-box !important; 
     overflow-y: auto !important;
 }
