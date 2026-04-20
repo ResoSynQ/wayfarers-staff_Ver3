@@ -2,18 +2,18 @@
   "name": "旅人の杖と救いの泉",
   "short_name": "旅人の杖",
   "description": "未知のエリアを探索し、救いの泉を見つけ出すWayfarer専用ツール",
-  "start_url": "./index.html",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#1a1a1a",
   "theme_color": "#1a1a1a",
   "icons": [
     {
-      "src": "icon-192.png",
+      "src": "icon-192-v2.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "icon-512.png",
+      "src": "icon-512-v2.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
