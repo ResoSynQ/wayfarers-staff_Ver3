@@ -1,6 +1,6 @@
 // --- 『旅人の杖と救いの泉』 Service Worker (Ver 1.0) ---
 
-const CACHE_NAME = 'wayfarers-staff-cache-v19'; // ← バージョンを上げる
+const CACHE_NAME = 'wayfarers-staff-cache-v20'; // ← v20にアップ！
 
 const CACHE_ASSETS = [
     './',
@@ -9,11 +9,10 @@ const CACHE_ASSETS = [
     './app.js',
     './manifest.json',
     './image_3.webp',
-    './icon-180.png', // ✅ 追加
-    './icon-192.png', // ✅ 追加
-    './icon-512.png'  // ✅ .jpgから変更
+    './icon-180-v2.png',
+    './icon-192-v2.png',
+    './icon-512-v2.png'
 ];
-
 const GEOJSON_FILES = [
     'OSM_relics_of_kinki_38142.geojson',
     'Gov-OSM_Park_30m_merge_17323.geojson',
