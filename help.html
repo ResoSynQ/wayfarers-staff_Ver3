@@ -60,12 +60,10 @@
             margin-bottom: 20px;
         }
 
-        /* ★ 修正ポイント：アイコン横のテキストも 0.9rem に統一 */
         .card p, .card li, .desc-text, .icon-box div {
             font-size: 0.9rem;
             color: #555;
         }
-        /* 太字は濃い色をキープ */
         b { color: var(--text-color); }
 
         .icon-box {
@@ -93,7 +91,6 @@
             margin-bottom: 6px;
             color: var(--text-color);
         }
-        /* ピン記号（共通） */
         .pin-chip {
             min-width: 18px;
             height: 18px;
@@ -103,11 +100,9 @@
             box-shadow: 0 1px 3px rgba(0,0,0,0.2);
             display: inline-block;
         }
-        /* エリア記号（四角） */
         .pin-chip.square {
             border-radius: 2px;
         }
-        /* ライン記号（点線） */
         .line-chip {
             width: 30px;
             height: 0;
@@ -126,7 +121,6 @@
             margin-bottom: 12px;
         }
 
-        /* ★ 修正ポイント：APIクレジットの枠デザインと文字サイズを復活 */
         .api-credit {
             font-size: 0.9rem;
             color: #555;
@@ -205,6 +199,10 @@
             <div><b>リロードボタン（右上）</b><br>ライブ情報を最新に更新します。</div>
         </div>
         <div class="icon-box">
+            <div class="icon">📍</div>
+            <div><b>スポット申請（右下）</b><br>追加してほしい地点をリクエストできます。</div>
+        </div>
+        <div class="icon-box">
             <div class="icon">📡</div>
             <div><b>周辺をスキャン（下部）</b><br>メインエンジン。画面内の候補を一斉に索敵します。</div>
         </div>
@@ -281,7 +279,11 @@
                 <div class="category-title">🛣️ 五街道 <div class="line-chip" style="border-top: 3px dotted #d91e18;"></div></div>
                 <p>五街道とは、江戸時代の初めに徳川幕府が整備した、江戸（日本橋）を起点とする幕府直轄の主要陸上交通網です。japan-road-jp様のデータを基にGeoJsonへ変換したデータを収録しています。データは街道ごとに五色で色分けされています。</p>
             </div>
-        </div>
+            <div class="category-item">
+                <div class="category-title">🗣️ ユーザー投稿スポット <div class="pin-chip" style="background:#e67e22;"></div></div>
+                <p>スポット申請で申請し、承認されたピンが表示されます。</p>
+            </div>
+            </div>
 
         <p style="margin-top: 20px; color: #1565C0; font-weight: bold;">
             ※下記カテゴリについては「5. 🧪 実験機能」をご参照ください<br>
@@ -297,7 +299,7 @@
 
         <p><b>🌐 広域カテゴリピン</b><br>
         対象物が広域にまたがって存在するため、ズームに関係なくチェックを入れた瞬間に表示されます。<br>
-        （🏞️ 景観地区、🌲 景観重要建造物樹木、📜 歴史的風土保存区域、🏘️ 伝統的建造物群保存地区、🗺️ 歴史的風致重点地区、🎆 観光資源、🐾 トレイル.古道、🛤️ 東海自然歩道、🛣️ 五街道、🌍 トレンド、🌸 開花、😊 ローカルニュース）</p>
+        （🏞️ 景観地区、🌲 景観重要建造物樹木、📜 歴史的風土保存区域、🏘️ 伝統的建造物群保存地区、🗺️ 歴史的風致重点地区、🎆 観光資源、🐾 トレイル.古道、🛤️ 東海自然歩道、🛣️ 五街道、🌍 トレンド、🌸 開花、😊 ローカルニュース、🗣️ ユーザー投稿スポット）</p>
     </div>
 
     <h2>4. ⚠️ 重要：ご利用上の注意</h2>
@@ -311,7 +313,7 @@
 
     <h2>5. 🧪 実験機能（ライブマップ）</h2>
     <div class="card">
-        <p>ニュースに基づいた「最新の熱気スポット」を表示します。毎日お昼2時に更新されます。</p>
+        <p>ニュースに基づいた「最新の話題のスポット」を表示します。毎日５回更新されます。</p>
         <ul>
             <li><b>🌍 トレンド:</b> 話題の新店舗やイベント情報</li>
             <li><b>🌸 開花:</b> 季節の自然や見ごろ情報</li>
@@ -329,12 +331,28 @@
         <button id="toilet-contact-btn" class="contact-btn">✉️ トイレについて連絡</button>
     </div>
 
-    <h2>7. 💡 快適な探索のために</h2>
+    <h2>7. 📍 スポット申請について</h2>
+    <div class="card">
+        <p>マップ上で「ここにピンを追加してほしい！」という熱いスポットを見つけたら、申請を送ることができます。</p>
+        <ol style="padding-left: 20px; font-size: 0.9rem; color: #555;">
+            <li style="margin-bottom: 8px;">画面右下の「📍」ボタンを押すと、画面中央に赤いピンがドロップされます。</li>
+            <li style="margin-bottom: 8px;">キャンセルする場合はポップアップの「✖」で閉じられます。</li>
+            <li style="margin-bottom: 8px;">ピンの上の「✉️ この地点を申請」を押すと、メールフォームが立ち上がります（位置情報は自動で取得・入力されます）。</li>
+            <li style="margin-bottom: 8px;">スポットの名称やおすすめの理由を記入して送信してください！</li>
+        </ol>
+    </div>
+
+    <h2>8. 🛠️ マップの不具合を報告</h2>
+    <div class="card">
+        <p>マップに不備があった場合（存在しない道、間違ったピン、画面の不具合など）は、下記フォームよりご連絡ください。</p>
+        <button id="bug-contact-btn" class="contact-btn" style="background-color: #E65100;">✉️ 不具合を報告する</button>
+    </div>
+    <h2>9. 💡 快適な探索のために</h2>
     <div class="card">
         <p>本アプリは<b>「PWA」</b>に対応しています。ブラウザのメニューから<b>「ホーム画面に追加」</b>を実行すると全画面で高速に動作します！</p>
     </div>
 
-    <h2>8. アプリの削除とデータについて</h2>
+    <h2>10. アプリの削除とデータについて</h2>
     <div class="card">
         <p><b>📱 アイコンの削除:</b> ホーム画面のアイコンを長押しで消去できます。</p>
         <p><b>⚠ 履歴の削除:</b> ブラウザの履歴やキャッシュを消去することで、アプリのデータを消去できます。</p>
@@ -347,37 +365,66 @@
 </div>
 
 <script>
+    // ▼ ページ読み込み時に位置情報を事前キャッシュ（トイレボタン用）
+    let _cachedLocation = null;
+    if ("geolocation" in navigator) {
+        navigator.geolocation.getCurrentPosition(
+            function(pos) {
+                _cachedLocation = {
+                    lat: pos.coords.latitude.toFixed(6),
+                    lng: pos.coords.longitude.toFixed(6)
+                };
+            },
+            function() { _cachedLocation = null; },
+            { enableHighAccuracy: true, timeout: 10000, maximumAge: 60000 }
+        );
+    }
+
+    // ▼ mailto を確実に開くヘルパー（DOMに追加してからクリック）
+    function openMailTo(href) {
+        const a = document.createElement('a');
+        a.href = href;
+        a.style.display = 'none';
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+    }
+
+    // ▼ トイレ報告ボタン（キャッシュ済み位置情報を同期的に使用）
     document.getElementById('toilet-contact-btn').addEventListener('click', function() {
-        const btn = this;
-        if ("geolocation" in navigator) {
-            btn.innerText = "🔄 座標を取得中...";
-            navigator.geolocation.getCurrentPosition(
-                function(position) {
-                    const lat = position.coords.latitude;
-                    const lng = position.coords.longitude;
-                    const subject = encodeURIComponent("トイレ情報提供（旅人の杖 関西版）");
-                    const body = encodeURIComponent(
-                        "【トイレに関する情報提供】\n\n" +
-                        "現在地の座標：\n" +
-                        "緯度: " + lat + "\n" +
-                        "経度: " + lng + "\n\n" +
-                        "▼Googleマップで位置を確認\n" +
-                        "https://www.google.com/maps?q=" + lat + "," + lng + "\n\n" +
-                        "状況を下記にご記入ください：\n" +
-                        "（例：トイレが閉鎖されている、新しいトイレがある、など）\n\n"
-                    );
-                    window.location.href = "mailto:information.app.excellent@gmail.com?subject=" + subject + "&body=" + body;
-                    btn.innerText = "✉️ トイレについて連絡";
-                },
-                function(error) {
-                    alert("位置情報が取得できませんでした。端末の設定を確認してください。");
-                    btn.innerText = "✉️ トイレについて連絡";
-                },
-                { enableHighAccuracy: true, timeout: 10000, maximumAge: 0 }
-            );
+        const subject = encodeURIComponent("トイレ情報提供（旅人の杖 関西版）");
+        let locationText;
+        if (_cachedLocation) {
+            const lat = _cachedLocation.lat;
+            const lng = _cachedLocation.lng;
+            locationText =
+                "現在地の座標：\n" +
+                "緯度: " + lat + "\n" +
+                "経度: " + lng + "\n\n" +
+                "▼Googleマップで位置を確認\n" +
+                "https://www.google.com/maps?q=" + lat + "," + lng + "\n\n";
         } else {
-            alert("お使いのブラウザは位置情報に対応していません。");
+            locationText = "※位置情報を取得できませんでした。お手数ですが座標を手動でご記入ください。\n\n";
         }
+        const body = encodeURIComponent(
+            "【トイレに関する情報提供】\n\n" +
+            locationText +
+            "状況を下記にご記入ください：\n" +
+            "（例：トイレが閉鎖されている、新しいトイレがある、など）\n\n"
+        );
+        openMailTo("mailto:information.app.excellent@gmail.com?subject=" + subject + "&body=" + body);
+    });
+
+    // ▼ 不具合報告ボタン
+    document.getElementById('bug-contact-btn').addEventListener('click', function() {
+        const subject = encodeURIComponent("マップの不具合報告（旅人の杖 関西版）");
+        const body = encodeURIComponent(
+            "【マップの不具合についてのご連絡】\n\n" +
+            "不備の内容を下記にご記入ください：\n" +
+            "（例：〇〇というピンの位置がずれている、画面がおかしくなる、など）\n\n" +
+            "-------------------------\n"
+        );
+        openMailTo("mailto:information.app.excellent@gmail.com?subject=" + subject + "&body=" + body);
     });
 </script>
 
