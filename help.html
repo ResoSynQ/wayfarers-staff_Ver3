@@ -365,57 +365,43 @@
 </div>
 
 <script>
-    // ▼ ページ読み込み時に位置情報を事前キャッシュ（トイレボタン用）
-    let _cachedLocation = null;
-    if ("geolocation" in navigator) {
-        navigator.geolocation.getCurrentPosition(
-            function(pos) {
-                _cachedLocation = {
-                    lat: pos.coords.latitude.toFixed(6),
-                    lng: pos.coords.longitude.toFixed(6)
-                };
-            },
-            function() { _cachedLocation = null; },
-            { enableHighAccuracy: true, timeout: 10000, maximumAge: 60000 }
-        );
-    }
-
-    // ▼ mailto を確実に開くヘルパー（DOMに追加してからクリック）
-    function openMailTo(href) {
-        const a = document.createElement('a');
-        a.href = href;
-        a.style.display = 'none';
-        document.body.appendChild(a);
-        a.click();
-        document.body.removeChild(a);
-    }
-
-    // ▼ トイレ報告ボタン（キャッシュ済み位置情報を同期的に使用）
+    // ▼ トイレ報告ボタンの処理
     document.getElementById('toilet-contact-btn').addEventListener('click', function() {
-        const subject = encodeURIComponent("トイレ情報提供（旅人の杖 関西版）");
-        let locationText;
-        if (_cachedLocation) {
-            const lat = _cachedLocation.lat;
-            const lng = _cachedLocation.lng;
-            locationText =
-                "現在地の座標：\n" +
-                "緯度: " + lat + "\n" +
-                "経度: " + lng + "\n\n" +
-                "▼Googleマップで位置を確認\n" +
-                "https://www.google.com/maps?q=" + lat + "," + lng + "\n\n";
+        const btn = this;
+        if ("geolocation" in navigator) {
+            btn.innerText = "🔄 座標を取得中...";
+            navigator.geolocation.getCurrentPosition(
+                function(position) {
+                    const lat = position.coords.latitude;
+                    const lng = position.coords.longitude;
+                    const subject = encodeURIComponent("トイレ情報提供（旅人の杖 関西版）");
+                    const body = encodeURIComponent(
+                        "【トイレに関する情報提供】\n\n" +
+                        "現在地の座標：\n" +
+                        "緯度: " + lat + "\n" +
+                        "経度: " + lng + "\n\n" +
+                        "▼Googleマップで位置を確認\n" +
+                        "https://www.google.com/maps?q=" + lat + "," + lng + "\n\n" +
+                        "状況を下記にご記入ください：\n" +
+                        "（例：トイレが閉鎖されている、新しいトイレがある、など）\n\n"
+                    );
+                    const mailLink = document.createElement('a');
+                    mailLink.href = "mailto:information.app.excellent@gmail.com?subject=" + subject + "&body=" + body;
+                    mailLink.click();
+                    btn.innerText = "✉️ トイレについて連絡";
+                },
+                function(error) {
+                    alert("位置情報が取得できませんでした。端末の設定を確認してください。");
+                    btn.innerText = "✉️ トイレについて連絡";
+                },
+                { enableHighAccuracy: true, timeout: 10000, maximumAge: 0 }
+            );
         } else {
-            locationText = "※位置情報を取得できませんでした。お手数ですが座標を手動でご記入ください。\n\n";
+            alert("お使いのブラウザは位置情報に対応していません。");
         }
-        const body = encodeURIComponent(
-            "【トイレに関する情報提供】\n\n" +
-            locationText +
-            "状況を下記にご記入ください：\n" +
-            "（例：トイレが閉鎖されている、新しいトイレがある、など）\n\n"
-        );
-        openMailTo("mailto:information.app.excellent@gmail.com?subject=" + subject + "&body=" + body);
     });
 
-    // ▼ 不具合報告ボタン
+    // ▼ 新規追加：不具合報告ボタンの処理
     document.getElementById('bug-contact-btn').addEventListener('click', function() {
         const subject = encodeURIComponent("マップの不具合報告（旅人の杖 関西版）");
         const body = encodeURIComponent(
@@ -424,7 +410,9 @@
             "（例：〇〇というピンの位置がずれている、画面がおかしくなる、など）\n\n" +
             "-------------------------\n"
         );
-        openMailTo("mailto:information.app.excellent@gmail.com?subject=" + subject + "&body=" + body);
+        const mailLink = document.createElement('a');
+        mailLink.href = "mailto:information.app.excellent@gmail.com?subject=" + subject + "&body=" + body;
+        mailLink.click();
     });
 </script>
 
