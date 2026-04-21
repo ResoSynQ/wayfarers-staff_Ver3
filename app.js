@@ -354,7 +354,7 @@ document.addEventListener('click', (e) => {
         const subject = encodeURIComponent("【マップDJ】新規スポット追加申請");
 
         const body = encodeURIComponent(
-`マップDJへ！新しい熱気スポットの申請だ！
+`面白いスポットを報告します。
 
 【スポット名】
 （ここに名称を入力してください）
