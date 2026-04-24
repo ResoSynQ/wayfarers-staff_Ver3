@@ -19,7 +19,12 @@ const icons = {
     blue: new L.Icon({ iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-blue.png', shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png', iconSize: [25, 41], iconAnchor: [12, 41], popupAnchor: [1, -34] }),
     green: new L.Icon({ iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-green.png', shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png', iconSize: [25, 41], iconAnchor: [12, 41], popupAnchor: [1, -34] }),
     purple: new L.Icon({ iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-violet.png', shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png', iconSize: [25, 41], iconAnchor: [12, 41], popupAnchor: [1, -34] }),
-    orange: new L.Icon({ iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-orange.png', shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png', iconSize: [25, 41], iconAnchor: [12, 41], popupAnchor: [1, -34] })
+    orange: new L.Icon({ iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-orange.png', shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png', iconSize: [25, 41], iconAnchor: [12, 41], popupAnchor: [1, -34] }), // ← ★ココにカンマを追加！
+    myakumyaku_v4: new L.Icon({ 
+        iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-orange.png', 
+        shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png', 
+        iconSize: [25, 41], iconAnchor: [12, 41], popupAnchor: [1, -34], shadowSize: [41, 41]
+    }) // ← ★ココに閉じカッコを追加！
 };
 
 function getFeatureName(p) {
@@ -75,7 +80,9 @@ const layerDefs = {
     live_trend: { url: 'https://raw.githubusercontent.com/ResoSynQ/wayfarer-trend-engine/main/trend_spots.geojson', category: 'trend', color: '#ff4b00' },
     live_flower: { url: 'https://raw.githubusercontent.com/ResoSynQ/wayfarer-trend-engine/main/trend_spots.geojson', category: 'flower', color: '#ff69b4' },
     live_local: { url: 'https://raw.githubusercontent.com/ResoSynQ/wayfarer-trend-engine/main/trend_spots.geojson', category: 'local', color: '#32cd32' },
-    user_spots: { url: 'https://raw.githubusercontent.com/ResoSynQ/wayfarer-trend-engine/main/user_spots.geojson', icon: icons.orange, isUserSpot: true }
+    user_spots: { url: 'https://raw.githubusercontent.com/ResoSynQ/wayfarer-trend-engine/main/user_spots.geojson', icon: icons.orange, isUserSpot: true },
+    legacy_spots: { url: 'legacy_spots.geojson', icon: icons.myakumyaku_v4, isLegacy: true }
+    // ↑↑↑ ★ここまで追加 ★↑↑↑
 };
 
 const immediateLayers = ['keikan', 'tree', 'fudo', 'denken', 'fuchi', 'kanko', 'trail', 'shizenhodo', 'gokaido'];
@@ -160,8 +167,14 @@ function renderGeoJson(key, bounds = null) {
                     </div>
                 `);
                 return;
+            
             }
-
+// ↓↓↓ ★ここから追加（万博レガシー専用の表示処理）★↓↓↓
+            if (def.isLegacy) {
+                layer.bindPopup(`<div style="min-width:200px;">${feature.properties.popupContent}</div>`);
+                return;
+            }
+            // ↑↑↑ ★ここまで追加★ ↑↑↑
             const name = getFeatureName(feature.properties);
             layer.bindPopup(`<strong>${name}</strong>`);
         }
@@ -188,7 +201,8 @@ const overlayMaps = {
     "🌍 トレンド": layers.live_trend,
     "🌸 開花": layers.live_flower,
     "😊 ローカルニュース": layers.live_local,
-    "🗣️ ユーザー投稿スポット": layers.user_spots
+    "🗣️ ユーザー投稿スポット": layers.user_spots,
+    "🎡 万博・レガシー": layers.legacy_spots
 };
 
 layers.rel.addTo(map); layers.park.addTo(map); layers.com.addTo(map);
@@ -206,6 +220,7 @@ function insertCategoryHeaders() {
         else if (text.includes("喫茶店")) headerHtml = "<div class='custom-layer-header' style='margin:18px 0 10px 0;'><hr style='margin:0 0 12px 0; border:0; border-top:1px solid #ddd;'><div style='font-size:1.05em; font-weight:bold; color:#2E7D32;'>【上級者向け】</div></div>";
         else if (text.includes("トレンド")) headerHtml = "<div class='custom-layer-header' style='margin:18px 0 10px 0;'><hr style='margin:0 0 12px 0; border:0; border-top:1px solid #ddd;'><div style='font-size:1.05em; font-weight:bold; color:#8e44ad;'>【実験機能】</div></div>";
         else if (text.includes("ユーザー投稿")) headerHtml = "<div class='custom-layer-header' style='margin:18px 0 10px 0;'><hr style='margin:0 0 12px 0; border:0; border-top:1px solid #ddd;'><div style='font-size:1.05em; font-weight:bold; color:#e67e22;'>【コミュニティ】</div></div>";
+        else if (text.includes("万博")) headerHtml = "<div class='custom-layer-header' style='margin:18px 0 10px 0;'><hr style='margin:0 0 12px 0; border:0; border-top:1px solid #ddd;'><div style='font-size:1.05em; font-weight:bold; color:#d35400;'>【特別イベント】</div></div>";
         
         if (headerHtml) label.insertAdjacentHTML('beforebegin', headerHtml);
     });
@@ -241,6 +256,7 @@ map.on('overlayadd', function(e) {
     if (e.name.includes('開花') && rawData['live_flower']) renderGeoJson('live_flower');
     if (e.name.includes('ローカル') && rawData['live_local']) renderGeoJson('live_local');
     if (e.name.includes('ユーザー投稿') && rawData['user_spots']) renderGeoJson('user_spots');
+    if (e.name.includes('万博') && rawData['legacy_spots']) renderGeoJson('legacy_spots');
 
     if (e.name.includes('トレンド') || e.name.includes('開花') || e.name.includes('ローカル')) {
         map.attributionControl.addAttribution(yahooCredit);
