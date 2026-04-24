@@ -1,0 +1,359 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "「舞台をみているようで、すばらしい!」南信州・阿智村「ハナモモ」見ごろ…約4キロにわたって5000本余りの「ハナモモ」赤、白、ピンクのグラデーション楽しむ(ＳＢＣ信越放送)",
+        "name": "阿智村役場",
+        "address": "",
+        "reason": "約4kmにわたる5000本以上のハナモモの壮大な景色は、訪れる価値があると感じさせるため。",
+        "date": "2026-04-23",
+        "link": "https://news.yahoo.co.jp/articles/8a34889e123200a68bf7bf07387368f165721e22?source=rss"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.7475043,
+          35.4437679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "犬の散歩で地域防災力の強化へ　神奈川・綾瀬市、５月から「わんわんパトロール」(カナロコ by 神奈川新聞)",
+        "name": "綾瀬市役所",
+        "address": "",
+        "reason": "愛犬との散歩が地域貢献になり、新たな交流も期待できるため",
+        "date": "2026-04-22",
+        "link": "https://news.yahoo.co.jp/articles/339f3f780d97711cebd016a9f60aaaf9d813b28b?source=rss"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4261477,
+          35.4371749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "“ゼロ・エネルギー”ビル　新築の高知商工会館がお披露目　1.25倍の耐震性で「地域の避難所」機能も… 11月下旬にグランドオープン(テレビ高知)",
+        "name": "高知商工会館",
+        "address": "",
+        "reason": "先進的なゼロ・エネルギービルで、地域の防災拠点にもなるため、見学や利用に興味を持つ人がいる。",
+        "date": "2026-04-22",
+        "link": "https://news.yahoo.co.jp/articles/43dec83ea0863fa1e15b8a12690c699e75cfefa3?source=rss"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.5391364,
+          33.5580592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "【星野リゾート】福岡初進出のホテルは門司港　全室オーシャンビュー　サウナ付き客室も　7月開業へ(FBS福岡放送)",
+        "name": "門司港",
+        "address": "",
+        "reason": "星野リゾートのブランド力、門司港という歴史的景観、全室オーシャンビューとサウナ付き客室という魅力的な設備が、観光客を惹きつける可能性が高い。",
+        "date": "2026-04-22",
+        "link": "https://news.yahoo.co.jp/articles/ea7d30e00f10440ef1ce44c732263a1afad370bf?source=rss"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.947412,
+          33.9398065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "福岡市美術館で「新収蔵品展」　絵画・写真・版画など27点お披露目(みんなの経済新聞ネットワーク)",
+        "name": "福岡市美術館",
+        "address": "",
+        "reason": "新収蔵品展で多様なジャンルの27点がお披露目され、美術ファンは必見",
+        "date": "2026-04-22",
+        "link": "https://news.yahoo.co.jp/articles/20109642f36473ad46a1be192468261f13965763?source=rss"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3795115,
+          33.5837715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "曲水の宴 切り絵で　40周年記念、限定御朱印　平泉・毛越寺　11月まで販売【岩手】(岩手日日新聞社)",
+        "name": "毛越寺",
+        "address": "",
+        "reason": "歴史的建造物と限定御朱印で訪問意欲を刺激する。",
+        "date": "2026-04-21",
+        "link": "https://news.yahoo.co.jp/articles/f917f8e002d6cf28b82ba827885984fe1b80db5b?source=rss"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.1088649,
+          38.98713919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "札幌ドーム社長が描く「北海道を元気にする」未来　「札幌ドーム」阿部晃士さん(北海道ニュースUHB)",
+        "name": "札幌ドーム交差点",
+        "address": "",
+        "reason": "札幌ドーム社長の熱意あるビジョンが、地域活性化への期待感を抱かせ、訪問意欲を刺激するから。",
+        "date": "2026-04-21",
+        "link": "https://news.yahoo.co.jp/articles/252d9e6d6c3aeffe6a218d0329a720815c62d9a6?source=rss"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.4087529,
+          43.0177849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "やまぐちフラワーランド20周年記念セレモニー　家庭の庭作りのデザイン提案するトライアルガーデン設置も　山口・柳井(ｔｙｓテレビ山口)",
+        "name": "やまぐちフラワーランド",
+        "address": "",
+        "reason": "20周年記念の特別感と、家庭の庭作りの参考になるトライアルガーデン設置が魅力的。",
+        "date": "2026-04-21",
+        "link": "https://news.yahoo.co.jp/articles/8a730bb3258f407bf6f867227e678ab03a786707?source=rss"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.08928374,
+          33.98082862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "オオヤマザクラのトンネル圧巻／青森県弘前の岩木山麓(陸奥新報)",
+        "name": "岩木山麓桜並木",
+        "address": "",
+        "reason": "圧巻の桜トンネルは訪れる価値あり",
+        "date": "2026-04-21",
+        "link": "https://news.yahoo.co.jp/articles/70ba8e8a6e6e8c0723b88bd2430ef2ce7542e5a1?source=rss"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.3115673,
+          40.6147844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "大丸福岡天神店「デパ地下」11年ぶり　大規模リニューアル　店舗の70％を入れ替えへ(FBS福岡放送)",
+        "name": "大丸福岡天神店",
+        "address": "",
+        "reason": "70%の店舗入れ替えは、食のトレンドに敏感な層や、新しいグルメ体験を求める層に響くため。",
+        "date": "2026-04-20",
+        "link": "https://news.yahoo.co.jp/articles/56c89a949500b174c64834c0f2228b8b04c3cd9b?source=rss"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.40121826,
+          33.58879096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "いわきFC、長野に勝利　7連勝で首位キープ!【J2】(TUFテレビユー福島)",
+        "name": "いわき市役所",
+        "address": "",
+        "reason": "J2リーグの試合観戦は、スポーツファンにとって直接体験したい魅力があるため。",
+        "date": "2026-04-20",
+        "link": "https://news.yahoo.co.jp/articles/fc55385f0b3dd252903326f450563207d403127e?source=rss"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.8876813,
+          37.0504185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "【函館-成田線が7年ぶり復活】LCCスプリング・ジャパンが\"初の函館線\"定期便を就航_4月23日からGW中心に金土日〈北海道函館市〉(北海道ニュースUHB)",
+        "name": "函館市役所",
+        "address": "",
+        "reason": "LCCの就航により、函館へのアクセスが向上し、ゴールデンウィークを中心に旅行しやすくなったため。",
+        "date": "2026-04-20",
+        "link": "https://news.yahoo.co.jp/articles/93834ea1373c8fa6e5303d2eb7cc29adafbbd53f?source=rss"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.7288101,
+          41.7687932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "湯梨浜町の道の駅燕趙園で「春の感謝祭」　旬のスイーツ販売や多彩な催し(日本海新聞)",
+        "name": "道の駅燕趙園",
+        "address": "",
+        "reason": "春の感謝祭という季節限定イベントで、旬のスイーツや多彩な催しがあると記載されており、地域のお祭りやイベントに興味があるユーザーは足を運びたくなる可能性が高い。",
+        "date": "2026-04-19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.89264918,
+          35.46463784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "海の幸満載「境港大漁祭」盛況　グルメ投票やステージイベントにぎやかに(日本海新聞)",
+        "name": "境港市役所",
+        "address": "",
+        "reason": "新鮮な海の幸を堪能できるグルメイベントと活気あふれるステージイベントが魅力的だから。",
+        "date": "2026-04-19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.2314857,
+          35.5395913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "小松の十二ヶ滝こいのぼり泳ぐ(HAB北陸朝日放送)",
+        "name": "十二ヶ滝",
+        "address": "",
+        "reason": "風物詩の光景に癒される",
+        "date": "2026-04-19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.5091637,
+          36.3447191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "弘前・名曲喫茶ひまわりで成田弥生さん個展　能町みね子さんとの縁も(みんなの経済新聞ネットワーク)",
+        "name": "名曲喫茶ひまわり",
+        "address": "",
+        "reason": "芸術と音楽、そして著名人との繋がりが、訪れる者に特別な体験を期待させるため。",
+        "date": "2026-04-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.47437189,
+          40.60106656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "学生食堂から循環の輪　金沢工大生がＳＤＧｓ商品　廃棄食材を堆肥化、ハーブ栽培　アロマオイル、化粧水に　ブランド名「ノノループ」(北國新聞社)",
+        "name": "金沢工業大学",
+        "address": "",
+        "reason": "学生がSDGsに取り組むユニークな商品開発に興味をそそられるため。",
+        "date": "2026-04-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.628310833333,
+          36.528450555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "真っ白ふわふわ赤ちゃんアザラシ　“今はいいけど…”エサに課題　水族館も戦々恐々…中東情勢　三重・伊勢シーパラダイス(中京テレビＮＥＷＳ)",
+        "name": "ゼロ距離水族館伊勢シーパラダイス",
+        "address": "",
+        "reason": "珍しい真っ白ふわふわの赤ちゃんアザラシに会える！",
+        "date": "2026-04-17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.7916718,
+          34.5074301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "名古屋グランパスの新たな”聖地” リニューアルされたパロマ瑞穂スタジアムで選手が初練習(メ〜テレ（名古屋テレビ）)",
+        "name": "パロマ瑞穂スタジアム",
+        "address": "",
+        "reason": "新しいスタジアムで選手が初練習という、ファンにとってはたまらないニュースだから。",
+        "date": "2026-04-17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.9434465,
+          35.1223748
+        ]
+      }
+    }
+  ]
+}
