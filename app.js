@@ -20,11 +20,12 @@ const icons = {
     green: new L.Icon({ iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-green.png', shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png', iconSize: [25, 41], iconAnchor: [12, 41], popupAnchor: [1, -34] }),
     purple: new L.Icon({ iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-violet.png', shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png', iconSize: [25, 41], iconAnchor: [12, 41], popupAnchor: [1, -34] }),
     orange: new L.Icon({ iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-orange.png', shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png', iconSize: [25, 41], iconAnchor: [12, 41], popupAnchor: [1, -34] }), // ← ★ココにカンマを追加！
-    myakumyaku_v4: new L.Icon({ 
-        iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-orange.png', 
+myakumyaku_v4: new L.Icon({ 
+        // ▼ ここをコードで描いた「ミャクミャク特製SVG画像」に差し替えたぜ！
+        iconUrl: "data:image/svg+xml;charset=UTF-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 36' width='25' height='41'%3E%3Cpath d='M12 0C5.373 0 0 5.373 0 12c0 8.354 12 24 12 24s12-15.646 12-24C24 5.373 18.627 0 12 0z' fill='%23E60012' stroke='%23FFFFFF' stroke-width='1.5'/%3E%3Ccircle cx='12' cy='12' r='4.5' fill='%230068B7' stroke='%23FFFFFF' stroke-width='1.5'/%3E%3C/svg%3E", 
         shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png', 
         iconSize: [25, 41], iconAnchor: [12, 41], popupAnchor: [1, -34], shadowSize: [41, 41]
-    }) // ← ★ココに閉じカッコを追加！
+    })
 };
 
 function getFeatureName(p) {
