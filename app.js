@@ -1,10 +1,6 @@
 /**
  * 旅人の杖 Ver 2.0.23 (全国熱気レーダー対応版)
  * メインロジック（東海自然歩道・本線緑/支線青 完璧塗り分け版）
- * * [修正箇所]
- * Fix①: kankoレイヤー定義をisCircle:true + circleColor指定に変更（Point対応）
- * Fix②: getFeatureName()にP12_001プロパティ名を追加
- * Fix③: pointToLayerでdef.circleColorを参照するよう変更
  */
 
 const map = L.map('map', { center: [34.6937, 135.5023], zoom: 13, maxZoom: 19, zoomControl: false });
@@ -14,18 +10,13 @@ map.attributionControl.setPosition('bottomleft');
 // ▼ Yahoo! APIのクレジット表記用テキスト
 const yahooCredit = '<a href="https://developer.yahoo.co.jp/sitemap/">Web Services by Yahoo! JAPAN</a>';
 
+// 🛡️ エラーの原因だった特殊ピンを削除し、基本のピンだけにしたぜ！
 const icons = {
     red: new L.Icon({ iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-red.png', shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png', iconSize: [25, 41], iconAnchor: [12, 41], popupAnchor: [1, -34] }),
     blue: new L.Icon({ iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-blue.png', shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png', iconSize: [25, 41], iconAnchor: [12, 41], popupAnchor: [1, -34] }),
     green: new L.Icon({ iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-green.png', shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png', iconSize: [25, 41], iconAnchor: [12, 41], popupAnchor: [1, -34] }),
     purple: new L.Icon({ iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-violet.png', shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png', iconSize: [25, 41], iconAnchor: [12, 41], popupAnchor: [1, -34] }),
-    orange: new L.Icon({ iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-orange.png', shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png', iconSize: [25, 41], iconAnchor: [12, 41], popupAnchor: [1, -34] }), // ← ★ココにカンマを追加！
-myakumyaku_v4: new L.Icon({ 
-        // ▼ ここをコードで描いた「ミャクミャク特製SVG画像」に差し替えたぜ！
-        iconUrl: "data:image/svg+xml;charset=UTF-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 36' width='25' height='41'%3E%3Cpath d='M12 0C5.373 0 0 5.373 0 12c0 8.354 12 24 12 24s12-15.646 12-24C24 5.373 18.627 0 12 0z' fill='%23E60012' stroke='%23FFFFFF' stroke-width='1.5'/%3E%3Ccircle cx='12' cy='12' r='4.5' fill='%230068B7' stroke='%23FFFFFF' stroke-width='1.5'/%3E%3C/svg%3E", 
-        shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png', 
-        iconSize: [25, 41], iconAnchor: [12, 41], popupAnchor: [1, -34], shadowSize: [41, 41]
-    })
+    orange: new L.Icon({ iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-orange.png', shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png', iconSize: [25, 41], iconAnchor: [12, 41], popupAnchor: [1, -34] })
 };
 
 function getFeatureName(p) {
@@ -82,7 +73,8 @@ const layerDefs = {
     live_flower: { url: 'https://raw.githubusercontent.com/ResoSynQ/wayfarer-trend-engine/main/trend_spots.geojson', category: 'flower', color: '#ff69b4' },
     live_local: { url: 'https://raw.githubusercontent.com/ResoSynQ/wayfarer-trend-engine/main/trend_spots.geojson', category: 'local', color: '#32cd32' },
     user_spots: { url: 'https://raw.githubusercontent.com/ResoSynQ/wayfarer-trend-engine/main/user_spots.geojson', icon: icons.orange, isUserSpot: true },
-    legacy_spots: { url: 'https://raw.githubusercontent.com/ResoSynQ/wayfarer-trend-engine/main/legacy_spots.geojson?t=' + new Date().getTime(), icon: icons.myakumyaku_v4, isLegacy: true }
+    // 🛡️ ここも確実に赤ピン（icons.red）が出るように戻したぜ！
+    legacy_spots: { url: 'https://raw.githubusercontent.com/ResoSynQ/wayfarer-trend-engine/main/legacy_spots.geojson?t=' + new Date().getTime(), icon: icons.red, isLegacy: true }
 };
 
 const immediateLayers = ['keikan', 'tree', 'fudo', 'denken', 'fuchi', 'kanko', 'trail', 'shizenhodo', 'gokaido'];
@@ -123,7 +115,6 @@ function renderGeoJson(key, bounds = null) {
         pointToLayer: function(feature, latlng) {
             if (key === 'live_trend' || key === 'live_flower' || key === 'live_local') {
                 
-                // ▼ ここに「ニュースを見る」ボタンを生成する処理を追加！
                 const linkHtml = feature.properties.link ? `<br><a href="${feature.properties.link}" target="_blank" style="display:inline-block; margin-top:8px; padding:6px 12px; background:${def.color}; color:#fff; text-decoration:none; border-radius:6px; font-size:0.9em; font-weight:bold; box-shadow:0 2px 4px rgba(0,0,0,0.2);">📰 ニュースを見る</a>` : '';
 
                 return L.circleMarker(latlng, {
@@ -169,12 +160,10 @@ function renderGeoJson(key, bounds = null) {
                 return;
             
             }
-// ↓↓↓ ★ここから追加（万博レガシー専用の表示処理）★↓↓↓
             if (def.isLegacy) {
                 layer.bindPopup(`<div style="min-width:200px;">${feature.properties.popupContent}</div>`);
                 return;
             }
-            // ↑↑↑ ★ここまで追加★ ↑↑↑
             const name = getFeatureName(feature.properties);
             layer.bindPopup(`<strong>${name}</strong>`);
         }
