@@ -6,6 +6,25 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "砺波ＩＣ前にチューリップ　砺波地域の２ＬＣ、フェア客歓迎(北日本新聞)",
+        "name": "砺波IC（北陸自動車道）",
+        "address": "",
+        "reason": "チューリップで彩られたIC前が、フェアの賑わいとともに訪れる人を歓迎してくれる",
+        "date": "2026-04-25",
+        "link": "https://news.yahoo.co.jp/articles/5b6c445e32c573c04f699b4a9f869db88ff3b2eb?source=rss"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.9529371,
+          36.6247917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "姫路で「きらきら子どもフェス」　100組がおんぶ日本記録に挑戦企画も(みんなの経済新聞ネットワーク)",
         "name": "姫路市役所",
         "address": "",
