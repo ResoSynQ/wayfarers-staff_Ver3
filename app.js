@@ -69,12 +69,11 @@ const layerDefs = {
     trail: { url: 'OSM_trail.geojson', icon: icons.purple },
     shizenhodo: { url: 'TokaiNatureTrail_Route.geojson', style: getRouteStyle },
     gokaido: { url: 'gokaido_routes.geojson', style: getRouteStyle },
-    live_trend: { url: 'https://raw.githubusercontent.com/ResoSynQ/wayfarer-trend-engine/main/trend_spots.geojson', category: 'trend', color: '#ff4b00' },
-    live_flower: { url: 'https://raw.githubusercontent.com/ResoSynQ/wayfarer-trend-engine/main/trend_spots.geojson', category: 'flower', color: '#ff69b4' },
-    live_local: { url: 'https://raw.githubusercontent.com/ResoSynQ/wayfarer-trend-engine/main/trend_spots.geojson', category: 'local', color: '#32cd32' },
-    user_spots: { url: 'https://raw.githubusercontent.com/ResoSynQ/wayfarer-trend-engine/main/user_spots.geojson', icon: icons.orange, isUserSpot: true },
-    // 🛡️ ここも確実に赤ピン（icons.red）が出るように戻したぜ！
-    legacy_spots: { url: 'https://raw.githubusercontent.com/ResoSynQ/wayfarer-trend-engine/main/legacy_spots.geojson?t=' + new Date().getTime(), icon: icons.red, isLegacy: true }
+    live_trend: { url: 'trend_spots.geojson?t=' + new Date().getTime(), category: 'trend', color: '#ff4b00' },
+    live_flower: { url: 'trend_spots.geojson?t=' + new Date().getTime(), category: 'flower', color: '#ff69b4' },
+    live_local: { url: 'trend_spots.geojson?t=' + new Date().getTime(), category: 'local', color: '#32cd32' },
+    user_spots: { url: 'user_spots.geojson?t=' + new Date().getTime(), icon: icons.orange, isUserSpot: true },
+    legacy_spots: { url: 'legacy_spots.geojson?t=' + new Date().getTime(), icon: icons.red, isLegacy: true }
 };
 
 const immediateLayers = ['keikan', 'tree', 'fudo', 'denken', 'fuchi', 'kanko', 'trail', 'shizenhodo', 'gokaido'];
