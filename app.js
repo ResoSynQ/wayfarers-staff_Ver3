@@ -81,7 +81,7 @@ const layerDefs = {
     live_flower: { url: 'https://raw.githubusercontent.com/ResoSynQ/wayfarer-trend-engine/main/trend_spots.geojson', category: 'flower', color: '#ff69b4' },
     live_local: { url: 'https://raw.githubusercontent.com/ResoSynQ/wayfarer-trend-engine/main/trend_spots.geojson', category: 'local', color: '#32cd32' },
     user_spots: { url: 'https://raw.githubusercontent.com/ResoSynQ/wayfarer-trend-engine/main/user_spots.geojson', icon: icons.orange, isUserSpot: true },
-    legacy_spots: { url: 'https://raw.githubusercontent.com/ResoSynQ/wayfarer-trend-engine/main/legacy_spots.geojson', icon: icons.myakumyaku_v4, isLegacy: true }
+    legacy_spots: { url: 'https://raw.githubusercontent.com/ResoSynQ/wayfarer-trend-engine/main/legacy_spots.geojson?t=' + new Date().getTime(), icon: icons.myakumyaku_v4, isLegacy: true }
 };
 
 const immediateLayers = ['keikan', 'tree', 'fudo', 'denken', 'fuchi', 'kanko', 'trail', 'shizenhodo', 'gokaido'];
