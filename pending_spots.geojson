@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "approval_status": "WAITING",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "姫路で「きらきら子どもフェス」　100組がおんぶ日本記録に挑戦企画も(みんなの経済新聞ネットワーク)",
+        "name": "姫路市役所",
+        "address": "",
+        "reason": "子供が楽しめるイベントで、記録挑戦企画もあるため",
+        "date": "2026-04-25",
+        "link": "https://news.yahoo.co.jp/articles/db3da5f6a9988c545b4c8d9a9c0c17c63cc9dc4b?source=rss"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.685352,
+          34.8151489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "福井・鯖江で音楽フェス開催へ　第1弾アーティストに氣志團ら7組(みんなの経済新聞ネットワーク)",
+        "name": "鯖江市役所",
+        "address": "",
+        "reason": "音楽フェス開催と人気アーティストの出演",
+        "date": "2026-04-25",
+        "link": "https://news.yahoo.co.jp/articles/3dcb1838266e2a4d608797ddf01a1e61c52a98d1?source=rss"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.1844733,
+          35.9565524
+        ]
+      }
+    }
+  ]
+}
