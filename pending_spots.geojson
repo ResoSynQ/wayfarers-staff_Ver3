@@ -6,6 +6,44 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "ハウスビワの出荷始まる　南房総市のJA安房富浦支店で査定会（千葉県）(房日新聞)",
+        "name": "JA安房富浦支店",
+        "address": "",
+        "reason": "旬の味覚と生産者の情熱に触れられる",
+        "date": "2026-04-26",
+        "link": "https://news.yahoo.co.jp/articles/b8ab33664f3236f0eff92413ebac84856bd64b8f?source=rss"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8367913,
+          35.0472673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "【桜坂劇場・下地久美子の映画コレ見た？】『オールド・オーク』荒廃する町に希望の光(沖縄タイムス)",
+        "name": "桜坂劇場",
+        "address": "",
+        "reason": "映画の舞台となる場所への訪問意欲を掻き立てる",
+        "date": "2026-04-26",
+        "link": "https://news.yahoo.co.jp/articles/690c48164b5d1b4766f44c27ea71042936b2c923?source=rss"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.6901384,
+          26.2147706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "将棋の第84期名人戦第2局始まる／青森市で47年ぶり(陸奥新報)",
         "name": "青森県庁",
         "address": "",
