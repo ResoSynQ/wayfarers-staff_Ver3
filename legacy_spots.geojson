@@ -704,6 +704,38 @@
           34.68652863
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "せかいが聞こえる伝話",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【せかいが聞こえる伝話】</b><br>📅 期間: 2026/04/23 ～ 2026/05/29<br>📝 大阪・関西万博で話題を集めた体験型アート作品が京都に登場。会場の電話の番号を押すと物語が聞こえてくる仕組みで、「他者とのつながり」を感じられる展示です。KYOTOGRAPHIEのキッズプログラムも同時開催されています。<br><br><a href='https://www.ntt-west.co.jp/newscms/kyoto/15193/kyoto_n20260423a.pdf' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "iconType": "myakumyaku_v4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7603174,
+          35.00889622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）大阪・関西万博の『スマートポール』移設",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【大阪・関西万博の『スマートポール』移設】</b><br>📅 期間: 2026/05/01 ～ 常設<br>📝 大阪・関西万博の「未来の都市」パビリオン前に設置されていた多機能ポール『スマートポール』が、神戸のウォーターフロントエリアへ移設されました。5月1日の夕方から点灯が開始され、神戸の海辺の景色を新たに彩ります。<br><br><a href='https://kobe-journal.com/archives/7547745875.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "iconType": "myakumyaku_v4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.1962346,
+          34.68451181
+        ]
+      }
     }
   ]
 }
