@@ -6,6 +6,25 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "将棋の第84期名人戦第2局始まる／青森市で47年ぶり(陸奥新報)",
+        "name": "青森県庁",
+        "address": "",
+        "reason": "歴史的な将棋対局が47年ぶりに開催される希少性",
+        "date": "2026-04-26",
+        "link": "https://news.yahoo.co.jp/articles/0c23a458fbfdebdaf3c9fc00fc4226cde79ce85a?source=rss"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.7399984,
+          40.824307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "砺波ＩＣ前にチューリップ　砺波地域の２ＬＣ、フェア客歓迎(北日本新聞)",
         "name": "砺波IC（北陸自動車道）",
         "address": "",
