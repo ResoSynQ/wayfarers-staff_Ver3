@@ -608,6 +608,86 @@
           34.56016854
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）EXPO2025 OFFICIAL CAFE らぽっぽリンクス梅田店（4/27より）",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【EXPO2025 OFFICIAL CAFE らぽっぽリンクス梅田店（4/27より）】</b><br>📅 期間: 2026/04/27 ～ 2026/10/31<br>📝 リンクス梅田に登場した「EXPO2025 OFFICIAL CAFE らぽっぽリンクス梅田店」は、万博で話題になった「ミャクミャク焼き」をはじめ、ミャクミャクの世界観を五感で楽しめる公式カフェです。店内は思わず写真を撮りたくなる没入感ある空間で、ここだけの限定メニューも用意。見る・味わう・感じるを通して、万博の記憶をもう一度楽しめる特別なスポットです！\n<br><br><a href='https://lapoppo.com/expo2025-oc/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "iconType": "myakumyaku_v4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4961995,
+          34.704692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "大阪府立上方演芸資料館（ワッハ上方）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【大阪府立上方演芸資料館（ワッハ上方）】</b><br>📅 期間: 2026/04/25 ～ 常設<br>📝 ワッハ上方ではSNSフォローキャンペーンを開催中！\r\n館内観覧後にSNSのフォロー画面を提示すると、缶バッジをプレゼント。\r\n展示を楽しんだ記念に、ぜひ持ち帰ってみてください！<br><br><a href='https://x.com/wkamigata/status/2047612623978643853?s=43&t=Spz9-6o9mDMe00Tl3EPxfg' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "iconType": "myakumyaku_v4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5032485,
+          34.66472733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "インドネシア館にあったラタンのランプシェード群",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【インドネシア館にあったラタンのランプシェード群】</b><br>📅 期間: 2026/04/25 ～ 常設<br>📝 奈良・TEN.TEN.CAFE東大寺店は、ランチやスイーツを楽しめる人気カフェですが、今注目したいのは、大阪・関西万博インドネシア館にあったラタンのランプシェード群が受け継がれていることです。店内には、万博で来場者の目を引いた温かみのある編み込み照明が並び、奈良にいながら異国情緒あふれる空間を味わえます。東大寺や奈良公園の散策途中に立ち寄りやすく、キッズスペースやテラス席も備えているため、子ども連れやわんちゃん連れでも利用しやすいのが魅力。記念スタンプもあり、万博レガシーを感じられる特別なカフェスポットとして楽しめます。<br><br><a href='\r\nhttps://www.instagram.com/p/DV27S5tgCCL/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "iconType": "myakumyaku_v4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8392724,
+          34.68442449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ルクセンブルクパビリオンのボウリング遊具",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ルクセンブルクパビリオンのボウリング遊具】</b><br>📅 期間: 2026/04/25 ～ 常設<br>📝 大阪・関西万博ルクセンブルク館で使われたボウリング遊具が、三重県立鈴鹿青少年センター「スズカト」に移設・設置されました。<br><br><a href='https://suzukato.jp/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "iconType": "myakumyaku_v4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.5382296,
+          34.85636787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "タイ館のゾウのモニュメントの複製",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【タイ館のゾウのモニュメントの複製】</b><br>📅 期間: 2026/03/01 ～ 常設<br>📝 大阪・関西万博のタイパビリオンで来場者を迎えた、親子のゾウのモニュメントの複製。タイパビリオンの「大きな幸福のため、命に力を与える」と理念に心を動かされた東大阪市の池田病院が、タイの制作会社に依頼して複製を自費で制作を依頼し、病院の関連施設、総合健康づくりセンターＨｏｌｌｙ　ＥＩＷＡに設置した作品です。<br><br><a href='https://www.holly-eiwa.co.jp/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "iconType": "myakumyaku_v4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5742292,
+          34.66349193
+        ]
+      }
     }
   ]
 }

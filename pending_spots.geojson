@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "approval_status": "WAITING",
+  "approval_status": "OK",
   "features": [
     {
       "type": "Feature",
