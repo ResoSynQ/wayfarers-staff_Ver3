@@ -113,7 +113,6 @@ function renderGeoJson(key, bounds = null) {
         },
         pointToLayer: function(feature, latlng) {
             if (key === 'live_trend' || key === 'live_flower' || key === 'live_local') {
-                
                 const linkHtml = feature.properties.link ? `<br><a href="${feature.properties.link}" target="_blank" style="display:inline-block; margin-top:8px; padding:6px 12px; background:${def.color}; color:#fff; text-decoration:none; border-radius:6px; font-size:0.9em; font-weight:bold; box-shadow:0 2px 4px rgba(0,0,0,0.2);">📰 ニュースを見る</a>` : '';
 
                 return L.circleMarker(latlng, {
@@ -139,6 +138,13 @@ function renderGeoJson(key, bounds = null) {
                 weight: 2,
                 fillOpacity: 0.8
             });
+
+            // ▼ 【新設】万博レガシーで「STORE」なら青ピン（icons.blue）を立てる！！
+            if (key === 'legacy_spots' && feature.properties.isStore) {
+                return L.marker(latlng, { icon: icons.blue });
+            }
+
+            // それ以外（通常レガシー含む）はデフォルト設定のピン（赤）！
             return L.marker(latlng, { icon: def.icon || new L.Icon.Default() });
         },
         style: def.style,
@@ -157,7 +163,6 @@ function renderGeoJson(key, bounds = null) {
                     </div>
                 `);
                 return;
-            
             }
             if (def.isLegacy) {
                 layer.bindPopup(`<div style="min-width:200px;">${feature.properties.popupContent}</div>`);
