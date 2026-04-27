@@ -6,25 +6,6 @@
       "type": "Feature",
       "properties": {
         "category": "local",
-        "trend_word": "ハウスビワの出荷始まる　南房総市のJA安房富浦支店で査定会（千葉県）(房日新聞)",
-        "name": "JA安房富浦支店",
-        "address": "",
-        "reason": "旬の味覚と生産者の情熱に触れられる",
-        "date": "2026-04-26",
-        "link": "https://news.yahoo.co.jp/articles/b8ab33664f3236f0eff92413ebac84856bd64b8f?source=rss"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.8367913,
-          35.0472673
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "local",
         "trend_word": "【桜坂劇場・下地久美子の映画コレ見た？】『オールド・オーク』荒廃する町に希望の光(沖縄タイムス)",
         "name": "桜坂劇場",
         "address": "",
@@ -35,8 +16,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.6901384,
-          26.2147706
+          127.69008124819284,
+          26.214989523857465
         ]
       }
     },
@@ -44,65 +25,8 @@
       "type": "Feature",
       "properties": {
         "category": "local",
-        "trend_word": "将棋の第84期名人戦第2局始まる／青森市で47年ぶり(陸奥新報)",
-        "name": "青森県庁",
-        "address": "",
-        "reason": "歴史的な将棋対局が47年ぶりに開催される希少性",
-        "date": "2026-04-26",
-        "link": "https://news.yahoo.co.jp/articles/0c23a458fbfdebdaf3c9fc00fc4226cde79ce85a?source=rss"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.7399984,
-          40.824307
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "local",
-        "trend_word": "砺波ＩＣ前にチューリップ　砺波地域の２ＬＣ、フェア客歓迎(北日本新聞)",
-        "name": "砺波IC（北陸自動車道）",
-        "address": "",
-        "reason": "チューリップで彩られたIC前が、フェアの賑わいとともに訪れる人を歓迎してくれる",
-        "date": "2026-04-25",
-        "link": "https://news.yahoo.co.jp/articles/5b6c445e32c573c04f699b4a9f869db88ff3b2eb?source=rss"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          136.9529371,
-          36.6247917
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "local",
-        "trend_word": "姫路で「きらきら子どもフェス」　100組がおんぶ日本記録に挑戦企画も(みんなの経済新聞ネットワーク)",
-        "name": "姫路市役所",
-        "address": "",
-        "reason": "子供が楽しめるイベントで、記録挑戦企画もあるため",
-        "date": "2026-04-25",
-        "link": "https://news.yahoo.co.jp/articles/db3da5f6a9988c545b4c8d9a9c0c17c63cc9dc4b?source=rss"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          134.685352,
-          34.8151489
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "local",
-        "trend_word": "福井・鯖江で音楽フェス開催へ　第1弾アーティストに氣志團ら7組(みんなの経済新聞ネットワーク)",
-        "name": "鯖江市役所",
+        "trend_word": "10月11日・12日 福井・鯖江で音楽フェス開催へ　第1弾アーティストに氣志團ら7組(みんなの経済新聞ネットワーク)",
+        "name": "西山公園",
         "address": "",
         "reason": "音楽フェス開催と人気アーティストの出演",
         "date": "2026-04-25",
@@ -111,8 +35,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          136.1844733,
-          35.9565524
+          136.18182770424394,
+          35.950545657302406
         ]
       }
     }
