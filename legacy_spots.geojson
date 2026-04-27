@@ -816,6 +816,22 @@
           34.706274
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ポーランドパビリオンの「もみじの木」",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ポーランドパビリオンの「もみじの木」】</b><br>📅 期間: 2026/01/29 ～ 常設<br>📝 打上川治水緑地に大阪・関西万博ポーランドパビリオンの「もみじの木」が移植されました。<br><br><a href='https://www.city.neyagawa.osaka.jp/material/files/group/20/2603fot.pdf' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "iconType": "myakumyaku_v4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6364883,
+          34.76585773
+        ]
+      }
     }
   ]
 }
