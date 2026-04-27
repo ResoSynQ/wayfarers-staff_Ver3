@@ -6,6 +6,44 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "伊豆のクリエーター集結「開国てづくり市」　初の南伊豆開催(みんなの経済新聞ネットワーク)",
+        "name": "南伊豆町役場",
+        "address": "",
+        "reason": "手作り品に興味があり、南伊豆の自然も楽しめそうだから",
+        "date": "2026-04-28",
+        "link": "https://news.yahoo.co.jp/articles/c230d185ffa95eb2c95ce361e0b5db757d708d6a?source=rss"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.8585266,
+          34.6510919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "「富士山の巨大壁画」をモザイクアートで再現　旧神戸新聞会館の歴史を振り返るパネル展　ミント神戸(ラジトピ　ラジオ関西トピックス)",
+        "name": "ミント神戸",
+        "address": "",
+        "reason": "歴史的建造物のモザイクアートとパネル展で興味を引く",
+        "date": "2026-04-28",
+        "link": "https://news.yahoo.co.jp/articles/27b40b99666042b23fdd9bd02eef087e4e9303ea?source=rss"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.19602854,
+          34.69440504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "【桜坂劇場・下地久美子の映画コレ見た？】『オールド・オーク』荒廃する町に希望の光(沖縄タイムス)",
         "name": "桜坂劇場",
         "address": "",
