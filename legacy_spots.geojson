@@ -1040,6 +1040,22 @@
           34.64630203
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）『INTER-WORLD/Cocooner: Apparent motion of celestial bodies』／奥中章人",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【『INTER-WORLD/Cocooner: Apparent motion of celestial bodies』／奥中章人】</b><br>📅 期間: 2026/5/23 ～ 20265/31<br>📝 奥中章人氏による、空気・水・太陽の現象を増幅させる「柔らかい彫刻」です。作品名「Cocooner」には、人類が人間中心主義という繭（まゆ）から脱皮し、より広い宇宙的な存在として羽ばたいてほしいという願いが込められています。自然と人との関わりを体感できるアート作品です。<br><br><a href='https://prtimes.jp/main/html/rd/p/000000041.000090122.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6898012,
+          35.68949281
+        ]
+      }
     }
   ]
 }
