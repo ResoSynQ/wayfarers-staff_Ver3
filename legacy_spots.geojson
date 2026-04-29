@@ -36,8 +36,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "（予定）EARTH MARTの展示物「いのちのはかり」城宮跡歴史公園天平みつき館のちのはかり」",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【EARTH MARTの展示物「いのちのはかり」城宮跡歴史公園天平みつき館のちのはかり」】</b><br>📅 期間: 2026/04/29 ～ 常設<br>📝 EARTH MARTの「いのちのはかり」を奈良の食の拠点づくりへ生かす取り組みです。<br><br><a href='https://www.pref.nara.lg.jp/n153/p034015.html' target='_blank'>🔗 詳細を開く</a>",
+        "name": "EARTH MARTの展示物「いのちのはかり」城宮跡歴史公園天平みつき館のちのはかり」",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【EARTH MARTの展示物「いのちのはかり」城宮跡歴史公園天平みつき館のちのはかり」】</b><br>📅 期間: 2026/04/29 ～ 常設<br>📝 EARTH MARTの「いのちのはかり」を奈良の食の拠点づくりへ生かす取り組みです。<br><br><a href='https://www.pref.nara.lg.jp/n153/p034015.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false
       },
@@ -132,8 +132,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "（予定）ワンハンドBENTO by ほっかほっか亭を常設出店",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【ワンハンドBENTO by ほっかほっか亭を常設出店】</b><br>📅 期間: 2026/04/29 ～ 常設<br>📝 万博グルメで22万食を記録したワンハンドBENTOが常設店に登場！あべのハルカス近鉄本店 で気軽に味わえるよ！<br><br><a href='https://prtimes.jp/main/html/rd/p/000000231.000024682.html' target='_blank'>🔗 詳細を開く</a>",
+        "name": "ワンハンドBENTO by ほっかほっか亭を常設出店",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ワンハンドBENTO by ほっかほっか亭を常設出店】</b><br>📅 期間: 2026/04/29 ～ 常設<br>📝 万博グルメで22万食を記録したワンハンドBENTOが常設店に登場！あべのハルカス近鉄本店 で気軽に味わえるよ！<br><br><a href='https://prtimes.jp/main/html/rd/p/000000231.000024682.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false
       },
@@ -692,8 +692,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "（予定）【限定30組事前抽選】ミャクミャク・せんとくんとの写真撮影会",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【【限定30組事前抽選】ミャクミャク・せんとくんとの写真撮影会】</b><br>📅 期間: 2026/04/29 ～ 2026/04/29<br>📝 奈良県は、大阪・関西万博レガシー「いのちのはかり」のお披露目を記念し、4月29日に平城宮跡歴史公園でミャクミャク・せんとくんとの写真撮影会を開催します。開催は13時30分と16時の2回、各回30組限定。参加は事前抽選制で、応募は4月26日24時まで、結果は4月27日17時ごろに通知予定です。当選者のみ撮影に参加でき、当日は当選メールの提示が必要です<br><br><a href='https://www.pref.nara.lg.jp/n153/p034020.html' target='_blank'>🔗 詳細を開く</a>",
+        "name": "【限定30組事前抽選】ミャクミャク・せんとくんとの写真撮影会",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【【限定30組事前抽選】ミャクミャク・せんとくんとの写真撮影会】</b><br>📅 期間: 2026/04/29 ～ 2026/04/29<br>📝 奈良県は、大阪・関西万博レガシー「いのちのはかり」のお披露目を記念し、4月29日に平城宮跡歴史公園でミャクミャク・せんとくんとの写真撮影会を開催します。開催は13時30分と16時の2回、各回30組限定。参加は事前抽選制で、応募は4月26日24時まで、結果は4月27日17時ごろに通知予定です。当選者のみ撮影に参加でき、当日は当選メールの提示が必要です<br><br><a href='https://www.pref.nara.lg.jp/n153/p034020.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false
       },
@@ -1054,6 +1054,54 @@
         "coordinates": [
           139.6898012,
           35.68949281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "コミャクモニュメント「時空の広場」",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【コミャクモニュメント「時空の広場」】</b><br>📅 期間: 常設 / 時期----<br>📝 大阪・関西万博のデザインシステムで「いのち」を象徴するエレメント「こみゃく」が万博のソフトレガシーとして、大阪駅のステーションシティ「時空の広場」にて「EXPO OSAKA STATION」のモニュメントとして展示中。<br><br><a href='' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4959639,
+          34.70236443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "太陽の広場前「ミャクミャク いらっしゃい」",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【太陽の広場前「ミャクミャク いらっしゃい」】</b><br>📅 期間: 時期---- ～ 2026/05/31<br>📝 「ミャクミャクモニュメント」が期間限定で設置されています。太陽の広場では「いらっしゃい」のポーズでお出迎え。新緑が美しいこの季節に、今しか見られない貴重な姿にぜひ会いに来てください。<br><br><a href='https://www.expo70-park.jp/event/75690/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5324761,
+          34.80838525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "平和のバラ園前「ミャクミャク ワクワク」",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【平和のバラ園前「ミャクミャク ワクワク」】</b><br>📅 期間: 時期---- ～ 2026/05/31<br>📝 「ミャクミャクモニュメント」が期間限定で設置されています。平和のバラ園前では「ワクワク」のポーズでお出迎え。新緑が美しいこの季節に、今しか見られない貴重な姿にぜひ会いに来てください。<br><br><a href='https://www.expo70-park.jp/event/75690/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5323992,
+          34.81275783
         ]
       }
     }
