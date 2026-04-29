@@ -5,6 +5,82 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "10月11日・12日 福井・鯖江で音楽フェス開催へ　第1弾アーティストに氣志團ら7組(みんなの経済新聞ネットワーク)",
+        "name": "西山公園",
+        "address": "",
+        "reason": "音楽フェス開催と人気アーティストの出演",
+        "date": "2026-04-25",
+        "link": "https://news.yahoo.co.jp/articles/3dcb1838266e2a4d608797ddf01a1e61c52a98d1?source=rss"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.18182770424394,
+          35.950545657302406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "【桜坂劇場・下地久美子の映画コレ見た？】『オールド・オーク』荒廃する町に希望の光(沖縄タイムス)",
+        "name": "桜坂劇場",
+        "address": "",
+        "reason": "映画の舞台となる場所への訪問意欲を掻き立てる",
+        "date": "2026-04-26",
+        "link": "https://news.yahoo.co.jp/articles/690c48164b5d1b4766f44c27ea71042936b2c923?source=rss"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.69008124819284,
+          26.214989523857465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "「富士山の巨大壁画」をモザイクアートで再現　旧神戸新聞会館の歴史を振り返るパネル展　ミント神戸(ラジトピ　ラジオ関西トピックス)",
+        "name": "ミント神戸",
+        "address": "",
+        "reason": "歴史的建造物のモザイクアートとパネル展で興味を引く",
+        "date": "2026-04-28",
+        "link": "https://news.yahoo.co.jp/articles/27b40b99666042b23fdd9bd02eef087e4e9303ea?source=rss"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.1960500300461,
+          34.69453103367957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "伊豆のクリエーター集結「開国てづくり市」　初の南伊豆開催(みんなの経済新聞ネットワーク)",
+        "name": "開国てづくり市（ピンの位置は観光案内所）",
+        "address": "",
+        "reason": "手作り品に興味があり、南伊豆の自然も楽しめそうだから",
+        "date": "2026-04-28",
+        "link": "https://news.yahoo.co.jp/articles/c230d185ffa95eb2c95ce361e0b5db757d708d6a?source=rss"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.8666865697628,
+          34.64968867905211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "「舞台をみているようで、すばらしい!」南信州・阿智村「ハナモモ」見ごろ…約4キロにわたって5000本余りの「ハナモモ」赤、白、ピンクのグラデーション楽しむ(ＳＢＣ信越放送)",
         "name": "阿智村役場",
         "address": "",

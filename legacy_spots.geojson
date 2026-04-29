@@ -1104,6 +1104,54 @@
           34.81275783
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "2025年大阪・関西万博ロゴシンボルモニュメント",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【2025年大阪・関西万博ロゴシンボルモニュメント】</b><br>📅 期間: 2024/03/30 ～ 常設<br>📝 万博の記憶を残すロゴシンボルモニュメント<br><br><a href='https://www.city.osaka.lg.jp/konohana/page/0000623590.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4577586,
+          34.68638324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CELL ART（こみゃく）2体",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【CELL ART（こみゃく）2体】</b><br>📅 期間: 2025/06/04 ～ 常設<br>📝 いのちを象徴する2体の「こみゃく（CELL ART）」が設置されています。広く親しまれたこみゃくの多様な姿は、個とつながりの象徴です。<br><br><a href='https://www.city.osaka.lg.jp/konohana/page/0000623590.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4577353,
+          34.68642061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "こみゃく（※MUIC Kansai施設内）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【こみゃく（※MUIC Kansai施設内）】</b><br>📅 期間: 2023/06/08 ～ 常設<br>📝 いのちを象徴する「こみゃく」が設置されています。広く親しまれたこみゃくの多様な姿は、個とつながりの象徴です。<br><br><a href='https://www.muic-kansai.jp/news/20230608.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5012244,
+          34.68916995
+        ]
+      }
     }
   ]
 }
