@@ -1184,6 +1184,22 @@
           34.68305127
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）ナウル共和国パビリオン アフター万博「麦食音祭」出展",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【ナウル共和国パビリオン アフター万博「麦食音祭」出展】</b><br>📅 期間: 2026/5/2 ～ 2026/5/3<br>📝 ナウル共和国パビリオンは、アフター万博「麦食音祭」で、ナウル総人口に相当する12,000人分の限定ポストカードを先着順で無料配布することを決定しました！！<br><br><a href='https://nauru.base.shop/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.53237,
+          34.81060262
+        ]
+      }
     }
   ]
 }
