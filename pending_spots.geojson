@@ -6,6 +6,25 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "【兵庫県宍粟市】定例発表実施　新公園開設・教育施策を述べる　フォトコン最優秀賞受賞者への表彰式も(ラジトピ　ラジオ関西トピックス)",
+        "name": "宍粟市役所",
+        "address": "",
+        "reason": "新公園開設や教育施策、フォトコン表彰式など、地域活動に魅力",
+        "date": "2026-05-01",
+        "link": "https://news.yahoo.co.jp/articles/a70f2de31124cda56e300507deaa07e28323b0dd?source=rss"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5494657,
+          35.0044166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "伊豆のクリエーター集結「開国てづくり市」　初の南伊豆開催(みんなの経済新聞ネットワーク)",
         "name": "開国てづくり市（ピンの位置は観光案内所）",
         "address": "",
