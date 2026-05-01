@@ -1269,7 +1269,7 @@
       "type": "Feature",
       "properties": {
         "name": "国営ナウル共和国石切参道パビリオン／ナウル屋",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【国営ナウル共和国石切参道パビリオン／ナウル屋】</b><br>📅 期間: 時期---- ～ ----<br>📝 ナウル共和国石切参道パビリオン、ナウル共和国政府観光局の公式グッズ販売店<br><br><a href='https://www.instagram.com/nauruya_higashiosaka/' target='_blank'>🔗 詳細を開く</a>",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【国営ナウル共和国石切参道パビリオン／ナウル屋】</b><br>📅 期間: 2025/12/07 ～ ----<br>📝 ナウル共和国石切参道パビリオン、ナウル共和国政府観光局の公式グッズ販売店<br><br><a href='https://www.instagram.com/nauruya_higashiosaka/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false
       },
@@ -1278,6 +1278,102 @@
         "coordinates": [
           135.6490291,
           34.68162292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ナウル共和国パビリオン「ナウル台座」",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ナウル共和国パビリオン「ナウル台座」】</b><br>📅 期間: 常設 / 時期----<br>📝 万博で展示物が届かず「心がきれいな人には見える」とSNSで話題を呼んだナウル共和国の空の台座。展示物遅延を逆手にとったSNS投稿で万博を沸かせた同国の展示や他国の品々が、交流協定を結ぶ東大阪市役所22階に移設されています。<br><br><a href='https://www.city.kashiwara.lg.jp/docs/2025121800023/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.600985,
+          34.67946491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）ポルトガル館のロープ",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【ポルトガル館のロープ】</b><br>📅 期間: 2026/05/07 ～ ----<br>📝 市民交流センターwakkaにてポルトガル館の外壁に飾られていたロープが設置されています。このロープは海洋国家ポルトガルの帆船や波を表現し、リサイクル漁網などのサステナブルな素材が使用されています。<br><br><a href='https://www.city.kashiwara.lg.jp/docs/2025121800023/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6335513,
+          34.57642579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ポルトガル館のロープ",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ポルトガル館のロープ】</b><br>📅 期間: 2026/02/24 ～ ----<br>📝 天神橋筋4丁目北商店街にてポルトガル館の外壁に飾られていたロープが設置されています。このロープは海洋国家ポルトガルの帆船や波を表現し、リサイクル漁網などのサステナブルな素材が使用されています。<br><br><a href='https://osaka-shotengai-info.com/bampaku/tenyonkita/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5113526,
+          34.70768033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ポルトガル館のロープ",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ポルトガル館のロープ】</b><br>📅 期間: 2026/02/24 ～ ----<br>📝 天神橋筋5丁目北商店街にてポルトガル館の外壁に飾られていたロープが設置されています。このロープは海洋国家ポルトガルの帆船や波を表現し、リサイクル漁網などのサステナブルな素材が使用されています。<br><br><a href='https://osaka-shotengai-info.com/bampaku/tenyonkita/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5113795,
+          34.70563459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）クラゲ館の音響体験「わたしを聴く」2日間限定復活",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【クラゲ館の音響体験「わたしを聴く」2日間限定復活】</b><br>📅 期間: 2026/05/30 ～ 2026/05/31<br>📝 御茶ノ水 RITTOR BASE大阪・関西万博の「いのちの遊び場 クラゲ館」で大人気だった没入型立体音響体験「わたしを聴く」が、5月30日・31日の2日間限定で東京・御茶ノ水のRITTOR BASEにサウンドインスタレーションとして復活！<br><br><a href='https://prtimes.jp/main/html/rd/p/000000087.000134299.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7627238,
+          35.69921988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）null²ⁿ（ヌルヌルネクサス）",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【null²ⁿ（ヌルヌルネクサス）】</b><br>📅 期間: 2026年中 ～ 常設<br>📝 横浜ランドマークタワーにイマーシブシアター「null²ⁿ（ヌルヌルネクサス）」が登場！<br><br><a href='https://null2.nexus/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6314074,
+          35.45512879
         ]
       }
     }
