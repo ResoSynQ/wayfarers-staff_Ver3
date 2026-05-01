@@ -1189,7 +1189,7 @@
       "type": "Feature",
       "properties": {
         "name": "（予定）ナウル共和国パビリオン アフター万博「麦食音祭」出展",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【ナウル共和国パビリオン アフター万博「麦食音祭」出展】</b><br>📅 期間: 2026/5/2 ～ 2026/5/3<br>📝 ナウル共和国パビリオンは、アフター万博「麦食音祭」で、ナウル総人口に相当する12,000人分の限定ポストカードを先着順で無料配布することを決定しました！！<br><br><a href='https://nauru.base.shop/' target='_blank'>🔗 詳細を開く</a>",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【ナウル共和国パビリオン アフター万博「麦食音祭」出展】</b><br>📅 期間: 2026/5/2 ～ 常設<br>📝 ナウル共和国パビリオンは、アフター万博「麦食音祭」で、ナウル総人口に相当する12,000人分の限定ポストカードを先着順で無料配布することを決定しました！！<br><br><a href='https://nauru.base.shop/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false
       },
@@ -1237,7 +1237,7 @@
       "type": "Feature",
       "properties": {
         "name": "（予定）Dialogue　Theater（ダイアローグ・シアター）－いのちのあかし－",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【Dialogue　Theater（ダイアローグ・シアター）－いのちのあかし－】</b><br>📅 期間: 2028年予定 ～ ----<br>📝 （ピンは泉佐野丘陵緑地の代表地点です）\n大阪・関西万博で河瀬直美氏が手掛けたパビリオン「ダイアローグ・シアター」が大阪府泉佐野市へ移設されます。もともとは京都の旧中出分校を活用した施設で、文化・交流拠点として2028年度中の開館を目指します。樹齢100年のイチョウも共に移されるとのこと。\n<br><br><a href='https://news.yahoo.co.jp/articles/f1906c5123834e85d2424e4bf7d99da119755c65' target='_blank'>🔗 詳細を開く</a>",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【Dialogue　Theater（ダイアローグ・シアター）－いのちのあかし－】</b><br>📅 期間: 2028年予定 ～ ----<br>📝 （ピンは泉佐野丘陵緑地の代表地点です）大阪・関西万博で河瀬直美氏が手掛けたパビリオン「ダイアローグ・シアター」が大阪府泉佐野市へ移設されます。もともとは京都の旧中出分校を活用した施設で、文化・交流拠点として2028年度中の開館を目指します。樹齢100年のイチョウも共に移されるとのこと。\n<br><br><a href='https://news.yahoo.co.jp/articles/f1906c5123834e85d2424e4bf7d99da119755c65' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false
       },
@@ -1349,7 +1349,7 @@
       "type": "Feature",
       "properties": {
         "name": "（予定）クラゲ館の音響体験「わたしを聴く」2日間限定復活",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【クラゲ館の音響体験「わたしを聴く」2日間限定復活】</b><br>📅 期間: 2026/05/30 ～ 2026/05/31<br>📝 御茶ノ水 RITTOR BASE大阪・関西万博の「いのちの遊び場 クラゲ館」で大人気だった没入型立体音響体験「わたしを聴く」が、5月30日・31日の2日間限定で東京・御茶ノ水のRITTOR BASEにサウンドインスタレーションとして復活！<br><br><a href='https://prtimes.jp/main/html/rd/p/000000087.000134299.html' target='_blank'>🔗 詳細を開く</a>",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【クラゲ館の音響体験「わたしを聴く」2日間限定復活】</b><br>📅 期間: 2026/05/30 ～ 常設<br>📝 御茶ノ水 RITTOR BASE大阪・関西万博の「いのちの遊び場 クラゲ館」で大人気だった没入型立体音響体験「わたしを聴く」が、5月30日・31日の2日間限定で東京・御茶ノ水のRITTOR BASEにサウンドインスタレーションとして復活！<br><br><a href='https://prtimes.jp/main/html/rd/p/000000087.000134299.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false
       },
@@ -1374,6 +1374,70 @@
         "coordinates": [
           139.6314074,
           35.45512879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）null⁴（テトラﾇﾙ）",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【null⁴（テトラﾇﾙ）】</b><br>📅 期間: 2027/03/19 ～ 2027/09/26<br>📝 大阪・関西万博で大反響を呼んだ落合陽一氏の「null²」が、「null⁴（テトラﾇﾙ）」として新たな姿へと転生！2027年開催の「GREEN×EXPO 2027（SATOYAMA Village）」に登場します。今回はインド思想「テトラレンマ」を冠する4棟のタワーと、チベット仏教の巨大なマニ車のような回転オブジェで構成。会場の花や空、風、そして来場者の影を回転する鏡面に取り込み、風景を変換しながらインタラクティブな空間を表現するとのこと。<br><br><a href='https://expo2027.digitalnatureandarts.or.jp/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4865773,
+          35.49128031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）マイドオオキニ大阪・関西万博缶",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【マイドオオキニ大阪・関西万博缶】</b><br>📅 期間: 2026/05/27 ～ 2026/06/02<br>📝 MVPスイーツ「 太陽ノ塔洋菓子店 POP UP 」場所：大丸東京店 1階 MVPスイーツ 個数制限：お一人様３個まで<br><br><a href='https://taiyounotou.com/%E3%82%81%E3%81%A3%E3%81%A1%E3%82%83%E3%83%9E%E3%82%A4%E3%83%89%E3%82%AA%E3%82%AA%E3%82%AD%E3%83%8B-%E5%A4%A7%E9%98%AA%E9%96%A2%E8%A5%BF%E4%B8%87%E5%8D%9A%E7%BC%B6/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7688255,
+          35.68176209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）なでしこジャパンVS南アフリカ女子代表　ミャクミャク\n来場",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【なでしこジャパンVS南アフリカ女子代表　ミャクミャク\n来場】</b><br>📅 期間: 2026/06/06 ～ 2026/06/06<br>📝 なでしこジャパンの試合に、スペシャルゲストとして大阪・関西万博キャラクター　ミャクミャク\nの来場が決定！<br><br><a href='https://jfa.jp/nadeshikojapan/lp/20260606/?utm_source=x&utm_medium=sns&utm_campaign=NJ20260606_x_sns_nadeshikox_myaku' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5186119,
+          34.61420894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "万博報道写真展「受け継がれる異形の血脈」",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【万博報道写真展「受け継がれる異形の血脈」】</b><br>📅 期間: 時期---- ～ 2026/05/05<br>📝 あべのハルカス近鉄本店で開催中の「大阪・関西万博報道写真展」では、ミャクミャクや公式ロゴの誕生秘話がわかる貴重な資料の展示に加え、制作者のシマダタモツ氏がデザインした実際に触れられる信楽焼オブジェ「CELL ART」も体験できます。<br><br><a href='https://news.yahoo.co.jp/articles/ac6bb849b5ad46fad3ab42077b1cbf9fdb6a17a2' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5133828,
+          34.64628435
         ]
       }
     }
