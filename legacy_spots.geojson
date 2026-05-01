@@ -1221,7 +1221,7 @@
       "type": "Feature",
       "properties": {
         "name": "（予定）大阪万博石黒館のアンドロイド",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【大阪万博石黒館のアンドロイド】</b><br>📅 期間: 2026/05/09 ～ 常設<br>📝 大阪・関西万博のシグネチャーパビリオン「いのちの未来」で展示されていたアンドロイド計3体が東京都多摩市の「長谷工マンションミュージアム」に移設されました。<br><br><a href='https://www.nikkei.com/article/DGXZQOUC304D50Q6A430C2000000/' target='_blank'>🔗 詳細を開く</a>",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【大阪万博石黒館のアンドロイド】</b><br>📅 期間: 2026/05/09 ～ ----<br>📝 大阪・関西万博のシグネチャーパビリオン「いのちの未来」で展示されていたアンドロイド計3体が東京都多摩市の「長谷工マンションミュージアム」に移設されました。<br><br><a href='https://www.nikkei.com/article/DGXZQOUC304D50Q6A430C2000000/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false
       },
@@ -1246,6 +1246,38 @@
         "coordinates": [
           135.3314389,
           34.36788535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（ランチ限定）「ナウル飯2種」東大阪市役所22階レストラン　",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【（ランチ限定）「ナウル飯2種」東大阪市役所22階レストラン　】</b><br>📅 期間: 2025/11/25 ～ ----<br>📝 万博を機に交流を深める東大阪市とナウル共和国。市役所22階の展望レストランでは現在、パビリオン総監督の助言で作られた「ナウル飯」2種を限定提供中！名物の魚＆ココナツ料理で全国のファンをおもてなし！<br><br><a href='https://www.city.higashiosaka.lg.jp/0000015184.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6008228,
+          34.67942527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "国営ナウル共和国石切参道パビリオン／ナウル屋",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【国営ナウル共和国石切参道パビリオン／ナウル屋】</b><br>📅 期間: 時期---- ～ ----<br>📝 ナウル共和国石切参道パビリオン、ナウル共和国政府観光局の公式グッズ販売店<br><br><a href='https://www.instagram.com/nauruya_higashiosaka/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6490291,
+          34.68162292
         ]
       }
     }
