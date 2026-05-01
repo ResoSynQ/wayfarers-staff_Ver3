@@ -6,6 +6,44 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "5日まで愛好団体がラン展　鴨川（千葉県）(房日新聞)",
+        "name": "鴨川市役所",
+        "address": "",
+        "reason": "ラン展の開催情報に魅力を感じ、訪れたいと思わせる",
+        "date": "2026-05-02",
+        "link": "https://news.yahoo.co.jp/articles/f0997af07fb453f0b52b38765dfc11a7577099c2?source=rss"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0987105,
+          35.1139863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "【南島原そうめん】“ふし” が世界を平和に　絵本でふるさとのおいしい魅力をPR《長崎》(長崎国際テレビ)",
+        "name": "南島原市役所",
+        "address": "",
+        "reason": "絵本で紹介されたそうめんの魅力を現地で体験したい",
+        "date": "2026-05-02",
+        "link": "https://news.yahoo.co.jp/articles/ba48e031ccf72b275581ccf784d700d21ced82dd?source=rss"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.2978634,
+          32.6597769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "【兵庫県宍粟市】定例発表実施　新公園開設・教育施策を述べる　フォトコン最優秀賞受賞者への表彰式も(ラジトピ　ラジオ関西トピックス)",
         "name": "宍粟市役所",
         "address": "",
