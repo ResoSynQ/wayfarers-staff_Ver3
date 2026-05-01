@@ -20,8 +20,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "（予定）麦食音祭2026 ～ アフターEXPO ～",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【麦食音祭2026 ～ アフターEXPO ～】</b><br>📅 期間: 2026/05/01 ～ 2026/05/06<br>📝 万博の熱気を次世代へつなぐ大型フェス「麦食音祭2026」が開催します。<br><br><a href='https://www.instagram.com/bakushoku_afterexpo' target='_blank'>🔗 詳細を開く</a>",
+        "name": "麦食音祭2026 ～ アフターEXPO ～",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【麦食音祭2026 ～ アフターEXPO ～】</b><br>📅 期間: 2026/05/01 ～ 2026/05/06<br>📝 万博の熱気を次世代へつなぐ大型フェス「麦食音祭2026」が開催します。<br><br><a href='https://www.instagram.com/bakushoku_afterexpo' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false
       },
@@ -52,8 +52,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "（予定）大阪ヘルスケアパビリオン「量子飛躍する美の世界」",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【大阪ヘルスケアパビリオン「量子飛躍する美の世界」】</b><br>📅 期間: 2026/05/01 ～ 2026/05/06<br>📝 大阪ヘルスケアパビリオンの展示を大阪本社で再現。一般公開されるレガシー企画です。<br><br><a href='https://www.takarabelmont.com/info_20260413_01/' target='_blank'>🔗 詳細を開く</a>",
+        "name": "大阪ヘルスケアパビリオン「量子飛躍する美の世界」",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【大阪ヘルスケアパビリオン「量子飛躍する美の世界」】</b><br>📅 期間: 2026/05/01 ～ 2026/05/06<br>📝 大阪ヘルスケアパビリオンの展示を大阪本社で再現。一般公開されるレガシー企画です。<br><br><a href='https://www.takarabelmont.com/info_20260413_01/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false
       },
@@ -772,8 +772,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "（予定）大阪・関西万博の『スマートポール』移設",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【大阪・関西万博の『スマートポール』移設】</b><br>📅 期間: 2026/05/01 ～ 常設<br>📝 大阪・関西万博の「未来の都市」パビリオン前に設置されていた多機能ポール『スマートポール』が、神戸のウォーターフロントエリアへ移設されました。5月1日の夕方から点灯が開始され、神戸の海辺の景色を新たに彩ります。<br><br><a href='https://kobe-journal.com/archives/7547745875.html' target='_blank'>🔗 詳細を開く</a>",
+        "name": "大阪・関西万博の『スマートポール』移設",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【大阪・関西万博の『スマートポール』移設】</b><br>📅 期間: 2026/05/01 ～ 常設<br>📝 大阪・関西万博の「未来の都市」パビリオン前に設置されていた多機能ポール『スマートポール』が、神戸のウォーターフロントエリアへ移設されました。5月1日の夕方から点灯が開始され、神戸の海辺の景色を新たに彩ります。<br><br><a href='https://kobe-journal.com/archives/7547745875.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false
       },
@@ -1230,6 +1230,22 @@
         "coordinates": [
           139.4214583,
           35.62044264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）Dialogue　Theater（ダイアローグ・シアター）－いのちのあかし－",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【Dialogue　Theater（ダイアローグ・シアター）－いのちのあかし－】</b><br>📅 期間: 2028年予定 ～ 常設<br>📝 （ピンは泉佐野丘陵緑地の代表地点です）\n大阪・関西万博で河瀬直美氏が手掛けたパビリオン「ダイアローグ・シアター」が大阪府泉佐野市へ移設されます。もともとは京都の旧中出分校を活用した施設で、文化・交流拠点として2028年度中の開館を目指します。樹齢100年のイチョウも共に移されるとのこと。\n<br><br><a href='https://news.yahoo.co.jp/articles/f1906c5123834e85d2424e4bf7d99da119755c65' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.3314389,
+          34.36788535
         ]
       }
     }
