@@ -1237,7 +1237,7 @@
       "type": "Feature",
       "properties": {
         "name": "（予定）Dialogue　Theater（ダイアローグ・シアター）－いのちのあかし－",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【Dialogue　Theater（ダイアローグ・シアター）－いのちのあかし－】</b><br>📅 期間: 2028年予定 ～ 常設<br>📝 （ピンは泉佐野丘陵緑地の代表地点です）\n大阪・関西万博で河瀬直美氏が手掛けたパビリオン「ダイアローグ・シアター」が大阪府泉佐野市へ移設されます。もともとは京都の旧中出分校を活用した施設で、文化・交流拠点として2028年度中の開館を目指します。樹齢100年のイチョウも共に移されるとのこと。\n<br><br><a href='https://news.yahoo.co.jp/articles/f1906c5123834e85d2424e4bf7d99da119755c65' target='_blank'>🔗 詳細を開く</a>",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【Dialogue　Theater（ダイアローグ・シアター）－いのちのあかし－】</b><br>📅 期間: 2028年予定 ～ ----<br>📝 （ピンは泉佐野丘陵緑地の代表地点です）\n大阪・関西万博で河瀬直美氏が手掛けたパビリオン「ダイアローグ・シアター」が大阪府泉佐野市へ移設されます。もともとは京都の旧中出分校を活用した施設で、文化・交流拠点として2028年度中の開館を目指します。樹齢100年のイチョウも共に移されるとのこと。\n<br><br><a href='https://news.yahoo.co.jp/articles/f1906c5123834e85d2424e4bf7d99da119755c65' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false
       },
