@@ -27,7 +27,7 @@
         "category": "legacy",
         "isStore": false,
         "link": "https://www.instagram.com/bakushoku_afterexpo",
-        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -59,7 +59,7 @@
       "type": "Feature",
       "properties": {
         "name": "大阪ヘルスケアパビリオン「量子飛躍する美の世界」",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【大阪ヘルスケアパビリオン「量子飛躍する美の世界」】</b><br>📅 期間: 2026/05/01 ～ 2026/05/06<br>📝 大阪ヘルスケアパビリオンの展示を大阪本社で再現。一般公開されるレガシー企画です。<br><br><a href='https://www.takarabelmont.com/info_20260413_01/' target='_blank'>🔗 詳細を開く</a>",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【大阪ヘルスケアパビリオン「量子飛躍する美の世界」】</b><br>📅 期間: 2026/05/01 ～ 2026/05/06<br>📝 大阪ヘルスケアパビリオンの展示をタカラベルモント社の本社で再現。<br><br><a href='https://www.takarabelmont.com/info_20260413_01/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false,
         "link": "https://www.takarabelmont.com/info_20260413_01/",
@@ -1431,7 +1431,7 @@
         "category": "legacy",
         "isStore": false,
         "link": "https://www.instagram.com/nauruya_higashiosaka/",
-        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
