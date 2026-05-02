@@ -27,7 +27,7 @@
         "category": "legacy",
         "isStore": false,
         "link": "https://www.instagram.com/bakushoku_afterexpo",
-        "image_url": ""
+        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
       },
       "geometry": {
         "type": "Point",
@@ -1431,7 +1431,7 @@
         "category": "legacy",
         "isStore": false,
         "link": "https://www.instagram.com/nauruya_higashiosaka/",
-        "image_url": ""
+        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
       },
       "geometry": {
         "type": "Point",
@@ -1618,6 +1618,24 @@
         "coordinates": [
           135.5133828,
           34.64628435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "「空飛ぶクルマ」SkyDrive(1/5サイズモック)",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【「空飛ぶクルマ」SkyDrive(1/5サイズモック)】</b><br>📅 期間: 2026/05/01 ～ 2026/05/06<br>📝 「空飛ぶクルマ」の1/5サイズ模型サイズモックアップを展示。「空飛ぶクルマ」は次世代の環境配慮型モビリティとして垂直離着陸が可能なうえ、電力を動力とするため騒音が少なく、飛行中に二酸化炭素の排出ない環境にやさしい乗り物。<br><br><a href='https://www.miraikan.jst.go.jp/events/202604254506.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "link": "https://www.miraikan.jst.go.jp/events/202604254506.html",
+        "image_url": "https://www.miraikan.jst.go.jp/images/og-image_logo.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7765282,
+          35.6195103
         ]
       }
     }
