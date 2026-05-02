@@ -7,7 +7,9 @@
         "name": "万博公式ストア丸善日本橋店",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【万博公式ストア丸善日本橋店】</b><br>📅 期間: 2026/02/10 ～ 常設<br>📝 万博公式ストア丸善日本橋店が開店。公式ライセンス商品がそろう店舗だよ！<br><br><a href='https://www.expo2025.or.jp/news/news-20260204-01-2/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": true
+        "isStore": true,
+        "link": "https://www.expo2025.or.jp/news/news-20260204-01-2/",
+        "image_url": "https://www.expo2025.or.jp/wp/wp-content/uploads/20260204.png"
       },
       "geometry": {
         "type": "Point",
@@ -23,7 +25,9 @@
         "name": "麦食音祭2026 ～ アフターEXPO ～",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【麦食音祭2026 ～ アフターEXPO ～】</b><br>📅 期間: 2026/05/01 ～ 2026/05/06<br>📝 万博の熱気を次世代へつなぐ大型フェス「麦食音祭2026」が開催します。<br><br><a href='https://www.instagram.com/bakushoku_afterexpo' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://www.instagram.com/bakushoku_afterexpo",
+        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
       },
       "geometry": {
         "type": "Point",
@@ -39,7 +43,9 @@
         "name": "EARTH MARTの展示物「いのちのはかり」城宮跡歴史公園天平みつき館のちのはかり」",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【EARTH MARTの展示物「いのちのはかり」城宮跡歴史公園天平みつき館のちのはかり」】</b><br>📅 期間: 2026/04/29 ～ 常設<br>📝 EARTH MARTの「いのちのはかり」を奈良の食の拠点づくりへ生かす取り組みです。<br><br><a href='https://www.pref.nara.lg.jp/n153/p034015.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://www.pref.nara.lg.jp/n153/p034015.html",
+        "image_url": "https://www.pref.nara.lg.jp/shared/images/sns/logo.png"
       },
       "geometry": {
         "type": "Point",
@@ -55,7 +61,9 @@
         "name": "大阪ヘルスケアパビリオン「量子飛躍する美の世界」",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【大阪ヘルスケアパビリオン「量子飛躍する美の世界」】</b><br>📅 期間: 2026/05/01 ～ 2026/05/06<br>📝 大阪ヘルスケアパビリオンの展示を大阪本社で再現。一般公開されるレガシー企画です。<br><br><a href='https://www.takarabelmont.com/info_20260413_01/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://www.takarabelmont.com/info_20260413_01/",
+        "image_url": "https://www.takarabelmont.com/asset/img/common/og.png"
       },
       "geometry": {
         "type": "Point",
@@ -71,7 +79,9 @@
         "name": "（予定）「ごみ祭り」今年もごみの日（5月3日）に開催",
         "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【「ごみ祭り」今年もごみの日（5月3日）に開催】</b><br>📅 期間: 2026/05/03 ～ 2026/05/03<br>📝 2025年大阪・関西万博が掲げた資源循環への取り組みを受け継ぎ、ごみの日に体験型の「ごみ祭り」を開催されるよ！<br><br><a href='https://prtimes.jp/main/html/rd/p/000000084.000134299.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://prtimes.jp/main/html/rd/p/000000084.000134299.html",
+        "image_url": "https://prcdn.freetls.fastly.net/release_image/134299/84/134299-84-76c1cd32a58096d6ac258bab881048af-1920x1080.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
       },
       "geometry": {
         "type": "Point",
@@ -87,7 +97,9 @@
         "name": "（予定）KDDI MUSEUM　体験型展示「Mirai Meeting」の展示物を万博のレガシーとして引き継いだ「Mirai Arcade」を展示",
         "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【KDDI MUSEUM　体験型展示「Mirai Meeting」の展示物を万博のレガシーとして引き継いだ「Mirai Arcade」を展示】</b><br>📅 期間: 2026/05/09 ～ 常設<br>📝 通信の歴史を学べるKDDI MUSEUMが、5月から毎月第2土曜日に開館します。<br><br><a href='https://prtimes.jp/main/html/rd/p/000000188.000097141.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://prtimes.jp/main/html/rd/p/000000188.000097141.html",
+        "image_url": "https://prcdn.freetls.fastly.net/release_image/97141/188/97141-188-bdb4de867fe5720366b4575b93103dcc-1264x843.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
       },
       "geometry": {
         "type": "Point",
@@ -103,7 +115,9 @@
         "name": "（予定）「共創脈々-あほちゃう共創ビジネスグランプリ」参加者募集のお知らせ",
         "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【「共創脈々-あほちゃう共創ビジネスグランプリ」参加者募集のお知らせ】</b><br>📅 期間: 2026/05/26 ～ 2026/05/26<br>📝 万博発の共創ビジネスを募るグランプリ。参加者募集のお知らせです。<br><br><a href='https://prtimes.jp/main/html/rd/p/000000083.000134299.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://prtimes.jp/main/html/rd/p/000000083.000134299.html",
+        "image_url": "https://prtimes.jp/common/pc_v4/og.png"
       },
       "geometry": {
         "type": "Point",
@@ -119,7 +133,9 @@
         "name": "万博の感動を再び！バイオプラスチック関連企業がMOBIOに集結！",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【万博の感動を再び！バイオプラスチック関連企業がMOBIOに集結！】</b><br>📅 期間: 2026/04/22 ～ 2026/05/28<br>📝 バイオプラスチック関連企業がMOBIOに集まり、展示と交流を楽しめるイベントです。<br><br><a href='https://prtimes.jp/main/html/rd/p/000000216.000104413.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://prtimes.jp/main/html/rd/p/000000216.000104413.html",
+        "image_url": "https://prcdn.freetls.fastly.net/release_image/104413/216/104413-216-139bc752c37de718149c2bc12e034b67-1200x378.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
       },
       "geometry": {
         "type": "Point",
@@ -135,7 +151,9 @@
         "name": "ワンハンドBENTO by ほっかほっか亭を常設出店",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ワンハンドBENTO by ほっかほっか亭を常設出店】</b><br>📅 期間: 2026/04/29 ～ 常設<br>📝 万博グルメで22万食を記録したワンハンドBENTOが常設店に登場！あべのハルカス近鉄本店 で気軽に味わえるよ！<br><br><a href='https://prtimes.jp/main/html/rd/p/000000231.000024682.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://prtimes.jp/main/html/rd/p/000000231.000024682.html",
+        "image_url": "https://prcdn.freetls.fastly.net/release_image/24682/231/24682-231-0dc6eebfe424922f93cfcfb6a69691b5-1772x997.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
       },
       "geometry": {
         "type": "Point",
@@ -151,7 +169,9 @@
         "name": "ATCから横浜へGREEN×EXPO 2027へつなぐ「カウントダウンクロック」始動！",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ATCから横浜へGREEN×EXPO 2027へつなぐ「カウントダウンクロック」始動！】</b><br>📅 期間: 2026/03/31 ～ 常設<br>📝 GREEN×EXPO 2027へつなぐ「環境・SDGｓ」をテーマにしたおおさかATCグリーンエコプラザ内の常設展示場です。<br><br><a href='https://prtimes.jp/main/html/rd/p/000000075.000068158.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://prtimes.jp/main/html/rd/p/000000075.000068158.html",
+        "image_url": "https://prcdn.freetls.fastly.net/release_image/68158/75/68158-75-07b09b245f51637a106b1437bf3aeb36-3900x2925.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
       },
       "geometry": {
         "type": "Point",
@@ -167,7 +187,9 @@
         "name": "（予定）『モンスターハンター ブリッジ』2027年度、淡路島『ニジゲンノモリ』へ移設",
         "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【『モンスターハンター ブリッジ』2027年度、淡路島『ニジゲンノモリ』へ移設】</b><br>📅 期間: 2027年予定 ～ 常設<br>📝 万博で延べ10万人以上が体験した人気のモンスターハンター ブリッジが、2027年度にニジゲンノモリへ移設される予定！<br><br><a href='https://prtimes.jp/main/html/rd/p/000002203.000016751.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://prtimes.jp/main/html/rd/p/000002203.000016751.html",
+        "image_url": "https://prcdn.freetls.fastly.net/release_image/16751/2203/16751-2203-c043f3efb5d75db9b6e4569bd8a78349-3840x1920.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
       },
       "geometry": {
         "type": "Point",
@@ -183,7 +205,9 @@
         "name": "UAEパビリオンの友好のシンボル『パーゴラ』鳥取砂丘こどもの国に移設！",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【UAEパビリオンの友好のシンボル『パーゴラ』鳥取砂丘こどもの国に移設！】</b><br>📅 期間: 2026/03/31 ～ 常設<br>📝 ～鳥取から世界の平和を発信～大阪・関西万博UAEパビリオンの友好のシンボル「パーゴラ」が鳥取砂丘こどもの国へ移設されたよ！<br><br><a href='https://prtimes.jp/main/html/rd/p/000000179.000078201.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://prtimes.jp/main/html/rd/p/000000179.000078201.html",
+        "image_url": "https://prcdn.freetls.fastly.net/release_image/78201/179/78201-179-e0221a7396d409a0b28f1e0c3a93eac7-3900x2600.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
       },
       "geometry": {
         "type": "Point",
@@ -199,7 +223,9 @@
         "name": "英国パビリオンの赤い電話ボックスが関西国際空港に設置されました！",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【英国パビリオンの赤い電話ボックスが関西国際空港に設置されました！】</b><br>📅 期間: 2026/03/27 ～ 常設<br>📝 「大阪・関西万博」英国パビリオンの赤い電話ボックスが関空に登場。旅の途中に立ち寄って見られます。<br><br><a href='https://prtimes.jp/main/html/rd/p/000000375.000045236.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://prtimes.jp/main/html/rd/p/000000375.000045236.html",
+        "image_url": "https://prcdn.freetls.fastly.net/release_image/45236/375/45236-375-4a87bb0ef4e4121df0ab66490b645988-1149x765.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
       },
       "geometry": {
         "type": "Point",
@@ -215,7 +241,9 @@
         "name": "「ミライ人間洗濯機」エスコンフィールドHOKKAIDOホテル北広島駅前」サウナ施設に導入",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【「ミライ人間洗濯機」エスコンフィールドHOKKAIDOホテル北広島駅前」サウナ施設に導入】</b><br>📅 期間: 2026/03/31 ～ 常設<br>📝 万博で話題のミライ人間洗濯機が、北広島駅前ホテルのサウナ施設に導入されているらしいよ！<br><br><a href='https://prtimes.jp/main/html/rd/p/000000057.000090191.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://prtimes.jp/main/html/rd/p/000000057.000090191.html",
+        "image_url": "https://prcdn.freetls.fastly.net/release_image/90191/57/90191-57-208d32de923e94dff08d84654ed2d373-3068x2045.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
       },
       "geometry": {
         "type": "Point",
@@ -231,7 +259,9 @@
         "name": "「おばけワンダーランドゾーン」「hu+g MUSEUM（ハグミュージア...",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【「おばけワンダーランドゾーン」「hu+g MUSEUM（ハグミュージア...】</b><br>📅 期間: 2026/03/14 ～ 2027/03/31<br>📝 大阪・関西万博で大人気、ガスパビリオンおばけワンダーランドの世界観を追体験できる展示ゾーンが、hu+g MUSEUMで楽しめます。<br><br><a href='https://prtimes.jp/main/html/rd/p/000000212.000139670.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://prtimes.jp/main/html/rd/p/000000212.000139670.html",
+        "image_url": "https://prcdn.freetls.fastly.net/release_image/139670/212/139670-212-d91cf16550fc3b359342f89d4f8e4493-2225x694.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
       },
       "geometry": {
         "type": "Point",
@@ -247,7 +277,9 @@
         "name": "（予定）トイレ5（2億円トイレ）",
         "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【トイレ5（2億円トイレ）】</b><br>📅 期間: 2026年12月予定 ～ 常設<br>📝 万博会場で使われたトイレ5を、花の文化園で移設活用する計画が進んでいるとのこと！<br><br><a href='https://hanabun-osaka.witc-pm.jp/news/2025banpakutoire/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://hanabun-osaka.witc-pm.jp/news/2025banpakutoire/",
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -263,7 +295,9 @@
         "name": "Magnus Rinn（アイルランド館）",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【Magnus Rinn（アイルランド館）】</b><br>📅 期間: 2025/11/20 ～ 2026/09/30<br>📝 アイルランド館の彫刻「Magnus RINN」が、知恩院三門周辺で公開されています。<br><br><a href='https://www.chion-in.or.jp/news/6406/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://www.chion-in.or.jp/news/6406/",
+        "image_url": "https://www.chion-in.or.jp/wp/wp-content/uploads//2025/10/上段-1-300x241.jpg?1761812847"
       },
       "geometry": {
         "type": "Point",
@@ -279,7 +313,9 @@
         "name": "ヨルダン館の砂",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ヨルダン館の砂】</b><br>📅 期間: 2026/01/31 ～ 常設<br>📝 夢みなとタワーで、砂と記念展示を楽しめる「とっとりサンドパビリオン」を開催中です。<br><br><a href='https://www.yumeminatotower.gr.jp/floorguide/%E5%A4%A7%E9%98%AA%E3%83%BB%E9%96%A2%E8%A5%BF%E4%B8%87%E5%8D%9A%E8%A8%98%E5%BF%B5-%E3%81%A8%E3%81%A3%E3%81%A8%E3%82%8A%E3%82%B5%E3%83%B3%E3%83%89%E3%83%91%E3%83%93%E3%83%AA%E3%82%AA%E3%83%B3/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://www.yumeminatotower.gr.jp/floorguide/%E5%A4%A7%E9%98%AA%E3%83%BB%E9%96%A2%E8%A5%BF%E4%B8%87%E5%8D%9A%E8%A8%98%E5%BF%B5-%E3%81%A8%E3%81%A3%E3%81%A8%E3%82%8A%E3%82%B5%E3%83%B3%E3%83%89%E3%83%91%E3%83%93%E3%83%AA%E3%82%AA%E3%83%B3/",
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -295,7 +331,9 @@
         "name": "「問いかけられるネギ」（よしもとwaraii myraii館）",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【「問いかけられるネギ」（よしもとwaraii myraii館）】</b><br>📅 期間: 2025/11/14 ～ 常設<br>📝 万博で話題になったアート作品「問いかけられるネギ」を、下仁田町役場で展示しているらしいよ！<br><br><a href='https://www.town.shimonita.lg.jp/kikaku-zaisei/m05/m10/01.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://www.town.shimonita.lg.jp/kikaku-zaisei/m05/m10/01.html",
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -311,7 +349,9 @@
         "name": "モリーゼ州の鐘（イタリア館）",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【モリーゼ州の鐘（イタリア館）】</b><br>📅 期間: 2025/07/14 ～ 常設<br>📝 イタリア館ゆかりのモリーゼ州の鐘を、カトリック玉造教会で継承展示しています。<br><br><a href='https://tamatsukuri.ostk.catholic.jp/menu/expo2025' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://tamatsukuri.ostk.catholic.jp/menu/expo2025",
+        "image_url": "https://static.wixstatic.com/media/d9eab7_d2bb1f7ce77c4145803a70aaee909a6e%7Emv2.png/v1/fit/w_2500,h_1330,al_c/d9eab7_d2bb1f7ce77c4145803a70aaee909a6e%7Emv2.png"
       },
       "geometry": {
         "type": "Point",
@@ -327,7 +367,9 @@
         "name": "（予定）「いのちの遊び場 クラゲ館」移築計画",
         "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【「いのちの遊び場 クラゲ館」移築計画】</b><br>📅 期間: 2029年予定 ～ 常設<br>📝 クラゲ館の大屋根を、福山の子ども未来館整備とあわせて移す計画があるんだって！<br><br><a href='https://www.city.fukuyama.hiroshima.jp/uploaded/attachment/327686.pdf' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://www.city.fukuyama.hiroshima.jp/uploaded/attachment/327686.pdf",
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -343,7 +385,9 @@
         "name": "（予定）PASONA NATUREVERSE レガシー活用拠点",
         "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【PASONA NATUREVERSE レガシー活用拠点】</b><br>📅 期間: 2026年6月予定 ～ 常設<br>📝 万博パビリオンの技術や世界観を受け継ぐ、淡路島の滞在型リトリート施設です。<br><br><a href='https://www.pasonagroup.co.jp/news/tabid312.html?dispmid=821&itemid=5748' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://www.pasonagroup.co.jp/news/tabid312.html?dispmid=821&itemid=5748",
+        "image_url": "http://www.pasonagroup.co.jp/Portals/0/Skins/PSN/images/ogp.png"
       },
       "geometry": {
         "type": "Point",
@@ -359,7 +403,9 @@
         "name": "「ノモの国」の館名サイン、Unlock体験エリア展示物（結晶、ノモの森ツリーオブジェ、ノモの森岩オブジェ）、「ノモの国」スタンプ",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【「ノモの国」の館名サイン、Unlock体験エリア展示物（結晶、ノモの森ツリーオブジェ、ノモの森岩オブジェ）、「ノモの国」スタンプ】</b><br>📅 期間: 2025/12/01 ～ 常設<br>📝 野田阪神駅前通商店会に、館名サインや結晶展示、スタンプなどが移設されているよ！<br><br><a href='https://news.panasonic.com/jp/press/jn251222-4' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://news.panasonic.com/jp/press/jn251222-4",
+        "image_url": "https://news.panasonic.com/uploads/tmg_block_page/ogp_image/18238/l-jn251222-4-1.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -375,7 +421,9 @@
         "name": "Unlock体験エリア展示物（結晶、ノモの森ツリーオブジェ、ノモの森岩オブジェ、止まり木）、Novitek（ノビテク）培養展示、kinari（キナリ）ハン...",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【Unlock体験エリア展示物（結晶、ノモの森ツリーオブジェ、ノモの森岩オブジェ、止まり木）、Novitek（ノビテク）培養展示、kinari（キナリ）ハン...】</b><br>📅 期間: 2025/12/01 ～ 常設<br>📝 大阪科学技術館で、体験展示やスタッフユニフォームなどをレガシー公開されているらしいよ！<br><br><a href='https://news.panasonic.com/jp/press/jn251222-4' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://news.panasonic.com/jp/press/jn251222-4",
+        "image_url": "https://news.panasonic.com/uploads/tmg_block_page/ogp_image/18238/l-jn251222-4-1.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -391,7 +439,9 @@
         "name": "ノモの森ツリーオブジェ",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ノモの森ツリーオブジェ】</b><br>📅 期間: 2025/12/01 ～ 常設<br>📝 ノモの森ツリーオブジェが、関空または伊丹空港へ移設される予定です。<br><br><a href='https://news.panasonic.com/jp/press/jn251222-4' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://news.panasonic.com/jp/press/jn251222-4",
+        "image_url": "https://news.panasonic.com/uploads/tmg_block_page/ogp_image/18238/l-jn251222-4-1.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -407,7 +457,9 @@
         "name": "純水素型燃料電池",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【純水素型燃料電池】</b><br>📅 期間: 2025/12/01 ～ 常設<br>📝 純水素型燃料電池が金沢工業大学へ寄贈され、教育研究の場で活用されます。<br><br><a href='https://news.panasonic.com/jp/press/jn251222-4' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://news.panasonic.com/jp/press/jn251222-4",
+        "image_url": "https://news.panasonic.com/uploads/tmg_block_page/ogp_image/18238/l-jn251222-4-1.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -423,7 +475,9 @@
         "name": "「ノモの国」ベンチ、ミスト、屋外照明器具パナソニック スタジアム 吹田",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【「ノモの国」ベンチ、ミスト、屋外照明器具パナソニック スタジアム 吹田】</b><br>📅 期間: 2025/12/01 ～ 常設<br>📝 ノモの国のベンチやミスト、照明器具をパナソニック スタジアム 吹田で活用しているよ！<br><br><a href='https://news.panasonic.com/jp/press/jn251222-4' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://news.panasonic.com/jp/press/jn251222-4",
+        "image_url": "https://news.panasonic.com/uploads/tmg_block_page/ogp_image/18238/l-jn251222-4-1.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -439,7 +493,9 @@
         "name": "「いのち球モニュメント」",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【「いのち球モニュメント」】</b><br>📅 期間: 2025/12/01 ～ 常設<br>📝 万博の記憶を未来へつなぐ「いのち球モニュメント」が、万博記念公園で見られます。<br><br><a href='https://www.expo70-park.jp/facility/watchlearn/inochidama/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://www.expo70-park.jp/facility/watchlearn/inochidama/",
+        "image_url": "https://www.expo70-park.jp/sys/wp-content/uploads/1c623daf87c5b4e145327b96ac296f03-640x480.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -455,7 +511,9 @@
         "name": "カナダ国立公園庁の赤い椅子",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【カナダ国立公園庁の赤い椅子】</b><br>📅 期間: 2025/11/12 ～ 常設<br>📝 関西国際空港に、カナダパビリオンにあったカナダ国立公園庁の赤い椅子が展示されています。<br><br><a href='https://assets.kansai-airports.co.jp/a9980481-j__251112_pressrelease_expo_legacy_project.pdf' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://assets.kansai-airports.co.jp/a9980481-j__251112_pressrelease_expo_legacy_project.pdf",
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -471,7 +529,9 @@
         "name": "竹簡をデザインした外壁パネル",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【竹簡をデザインした外壁パネル】</b><br>📅 期間: 2025/11/12 ～ 常設<br>📝 関西国際空港に、中国パビリオンにあった外壁パネルが展示されています。<br><br><a href='https://assets.kansai-airports.co.jp/a9980481-j__251112_pressrelease_expo_legacy_project.pdf' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://assets.kansai-airports.co.jp/a9980481-j__251112_pressrelease_expo_legacy_project.pdf",
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -487,7 +547,9 @@
         "name": "群島をたどって、響く鼓動復興の島 - ノートルダム大聖堂と首里城",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【群島をたどって、響く鼓動復興の島 - ノートルダム大聖堂と首里城】</b><br>📅 期間: 2025/11/12 ～ 常設<br>📝 関西国際空港に、フランスパビリオンにあった作品が展示されています。<br><br><a href='https://assets.kansai-airports.co.jp/a9980481-j__251112_pressrelease_expo_legacy_project.pdf' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://assets.kansai-airports.co.jp/a9980481-j__251112_pressrelease_expo_legacy_project.pdf",
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -503,7 +565,9 @@
         "name": "群島をたどって、響く鼓動息づく島 - モン・サン＝ミッシェルの修道院と厳島神社の大鳥居",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【群島をたどって、響く鼓動息づく島 - モン・サン＝ミッシェルの修道院と厳島神社の大鳥居】</b><br>📅 期間: 2025/11/12 ～ 常設<br>📝 関西国際空港に、フランスパビリオンにあった作品が展示されています。<br><br><a href='https://assets.kansai-airports.co.jp/a9980481-j__251112_pressrelease_expo_legacy_project.pdf' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://assets.kansai-airports.co.jp/a9980481-j__251112_pressrelease_expo_legacy_project.pdf",
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -519,7 +583,9 @@
         "name": "大阪国際空港のExpo Legacy Project",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【大阪国際空港のExpo Legacy Project】</b><br>📅 期間: 2025/11/12 ～ 常設<br>📝 大阪国際空港にも、万博レガシー展示が順次登場。空港で出会える企画です。<br><br><a href='https://assets.kansai-airports.co.jp/a9980481-j__251112_pressrelease_expo_legacy_project.pdf' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://assets.kansai-airports.co.jp/a9980481-j__251112_pressrelease_expo_legacy_project.pdf",
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -535,7 +601,9 @@
         "name": "「いのちの遊び場 クラゲ館」等のレガシー展示スペース",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【「いのちの遊び場 クラゲ館」等のレガシー展示スペース】</b><br>📅 期間: 2026/04/21 ～ 常設<br>📝 立命館大OICに、クラゲ館などの展示品を生かしたレガシー展示空間が開設されます。<br><br><a href='https://www.ritsumei.ac.jp/news/detail/?id=4449' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://www.ritsumei.ac.jp/news/detail/?id=4449",
+        "image_url": "https://www.ritsumei.ac.jp/image.jsp?id=691608"
       },
       "geometry": {
         "type": "Point",
@@ -551,7 +619,9 @@
         "name": "万博レガシー関連展示 / ミャクミャクモニュメント移設先",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【万博レガシー関連展示 / ミャクミャクモニュメント移設先】</b><br>📅 期間: 2025/12/18 ～ 常設<br>📝 ATCでミャクミャクモニュメントの移設展示や、万博レガシー関連展示を楽しめます。<br><br><a href='https://www.city.osaka.lg.jp/hodoshiryo/keizaisenryaku/0000666107.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://www.city.osaka.lg.jp/hodoshiryo/keizaisenryaku/0000666107.html",
+        "image_url": "https://www.city.osaka.lg.jp/main/css/img/ogp_image.png"
       },
       "geometry": {
         "type": "Point",
@@ -567,7 +637,9 @@
         "name": "大阪ヘルスケアパビリオン「iPS細胞」関連展示",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【大阪ヘルスケアパビリオン「iPS細胞」関連展示】</b><br>📅 期間: 2025/12/12 ～ 常設<br>📝 心筋シート映像や生きる心臓モデルなど、iPS関連展示を中之島クロスで見られるんだって！<br><br><a href='https://www.pref.osaka.lg.jp/o110040/2025miraiiryo_tennzi.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://www.pref.osaka.lg.jp/o110040/2025miraiiryo_tennzi.html",
+        "image_url": "https://www.pref.osaka.lg.jp/shared/images/sns/logo.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -583,7 +655,9 @@
         "name": "ミライ人間洗濯機",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ミライ人間洗濯機】</b><br>📅 期間: 2025/12/10 ～ 常設<br>📝 話題のミライ人間洗濯機を体験できる客室が、道頓堀クリスタルホテルⅢにあるらしいよ！<br><br><a href='https://resortlife.co.jp/lp/human-washing-machine/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://resortlife.co.jp/lp/human-washing-machine/",
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -599,7 +673,9 @@
         "name": "ヨルダンパビリオン「ワディ・ラム砂漠の砂」",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ヨルダンパビリオン「ワディ・ラム砂漠の砂」】</b><br>📅 期間: 2026/04/01 ～ 常設<br>📝 百舌鳥古墳群ビジターセンターで、ヨルダン館の砂を受け継ぐ展示を行っています。<br><br><a href='https://www.city.sakai.lg.jp/kanko/rekishi/sei/kohun_otozureru/mozukofungun_visitorcenter.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://www.city.sakai.lg.jp/kanko/rekishi/sei/kohun_otozureru/mozukofungun_visitorcenter.html",
+        "image_url": "https://www.city.sakai.lg.jp/images/sakai_ogp_image.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -615,7 +691,9 @@
         "name": "【完全予約制】EXPO2025 OFFICIAL CAFE らぽっぽリンクス梅田店（4/27より）",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【【完全予約制】EXPO2025 OFFICIAL CAFE らぽっぽリンクス梅田店（4/27より）】</b><br>📅 期間: 2026/04/27 ～ 2026/10/31<br>📝 リンクス梅田に登場した「EXPO2025 OFFICIAL CAFE らぽっぽリンクス梅田店」は、万博で話題になった「ミャクミャク焼き」をはじめ、ミャクミャクの世界観を五感で楽しめる公式カフェです。店内は思わず写真を撮りたくなる没入感ある空間で、ここだけの限定メニューも用意。見る・味わう・感じるを通して、万博の記憶をもう一度楽しめる特別なスポットです！\n<br><br><a href='https://lapoppo.com/expo2025-oc/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://lapoppo.com/expo2025-oc/",
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -631,7 +709,9 @@
         "name": "大阪府立上方演芸資料館（ワッハ上方）",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【大阪府立上方演芸資料館（ワッハ上方）】</b><br>📅 期間: 2026/04/25 ～ 常設<br>📝 ワッハ上方ではSNSフォローキャンペーンを開催中！\r\n館内観覧後にSNSのフォロー画面を提示すると、缶バッジをプレゼント。\r\n展示を楽しんだ記念に、ぜひ持ち帰ってみてください！<br><br><a href='https://x.com/wkamigata/status/2047612623978643853?s=43&t=Spz9-6o9mDMe00Tl3EPxfg' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://x.com/wkamigata/status/2047612623978643853?s=43&t=Spz9-6o9mDMe00Tl3EPxfg",
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -647,7 +727,9 @@
         "name": "インドネシア館にあったラタンのランプシェード群",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【インドネシア館にあったラタンのランプシェード群】</b><br>📅 期間: 2026/04/25 ～ 常設<br>📝 奈良・TEN.TEN.CAFE東大寺店は、ランチやスイーツを楽しめる人気カフェですが、今注目したいのは、大阪・関西万博インドネシア館にあったラタンのランプシェード群が受け継がれていることです。店内には、万博で来場者の目を引いた温かみのある編み込み照明が並び、奈良にいながら異国情緒あふれる空間を味わえます。東大寺や奈良公園の散策途中に立ち寄りやすく、キッズスペースやテラス席も備えているため、子ども連れやわんちゃん連れでも利用しやすいのが魅力。記念スタンプもあり、万博レガシーを感じられる特別なカフェスポットとして楽しめます。<br><br><a href='\r\nhttps://www.instagram.com/p/DV27S5tgCCL/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "\r\nhttps://www.instagram.com/p/DV27S5tgCCL/",
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -663,7 +745,9 @@
         "name": "ルクセンブルクパビリオンのボウリング遊具",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ルクセンブルクパビリオンのボウリング遊具】</b><br>📅 期間: 2026/04/25 ～ 常設<br>📝 大阪・関西万博ルクセンブルク館で使われたボウリング遊具が、三重県立鈴鹿青少年センター「スズカト」に移設・設置されました。<br><br><a href='https://suzukato.jp/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://suzukato.jp/",
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -679,7 +763,9 @@
         "name": "タイ館のゾウのモニュメントの複製",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【タイ館のゾウのモニュメントの複製】</b><br>📅 期間: 2026/03/01 ～ 常設<br>📝 大阪・関西万博のタイパビリオンで来場者を迎えた、親子のゾウのモニュメントの複製。池田病院の関連施設「総合健康づくりセンターＨｏｌｌｙ　ＥＩＷＡ」に展示されています。タイパビリオンの「大きな幸福のため、命に力を与える」という理念に心を動かされた東大阪市の池田病院がタイの制作会社に依頼して複製を自費で制作を依頼した作品。<br><br><a href='https://www.holly-eiwa.co.jp/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://www.holly-eiwa.co.jp/",
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -695,7 +781,9 @@
         "name": "【限定30組事前抽選】ミャクミャク・せんとくんとの写真撮影会",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【【限定30組事前抽選】ミャクミャク・せんとくんとの写真撮影会】</b><br>📅 期間: 2026/04/29 ～ 2026/04/29<br>📝 奈良県は、大阪・関西万博レガシー「いのちのはかり」のお披露目を記念し、4月29日に平城宮跡歴史公園でミャクミャク・せんとくんとの写真撮影会を開催します。開催は13時30分と16時の2回、各回30組限定。参加は事前抽選制で、応募は4月26日24時まで、結果は4月27日17時ごろに通知予定です。当選者のみ撮影に参加でき、当日は当選メールの提示が必要です<br><br><a href='https://www.pref.nara.lg.jp/n153/p034020.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://www.pref.nara.lg.jp/n153/p034020.html",
+        "image_url": "https://www.pref.nara.lg.jp/shared/images/sns/logo.png"
       },
       "geometry": {
         "type": "Point",
@@ -711,7 +799,9 @@
         "name": "PANAF' African Restaurant & Club\r",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【PANAF' African Restaurant & Club\r】</b><br>📅 期間: 常設 / 時期----<br>📝 大阪・関西万博で大行列となったアフリカ料理店が、待望の常設店としてオープン。アフリカの伝統と他国文化が融合した本格的な料理や、現地の食材を使ったクラフトビールが楽しめます。金・土曜の夜はクラブイベントも開催。新しい味覚と音楽をぜひご体験ください。<br><br><a href='https://panaf.jp/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://panaf.jp/",
+        "image_url": "https://panaf.jp/assets/img/ogp.png"
       },
       "geometry": {
         "type": "Point",
@@ -727,7 +817,9 @@
         "name": "せかいが聞こえる伝話",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【せかいが聞こえる伝話】</b><br>📅 期間: 2026/04/23 ～ 2026/05/29<br>📝 大阪・関西万博で話題を集めた体験型アート作品が京都に登場。会場の電話の番号を押すと物語が聞こえてくる仕組みで、「他者とのつながり」を感じられる展示です。KYOTOGRAPHIEのキッズプログラムも同時開催されています。<br><br><a href='https://www.ntt-west.co.jp/newscms/kyoto/15193/kyoto_n20260423a.pdf' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://www.ntt-west.co.jp/newscms/kyoto/15193/kyoto_n20260423a.pdf",
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -743,7 +835,9 @@
         "name": "住友館資料受託記念「大阪・関西万博　#住友館のレガシー」\r",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【住友館資料受託記念「大阪・関西万博　#住友館のレガシー」\r】</b><br>📅 期間: 2026/04/21 ～ 2026/07/31<br>📝 大阪・関西万博「住友館」で展示された資料の一部が、泉屋博古館にて特別公開されています。「人と自然の共生」というテーマを継承する取り組みです。1970年万博のレガシーでもある同館で、二つの万博の歴史を同時に体感できます。<br><br><a href='https://sen-oku.or.jp/news_20260414/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://sen-oku.or.jp/news_20260414/",
+        "image_url": "https://sen-oku.or.jp/wp-content/uploads/2026/04/44.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -759,7 +853,9 @@
         "name": "大阪・関西万博 迎賓館を彩ったタペストリー特別展示\r",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【大阪・関西万博 迎賓館を彩ったタペストリー特別展示\r】</b><br>📅 期間: 時期---- ～ 2026/06/30<br>📝 万博会期中は一般非公開だった「迎賓館」の特製タペストリーが、好評につき東京ショールームで期間延長展示されています。国内外の賓客を迎えた、現代美術作家・川人綾氏デザインの美しい作品を間近で鑑賞できる貴重な機会です。<br><br><a href='https://www.kawashimaselkon.co.jp/info/news/20260421-01/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://www.kawashimaselkon.co.jp/info/news/20260421-01/",
+        "image_url": "https://www.kawashimaselkon.co.jp/contents/files/sites/2/2025/12/20251218-01-s.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -775,7 +871,9 @@
         "name": "大阪・関西万博の『スマートポール』移設",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【大阪・関西万博の『スマートポール』移設】</b><br>📅 期間: 2026/05/01 ～ 常設<br>📝 大阪・関西万博の「未来の都市」パビリオン前に設置されていた多機能ポール『スマートポール』が、神戸のウォーターフロントエリアへ移設されました。5月1日の夕方から点灯が開始され、神戸の海辺の景色を新たに彩ります。<br><br><a href='https://kobe-journal.com/archives/7547745875.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://kobe-journal.com/archives/7547745875.html",
+        "image_url": "https://i0.wp.com/kobe-journal.com/web/images/2026/04/ai20260421170405.jpg?fit=487%2C274&ssl=1"
       },
       "geometry": {
         "type": "Point",
@@ -791,7 +889,9 @@
         "name": "オオカミベンチ（Colorful Flowers in Blue）※ピン位置は市民の森入口",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【オオカミベンチ（Colorful Flowers in Blue）※ピン位置は市民の森入口】</b><br>📅 期間: 時期---- ～ 2027/03/31<br>📝 大阪・関西万博のパビリオンから全国へ旅立った10体の「オオカミベンチ」。そのうちの1体が大阪城公園に設置されています。作者・鴻池朋子氏の「見て楽しむだけでなく、手で触れて作品に入り込めるものを」という思いが込められており、人が座ることで初めて完成する実践的なアート作品です。<br><br><a href='https://medicineinfra.com/site/expo2025/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://medicineinfra.com/site/expo2025/",
+        "image_url": "https://medicineinfra.com/wp-content/uploads/2025/03/ogp.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -807,7 +907,9 @@
         "name": "オオカミベンチ（Wolf Bench / Spring Flowers & Snakes）",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【オオカミベンチ（Wolf Bench / Spring Flowers & Snakes）】</b><br>📅 期間: 常設 / 時期----<br>📝 大阪・関西万博のパビリオンから全国へ旅立った10体の「オオカミベンチ」。そのうちの1体がグラングリーン北館ピロティに設置されています。作者・鴻池朋子氏の「見て楽しむだけでなく、手で触れて作品に入り込めるものを」という思いが込められており、人が座ることで初めて完成する実践的なアート作品です。<br><br><a href='https://medicineinfra.com/site/expo2025/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://medicineinfra.com/site/expo2025/",
+        "image_url": "https://medicineinfra.com/wp-content/uploads/2025/03/ogp.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -823,7 +925,9 @@
         "name": "ポーランドパビリオンの「もみじの木」",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ポーランドパビリオンの「もみじの木」】</b><br>📅 期間: 2026/01/29 ～ 常設<br>📝 打上川治水緑地に大阪・関西万博ポーランドパビリオンの「もみじの木」が移植されました。<br><br><a href='https://www.city.neyagawa.osaka.jp/material/files/group/20/2603fot.pdf' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://www.city.neyagawa.osaka.jp/material/files/group/20/2603fot.pdf",
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -839,7 +943,9 @@
         "name": "EXPO2025 オフィシャルストア 阪神梅田本店",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【EXPO2025 オフィシャルストア 阪神梅田本店】</b><br>📅 期間: 2026/04/22 ～ 常設<br>📝 大阪・関西万博の公式ライセンスグッズを取り扱う「EXPO2025 オフィシャルストア」が、阪神梅田本店2階にオープンしました。大盛況のうちに幕を閉じた万博の熱気をそのままに、公式キャラクター「ミャクミャク」のグッズなどを豊富にラインナップ！<br><br><a href='https://www.hanshin-dept.jp/hshonten/shopnews/detail/12696160_3429.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": true
+        "isStore": true,
+        "link": "https://www.hanshin-dept.jp/hshonten/shopnews/detail/12696160_3429.html",
+        "image_url": "https://www.hanshin-dept.jp/hshonten/shopnews/detail/__icsFiles/afieldfile/2026/04/21/myakusamune.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -855,7 +961,9 @@
         "name": "EXPO2025オフィシャルポップアップストア  magmabooks虎ノ門店",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【EXPO2025オフィシャルポップアップストア  magmabooks虎ノ門店】</b><br>📅 期間: 2026/04/03 ～ 2026/05/31<br>📝 大阪・関西万博の公式ライセンスグッズを取り扱う「EXPO2025 オフィシャルストア」大盛況のうちに幕を閉じた万博の熱気をそのままに、公式キャラクター「ミャクミャク」のグッズなどを豊富にラインナップ！<br><br><a href='https://corp.maruzenjunkudo.co.jp/info/20260330-01/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": true
+        "isStore": true,
+        "link": "https://corp.maruzenjunkudo.co.jp/info/20260330-01/",
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -871,7 +979,9 @@
         "name": "EXPO2025オフィシャルポップアップストア 丸善丸の内OAZO店​",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【EXPO2025オフィシャルポップアップストア 丸善丸の内OAZO店​】</b><br>📅 期間: 2026/04/14 ～ 2026/05/25<br>📝 大阪・関西万博の公式ライセンスグッズを取り扱う「EXPO2025 オフィシャルストア」大盛況のうちに幕を閉じた万博の熱気をそのままに、公式キャラクター「ミャクミャク」のグッズなどを豊富にラインナップ！<br><br><a href='https://corp.maruzenjunkudo.co.jp/info/20260407-01/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": true
+        "isStore": true,
+        "link": "https://corp.maruzenjunkudo.co.jp/info/20260407-01/",
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -887,7 +997,9 @@
         "name": "EXPO2025オフィシャルストア タオル美術館店",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【EXPO2025オフィシャルストア タオル美術館店】</b><br>📅 期間: 2026/04/12 ～ 常設<br>📝 大阪・関西万博の公式ライセンスグッズを取り扱う「EXPO2025 オフィシャルストア」大盛況のうちに幕を閉じた万博の熱気をそのままに、公式キャラクター「ミャクミャク」のグッズなどを豊富にラインナップ！<br><br><a href='https://towelmuseum-shop.jp/collections/japanexpo2025?srsltid=AfmBOopjy5AJcfi9ulWDIEC6pLhMCKL8MdyuN_qnxKGkVriK57fLV7Qf' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": true
+        "isStore": true,
+        "link": "https://towelmuseum-shop.jp/collections/japanexpo2025?srsltid=AfmBOopjy5AJcfi9ulWDIEC6pLhMCKL8MdyuN_qnxKGkVriK57fLV7Qf",
+        "image_url": "https://cdn.shopify.com/s/files/1/0487/6795/9189/collections/osakaexpo.png?v=1702447653"
       },
       "geometry": {
         "type": "Point",
@@ -903,7 +1015,9 @@
         "name": "2025大阪・関西万博 オフィシャルストア 丸善名古屋店",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【2025大阪・関西万博 オフィシャルストア 丸善名古屋店】</b><br>📅 期間: 2024/09/09 ～ 常設<br>📝 大阪・関西万博の公式ライセンスグッズを取り扱う「EXPO2025 オフィシャルストア」大盛況のうちに幕を閉じた万博の熱気をそのままに、公式キャラクター「ミャクミャク」のグッズなどを豊富にラインナップ！<br><br><a href='https://corp.maruzenjunkudo.co.jp/info/20240909-01/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": true
+        "isStore": true,
+        "link": "https://corp.maruzenjunkudo.co.jp/info/20240909-01/",
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -919,7 +1033,9 @@
         "name": "2025大阪・関西万博 オフィシャルストア ジュンク堂書店三宮店",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【2025大阪・関西万博 オフィシャルストア ジュンク堂書店三宮店】</b><br>📅 期間: 2026/01/30 ～ 常設<br>📝 大阪・関西万博の公式ライセンスグッズを取り扱う「EXPO2025 オフィシャルストア」大盛況のうちに幕を閉じた万博の熱気をそのままに、公式キャラクター「ミャクミャク」のグッズなどを豊富にラインナップ！<br><br><a href='https://corp.maruzenjunkudo.co.jp/info/20260127-01/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": true
+        "isStore": true,
+        "link": "https://corp.maruzenjunkudo.co.jp/info/20260127-01/",
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -935,7 +1051,9 @@
         "name": "2025大阪・関西万博 オフィシャルストア ジュンク堂書店三宮駅前店",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【2025大阪・関西万博 オフィシャルストア ジュンク堂書店三宮駅前店】</b><br>📅 期間: 2024/07/27 ～ 常設<br>📝 大阪・関西万博の公式ライセンスグッズを取り扱う「EXPO2025 オフィシャルストア」大盛況のうちに幕を閉じた万博の熱気をそのままに、公式キャラクター「ミャクミャク」のグッズなどを豊富にラインナップ！<br><br><a href='https://www.expo2025.or.jp/news/news-20240705-04/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": true
+        "isStore": true,
+        "link": "https://www.expo2025.or.jp/news/news-20240705-04/",
+        "image_url": "https://www.expo2025.or.jp/wp/wp-content/uploads/official-shop.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -951,7 +1069,9 @@
         "name": "2025大阪・関西万博 オフィシャルストア 大丸梅田店",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【2025大阪・関西万博 オフィシャルストア 大丸梅田店】</b><br>📅 期間: 常設 / 時期----<br>📝 大阪・関西万博の公式ライセンスグッズを取り扱う「EXPO2025 オフィシャルストア」大盛況のうちに幕を閉じた万博の熱気をそのままに、公式キャラクター「ミャクミャク」のグッズなどを豊富にラインナップ！<br><br><a href='https://www.daimaru.co.jp/umedamise/topics/230919expo_officialstore.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": true
+        "isStore": true,
+        "link": "https://www.daimaru.co.jp/umedamise/topics/230919expo_officialstore.html",
+        "image_url": "https://www.daimaru.co.jp/umedamise/topics/assets/img/230207expo_officialstore_topics2_1.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -967,7 +1087,9 @@
         "name": "2025 大阪・関西万博オフィシャルストア ジュンク堂書店堂島アバンザ店",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【2025 大阪・関西万博オフィシャルストア ジュンク堂書店堂島アバンザ店】</b><br>📅 期間: 2026/01/31 ～ 常設<br>📝 大阪・関西万博の公式ライセンスグッズを取り扱う「EXPO2025 オフィシャルストア」大盛況のうちに幕を閉じた万博の熱気をそのままに、公式キャラクター「ミャクミャク」のグッズなどを豊富にラインナップ！<br><br><a href='https://corp.maruzenjunkudo.co.jp/info/20260126-01/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": true
+        "isStore": true,
+        "link": "https://corp.maruzenjunkudo.co.jp/info/20260126-01/",
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -983,7 +1105,9 @@
         "name": "2025 大阪・関西万博オフィシャルストア ジュンク堂書店難波店",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【2025 大阪・関西万博オフィシャルストア ジュンク堂書店難波店】</b><br>📅 期間: 2024/06/24 ～ 常設<br>📝 大阪・関西万博の公式ライセンスグッズを取り扱う「EXPO2025 オフィシャルストア」大盛況のうちに幕を閉じた万博の熱気をそのままに、公式キャラクター「ミャクミャク」のグッズなどを豊富にラインナップ！<br><br><a href='https://expo2025mlo.jp/news/507' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": true
+        "isStore": true,
+        "link": "https://expo2025mlo.jp/news/507",
+        "image_url": "https://expo2025mlo.jp/wp-content/themes/expo-2025/assets/img/ogp.png"
       },
       "geometry": {
         "type": "Point",
@@ -999,7 +1123,9 @@
         "name": "2025 大阪・関西万博オフィシャルストア MARUZEN&ジュンク堂書店 梅田店",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【2025 大阪・関西万博オフィシャルストア MARUZEN&ジュンク堂書店 梅田店】</b><br>📅 期間: 常設 / 時期----<br>📝 大阪・関西万博の公式ライセンスグッズを取り扱う「EXPO2025 オフィシャルストア」大盛況のうちに幕を閉じた万博の熱気をそのままに、公式キャラクター「ミャクミャク」のグッズなどを豊富にラインナップ！<br><br><a href='https://corp.maruzenjunkudo.co.jp/info/20240220-01/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": true
+        "isStore": true,
+        "link": "https://corp.maruzenjunkudo.co.jp/info/20240220-01/",
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -1015,7 +1141,9 @@
         "name": "2025 大阪・関西万博オフィシャルストア JR新大阪駅 エキマルシェ店",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【2025 大阪・関西万博オフィシャルストア JR新大阪駅 エキマルシェ店】</b><br>📅 期間: 常設 / 時期----<br>📝 大阪・関西万博の公式ライセンスグッズを取り扱う「EXPO2025 オフィシャルストア」大盛況のうちに幕を閉じた万博の熱気をそのままに、公式キャラクター「ミャクミャク」のグッズなどを豊富にラインナップ！<br><br><a href='https://shinosaka.ekimaru.com/shopguide/detail/54' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": true
+        "isStore": true,
+        "link": "https://shinosaka.ekimaru.com/shopguide/detail/54",
+        "image_url": "https://shinosaka.ekimaru.com/storage/images/d25481a75c23abfdd181204566eec4d2.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -1031,7 +1159,9 @@
         "name": "2025 大阪・関西万博オフィシャルストア あべのハルカス店",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【2025 大阪・関西万博オフィシャルストア あべのハルカス店】</b><br>📅 期間: 常設 / 時期----<br>📝 大阪・関西万博の公式ライセンスグッズを取り扱う「EXPO2025 オフィシャルストア」大盛況のうちに幕を閉じた万博の熱気をそのままに、公式キャラクター「ミャクミャク」のグッズなどを豊富にラインナップ！<br><br><a href='https://abenoharukas.d-kintetsu.co.jp/pages/expo2025_official_store/index.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": true
+        "isStore": true,
+        "link": "https://abenoharukas.d-kintetsu.co.jp/pages/expo2025_official_store/index.html",
+        "image_url": "/assets-static/images/common/ogp_logo.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -1047,7 +1177,9 @@
         "name": "（予定）『INTER-WORLD/Cocooner: Apparent motion of celestial bodies』／奥中章人",
         "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【『INTER-WORLD/Cocooner: Apparent motion of celestial bodies』／奥中章人】</b><br>📅 期間: 2026/5/23 ～ 20265/31<br>📝 奥中章人氏による、空気・水・太陽の現象を増幅させる「柔らかい彫刻」です。作品名「Cocooner」には、人類が人間中心主義という繭（まゆ）から脱皮し、より広い宇宙的な存在として羽ばたいてほしいという願いが込められています。自然と人との関わりを体感できるアート作品です。<br><br><a href='https://prtimes.jp/main/html/rd/p/000000041.000090122.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://prtimes.jp/main/html/rd/p/000000041.000090122.html",
+        "image_url": "https://prcdn.freetls.fastly.net/release_image/90122/41/90122-41-0edaef4c9e45ac26d42c936a367f84d8-735x490.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
       },
       "geometry": {
         "type": "Point",
@@ -1063,7 +1195,9 @@
         "name": "コミャクモニュメント「時空の広場」",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【コミャクモニュメント「時空の広場」】</b><br>📅 期間: 常設 / 時期----<br>📝 大阪・関西万博のデザインシステムで「いのち」を象徴するエレメント「こみゃく」が万博のソフトレガシーとして、大阪駅のステーションシティ「時空の広場」にて「EXPO OSAKA STATION」のモニュメントとして展示中。<br><br><a href='' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "",
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -1079,7 +1213,9 @@
         "name": "太陽の広場前「ミャクミャク いらっしゃい」",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【太陽の広場前「ミャクミャク いらっしゃい」】</b><br>📅 期間: 時期---- ～ 2026/05/31<br>📝 「ミャクミャクモニュメント」が期間限定で設置されています。太陽の広場では「いらっしゃい」のポーズでお出迎え。新緑が美しいこの季節に、今しか見られない貴重な姿にぜひ会いに来てください。<br><br><a href='https://www.expo70-park.jp/event/75690/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://www.expo70-park.jp/event/75690/",
+        "image_url": "https://www.expo70-park.jp/sys/wp-content/uploads/d66d0f97eda4e1a8bb69359401f3fef4-640x640.png"
       },
       "geometry": {
         "type": "Point",
@@ -1095,7 +1231,9 @@
         "name": "平和のバラ園前「ミャクミャク ワクワク」",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【平和のバラ園前「ミャクミャク ワクワク」】</b><br>📅 期間: 時期---- ～ 2026/05/31<br>📝 「ミャクミャクモニュメント」が期間限定で設置されています。平和のバラ園前では「ワクワク」のポーズでお出迎え。新緑が美しいこの季節に、今しか見られない貴重な姿にぜひ会いに来てください。<br><br><a href='https://www.expo70-park.jp/event/75690/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://www.expo70-park.jp/event/75690/",
+        "image_url": "https://www.expo70-park.jp/sys/wp-content/uploads/d66d0f97eda4e1a8bb69359401f3fef4-640x640.png"
       },
       "geometry": {
         "type": "Point",
@@ -1111,7 +1249,9 @@
         "name": "2025年大阪・関西万博ロゴシンボルモニュメント",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【2025年大阪・関西万博ロゴシンボルモニュメント】</b><br>📅 期間: 2024/03/30 ～ 常設<br>📝 万博の記憶を残すロゴシンボルモニュメント<br><br><a href='https://www.city.osaka.lg.jp/konohana/page/0000623590.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://www.city.osaka.lg.jp/konohana/page/0000623590.html",
+        "image_url": "https://www.city.osaka.lg.jp/konohana/css/img/ogp_image.png"
       },
       "geometry": {
         "type": "Point",
@@ -1127,7 +1267,9 @@
         "name": "CELL ART（こみゃく）2体",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【CELL ART（こみゃく）2体】</b><br>📅 期間: 2025/06/04 ～ 常設<br>📝 いのちを象徴する2体の「こみゃく（CELL ART）」が設置されています。広く親しまれたこみゃくの多様な姿は、個とつながりの象徴です。<br><br><a href='https://www.city.osaka.lg.jp/konohana/page/0000623590.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://www.city.osaka.lg.jp/konohana/page/0000623590.html",
+        "image_url": "https://www.city.osaka.lg.jp/konohana/css/img/ogp_image.png"
       },
       "geometry": {
         "type": "Point",
@@ -1143,7 +1285,9 @@
         "name": "こみゃく（※MUIC Kansai施設内）",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【こみゃく（※MUIC Kansai施設内）】</b><br>📅 期間: 2023/06/08 ～ 常設<br>📝 いのちを象徴する「こみゃく」が設置されています。広く親しまれたこみゃくの多様な姿は、個とつながりの象徴です。<br><br><a href='https://www.muic-kansai.jp/news/20230608.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://www.muic-kansai.jp/news/20230608.html",
+        "image_url": "https://www.muic-kansai.jp/img/share/ogimage.png"
       },
       "geometry": {
         "type": "Point",
@@ -1159,7 +1303,9 @@
         "name": "本町ミャクミャクステーション。",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【本町ミャクミャクステーション。】</b><br>📅 期間: 2026/4/29 ～ 2026/4/29<br>📝 Osaka Metro御堂筋線「本町駅」で、非公式の常設展示としてファンや通勤客に愛されてきた『本町ミャクミャクステーション』駅員さんの発案で始まり、ミャクミャクや海外パビリオンのキャラクターなど約50体のぬいぐるみが並ぶ姿はまるで小さな万博会場でした。万博のワクワク感を届けてくれた心温まる展示です。<br><br><a href='https://www.lmaga.jp/news/2026/04/1050001/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://www.lmaga.jp/news/2026/04/1050001/",
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -1175,7 +1321,9 @@
         "name": "万博レガシー「希望のピアノ」in 御堂筋・本町(期間限定)",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【万博レガシー「希望のピアノ」in 御堂筋・本町(期間限定)】</b><br>📅 期間: 2026/4/29 ～ 2026/6/5<br>📝 万博シグネチャーパビリオン「いのちの遊び場 クラゲ館」で愛された「希望のピアノ」が、Osaka Metro 本町ビルに期間限定で登場！どなたでも自由に演奏いただけるストリートピアノとして一般開放されています！\r\n\r\n演奏できる日（5月の金・土のみ）\r\n\r\n5/15(金)・16(土)\r\n\r\n5/22(金)・23(土)\r\n\r\n5/29(金)・30(土)\r\n\r\n時間： 金曜(17:00-20:00) / 土曜(13:00-18:00)\r\n\r\nオフィス街にやってきた貴重な万博レガシーを皆で大切に守るため、騒音（アンプ・歌唱）や営利目的（ライブ配信・投げ銭）の利用は避け、やさしいタッチで、1回10分（混雑時は5分）を目安に譲り合ってお楽しみください。詳しい禁止事項等はURL先のページをご確認ください。\r<br><br><a href='https://www.osakametro.co.jp/news/news/other/20260421_kibounopiano.php' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://www.osakametro.co.jp/news/news/other/20260421_kibounopiano.php",
+        "image_url": "https://www.osakametro.co.jp/common_all/img/og_image.png"
       },
       "geometry": {
         "type": "Point",
@@ -1188,10 +1336,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "（予定）ナウル共和国パビリオン アフター万博「麦食音祭」出展",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【ナウル共和国パビリオン アフター万博「麦食音祭」出展】</b><br>📅 期間: 2026/5/2 ～ 常設<br>📝 ナウル共和国パビリオンは、アフター万博「麦食音祭」で、ナウル総人口に相当する12,000人分の限定ポストカードを先着順で無料配布することを決定しました！！<br><br><a href='https://nauru.base.shop/' target='_blank'>🔗 詳細を開く</a>",
+        "name": "ナウル共和国パビリオン アフター万博「麦食音祭」出展",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ナウル共和国パビリオン アフター万博「麦食音祭」出展】</b><br>📅 期間: 2026/5/2 ～ 常設<br>📝 ナウル共和国パビリオンは、アフター万博「麦食音祭」で、ナウル総人口に相当する12,000人分の限定ポストカードを先着順で無料配布することを決定しました！！<br><br><a href='https://nauru.base.shop/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://nauru.base.shop/",
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -1207,7 +1357,9 @@
         "name": "（予定）JAPAN FIREWORKS EXPO 2026 in Osaka – Nishikinohama",
         "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【JAPAN FIREWORKS EXPO 2026 in Osaka – Nishikinohama】</b><br>📅 期間: 2026/06/07 ～ 2026/06/07<br>📝 大阪・関西万博の感動を未来へつなぐ花火イベント「JAPAN FIREWORKS EXPO 2026 in Osaka – Nishikinohama」が開催！\n万博の開幕日やスペシャル花火を手がけた「ワキノアートファクトリー」が打ち上げを担当。大阪・関西万博でも打ち上げられた尺玉（10号玉）を含むプログラムや、万博に縁のある楽曲を使用したミュージックスターマインや、JAPAN FIREWORKS EXPO（JFE）ならではの特別なプログラムを準備しています。使用楽曲名の詳細は、本番当日までの秘密とのこと。（雨天決行・荒天中止の場合あり）<br><br><a href='https://prtimes.jp/main/html/rd/p/000000006.000176000.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://prtimes.jp/main/html/rd/p/000000006.000176000.html",
+        "image_url": "https://prcdn.freetls.fastly.net/release_image/176000/6/176000-6-3d27190c014c14b41de417ad62da0f13-1620x1182.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
       },
       "geometry": {
         "type": "Point",
@@ -1223,7 +1375,9 @@
         "name": "（予定）大阪万博石黒館のアンドロイド",
         "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【大阪万博石黒館のアンドロイド】</b><br>📅 期間: 2026/05/09 ～ ----<br>📝 大阪・関西万博のシグネチャーパビリオン「いのちの未来」で展示されていたアンドロイド計3体が東京都多摩市の「長谷工マンションミュージアム」に移設されました。<br><br><a href='https://www.nikkei.com/article/DGXZQOUC304D50Q6A430C2000000/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://www.nikkei.com/article/DGXZQOUC304D50Q6A430C2000000/",
+        "image_url": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2964712030042026000000-2.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.26&fp-y=0.2&h=630&w=1200&s=d2cb6300680e3933b5ab252098c32671"
       },
       "geometry": {
         "type": "Point",
@@ -1239,7 +1393,9 @@
         "name": "（予定）Dialogue　Theater（ダイアローグ・シアター）－いのちのあかし－",
         "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【Dialogue　Theater（ダイアローグ・シアター）－いのちのあかし－】</b><br>📅 期間: 2028年予定 ～ ----<br>📝 （ピンは泉佐野丘陵緑地の代表地点です）大阪・関西万博で河瀬直美氏が手掛けたパビリオン「ダイアローグ・シアター」が大阪府泉佐野市へ移設されます。もともとは京都の旧中出分校を活用した施設で、文化・交流拠点として2028年度中の開館を目指します。樹齢100年のイチョウも共に移されるとのこと。\n<br><br><a href='https://news.yahoo.co.jp/articles/f1906c5123834e85d2424e4bf7d99da119755c65' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://news.yahoo.co.jp/articles/f1906c5123834e85d2424e4bf7d99da119755c65",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260424-00010000-rtn-000-1-view.jpg?exp=10800"
       },
       "geometry": {
         "type": "Point",
@@ -1255,7 +1411,9 @@
         "name": "（ランチ限定）「ナウル飯2種」東大阪市役所22階レストラン　",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【（ランチ限定）「ナウル飯2種」東大阪市役所22階レストラン　】</b><br>📅 期間: 2025/11/25 ～ ----<br>📝 万博を機に交流を深める東大阪市とナウル共和国。市役所22階の展望レストランでは現在、パビリオン総監督の助言で作られた「ナウル飯」2種を限定提供中！名物の魚＆ココナツ料理で全国のファンをおもてなし！<br><br><a href='https://www.city.higashiosaka.lg.jp/0000015184.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://www.city.higashiosaka.lg.jp/0000015184.html",
+        "image_url": "https://www.city.higashiosaka.lg.jp/design_img/og_image.png"
       },
       "geometry": {
         "type": "Point",
@@ -1271,7 +1429,9 @@
         "name": "国営ナウル共和国石切参道パビリオン／ナウル屋",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【国営ナウル共和国石切参道パビリオン／ナウル屋】</b><br>📅 期間: 2025/12/07 ～ ----<br>📝 ナウル共和国石切参道パビリオン、ナウル共和国政府観光局の公式グッズ販売店<br><br><a href='https://www.instagram.com/nauruya_higashiosaka/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://www.instagram.com/nauruya_higashiosaka/",
+        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
       },
       "geometry": {
         "type": "Point",
@@ -1287,7 +1447,9 @@
         "name": "ナウル共和国パビリオン「ナウル台座」",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ナウル共和国パビリオン「ナウル台座」】</b><br>📅 期間: 常設 / 時期----<br>📝 万博で展示物が届かず「心がきれいな人には見える」とSNSで話題を呼んだナウル共和国の空の台座。展示物遅延を逆手にとったSNS投稿で万博を沸かせた同国の展示や他国の品々が、交流協定を結ぶ東大阪市役所22階に移設されています。<br><br><a href='https://www.city.kashiwara.lg.jp/docs/2025121800023/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://www.city.kashiwara.lg.jp/docs/2025121800023/",
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -1303,7 +1465,9 @@
         "name": "（予定）ポルトガル館のロープ",
         "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【ポルトガル館のロープ】</b><br>📅 期間: 2026/05/07 ～ ----<br>📝 市民交流センターwakkaにてポルトガル館の外壁に飾られていたロープが設置されています。このロープは海洋国家ポルトガルの帆船や波を表現し、リサイクル漁網などのサステナブルな素材が使用されています。<br><br><a href='https://www.city.kashiwara.lg.jp/docs/2025121800023/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://www.city.kashiwara.lg.jp/docs/2025121800023/",
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -1319,7 +1483,9 @@
         "name": "ポルトガル館のロープ",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ポルトガル館のロープ】</b><br>📅 期間: 2026/02/24 ～ ----<br>📝 天神橋筋4丁目北商店街にてポルトガル館の外壁に飾られていたロープが設置されています。このロープは海洋国家ポルトガルの帆船や波を表現し、リサイクル漁網などのサステナブルな素材が使用されています。<br><br><a href='https://osaka-shotengai-info.com/bampaku/tenyonkita/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://osaka-shotengai-info.com/bampaku/tenyonkita/",
+        "image_url": "https://osaka-shotengai-info.com/wp-content/uploads/2026/02/DSC_0628.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -1335,7 +1501,9 @@
         "name": "ポルトガル館のロープ",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ポルトガル館のロープ】</b><br>📅 期間: 2026/02/24 ～ ----<br>📝 天神橋筋5丁目北商店街にてポルトガル館の外壁に飾られていたロープが設置されています。このロープは海洋国家ポルトガルの帆船や波を表現し、リサイクル漁網などのサステナブルな素材が使用されています。<br><br><a href='https://osaka-shotengai-info.com/bampaku/tenyonkita/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://osaka-shotengai-info.com/bampaku/tenyonkita/",
+        "image_url": "https://osaka-shotengai-info.com/wp-content/uploads/2026/02/DSC_0628.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -1351,7 +1519,9 @@
         "name": "（予定）クラゲ館の音響体験「わたしを聴く」2日間限定復活",
         "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【クラゲ館の音響体験「わたしを聴く」2日間限定復活】</b><br>📅 期間: 2026/05/30 ～ 常設<br>📝 御茶ノ水 RITTOR BASE大阪・関西万博の「いのちの遊び場 クラゲ館」で大人気だった没入型立体音響体験「わたしを聴く」が、5月30日・31日の2日間限定で東京・御茶ノ水のRITTOR BASEにサウンドインスタレーションとして復活！<br><br><a href='https://prtimes.jp/main/html/rd/p/000000087.000134299.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://prtimes.jp/main/html/rd/p/000000087.000134299.html",
+        "image_url": "https://prcdn.freetls.fastly.net/release_image/134299/87/134299-87-d6c8c3bfbaf5b08c5bc643a99aa662de-920x450.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
       },
       "geometry": {
         "type": "Point",
@@ -1367,7 +1537,9 @@
         "name": "（予定）null²ⁿ（ヌルヌルネクサス）",
         "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【null²ⁿ（ヌルヌルネクサス）】</b><br>📅 期間: 2026年中 ～ 常設<br>📝 横浜ランドマークタワーにイマーシブシアター「null²ⁿ（ヌルヌルネクサス）」が登場！<br><br><a href='https://null2.nexus/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://null2.nexus/",
+        "image_url": "https://null2.nexus/ogp-yokohama.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -1383,7 +1555,9 @@
         "name": "（予定）null⁴（テトラﾇﾙ）",
         "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【null⁴（テトラﾇﾙ）】</b><br>📅 期間: 2027/03/19 ～ 2027/09/26<br>📝 大阪・関西万博で大反響を呼んだ落合陽一氏の「null²」が、「null⁴（テトラﾇﾙ）」として新たな姿へと転生！2027年開催の「GREEN×EXPO 2027（SATOYAMA Village）」に登場します。今回はインド思想「テトラレンマ」を冠する4棟のタワーと、チベット仏教の巨大なマニ車のような回転オブジェで構成。会場の花や空、風、そして来場者の影を回転する鏡面に取り込み、風景を変換しながらインタラクティブな空間を表現するとのこと。<br><br><a href='https://expo2027.digitalnatureandarts.or.jp/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://expo2027.digitalnatureandarts.or.jp/",
+        "image_url": "https://expo2027.digitalnatureandarts.or.jp/images/null4_ogp-image.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -1399,7 +1573,9 @@
         "name": "（予定）マイドオオキニ大阪・関西万博缶",
         "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【マイドオオキニ大阪・関西万博缶】</b><br>📅 期間: 2026/05/27 ～ 2026/06/02<br>📝 MVPスイーツ「 太陽ノ塔洋菓子店 POP UP 」場所：大丸東京店 1階 MVPスイーツ 個数制限：お一人様３個まで<br><br><a href='https://taiyounotou.com/%E3%82%81%E3%81%A3%E3%81%A1%E3%82%83%E3%83%9E%E3%82%A4%E3%83%89%E3%82%AA%E3%82%AA%E3%82%AD%E3%83%8B-%E5%A4%A7%E9%98%AA%E9%96%A2%E8%A5%BF%E4%B8%87%E5%8D%9A%E7%BC%B6/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": true
+        "isStore": true,
+        "link": "https://taiyounotou.com/%E3%82%81%E3%81%A3%E3%81%A1%E3%82%83%E3%83%9E%E3%82%A4%E3%83%89%E3%82%AA%E3%82%AA%E3%82%AD%E3%83%8B-%E5%A4%A7%E9%98%AA%E9%96%A2%E8%A5%BF%E4%B8%87%E5%8D%9A%E7%BC%B6/",
+        "image_url": "https://taiyounotou.com/wp-content/uploads/2026/05/めっちゃマイドオオキニ缶_パターンC_1：1-02-scaled.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -1415,7 +1591,9 @@
         "name": "（予定）なでしこジャパンVS南アフリカ女子代表　ミャクミャク\n来場",
         "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【なでしこジャパンVS南アフリカ女子代表　ミャクミャク\n来場】</b><br>📅 期間: 2026/06/06 ～ 2026/06/06<br>📝 なでしこジャパンの試合に、スペシャルゲストとして大阪・関西万博キャラクター　ミャクミャク\nの来場が決定！<br><br><a href='https://jfa.jp/nadeshikojapan/lp/20260606/?utm_source=x&utm_medium=sns&utm_campaign=NJ20260606_x_sns_nadeshikox_myaku' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://jfa.jp/nadeshikojapan/lp/20260606/?utm_source=x&utm_medium=sns&utm_campaign=NJ20260606_x_sns_nadeshikox_myaku",
+        "image_url": "https://www.jfa.jp/nadeshikojapan/lp/assets/images/20260606/ogp_1200-630_v2.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -1431,7 +1609,9 @@
         "name": "万博報道写真展「受け継がれる異形の血脈」",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【万博報道写真展「受け継がれる異形の血脈」】</b><br>📅 期間: 時期---- ～ 2026/05/05<br>📝 あべのハルカス近鉄本店で開催中の「大阪・関西万博報道写真展」では、ミャクミャクや公式ロゴの誕生秘話がわかる貴重な資料の展示に加え、制作者のシマダタモツ氏がデザインした実際に触れられる信楽焼オブジェ「CELL ART」も体験できます。<br><br><a href='https://news.yahoo.co.jp/articles/ac6bb849b5ad46fad3ab42077b1cbf9fdb6a17a2' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false
+        "isStore": false,
+        "link": "https://news.yahoo.co.jp/articles/ac6bb849b5ad46fad3ab42077b1cbf9fdb6a17a2",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260430-00000007-ovo-000-1-view.jpg?exp=10800"
       },
       "geometry": {
         "type": "Point",
