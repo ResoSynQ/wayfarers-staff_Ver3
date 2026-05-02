@@ -6,6 +6,26 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "初夏の甘さにぎわう　パイン旬入り祝いフェス　西表島(沖縄八重山日報)",
+        "name": "西表島",
+        "address": "",
+        "reason": "旬のパイナップルを味わえるイベントに興味をそそられるため",
+        "date": "2026-05-03",
+        "link": "https://news.yahoo.co.jp/articles/249dcc5c74f3aa96d907e368e6ece048f5c1a8ed?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260503-00010002-yaeyamanp-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.8185925,
+          24.3349925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "5日まで愛好団体がラン展　鴨川（千葉県）(房日新聞)",
         "name": "鴨川市役所",
         "address": "",
