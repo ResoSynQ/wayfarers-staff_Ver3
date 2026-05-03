@@ -6,6 +6,26 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "江東・越中島で「隅田川マルシェ」　子連れ家族や犬を連れた来場者が列作る(みんなの経済新聞ネットワーク)",
+        "name": "江東区 越中島プール",
+        "address": "",
+        "reason": "活気あふれるマルシェで、家族やペット連れも楽しめる",
+        "date": "2026-05-04",
+        "link": "https://news.yahoo.co.jp/articles/43bdcb3c1bdbfddd6d929494702fab83df94416e?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260504-00000000-minkei-000-2-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.78989607,
+          35.66873722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "初夏の甘さにぎわう　パイン旬入り祝いフェス　西表島(沖縄八重山日報)",
         "name": "西表島",
         "address": "",
