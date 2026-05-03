@@ -27,7 +27,7 @@
         "category": "legacy",
         "isStore": false,
         "link": "https://www.instagram.com/bakushoku_afterexpo",
-        "image_url": ""
+        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
       },
       "geometry": {
         "type": "Point",
@@ -495,7 +495,7 @@
         "category": "legacy",
         "isStore": false,
         "link": "https://www.expo70-park.jp/facility/watchlearn/inochidama/",
-        "image_url": ""
+        "image_url": "https://www.expo70-park.jp/sys/wp-content/uploads/1c623daf87c5b4e145327b96ac296f03-640x480.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -1431,7 +1431,7 @@
         "category": "legacy",
         "isStore": false,
         "link": "https://www.instagram.com/nauruya_higashiosaka/",
-        "image_url": ""
+        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
       },
       "geometry": {
         "type": "Point",
@@ -1642,8 +1642,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "（予定）くら寿司 なんば千日前店",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【くら寿司 なんば千日前店】</b><br>📅 期間: 5月中旬 ～ ----<br>📝 大阪・関西万博店のレガシーを引き継いだメモリアル店舗<br><br><a href='https://www.agara.co.jp/article/616843' target='_blank'>🔗 詳細を開く</a>",
+        "name": "（予定）くら寿司　メモリアル店　なんば千日前",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【くら寿司　メモリアル店　なんば千日前】</b><br>📅 期間: 5月中旬 ～ ----<br>📝 大阪・関西万博店のレガシーを引き継いだメモリアル店舗<br><br><a href='https://www.agara.co.jp/article/616843' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": true,
         "link": "https://www.agara.co.jp/article/616843",
