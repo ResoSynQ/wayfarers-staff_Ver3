@@ -5,6 +5,83 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "【兵庫県宍粟市】定例発表実施　新公園開設・教育施策を述べる　フォトコン最優秀賞受賞者への表彰式も(ラジトピ　ラジオ関西トピックス)",
+        "name": "宍粟市役所",
+        "address": "",
+        "reason": "新公園開設や教育施策、フォトコン表彰式など、地域活動に魅力",
+        "date": "2026-05-01",
+        "link": "https://news.yahoo.co.jp/articles/a70f2de31124cda56e300507deaa07e28323b0dd?source=rss"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5494657,
+          35.0044166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "【南島原そうめん】“ふし” が世界を平和に　絵本でふるさとのおいしい魅力をPR《長崎》(長崎国際テレビ)",
+        "name": "南島原市役所",
+        "address": "",
+        "reason": "絵本で紹介されたそうめんの魅力を現地で体験したい",
+        "date": "2026-05-02",
+        "link": "https://news.yahoo.co.jp/articles/ba48e031ccf72b275581ccf784d700d21ced82dd?source=rss"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.2978634,
+          32.6597769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "5日まで愛好団体がラン展　鴨川（千葉県）(房日新聞)",
+        "name": "鴨川市役所",
+        "address": "",
+        "reason": "ラン展の開催情報に魅力を感じ、訪れたいと思わせる",
+        "date": "2026-05-02",
+        "link": "https://news.yahoo.co.jp/articles/f0997af07fb453f0b52b38765dfc11a7577099c2?source=rss"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0987105,
+          35.1139863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "初夏の甘さにぎわう　パイン旬入り祝いフェス　西表島(沖縄八重山日報)",
+        "name": "西表島",
+        "address": "",
+        "reason": "旬のパイナップルを味わえるイベントに興味をそそられるため",
+        "date": "2026-05-03",
+        "link": "https://news.yahoo.co.jp/articles/249dcc5c74f3aa96d907e368e6ece048f5c1a8ed?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260503-00010002-yaeyamanp-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.8185925,
+          24.3349925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "10月11日・12日 福井・鯖江で音楽フェス開催へ　第1弾アーティストに氣志團ら7組(みんなの経済新聞ネットワーク)",
         "name": "西山公園",
         "address": "",
@@ -302,132 +379,6 @@
         "coordinates": [
           140.7288101,
           41.7687932
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "local",
-        "trend_word": "湯梨浜町の道の駅燕趙園で「春の感謝祭」　旬のスイーツ販売や多彩な催し(日本海新聞)",
-        "name": "道の駅燕趙園",
-        "address": "",
-        "reason": "春の感謝祭という季節限定イベントで、旬のスイーツや多彩な催しがあると記載されており、地域のお祭りやイベントに興味があるユーザーは足を運びたくなる可能性が高い。",
-        "date": "2026-04-19"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          133.89264918,
-          35.46463784
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "local",
-        "trend_word": "海の幸満載「境港大漁祭」盛況　グルメ投票やステージイベントにぎやかに(日本海新聞)",
-        "name": "境港市役所",
-        "address": "",
-        "reason": "新鮮な海の幸を堪能できるグルメイベントと活気あふれるステージイベントが魅力的だから。",
-        "date": "2026-04-19"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          133.2314857,
-          35.5395913
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "local",
-        "trend_word": "小松の十二ヶ滝こいのぼり泳ぐ(HAB北陸朝日放送)",
-        "name": "十二ヶ滝",
-        "address": "",
-        "reason": "風物詩の光景に癒される",
-        "date": "2026-04-19"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          136.5091637,
-          36.3447191
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "local",
-        "trend_word": "弘前・名曲喫茶ひまわりで成田弥生さん個展　能町みね子さんとの縁も(みんなの経済新聞ネットワーク)",
-        "name": "名曲喫茶ひまわり",
-        "address": "",
-        "reason": "芸術と音楽、そして著名人との繋がりが、訪れる者に特別な体験を期待させるため。",
-        "date": "2026-04-18"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.47437189,
-          40.60106656
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "local",
-        "trend_word": "学生食堂から循環の輪　金沢工大生がＳＤＧｓ商品　廃棄食材を堆肥化、ハーブ栽培　アロマオイル、化粧水に　ブランド名「ノノループ」(北國新聞社)",
-        "name": "金沢工業大学",
-        "address": "",
-        "reason": "学生がSDGsに取り組むユニークな商品開発に興味をそそられるため。",
-        "date": "2026-04-18"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          136.628310833333,
-          36.528450555556
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "local",
-        "trend_word": "真っ白ふわふわ赤ちゃんアザラシ　“今はいいけど…”エサに課題　水族館も戦々恐々…中東情勢　三重・伊勢シーパラダイス(中京テレビＮＥＷＳ)",
-        "name": "ゼロ距離水族館伊勢シーパラダイス",
-        "address": "",
-        "reason": "珍しい真っ白ふわふわの赤ちゃんアザラシに会える！",
-        "date": "2026-04-17"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          136.7916718,
-          34.5074301
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "local",
-        "trend_word": "名古屋グランパスの新たな”聖地” リニューアルされたパロマ瑞穂スタジアムで選手が初練習(メ〜テレ（名古屋テレビ）)",
-        "name": "パロマ瑞穂スタジアム",
-        "address": "",
-        "reason": "新しいスタジアムで選手が初練習という、ファンにとってはたまらないニュースだから。",
-        "date": "2026-04-17"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          136.9434465,
-          35.1223748
         ]
       }
     }

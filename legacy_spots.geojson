@@ -27,7 +27,7 @@
         "category": "legacy",
         "isStore": false,
         "link": "https://www.instagram.com/bakushoku_afterexpo",
-        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -76,8 +76,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "（予定）「ごみ祭り」今年もごみの日（5月3日）に開催",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【「ごみ祭り」今年もごみの日（5月3日）に開催】</b><br>📅 期間: 2026/05/03 ～ 2026/05/03<br>📝 2025年大阪・関西万博が掲げた資源循環への取り組みを受け継ぎ、ごみの日に体験型の「ごみ祭り」を開催されるよ！<br><br><a href='https://prtimes.jp/main/html/rd/p/000000084.000134299.html' target='_blank'>🔗 詳細を開く</a>",
+        "name": "「ごみ祭り」今年もごみの日（5月3日）に開催",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【「ごみ祭り」今年もごみの日（5月3日）に開催】</b><br>📅 期間: 2026/05/03 ～ 2026/05/03<br>📝 2025年大阪・関西万博が掲げた資源循環への取り組みを受け継ぎ、ごみの日に体験型の「ごみ祭り」を開催されるよ！<br><br><a href='https://prtimes.jp/main/html/rd/p/000000084.000134299.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false,
         "link": "https://prtimes.jp/main/html/rd/p/000000084.000134299.html",
@@ -495,7 +495,7 @@
         "category": "legacy",
         "isStore": false,
         "link": "https://www.expo70-park.jp/facility/watchlearn/inochidama/",
-        "image_url": "https://www.expo70-park.jp/sys/wp-content/uploads/1c623daf87c5b4e145327b96ac296f03-640x480.jpg"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -1431,7 +1431,7 @@
         "category": "legacy",
         "isStore": false,
         "link": "https://www.instagram.com/nauruya_higashiosaka/",
-        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -1636,6 +1636,24 @@
         "coordinates": [
           139.7765282,
           35.6195103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）くら寿司 なんば千日前店",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【くら寿司 なんば千日前店】</b><br>📅 期間: 5月中旬 ～ ----<br>📝 大阪・関西万博店のレガシーを引き継いだメモリアル店舗<br><br><a href='https://www.agara.co.jp/article/616843' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": true,
+        "link": "https://www.agara.co.jp/article/616843",
+        "image_url": "https://kyodonewsprwire.jp/prwfile/release/M102330/202603266331/_prw_PI1im_hd51btS3.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5035045,
+          34.66627708
         ]
       }
     }
