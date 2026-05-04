@@ -27,7 +27,7 @@
         "category": "legacy",
         "isStore": false,
         "link": "https://www.instagram.com/bakushoku_afterexpo",
-        "image_url": ""
+        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
       },
       "geometry": {
         "type": "Point",
@@ -1431,7 +1431,7 @@
         "category": "legacy",
         "isStore": false,
         "link": "https://www.instagram.com/nauruya_higashiosaka/",
-        "image_url": ""
+        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
       },
       "geometry": {
         "type": "Point",
@@ -1654,6 +1654,24 @@
         "coordinates": [
           135.5035045,
           34.66627708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）祈器",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【祈器】</b><br>📅 期間: 2026/0401 ～ ----<br>📝 陶芸家・建築家の奈良祐希が制作した《祈器》は高さ2.4m・重さ3トンの巨大なアート作品。世界の国数と同じ196枚のアルミプレートで「手と手を合わせる地球」を形作り、能登半島地震からの復興への祈りを込め造形された。大阪・関西万博では「光の広場」に展示されていた。<br><br><a href='https://news.yahoo.co.jp/articles/7ad0ac6f042e568649a5815dae17c972c9d20400' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "link": "https://news.yahoo.co.jp/articles/7ad0ac6f042e568649a5815dae17c972c9d20400",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260406-00000004-btecho-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.659299,
+          36.56233641
         ]
       }
     }
