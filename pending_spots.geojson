@@ -6,6 +6,106 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "奈良の名勝・寧楽美術館　無事願い軒に菖蒲 端午の節句の風習(奈良新聞デジタル)",
+        "name": "寧楽美術館",
+        "address": "",
+        "reason": "風情ある伝統行事と美しい菖蒲の風景が体験できるため",
+        "date": "2026-05-05",
+        "link": "https://news.yahoo.co.jp/articles/22315799725523e249438e973b70d388af7b208d?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260505-00000001-naranp-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8371304,
+          34.6860148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "片道900メートルの小さな旅…愛称‟くりでん”で親しまれた『くりはら田園鉄道』の乗車会(宮城・栗原市)(ミヤギテレビ)",
+        "name": "くりはら田園鉄道公園",
+        "address": "",
+        "reason": "懐かしい鉄道体験を求めて",
+        "date": "2026-05-05",
+        "link": "https://news.yahoo.co.jp/articles/01c93a05f04ca5a87c6efdcdf81a9d81b55e14ea?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260505-02183641-mmt-000-1-thumb.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.132589,
+          38.774953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "「目指せ日本一！」　ジャンボカボチャの苗を販売　栽培の第一人者の講習会も　鴨川（千葉県）(房日新聞)",
+        "name": "鴨川市役所",
+        "address": "",
+        "reason": "珍しいジャンボカボチャ栽培と講習会で体験意欲を刺激",
+        "date": "2026-05-05",
+        "link": "https://news.yahoo.co.jp/articles/055cd3534c311cc428334eb126d51d7ee8da6aaf?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260505-00010001-bonichi-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0987105,
+          35.1139863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "庭を彩る「熱帯の宝石」 フィリピン原産のメディニラ・マグニフィカが開花　中城村(沖縄タイムス)",
+        "name": "中城村役場",
+        "address": "",
+        "reason": "熱帯の宝石のような美しい花が見られる",
+        "date": "2026-05-05",
+        "link": "https://news.yahoo.co.jp/articles/c554ce8c7870e429ff924d8a176ffe8398de8d92?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260505-01830361-okinawat-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.7896062,
+          26.2620272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "祇園祭発祥の地・神泉苑でひと足早く祇園囃子　浴衣姿の女性たちが鉦や笛で清らかな音色響かせる　京都市(関西テレビ)",
+        "name": "神泉苑",
+        "address": "",
+        "reason": "伝統的な祭りの雰囲気を一足先に体験できる魅力",
+        "date": "2026-05-05",
+        "link": "https://news.yahoo.co.jp/articles/5d64b28b3a48fbab72ef5dd696ef2bf79b50c249?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260505-90026836-kantelev-000-1-thumb.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7483686,
+          35.0113819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "江東・越中島で「隅田川マルシェ」　子連れ家族や犬を連れた来場者が列作る(みんなの経済新聞ネットワーク)",
         "name": "江東区 越中島プール",
         "address": "",
