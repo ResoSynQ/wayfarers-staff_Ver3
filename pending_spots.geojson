@@ -6,6 +6,26 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "【見頃】仙台市の天然記念物『子平町の藤』、5日から一般公開(ミヤギテレビ)",
+        "name": "子平町酒場 かすみ",
+        "address": "",
+        "reason": "天然記念物の藤が見頃で一般公開されるため",
+        "date": "2026-05-06",
+        "link": "https://news.yahoo.co.jp/articles/9d0e0e39e7ff0eabb4f7c5dc128671afab4c2bd5?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260506-02642431-mmt-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.85121255,
+          38.27458796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "奈良の名勝・寧楽美術館　無事願い軒に菖蒲 端午の節句の風習(奈良新聞デジタル)",
         "name": "寧楽美術館",
         "address": "",
@@ -62,7 +82,7 @@
         ]
       }
     },
-      {
+    {
       "type": "Feature",
       "properties": {
         "category": "local",
