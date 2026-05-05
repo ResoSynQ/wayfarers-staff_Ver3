@@ -1431,7 +1431,7 @@
         "category": "legacy",
         "isStore": false,
         "link": "https://www.instagram.com/nauruya_higashiosaka/",
-        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -1672,6 +1672,24 @@
         "coordinates": [
           136.659299,
           36.56233641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "大屋根リング",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【大屋根リング】</b><br>📅 期間: 2024/08/21 ～ ----<br>📝 大阪・関西万博のシンボル「大屋根リング」は、「多様でありながら、ひとつ」という会場デザインの理念を体現する巨大な建築物です。日本の伝統的な「貫（ぬき）接合」と現代技術を融合させて造られており、会場の主動線としてだけでなく、雨や日差しを遮る快適な滞留空間を提供します。建築面積約6.1万㎡、外径約675mにおよぶこの木造回廊は、2025年3月4日に「最大の木造建築物」としてギネス世界記録™にも認定されました。当初は閉幕後に全解体される計画でしたが、万博のレガシーとして北東部分の約200メートルが現地保存されることになりました。今後は周辺を含め市営公園として整備・管理される予定です。<br><br><a href='https://www.expo2025.or.jp/expo-map-index/main-facilities/grandring/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "link": "https://www.expo2025.or.jp/expo-map-index/main-facilities/grandring/",
+        "image_url": "http://img.youtube.com/vi/eECndMY-WV0/maxresdefault.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.3867906,
+          34.64989736
         ]
       }
     }
