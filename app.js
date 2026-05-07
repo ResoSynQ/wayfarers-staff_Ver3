@@ -332,6 +332,20 @@ const overlayMaps = {
     "🗣️ ユーザー投稿スポット": layers.user_spots, "🎡 万博・レガシー": layers.legacy_spots
 };
 
+const wideAreaAutoZoomKeys = new Set([
+    'keikan', 'tree', 'fudo', 'denken', 'fuchi', 'kanko',
+    'trail', 'shizenhodo', 'gokaido',
+    'live_trend', 'live_flower', 'live_local',
+    'user_spots', 'legacy_spots'
+]);
+
+function autoZoomForWideAreaLayer(layer) {
+    const key = Object.keys(layers).find(layerKey => layers[layerKey] === layer);
+    if (wideAreaAutoZoomKeys.has(key) && map.getZoom() !== 7) {
+        map.setZoom(7);
+    }
+}
+
 layers.rel.addTo(map); layers.park.addTo(map); layers.com.addTo(map);
 layers.mus.addTo(map); layers.gym.addTo(map); layers.cul.addTo(map);
 
@@ -383,6 +397,8 @@ scanBtn?.addEventListener('click', () => {
 const myakuCredit = '（画像のミャクミャク・こみゃく・こみゃくピンは二次創作です）';
 let restaurantWarningShown = false, advanceWarningShown = false;
 map.on('overlayadd', async function(e) {
+    autoZoomForWideAreaLayer(e.layer);
+
     if (e.layer === layers.live_trend) await fetchLayerData('live_trend', layerDefs.live_trend);
     if (e.layer === layers.live_flower) await fetchLayerData('live_flower', layerDefs.live_flower);
     if (e.layer === layers.live_local) await fetchLayerData('live_local', layerDefs.live_local);
