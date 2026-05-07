@@ -6,6 +6,126 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "ハートのうちわに心込め　奈良市の唐招提寺　「宝扇」の準備大詰め(奈良新聞デジタル)",
+        "name": "唐招提寺寺務所",
+        "address": "",
+        "reason": "風情あるうちわ作りと歴史的建造物に興味をそそる",
+        "date": "2026-05-08",
+        "link": "https://news.yahoo.co.jp/articles/e207070c55c075225bf0ef57d87767f86c50f4a9?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260508-00000001-naranp-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.78561013,
+          34.67489623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "コーヒー豆栽培に不利な沖縄　それでも秘めたポテンシャル　堀口珈琲研究所代表の品質評価で分かったこと(沖縄タイムス)",
+        "name": "沖縄県警察運転免許センター",
+        "address": "",
+        "reason": "ポテンシャルの高さを知り、現地で確認したくなったため",
+        "date": "2026-05-08",
+        "link": "https://news.yahoo.co.jp/articles/04edec8f10b5b04b11c3d3f6df4d895b8336fefd?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260508-01831582-okinawat-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.656197,
+          26.1556783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "ＵＳＪで大切な人に“感謝”を伝えるイベント「Thanks Love Month」母の日を前にスタート　父の日まで開催　参加者「なかなか面と向かって言えない…いい機会」(関西テレビ)",
+        "name": "リーベルホテル・アット・ユニバーサルスタジオジャパン",
+        "address": "",
+        "reason": "母の日・父の日を前に感謝を伝えるイベントで、普段言えない気持ちを伝える良い機会となるため",
+        "date": "2026-05-08",
+        "link": "https://news.yahoo.co.jp/articles/700052380c527813b9c51310f5f6e2108af250f6?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260508-90026900-kantelev-000-1-thumb.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.43217629,
+          34.66154551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "「鹿児島東西道路」プロジェクトの歩み　貫通まで残り36ｍ　(鹿児島ニュースＫＴＳ)",
+        "name": "建部IC（鹿児島東西道路）",
+        "address": "",
+        "reason": "開通間近のインフラプロジェクトは、地域住民や建設関係者にとって関心が高く、完成後の変化への期待感から現地訪問につながる可能性がある。",
+        "date": "2026-05-08",
+        "link": "https://news.yahoo.co.jp/articles/ee36a9822d84e819c61b823439a24fd0938b0dda?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260508-90027013-kts-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.5327017,
+          31.5806005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "trend",
+        "trend_word": "今永が4勝目 ファン総立ちで称賛",
+        "name": "フレッシュネスバーガー横浜スタジアム店",
+        "address": "",
+        "reason": "勝利を称賛する熱狂を体験できる",
+        "date": "2026-05-08",
+        "link": "https://news.yahoo.co.jp/pickup/6579215?source=rss",
+        "image_url": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/8/5a91cf22ceb5182d31ea752e217e8ae16e6e6fc3888fbb2ff8b4e006a3a97370.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6407392,
+          35.4426604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "trend",
+        "trend_word": "名古屋のモーニング文化 なぜ進化",
+        "name": "エホバの証人の愛知県名古屋市道徳会衆王国会館",
+        "address": "",
+        "reason": "個性的なモーニング文化に惹かれる",
+        "date": "2026-05-08",
+        "link": "https://news.yahoo.co.jp/pickup/6579182?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/ymjrky/02617934/title-1778120208486.jpeg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.91057265,
+          35.10834772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "魚津水族館（富山）のキャラ、シャリササリ人気です(北日本新聞)",
         "name": "魚津水族館前交差点",
         "address": "",
@@ -122,7 +242,6 @@
         ]
       }
     },
-
     {
       "type": "Feature",
       "properties": {
