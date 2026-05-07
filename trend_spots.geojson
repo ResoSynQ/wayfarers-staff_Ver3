@@ -5,6 +5,106 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "祇園祭発祥の地・神泉苑でひと足早く祇園囃子　浴衣姿の女性たちが鉦や笛で清らかな音色響かせる　京都市(関西テレビ)",
+        "name": "神泉苑",
+        "address": "",
+        "reason": "伝統的な祭りの雰囲気を一足先に体験できる魅力",
+        "date": "2026-05-05",
+        "link": "https://news.yahoo.co.jp/articles/5d64b28b3a48fbab72ef5dd696ef2bf79b50c249?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260505-90026836-kantelev-000-1-thumb.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7483686,
+          35.0113819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "片道900メートルの小さな旅…愛称‟くりでん”で親しまれた『くりはら田園鉄道』の乗車会(宮城・栗原市)(ミヤギテレビ)",
+        "name": "くりはら田園鉄道公園",
+        "address": "",
+        "reason": "懐かしい鉄道体験を求めて",
+        "date": "2026-05-05",
+        "link": "https://news.yahoo.co.jp/articles/01c93a05f04ca5a87c6efdcdf81a9d81b55e14ea?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260505-02183641-mmt-000-1-thumb.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.132589,
+          38.774953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "奈良の名勝・寧楽美術館　無事願い軒に菖蒲 端午の節句の風習(奈良新聞デジタル)",
+        "name": "寧楽美術館",
+        "address": "",
+        "reason": "風情ある伝統行事と美しい菖蒲の風景が体験できるため",
+        "date": "2026-05-05",
+        "link": "https://news.yahoo.co.jp/articles/22315799725523e249438e973b70d388af7b208d?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260505-00000001-naranp-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8371304,
+          34.6860148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "【見頃】仙台市の天然記念物『子平町の藤』、5日から一般公開(ミヤギテレビ)",
+        "name": "子平町酒場 かすみ",
+        "address": "",
+        "reason": "天然記念物の藤が見頃で一般公開されるため",
+        "date": "2026-05-06",
+        "link": "https://news.yahoo.co.jp/articles/9d0e0e39e7ff0eabb4f7c5dc128671afab4c2bd5?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260506-02642431-mmt-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.85121255,
+          38.27458796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "魚津水族館（富山）のキャラ、シャリササリ人気です(北日本新聞)",
+        "name": "魚津水族館前交差点",
+        "address": "",
+        "reason": "ユニークなキャラクターが魅力的",
+        "date": "2026-05-07",
+        "link": "https://news.yahoo.co.jp/articles/02914c58702a18ad69fa02eb5fcef7f22888bea7?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260507-00000001-kitanihon-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.387595,
+          36.7993589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "【兵庫県宍粟市】定例発表実施　新公園開設・教育施策を述べる　フォトコン最優秀賞受賞者への表彰式も(ラジトピ　ラジオ関西トピックス)",
         "name": "宍粟市役所",
         "address": "",
@@ -151,234 +251,6 @@
         "coordinates": [
           138.8666865697628,
           34.64968867905211
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "local",
-        "trend_word": "「舞台をみているようで、すばらしい!」南信州・阿智村「ハナモモ」見ごろ…約4キロにわたって5000本余りの「ハナモモ」赤、白、ピンクのグラデーション楽しむ(ＳＢＣ信越放送)",
-        "name": "阿智村役場",
-        "address": "",
-        "reason": "約4kmにわたる5000本以上のハナモモの壮大な景色は、訪れる価値があると感じさせるため。",
-        "date": "2026-04-23",
-        "link": "https://news.yahoo.co.jp/articles/8a34889e123200a68bf7bf07387368f165721e22?source=rss"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          137.7475043,
-          35.4437679
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "local",
-        "trend_word": "犬の散歩で地域防災力の強化へ　神奈川・綾瀬市、５月から「わんわんパトロール」(カナロコ by 神奈川新聞)",
-        "name": "綾瀬市役所",
-        "address": "",
-        "reason": "愛犬との散歩が地域貢献になり、新たな交流も期待できるため",
-        "date": "2026-04-22",
-        "link": "https://news.yahoo.co.jp/articles/339f3f780d97711cebd016a9f60aaaf9d813b28b?source=rss"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.4261477,
-          35.4371749
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "local",
-        "trend_word": "“ゼロ・エネルギー”ビル　新築の高知商工会館がお披露目　1.25倍の耐震性で「地域の避難所」機能も… 11月下旬にグランドオープン(テレビ高知)",
-        "name": "高知商工会館",
-        "address": "",
-        "reason": "先進的なゼロ・エネルギービルで、地域の防災拠点にもなるため、見学や利用に興味を持つ人がいる。",
-        "date": "2026-04-22",
-        "link": "https://news.yahoo.co.jp/articles/43dec83ea0863fa1e15b8a12690c699e75cfefa3?source=rss"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          133.5391364,
-          33.5580592
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "local",
-        "trend_word": "【星野リゾート】福岡初進出のホテルは門司港　全室オーシャンビュー　サウナ付き客室も　7月開業へ(FBS福岡放送)",
-        "name": "門司港",
-        "address": "",
-        "reason": "星野リゾートのブランド力、門司港という歴史的景観、全室オーシャンビューとサウナ付き客室という魅力的な設備が、観光客を惹きつける可能性が高い。",
-        "date": "2026-04-22",
-        "link": "https://news.yahoo.co.jp/articles/ea7d30e00f10440ef1ce44c732263a1afad370bf?source=rss"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          130.947412,
-          33.9398065
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "local",
-        "trend_word": "福岡市美術館で「新収蔵品展」　絵画・写真・版画など27点お披露目(みんなの経済新聞ネットワーク)",
-        "name": "福岡市美術館",
-        "address": "",
-        "reason": "新収蔵品展で多様なジャンルの27点がお披露目され、美術ファンは必見",
-        "date": "2026-04-22",
-        "link": "https://news.yahoo.co.jp/articles/20109642f36473ad46a1be192468261f13965763?source=rss"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          130.3795115,
-          33.5837715
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "local",
-        "trend_word": "曲水の宴 切り絵で　40周年記念、限定御朱印　平泉・毛越寺　11月まで販売【岩手】(岩手日日新聞社)",
-        "name": "毛越寺",
-        "address": "",
-        "reason": "歴史的建造物と限定御朱印で訪問意欲を刺激する。",
-        "date": "2026-04-21",
-        "link": "https://news.yahoo.co.jp/articles/f917f8e002d6cf28b82ba827885984fe1b80db5b?source=rss"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          141.1088649,
-          38.98713919
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "local",
-        "trend_word": "札幌ドーム社長が描く「北海道を元気にする」未来　「札幌ドーム」阿部晃士さん(北海道ニュースUHB)",
-        "name": "札幌ドーム交差点",
-        "address": "",
-        "reason": "札幌ドーム社長の熱意あるビジョンが、地域活性化への期待感を抱かせ、訪問意欲を刺激するから。",
-        "date": "2026-04-21",
-        "link": "https://news.yahoo.co.jp/articles/252d9e6d6c3aeffe6a218d0329a720815c62d9a6?source=rss"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          141.4087529,
-          43.0177849
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "local",
-        "trend_word": "やまぐちフラワーランド20周年記念セレモニー　家庭の庭作りのデザイン提案するトライアルガーデン設置も　山口・柳井(ｔｙｓテレビ山口)",
-        "name": "やまぐちフラワーランド",
-        "address": "",
-        "reason": "20周年記念の特別感と、家庭の庭作りの参考になるトライアルガーデン設置が魅力的。",
-        "date": "2026-04-21",
-        "link": "https://news.yahoo.co.jp/articles/8a730bb3258f407bf6f867227e678ab03a786707?source=rss"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          132.08928374,
-          33.98082862
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "local",
-        "trend_word": "オオヤマザクラのトンネル圧巻／青森県弘前の岩木山麓(陸奥新報)",
-        "name": "岩木山麓桜並木",
-        "address": "",
-        "reason": "圧巻の桜トンネルは訪れる価値あり",
-        "date": "2026-04-21",
-        "link": "https://news.yahoo.co.jp/articles/70ba8e8a6e6e8c0723b88bd2430ef2ce7542e5a1?source=rss"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.3115673,
-          40.6147844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "local",
-        "trend_word": "大丸福岡天神店「デパ地下」11年ぶり　大規模リニューアル　店舗の70％を入れ替えへ(FBS福岡放送)",
-        "name": "大丸福岡天神店",
-        "address": "",
-        "reason": "70%の店舗入れ替えは、食のトレンドに敏感な層や、新しいグルメ体験を求める層に響くため。",
-        "date": "2026-04-20",
-        "link": "https://news.yahoo.co.jp/articles/56c89a949500b174c64834c0f2228b8b04c3cd9b?source=rss"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          130.40121826,
-          33.58879096
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "local",
-        "trend_word": "いわきFC、長野に勝利　7連勝で首位キープ!【J2】(TUFテレビユー福島)",
-        "name": "いわき市役所",
-        "address": "",
-        "reason": "J2リーグの試合観戦は、スポーツファンにとって直接体験したい魅力があるため。",
-        "date": "2026-04-20",
-        "link": "https://news.yahoo.co.jp/articles/fc55385f0b3dd252903326f450563207d403127e?source=rss"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.8876813,
-          37.0504185
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "local",
-        "trend_word": "【函館-成田線が7年ぶり復活】LCCスプリング・ジャパンが\"初の函館線\"定期便を就航_4月23日からGW中心に金土日〈北海道函館市〉(北海道ニュースUHB)",
-        "name": "函館市役所",
-        "address": "",
-        "reason": "LCCの就航により、函館へのアクセスが向上し、ゴールデンウィークを中心に旅行しやすくなったため。",
-        "date": "2026-04-20",
-        "link": "https://news.yahoo.co.jp/articles/93834ea1373c8fa6e5303d2eb7cc29adafbbd53f?source=rss"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.7288101,
-          41.7687932
         ]
       }
     }

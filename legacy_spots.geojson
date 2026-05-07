@@ -23,25 +23,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "麦食音祭2026 ～ アフターEXPO ～",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【麦食音祭2026 ～ アフターEXPO ～】</b><br>📅 期間: 2026/05/01 ～ 2026/05/06<br>📝 万博の熱気を次世代へつなぐ大型フェス「麦食音祭2026」が開催します。<br><br><a href='https://www.instagram.com/bakushoku_afterexpo' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://www.instagram.com/bakushoku_afterexpo",
-        "image_url": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.53299,
-          34.81028
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "EARTH MARTの展示物「いのちのはかり」城宮跡歴史公園天平みつき館のちのはかり」",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【EARTH MARTの展示物「いのちのはかり」城宮跡歴史公園天平みつき館のちのはかり」】</b><br>📅 期間: 2026/04/29 ～ 常設<br>📝 EARTH MARTの「いのちのはかり」を奈良の食の拠点づくりへ生かす取り組みです。<br><br><a href='https://www.pref.nara.lg.jp/n153/p034015.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
@@ -55,44 +36,6 @@
         "coordinates": [
           135.7926651,
           34.68521696
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "大阪ヘルスケアパビリオン「量子飛躍する美の世界」",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【大阪ヘルスケアパビリオン「量子飛躍する美の世界」】</b><br>📅 期間: 2026/05/01 ～ 2026/05/06<br>📝 大阪ヘルスケアパビリオンの展示をタカラベルモント社の本社で再現。<br><br><a href='https://www.takarabelmont.com/info_20260413_01/' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://www.takarabelmont.com/info_20260413_01/",
-        "image_url": "https://www.takarabelmont.com/asset/img/common/og.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.505692,
-          34.671698
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "「ごみ祭り」今年もごみの日（5月3日）に開催",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【「ごみ祭り」今年もごみの日（5月3日）に開催】</b><br>📅 期間: 2026/05/03 ～ 2026/05/03<br>📝 2025年大阪・関西万博が掲げた資源循環への取り組みを受け継ぎ、ごみの日に体験型の「ごみ祭り」を開催されるよ！<br><br><a href='https://prtimes.jp/main/html/rd/p/000000084.000134299.html' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://prtimes.jp/main/html/rd/p/000000084.000134299.html",
-        "image_url": "https://prcdn.freetls.fastly.net/release_image/134299/84/134299-84-76c1cd32a58096d6ac258bab881048af-1920x1080.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.4112749,
-          34.63807115
         ]
       }
     },
@@ -821,25 +764,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "【限定30組事前抽選】ミャクミャク・せんとくんとの写真撮影会",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【【限定30組事前抽選】ミャクミャク・せんとくんとの写真撮影会】</b><br>📅 期間: 2026/04/29 ～ 2026/04/29<br>📝 奈良県は、大阪・関西万博レガシー「いのちのはかり」のお披露目を記念し、4月29日に平城宮跡歴史公園でミャクミャク・せんとくんとの写真撮影会を開催します。開催は13時30分と16時の2回、各回30組限定。参加は事前抽選制で、応募は4月26日24時まで、結果は4月27日17時ごろに通知予定です。当選者のみ撮影に参加でき、当日は当選メールの提示が必要です<br><br><a href='https://www.pref.nara.lg.jp/n153/p034020.html' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://www.pref.nara.lg.jp/n153/p034020.html",
-        "image_url": "https://www.pref.nara.lg.jp/shared/images/sns/logo.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.7942587,
-          34.68652863
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "PANAF' African Restaurant & Club\r",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【PANAF' African Restaurant & Club\r】</b><br>📅 期間: 常設 / 時期----<br>📝 大阪・関西万博で大行列となったアフリカ料理店が、待望の常設店としてオープン。アフリカの伝統と他国文化が融合した本格的な料理や、現地の食材を使ったクラフトビールが楽しめます。金・土曜の夜はクラブイベントも開催。新しい味覚と音楽をぜひご体験ください。<br><br><a href='https://panaf.jp/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
@@ -1240,7 +1164,7 @@
       "type": "Feature",
       "properties": {
         "name": "（予定）『INTER-WORLD/Cocooner: Apparent motion of celestial bodies』／奥中章人",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【『INTER-WORLD/Cocooner: Apparent motion of celestial bodies』／奥中章人】</b><br>📅 期間: 2026/5/23 ～ 20265/31<br>📝 奥中章人氏による、空気・水・太陽の現象を増幅させる「柔らかい彫刻」です。作品名「Cocooner」には、人類が人間中心主義という繭（まゆ）から脱皮し、より広い宇宙的な存在として羽ばたいてほしいという願いが込められています。自然と人との関わりを体感できるアート作品です。<br><br><a href='https://prtimes.jp/main/html/rd/p/000000041.000090122.html' target='_blank'>🔗 詳細を開く</a>",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【『INTER-WORLD/Cocooner: Apparent motion of celestial bodies』／奥中章人】</b><br>📅 期間: 2026/5/23 ～ 2026/5/31<br>📝 奥中章人氏による、空気・水・太陽の現象を増幅させる「柔らかい彫刻」です。作品名「Cocooner」には、人類が人間中心主義という繭（まゆ）から脱皮し、より広い宇宙的な存在として羽ばたいてほしいという願いが込められています。自然と人との関わりを体感できるアート作品です。<br><br><a href='https://prtimes.jp/main/html/rd/p/000000041.000090122.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false,
         "isKomyaku": false,
@@ -1372,8 +1296,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "本町ミャクミャクステーション。",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【本町ミャクミャクステーション。】</b><br>📅 期間: 2026/4/29 ～ 2026/4/29<br>📝 Osaka Metro御堂筋線「本町駅」で、非公式の常設展示としてファンや通勤客に愛されてきた『本町ミャクミャクステーション』駅員さんの発案で始まり、ミャクミャクや海外パビリオンのキャラクターなど約50体のぬいぐるみが並ぶ姿はまるで小さな万博会場でした。万博のワクワク感を届けてくれた心温まる展示です。<br><br><a href='https://www.lmaga.jp/news/2026/04/1050001/' target='_blank'>🔗 詳細を開く</a>",
+        "name": "（予定）本町ミャクミャクステーション【跡地】",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【本町ミャクミャクステーション【跡地】】</b><br>📅 期間: ---- ～ 2026/4/29<br>📝 かつてOsaka Metro御堂筋線「本町駅」で、非公式の常設展示としてファンや通勤客に愛されてきた『本町ミャクミャクステーション』がありました。駅員さんの発案で始まり、ミャクミャクや海外パビリオンのキャラクターなど約50体のぬいぐるみが並ぶ姿はまるで小さな万博会場でした。万博のワクワク感を届けてくれた心温まる展示で、展示終了時には多くの万博ファンの方々が訪れました。<br><br><a href='https://www.lmaga.jp/news/2026/04/1050001/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false,
         "isKomyaku": false,
@@ -1543,8 +1467,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "（予定）ポルトガル館のロープ",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【ポルトガル館のロープ】</b><br>📅 期間: 2026/05/07 ～ ----<br>📝 市民交流センターwakkaにてポルトガル館の外壁に飾られていたロープが設置されています。このロープは海洋国家ポルトガルの帆船や波を表現し、リサイクル漁網などのサステナブルな素材が使用されています。<br><br><a href='https://www.city.kashiwara.lg.jp/docs/2025121800023/' target='_blank'>🔗 詳細を開く</a>",
+        "name": "ポルトガル館のロープ",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ポルトガル館のロープ】</b><br>📅 期間: 2026/05/07 ～ ----<br>📝 市民交流センターwakkaにてポルトガル館の外壁に飾られていたロープが設置されています。このロープは海洋国家ポルトガルの帆船や波を表現し、リサイクル漁網などのサステナブルな素材が使用されています。<br><br><a href='https://www.city.kashiwara.lg.jp/docs/2025121800023/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false,
         "isKomyaku": false,
@@ -1689,44 +1613,6 @@
         "coordinates": [
           135.5186119,
           34.61420894
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "万博報道写真展「受け継がれる異形の血脈」",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【万博報道写真展「受け継がれる異形の血脈」】</b><br>📅 期間: 時期---- ～ 2026/05/05<br>📝 あべのハルカス近鉄本店で開催中の「大阪・関西万博報道写真展」では、ミャクミャクや公式ロゴの誕生秘話がわかる貴重な資料の展示に加え、制作者のシマダタモツ氏がデザインした実際に触れられる信楽焼オブジェ「CELL ART」も体験できます。<br><br><a href='https://news.yahoo.co.jp/articles/ac6bb849b5ad46fad3ab42077b1cbf9fdb6a17a2' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://news.yahoo.co.jp/articles/ac6bb849b5ad46fad3ab42077b1cbf9fdb6a17a2",
-        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260430-00000007-ovo-000-1-view.jpg?exp=10800"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.5133828,
-          34.64628435
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "「空飛ぶクルマ」SkyDrive(1/5サイズモック)",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【「空飛ぶクルマ」SkyDrive(1/5サイズモック)】</b><br>📅 期間: 2026/05/01 ～ 2026/05/06<br>📝 「空飛ぶクルマ」の1/5サイズ模型サイズモックアップを展示。「空飛ぶクルマ」は次世代の環境配慮型モビリティとして垂直離着陸が可能なうえ、電力を動力とするため騒音が少なく、飛行中に二酸化炭素の排出ない環境にやさしい乗り物。<br><br><a href='https://www.miraikan.jst.go.jp/events/202604254506.html' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://www.miraikan.jst.go.jp/events/202604254506.html",
-        "image_url": "https://www.miraikan.jst.go.jp/images/og-image_logo.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.7765282,
-          35.6195103
         ]
       }
     },
