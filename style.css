@@ -26,6 +26,25 @@ body, html, #map {
     font-size: 22px; 
 }
 
+#zoom-debug {
+    position: fixed;
+    top: 125px;
+    right: 15px;
+    z-index: 900;
+    min-width: 74px;
+    padding: 7px 10px;
+    box-sizing: border-box;
+    border: 2px solid rgba(0,0,0,0.2);
+    border-radius: 8px;
+    background: rgba(255,255,255,0.95);
+    color: #111;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+    pointer-events: none;
+}
+
 /* 🚪 スライドメニュー */
 .leaflet-control-layers {
     position: fixed !important; top: 0 !important; left: -320px !important; 
@@ -99,3 +118,18 @@ body.menu-open .leaflet-control-layers { left: 0 !important; }
 #loading-logo { max-width: 80%; max-height: 35vh; object-fit: contain; margin-bottom: 20px; border: none !important; outline: none; }
 .warning-text { color: #444; font-size: 0.8rem; line-height: 1.6; text-align: center; padding: 0 10px; margin-bottom: 20px; }
 .leaflet-left .leaflet-control { margin-left: 0; }
+/* ミャクミャクのダイナミックサイズ変更用 */
+:root {
+  --myaku-size: 100px;
+}
+.myaku-large-img {
+  width: var(--myaku-size);
+  height: auto;
+  filter: drop-shadow(2px 4px 4px rgba(0,0,0,0.5));
+  transition: width 0.3s ease; /* ヌルヌル大きくなる魔法！ */
+}
+
+/* myaku_large を最前面レイヤーに */
+.standalone-myaku-large {
+  z-index: 9999 !important;
+}

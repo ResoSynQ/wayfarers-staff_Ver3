@@ -1,6 +1,6 @@
 // --- 『旅人の杖と救いの泉』 Service Worker (Ver 1.0) ---
 
-const CACHE_NAME = 'wayfarers-staff-cache-v27'; 
+const CACHE_NAME = 'wayfarers-staff-cache-v37'; 
 
 const CACHE_ASSETS = [
     './',
@@ -11,7 +11,14 @@ const CACHE_ASSETS = [
     './image_3.webp',
     './icon-180-v2.png',
     './icon-192-v2.png',
-    './icon-512-v2.png'
+    './icon-512-v2.png',
+    './myaku_large.webp',      // 🌟 新しいローマ字＆WebPファイルを追加！
+    './komyaku_red.webp',
+    './komyaku_blue.webp',
+    './komyaku_gray.webp',
+    './myakupin_red.webp',
+    './myakupin_blue.webp',
+    './myakupin_gray.webp'
 ];
 const GEOJSON_FILES = [
     'OSM_relics_of_kinki_38142.geojson',
