@@ -6,66 +6,6 @@
       "type": "Feature",
       "properties": {
         "category": "local",
-        "trend_word": "【山口天気 朝刊5/7】天気穏やか&“夏日”続出の連休明け　あす8日(金)は一部にわか雨も　週末は再び初夏の陽気(ＫＲＹ山口放送)",
-        "name": "山口県庁",
-        "address": "",
-        "reason": "連休明けの穏やかな天気と初夏の陽気で、週末にかけても心地よく過ごせそうだから。",
-        "date": "2026-05-07",
-        "link": "https://news.yahoo.co.jp/articles/110b2cb13a4dab87c7939e020b846d203f44ea82?source=rss",
-        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260507-07841336-kry-000-1-view.jpg?exp=10800"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          131.4706487,
-          34.1859558
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "local",
-        "trend_word": "年齢気にせずレッツダンス！　館山でだれでもディスコ　「音楽と踊りで地域盛り上げたい」（千葉県）(房日新聞)",
-        "name": "館山市役所",
-        "address": "",
-        "reason": "年齢に関係なく参加でき、地域を盛り上げるイベントであるため",
-        "date": "2026-05-07",
-        "link": "https://news.yahoo.co.jp/articles/b7ec72d5a61bc9548c906b0b3a9d71c63c2ecedd?source=rss",
-        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260507-00010000-bonichi-000-1-view.jpg?exp=10800"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.8699652,
-          34.9965054
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "local",
-        "trend_word": "「魚が見られて楽しかった」　沖縄の旅満喫　GW最終日、那覇空港でUターンラッシュ(沖縄タイムス)",
-        "name": "さぼてん那覇空港旅客ターミナル4F店",
-        "address": "",
-        "reason": "沖縄の魅力が伝わる",
-        "date": "2026-05-07",
-        "link": "https://news.yahoo.co.jp/articles/351437fbc9ff5dfdf21d43e26a8288315e5c3ae3?source=rss",
-        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260507-01831675-okinawat-000-1-view.jpg?exp=10800"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          127.6508334,
-          26.208073
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "local",
         "trend_word": "魚津水族館（富山）のキャラ、シャリササリ人気です(北日本新聞)",
         "name": "魚津水族館前交差点",
         "address": "",
@@ -182,25 +122,7 @@
         ]
       }
     },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "local",
-        "trend_word": "5日まで愛好団体がラン展　鴨川（千葉県）(房日新聞)",
-        "name": "鴨川市役所",
-        "address": "",
-        "reason": "ラン展の開催情報に魅力を感じ、訪れたいと思わせる",
-        "date": "2026-05-02",
-        "link": "https://news.yahoo.co.jp/articles/f0997af07fb453f0b52b38765dfc11a7577099c2?source=rss"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.9749077250344,
-          35.143027662957984
-        ]
-      }
-    },
+
     {
       "type": "Feature",
       "properties": {
