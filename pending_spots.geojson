@@ -6,6 +6,66 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "「ここでしか味わえない」次のゴールは“民宿経営”　通算400得点のハンド選手が30歳で引退決断　聖地・氷見で歩む第二の人生　富山(チューリップテレビ)",
+        "name": "氷見市役所",
+        "address": "",
+        "reason": "地域密着型の民宿経営というユニークな第二の人生に興味をそそるため",
+        "date": "2026-05-09",
+        "link": "https://news.yahoo.co.jp/articles/c6716b167c7d62681b3a839558996bf2c9f9bb83?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260509-22649676-tuliptv-000-1-thumb.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.9728484,
+          36.8559808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "［沖縄days］ゆいレールと目線が同じ　沖縄・琉球銀行本店ビル(沖縄タイムス)",
+        "name": "琉海/ザ ロイヤルパークホテル アイコニック 那覇",
+        "address": "",
+        "reason": "ゆいレールと目線が同じというユニークな体験が魅力的",
+        "date": "2026-05-09",
+        "link": "https://news.yahoo.co.jp/articles/8ebb1f8c22be49592818c2b304e3797825d76ea4?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260509-01832337-okinawat-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.67915,
+          26.214943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "明治時代の山車幕を「サコッシュ」にリメーク　今年から5月開催の那古観音祭礼　年番の組が“転換点”盛り上げ（千葉県）(房日新聞)",
+        "name": "那古寺（那古観音）",
+        "address": "",
+        "reason": "歴史的価値のある祭礼とユニークなリメーク商品が魅力的",
+        "date": "2026-05-09",
+        "link": "https://news.yahoo.co.jp/articles/3fcafbda1436bf4eeb8e163a5f36481d2edba89e?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260509-00010000-bonichi-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8579685,
+          35.0255508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "ハートのうちわに心込め　奈良市の唐招提寺　「宝扇」の準備大詰め(奈良新聞デジタル)",
         "name": "唐招提寺寺務所",
         "address": "",
