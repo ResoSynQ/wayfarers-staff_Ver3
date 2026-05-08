@@ -17,28 +17,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.78561013,
-          34.67489623
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "local",
-        "trend_word": "コーヒー豆栽培に不利な沖縄　それでも秘めたポテンシャル　堀口珈琲研究所代表の品質評価で分かったこと(沖縄タイムス)",
-        "name": "沖縄県警察運転免許センター",
-        "address": "",
-        "reason": "ポテンシャルの高さを知り、現地で確認したくなったため",
-        "date": "2026-05-08",
-        "link": "https://news.yahoo.co.jp/articles/04edec8f10b5b04b11c3d3f6df4d895b8336fefd?source=rss",
-        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260508-01831582-okinawat-000-1-view.jpg?exp=10800"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          127.656197,
-          26.1556783
+          135.78477975196412,
+          34.67575508426385
         ]
       }
     },
@@ -57,68 +37,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.43217629,
-          34.66154551
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "local",
-        "trend_word": "「鹿児島東西道路」プロジェクトの歩み　貫通まで残り36ｍ　(鹿児島ニュースＫＴＳ)",
-        "name": "建部IC（鹿児島東西道路）",
-        "address": "",
-        "reason": "開通間近のインフラプロジェクトは、地域住民や建設関係者にとって関心が高く、完成後の変化への期待感から現地訪問につながる可能性がある。",
-        "date": "2026-05-08",
-        "link": "https://news.yahoo.co.jp/articles/ee36a9822d84e819c61b823439a24fd0938b0dda?source=rss",
-        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260508-90027013-kts-000-1-view.jpg?exp=10800"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          130.5327017,
-          31.5806005
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "trend",
-        "trend_word": "今永が4勝目 ファン総立ちで称賛",
-        "name": "フレッシュネスバーガー横浜スタジアム店",
-        "address": "",
-        "reason": "勝利を称賛する熱狂を体験できる",
-        "date": "2026-05-08",
-        "link": "https://news.yahoo.co.jp/pickup/6579215?source=rss",
-        "image_url": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/8/5a91cf22ceb5182d31ea752e217e8ae16e6e6fc3888fbb2ff8b4e006a3a97370.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.6407392,
-          35.4426604
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "trend",
-        "trend_word": "名古屋のモーニング文化 なぜ進化",
-        "name": "エホバの証人の愛知県名古屋市道徳会衆王国会館",
-        "address": "",
-        "reason": "個性的なモーニング文化に惹かれる",
-        "date": "2026-05-08",
-        "link": "https://news.yahoo.co.jp/pickup/6579182?source=rss",
-        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/ymjrky/02617934/title-1778120208486.jpeg?exp=10800"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          136.91057265,
-          35.10834772
+          135.4322970384715,
+          34.6658620831451
         ]
       }
     },
@@ -139,26 +59,6 @@
         "coordinates": [
           137.387595,
           36.7993589
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "local",
-        "trend_word": "【見頃】仙台市の天然記念物『子平町の藤』、5日から一般公開(ミヤギテレビ)",
-        "name": "子平町酒場 かすみ",
-        "address": "",
-        "reason": "天然記念物の藤が見頃で一般公開されるため",
-        "date": "2026-05-06",
-        "link": "https://news.yahoo.co.jp/articles/9d0e0e39e7ff0eabb4f7c5dc128671afab4c2bd5?source=rss",
-        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260506-02642431-mmt-000-1-view.jpg?exp=10800"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.85121255,
-          38.27458796
         ]
       }
     },
@@ -226,26 +126,6 @@
       "type": "Feature",
       "properties": {
         "category": "local",
-        "trend_word": "初夏の甘さにぎわう　パイン旬入り祝いフェス　西表島(沖縄八重山日報)",
-        "name": "西表島",
-        "address": "",
-        "reason": "旬のパイナップルを味わえるイベントに興味をそそられるため",
-        "date": "2026-05-03",
-        "link": "https://news.yahoo.co.jp/articles/249dcc5c74f3aa96d907e368e6ece048f5c1a8ed?source=rss",
-        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260503-00010002-yaeyamanp-000-1-view.jpg?exp=10800"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.7654227000425,
-          24.42741303406002
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "local",
         "trend_word": "【南島原そうめん】“ふし” が世界を平和に　絵本でふるさとのおいしい魅力をPR《長崎》(長崎国際テレビ)",
         "name": "南島原市役所",
         "address": "",
@@ -256,8 +136,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          130.2978634,
-          32.6597769
+          130.35185559654326,
+          32.725852067710505
         ]
       }
     },
