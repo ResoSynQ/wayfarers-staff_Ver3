@@ -6,6 +6,66 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "【御殿場・小原屋】脱サラ女性が藍染の継承者へ 「みくりや染織」に新しい風(テレビ静岡NEWS)",
+        "name": "小原屋 物流部",
+        "address": "",
+        "reason": "脱サラ女性の挑戦が地域に新しい風を吹き込むストーリーが魅力的",
+        "date": "2026-05-10",
+        "link": "https://news.yahoo.co.jp/articles/a33c66d57064f2210aef6edcf9759e6308d29556?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260510-90037052-sut-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.92983566,
+          35.30512512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "【桜坂劇場・下地久美子の映画コレ見た？】『花様年華』美しい人妻　道ならぬ恋(沖縄タイムス)",
+        "name": "桜坂劇場",
+        "address": "",
+        "reason": "映画の舞台である沖縄を訪れるきっかけになる",
+        "date": "2026-05-10",
+        "link": "https://news.yahoo.co.jp/articles/66d5c7e05c8d9b5f1236c0eccdf5f33907f7a226?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260510-01832322-okinawat-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.6901384,
+          26.2147706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "trend",
+        "trend_word": "知床沖で「幻の巨大イカ」に遭遇",
+        "name": "斜里町立知床ウトロ学校",
+        "address": "",
+        "reason": "希少な体験への期待",
+        "date": "2026-05-10",
+        "link": "https://news.yahoo.co.jp/pickup/6579441?source=rss",
+        "image_url": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/9/f8c3690bec3fa15266c5c955ce64da0a3ef086ee528b5f064ad145c9f0a3922e.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9931241,
+          44.0650734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "ラッコの「メイ」22歳の誕生日　高齢による体力の衰えも　国内で唯一飼育の三重・鳥羽水族館(中京テレビＮＥＷＳ)",
         "name": "鳥羽水族館南交差点",
         "address": "",
