@@ -6,26 +6,6 @@
       "type": "Feature",
       "properties": {
         "category": "local",
-        "trend_word": "「ここでしか味わえない」次のゴールは“民宿経営”　通算400得点のハンド選手が30歳で引退決断　聖地・氷見で歩む第二の人生　富山(チューリップテレビ)",
-        "name": "氷見市役所",
-        "address": "",
-        "reason": "地域密着型の民宿経営というユニークな第二の人生に興味をそそるため",
-        "date": "2026-05-09",
-        "link": "https://news.yahoo.co.jp/articles/c6716b167c7d62681b3a839558996bf2c9f9bb83?source=rss",
-        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260509-22649676-tuliptv-000-1-thumb.jpg?exp=10800"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          136.9728484,
-          36.8559808
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "local",
         "trend_word": "［沖縄days］ゆいレールと目線が同じ　沖縄・琉球銀行本店ビル(沖縄タイムス)",
         "name": "琉海/ザ ロイヤルパークホテル アイコニック 那覇",
         "address": "",
@@ -107,7 +87,7 @@
       "properties": {
         "category": "local",
         "trend_word": "魚津水族館（富山）のキャラ、シャリササリ人気です(北日本新聞)",
-        "name": "魚津水族館前交差点",
+        "name": "魚津水族館",
         "address": "",
         "reason": "ユニークなキャラクターが魅力的",
         "date": "2026-05-07",
@@ -117,8 +97,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          137.387595,
-          36.7993589
+          137.38865007550814,
+          36.79851453518301
         ]
       }
     },

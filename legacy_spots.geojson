@@ -42,8 +42,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "（予定）KDDI MUSEUM　体験型展示「Mirai Meeting」の展示物を万博のレガシーとして引き継いだ「Mirai Arcade」を展示",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【KDDI MUSEUM　体験型展示「Mirai Meeting」の展示物を万博のレガシーとして引き継いだ「Mirai Arcade」を展示】</b><br>📅 期間: 2026/05/09 ～ 常設<br>📝 通信の歴史を学べるKDDI MUSEUMが、5月から毎月第2土曜日に開館します。<br><br><a href='https://prtimes.jp/main/html/rd/p/000000188.000097141.html' target='_blank'>🔗 詳細を開く</a>",
+        "name": "KDDI MUSEUM　体験型展示「Mirai Meeting」の展示物を万博のレガシーとして引き継いだ「Mirai Arcade」を展示",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【KDDI MUSEUM　体験型展示「Mirai Meeting」の展示物を万博のレガシーとして引き継いだ「Mirai Arcade」を展示】</b><br>📅 期間: 2026/05/09 ～ 常設<br>📝 通信の歴史を学べるKDDI MUSEUMが、5月から毎月第2土曜日に開館します。<br><br><a href='https://prtimes.jp/main/html/rd/p/000000188.000097141.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false,
         "isKomyaku": false,
@@ -1353,8 +1353,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "（予定）大阪万博石黒館のアンドロイド",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【大阪万博石黒館のアンドロイド】</b><br>📅 期間: 2026/05/09 ～ ----<br>📝 大阪・関西万博のシグネチャーパビリオン「いのちの未来」で展示されていたアンドロイド計3体が東京都多摩市の「長谷工マンションミュージアム」に移設されました。<br><br><a href='https://www.nikkei.com/article/DGXZQOUC304D50Q6A430C2000000/' target='_blank'>🔗 詳細を開く</a>",
+        "name": "大阪万博石黒館のアンドロイド",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【大阪万博石黒館のアンドロイド】</b><br>📅 期間: 2026/05/09 ～ ----<br>📝 大阪・関西万博のシグネチャーパビリオン「いのちの未来」で展示されていたアンドロイド計3体が東京都多摩市の「長谷工マンションミュージアム」に移設されました。<br><br><a href='https://www.nikkei.com/article/DGXZQOUC304D50Q6A430C2000000/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false,
         "isKomyaku": false,
