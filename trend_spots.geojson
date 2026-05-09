@@ -5,6 +5,105 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "10月11日・12日 福井・鯖江で音楽フェス開催へ　第1弾アーティストに氣志團ら7組(みんなの経済新聞ネットワーク)",
+        "name": "西山公園",
+        "address": "",
+        "reason": "音楽フェス開催と人気アーティストの出演",
+        "date": "2026-04-25",
+        "link": "https://news.yahoo.co.jp/articles/3dcb1838266e2a4d608797ddf01a1e61c52a98d1?source=rss"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.18182770424394,
+          35.950545657302406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "ＵＳＪで大切な人に“感謝”を伝えるイベント「Thanks Love Month」母の日を前にスタート　父の日まで開催　参加者「なかなか面と向かって言えない…いい機会」(関西テレビ)",
+        "name": "ユニバーサルスタジオジャパン",
+        "address": "",
+        "reason": "母の日・父の日を前に感謝を伝えるイベントで、普段言えない気持ちを伝える良い機会となるため",
+        "date": "2026-05-08",
+        "link": "https://news.yahoo.co.jp/articles/700052380c527813b9c51310f5f6e2108af250f6?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260508-90026900-kantelev-000-1-thumb.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.43260817856984,
+          34.665809164480045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "ハートのうちわに心込め　奈良市の唐招提寺　「宝扇」の準備大詰め(奈良新聞デジタル)",
+        "name": "唐招提寺寺務所",
+        "address": "",
+        "reason": "風情あるうちわ作りと歴史的建造物に興味をそそる",
+        "date": "2026-05-08",
+        "link": "https://news.yahoo.co.jp/articles/e207070c55c075225bf0ef57d87767f86c50f4a9?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260508-00000001-naranp-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.78477975196412,
+          34.67575508426385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "明治時代の山車幕を「サコッシュ」にリメーク　今年から5月開催の那古観音祭礼　年番の組が“転換点”盛り上げ（千葉県）(房日新聞)",
+        "name": "那古寺（那古観音）",
+        "address": "",
+        "reason": "歴史的価値のある祭礼とユニークなリメーク商品が魅力的",
+        "date": "2026-05-09",
+        "link": "https://news.yahoo.co.jp/articles/3fcafbda1436bf4eeb8e163a5f36481d2edba89e?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260509-00010000-bonichi-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8579685,
+          35.0255508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "［沖縄days］ゆいレールと目線が同じ　沖縄・琉球銀行本店ビル(沖縄タイムス)",
+        "name": "琉海/ザ ロイヤルパークホテル アイコニック 那覇",
+        "address": "",
+        "reason": "ゆいレールと目線が同じというユニークな体験が魅力的",
+        "date": "2026-05-09",
+        "link": "https://news.yahoo.co.jp/articles/8ebb1f8c22be49592818c2b304e3797825d76ea4?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260509-01832337-okinawat-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.67915,
+          26.214943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "祇園祭発祥の地・神泉苑でひと足早く祇園囃子　浴衣姿の女性たちが鉦や笛で清らかな音色響かせる　京都市(関西テレビ)",
         "name": "神泉苑",
         "address": "",
@@ -136,25 +235,6 @@
         "coordinates": [
           130.35011843874835,
           32.72923880039047
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "local",
-        "trend_word": "10月11日・12日 福井・鯖江で音楽フェス開催へ　第1弾アーティストに氣志團ら7組(みんなの経済新聞ネットワーク)",
-        "name": "西山公園",
-        "address": "",
-        "reason": "音楽フェス開催と人気アーティストの出演",
-        "date": "2026-04-25",
-        "link": "https://news.yahoo.co.jp/articles/3dcb1838266e2a4d608797ddf01a1e61c52a98d1?source=rss"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          136.18182770424394,
-          35.950545657302406
         ]
       }
     },

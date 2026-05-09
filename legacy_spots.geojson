@@ -1653,6 +1653,25 @@
           34.64989736
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）淀川河川公園 枚方地区（マクラメタペストリー ワークショップ）",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【淀川河川公園 枚方地区（マクラメタペストリー ワークショップ）】</b><br>📅 期間: 2026/05/16 ～ 2026/05/16<br>📝 万博ポルトガル館を彩ったロープと、淀川のヨシ糸を組み合わせたサステナブルな「マクラメタペストリー」を作るワークショップが開催されます。ポルトガル＆パキスタン館の公式スタンプや、空飛ぶクルマのVR体験もできます。<br><br><a href='https://www.city.hirakata.osaka.jp/0000053355.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.city.hirakata.osaka.jp/0000053355.html",
+        "image_url": "https://www.city.hirakata.osaka.jp/design_img/og_image.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6409391,
+          34.81548272
+        ]
+      }
     }
   ]
 }
