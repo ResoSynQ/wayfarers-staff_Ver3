@@ -6,6 +6,26 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "ラッコの「メイ」22歳の誕生日　高齢による体力の衰えも　国内で唯一飼育の三重・鳥羽水族館(中京テレビＮＥＷＳ)",
+        "name": "鳥羽水族館南交差点",
+        "address": "",
+        "reason": "長寿のラッコに会える",
+        "date": "2026-05-10",
+        "link": "https://news.yahoo.co.jp/articles/f87ea6420da3298c8cee6515b5506dab832b81fe?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260510-05655652-sp_ctv-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.8458332,
+          34.4801959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "［沖縄days］ゆいレールと目線が同じ　沖縄・琉球銀行本店ビル(沖縄タイムス)",
         "name": "琉海/ザ ロイヤルパークホテル アイコニック 那覇",
         "address": "",
