@@ -1672,6 +1672,44 @@
           34.81548272
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）「アフター万博企画」リゲッタ生野本店",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【「アフター万博企画」リゲッタ生野本店】</b><br>📅 期間: 2026/05/16 ～ 2026/05/16<br>📝 万博でも注目された「宙に浮く靴」や「未来のルームサンダル」が見られる！<br><br><a href='https://www.instagram.com/p/DXysxoTGIEb/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.instagram.com/p/DXysxoTGIEb/",
+        "image_url": "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-15/686125233_18584057269048646_8622215985408468812_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=BOIGXtUDYBcQ7kNvwEzvOS2&_nc_oc=Adqy4CQ99BWNdyRWhLqW3PUld76O7A60np8-BVhgBHDQbjqHIdtfW4ZAh7Zxd6QgnzY&_nc_zt=23&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_gid=yvtsfdIHy-gIxd3WaM7prg&_nc_ss=7f60f&oh=00_Af53tmvc283OGoBVpUqbCzYfv8bYt_1XPGElHiJ-b8AYkg&oe=6A04994D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5535678,
+          34.65370937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）日本民家集落博物館（EARTH MART 茅葺き体験）【5月23日特別ゲスト】ミャクミャク・もずやん",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【日本民家集落博物館（EARTH MART 茅葺き体験）【5月23日特別ゲスト】ミャクミャク・もずやん】</b><br>📅 期間: 2026/05/23 ～ 2026/05/24<br>📝 万博パビリオン「EARTH MART」で使われた茅（かや）を未来へ繋ぐイベントが、服部緑地の日本民家集落博物館で開催\nなんと5月23日には、ミャクミャクと大阪府のもずやんが特別ゲストとしてステージに登場します！<br><br><a href='https://www.instagram.com/p/DXysxoTGIEb/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.instagram.com/p/DXysxoTGIEb/",
+        "image_url": "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-15/686125233_18584057269048646_8622215985408468812_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=BOIGXtUDYBcQ7kNvwEzvOS2&_nc_oc=Adqy4CQ99BWNdyRWhLqW3PUld76O7A60np8-BVhgBHDQbjqHIdtfW4ZAh7Zxd6QgnzY&_nc_zt=23&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_gid=L7TwpUmGkYcaE-j5h9rpmw&_nc_ss=7f60f&oh=00_Af6xiol6hpaJ9s-BYT_z_gu6vHUd2-mWBLIbJqJ9h6Vf3g&oe=6A04994D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.487966,
+          34.77962589
+        ]
+      }
     }
   ]
 }
