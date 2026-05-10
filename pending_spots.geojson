@@ -6,6 +6,26 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "茨城・行方市の出産祝い金　3歳まで、誕生日も支給(茨城新聞クロスアイ)",
+        "name": "行方市役所",
+        "address": "",
+        "reason": "子育て支援が充実している",
+        "date": "2026-05-11",
+        "link": "https://news.yahoo.co.jp/articles/7fa78b10cda311b50569ecffe6f12d0ea3a1fa4e?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260511-00000002-ibaraki-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.488933333333,
+          35.990540277778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "【御殿場・小原屋】脱サラ女性が藍染の継承者へ 「みくりや染織」に新しい風(テレビ静岡NEWS)",
         "name": "小原屋 物流部",
         "address": "",
