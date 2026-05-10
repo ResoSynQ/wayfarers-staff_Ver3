@@ -6,6 +6,26 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "赤く熟すヤマモモの実に「季節感じる」　地域住民の目の保養に　沖縄・名護市(沖縄タイムス)",
+        "name": "名護市営庭球場",
+        "address": "",
+        "reason": "初夏の訪れを感じさせる風物詩",
+        "date": "2026-05-11",
+        "link": "https://news.yahoo.co.jp/articles/75647ccfa790ecca79daac7b249c7a856a238c4b?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260511-01833654-okinawat-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.9725244,
+          26.5930346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "茨城・行方市の出産祝い金　3歳まで、誕生日も支給(茨城新聞クロスアイ)",
         "name": "行方市役所",
         "address": "",
