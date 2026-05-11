@@ -6,6 +6,86 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "優雅な100年前の薩摩焼ディナーセット　鹿児島県日置市の沈寿官窯に里帰り(南日本新聞)",
+        "name": "沈壽官窯",
+        "address": "",
+        "reason": "歴史的価値のある美術品とその製造元を巡る体験",
+        "date": "2026-05-12",
+        "link": "https://news.yahoo.co.jp/articles/50d81fd03772f41a23b12b3b1158378a7dc1f92f?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260512-00000003-minami-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.36052205,
+          31.64371543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "「麦秋」黄金色に染まる――収穫期、出来上々　出水平野(南日本新聞)",
+        "name": "出水市役所",
+        "address": "",
+        "reason": "黄金色に染まる麦畑の美しい風景と、収穫期の活気を感じられる",
+        "date": "2026-05-12",
+        "link": "https://news.yahoo.co.jp/articles/bc3cbfc6632d6a207ea163d42e1d55d14dfde7b4?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260512-00000004-minami-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3532054,
+          32.0906441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "「広重描いた房総巡って」　菱川師宣記念館で企画展　鋸南（千葉県）(房日新聞)",
+        "name": "鋸南町役場　菱川師宣記念館",
+        "address": "",
+        "reason": "江戸時代の浮世絵師・歌川広重が描いた房総の風景を巡る企画展は、歴史や美術に興味のある人にとって魅力的。",
+        "date": "2026-05-12",
+        "link": "https://news.yahoo.co.jp/articles/3becd3c7ec4395a1aa401bf3a92086c723e87066?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260512-00010000-bonichi-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.836343888889,
+          35.128198333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "沖縄明治乳業と35コーヒーが限定コラボ　「ハイビスカスティ」と「珈琲アイス」発売(沖縄タイムス)",
+        "name": "那覇市役所那覇市上下水道局　沖縄県下水道協会",
+        "address": "",
+        "reason": "沖縄ならではの限定コラボ商品で、旅行意欲を掻き立てる",
+        "date": "2026-05-12",
+        "link": "https://news.yahoo.co.jp/articles/28b131688dc39b8618b59a36dea7c6ba45ab7730?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260512-01834494-okinawat-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.694213333333,
+          26.223057777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "赤く熟すヤマモモの実に「季節感じる」　地域住民の目の保養に　沖縄・名護市(沖縄タイムス)",
         "name": "名護市営庭球場",
         "address": "",
