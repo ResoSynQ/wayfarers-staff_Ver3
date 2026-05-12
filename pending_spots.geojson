@@ -6,6 +6,46 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "トロッコでＧｏ！Ｇｏ！、集客へ自然と魅力ＰＲ　黒部峡谷鉄道が５５周年でロゴ制作(北日本新聞)",
+        "name": "黒部峡谷鉄道",
+        "address": "",
+        "reason": "トロッコ列車での旅と自然の魅力をアピールしているため",
+        "date": "2026-05-13",
+        "link": "https://news.yahoo.co.jp/articles/56d677baec6548be071f6c794f40931dbee3ec3f?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260513-00000001-kitanihon-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.6476899,
+          36.7210695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "スキヤキ、３５回の節目熱く　福野（富山）で８月２１～２３日、出演者決定(北日本新聞)",
+        "name": "富山県信用組合 福野支店",
+        "address": "",
+        "reason": "伝統行事の熱気と祭りの雰囲気",
+        "date": "2026-05-13",
+        "link": "https://news.yahoo.co.jp/articles/858f3b0817e7b575914cd38b3c6505ba0f80cfc9?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260513-00000002-kitanihon-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.92025364,
+          36.59322635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "優雅な100年前の薩摩焼ディナーセット　鹿児島県日置市の沈寿官窯に里帰り(南日本新聞)",
         "name": "沈壽官窯",
         "address": "",
