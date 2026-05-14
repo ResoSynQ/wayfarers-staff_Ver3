@@ -6,6 +6,26 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "多彩な職業や習い事に挑戦　体験イベントに親子連れ400人　鴨川（千葉県）(房日新聞)",
+        "name": "鴨川市役所",
+        "address": "",
+        "reason": "多様な体験ができるイベントで、親子で楽しめる",
+        "date": "2026-05-15",
+        "link": "https://news.yahoo.co.jp/articles/892b2ac4dd5bc0cc474dac4bf21c6909cafc4bb0?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260515-00010000-bonichi-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0987105,
+          35.1139863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "トロッコでＧｏ！Ｇｏ！、集客へ自然と魅力ＰＲ　黒部峡谷鉄道が５５周年でロゴ制作(北日本新聞)",
         "name": "黒部峡谷鉄道",
         "address": "",
