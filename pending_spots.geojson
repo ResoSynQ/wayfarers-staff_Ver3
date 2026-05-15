@@ -5,6 +5,26 @@
     {
       "type": "Feature",
       "properties": {
+        "category": "trend",
+        "trend_word": "危険スイング初適用 場内どよめく",
+        "name": "東京　警視庁鑑識課身元不明相談室",
+        "address": "",
+        "reason": "未知の興奮を体験したい",
+        "date": "2026-05-16",
+        "link": "https://news.yahoo.co.jp/pickup/6580306?source=rss",
+        "image_url": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/15/346c889655e64570ed733664e661e00dc2d0fcedc06e2d6f7df2caea425e6c15.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.752151111111,
+          35.676826388889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "category": "local",
         "trend_word": "多彩な職業や習い事に挑戦　体験イベントに親子連れ400人　鴨川（千葉県）(房日新聞)",
         "name": "鴨川市役所",
