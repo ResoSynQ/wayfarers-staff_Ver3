@@ -6,6 +6,26 @@
       "type": "Feature",
       "properties": {
         "category": "trend",
+        "trend_word": "横浜高校人気 球場変更した好判断",
+        "name": "フレッシュネスバーガー横浜スタジアム店",
+        "address": "",
+        "reason": "高校野球の熱気を感じられる",
+        "date": "2026-05-17",
+        "link": "https://news.yahoo.co.jp/pickup/6580439?source=rss",
+        "image_url": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/16/537a474ae51980892cbe1c7e12e9d6d070baa58f24f0494b8b505a1b36827760.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6407392,
+          35.4426604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "trend",
         "trend_word": "危険スイング初適用 場内どよめく",
         "name": "東京　警視庁鑑識課身元不明相談室",
         "address": "",
