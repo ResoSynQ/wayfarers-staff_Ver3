@@ -1416,7 +1416,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/nauruya_higashiosaka/",
-        "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/582967660_17847218595603414_3662126783736701623_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=103&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDM1LkMzIn0%3D&_nc_ohc=oD4B9cPJuMsQ7kNvwHGms83&_nc_oc=AdoS7qRx15TP9jrgSgVGwhi0S3lA3R35_UVQFKgWiztvfzQyPMYs2PwqKDoClm1kN-E&_nc_zt=24&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=rmGHpdFRul0swIft84fP9g&_nc_ss=7f60f&oh=00_Af6kP6oE64yQSs8aysesCsnSVY1koX-YcA92CdJxoEKXFw&oe=6A0D6D3E"
+        "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/582967660_17847218595603414_3662126783736701623_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=103&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDM1LkMzIn0%3D&_nc_ohc=oD4B9cPJuMsQ7kNvwHTQqfI&_nc_oc=AdrFli-YsoE8VQN_GcFBUMwQGVJGNNIutSjf7Assto81GooY3bVaH2Mq_aLy1W8GumE&_nc_zt=24&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=d3Sg7Mo8JXk4lmcjBIzvOw&_nc_ss=7f60f&oh=00_Af7Rteobf-tMRu8wuPPbnvPnOaeIrbKo7iiKgnoR41f1uQ&oe=6A0DA57E"
       },
       "geometry": {
         "type": "Point",
@@ -1600,8 +1600,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "（予定）くら寿司　メモリアル店　なんば千日前",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【くら寿司　メモリアル店　なんば千日前】</b><br>📅 期間: 5月中旬 ～ ----<br>📝 大阪・関西万博店のレガシーを引き継いだメモリアル店舗<br><br><a href='https://www.agara.co.jp/article/616843' target='_blank'>🔗 詳細を開く</a>",
+        "name": "くら寿司　メモリアル店　なんば千日前",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【くら寿司　メモリアル店　なんば千日前】</b><br>📅 期間: 2026/05/14 ～ ----<br>📝 大阪・関西万博店のレガシーを引き継いだメモリアル店舗<br><br><a href='https://www.agara.co.jp/article/616843' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": true,
         "isKomyaku": false,
@@ -1657,8 +1657,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "（予定）淀川河川公園 枚方地区（マクラメタペストリー ワークショップ）",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【淀川河川公園 枚方地区（マクラメタペストリー ワークショップ）】</b><br>📅 期間: 2026/05/16 ～ 2026/05/16<br>📝 万博ポルトガル館を彩ったロープと、淀川のヨシ糸を組み合わせたサステナブルな「マクラメタペストリー」を作るワークショップが開催されます。ポルトガル＆パキスタン館の公式スタンプや、空飛ぶクルマのVR体験もできます。<br><br><a href='https://www.city.hirakata.osaka.jp/0000053355.html' target='_blank'>🔗 詳細を開く</a>",
+        "name": "淀川河川公園 枚方地区（マクラメタペストリー ワークショップ）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【淀川河川公園 枚方地区（マクラメタペストリー ワークショップ）】</b><br>📅 期間: 2026/05/16 ～ 2026/05/16<br>📝 万博ポルトガル館を彩ったロープと、淀川のヨシ糸を組み合わせたサステナブルな「マクラメタペストリー」を作るワークショップが開催されます。ポルトガル＆パキスタン館の公式スタンプや、空飛ぶクルマのVR体験もできます。<br><br><a href='https://www.city.hirakata.osaka.jp/0000053355.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false,
         "isKomyaku": false,
@@ -1676,13 +1676,13 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "（予定）「アフター万博企画」リゲッタ生野本店",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【「アフター万博企画」リゲッタ生野本店】</b><br>📅 期間: 2026/05/16 ～ 2026/05/16<br>📝 万博でも注目された「宙に浮く靴」や「未来のルームサンダル」が見られる！<br><br><a href='https://www.instagram.com/p/DXysxoTGIEb/' target='_blank'>🔗 詳細を開く</a>",
+        "name": "「アフター万博企画」リゲッタ生野本店",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【「アフター万博企画」リゲッタ生野本店】</b><br>📅 期間: 2026/05/16 ～ 2026/05/16<br>📝 万博でも注目された「宙に浮く靴」や「未来のルームサンダル」が見られる！<br><br><a href='https://www.instagram.com/p/DXysxoTGIEb/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DXysxoTGIEb/",
-        "image_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/686125233_18584057269048646_8622215985408468812_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=8COQobWLJ2UQ7kNvwFKE9yQ&_nc_oc=AdpsthTXlWQyiiE6jHWp8FmvrOQs1cX44jZrCmp8EtmTtStqfuhRo6FAb5bEK_2tmMA&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=46EgCOS5lu6BO_Pzo87CKQ&_nc_ss=7f60f&oh=00_Af7vG-H8XWrLOQDajfmmy7O10mYYB__mkWt3zP0vq6LKsQ&oe=6A0D9B8D"
+        "image_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/686125233_18584057269048646_8622215985408468812_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=pBVEz4rrbSAQ7kNvwFbRIdD&_nc_oc=Adp-HcFc8KeAX-xDl-xO3S-Jjb01Cdzd9VOF4blQqD1IscfMeOI32XVRcX05GT4MF7Y&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=_N0lhMwvmkqaHP0H0n3afg&_nc_ss=7f60f&oh=00_Af5sBTFLrsszjdWyUbjRDpJUnJf5-o_iW5i_bJLdytQvig&oe=6A0D9B8D"
       },
       "geometry": {
         "type": "Point",
@@ -1701,7 +1701,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DXysxoTGIEb/",
-        "image_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/686125233_18584057269048646_8622215985408468812_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=8COQobWLJ2UQ7kNvwFKE9yQ&_nc_oc=AdpsthTXlWQyiiE6jHWp8FmvrOQs1cX44jZrCmp8EtmTtStqfuhRo6FAb5bEK_2tmMA&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=MLSdfGse0wTbAqgqdn2Pzw&_nc_ss=7f60f&oh=00_Af4EcvU7KgzO7xB0dCB4S55JVZsRHvO3-vIulzWD0A1sAw&oe=6A0D9B8D"
+        "image_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/686125233_18584057269048646_8622215985408468812_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=pBVEz4rrbSAQ7kNvwFbRIdD&_nc_oc=Adp-HcFc8KeAX-xDl-xO3S-Jjb01Cdzd9VOF4blQqD1IscfMeOI32XVRcX05GT4MF7Y&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=lXgqEwWS-2cbTe7udT1jKw&_nc_ss=7f60f&oh=00_Af5dtHky2WADE33cNerhR2N48GmnkdRmciMsBjTA3YyXaw&oe=6A0D9B8D"
       },
       "geometry": {
         "type": "Point",
