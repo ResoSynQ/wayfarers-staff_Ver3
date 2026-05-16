@@ -5,6 +5,26 @@
     {
       "type": "Feature",
       "properties": {
+        "category": "local",
+        "trend_word": "【桜坂劇場・下地久美子の映画コレ見た？】『旅立ちのラストダンス』葬儀巡る心の交流描く(沖縄タイムス)",
+        "name": "桜坂劇場",
+        "address": "",
+        "reason": "葬儀を巡る感動的な人間ドラマに興味をそそられるため",
+        "date": "2026-05-17",
+        "link": "https://news.yahoo.co.jp/articles/a7893ac85f5469fbd663938d6dc2c740946d11c4?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260517-01837112-okinawat-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.6901384,
+          26.2147706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "category": "trend",
         "trend_word": "横浜高校人気 球場変更した好判断",
         "name": "フレッシュネスバーガー横浜スタジアム店",
