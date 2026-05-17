@@ -5,6 +5,46 @@
     {
       "type": "Feature",
       "properties": {
+        "category": "local",
+        "trend_word": "オリンピアンがコツを伝授！小学生のかけっこ教室「スポーツ通じて友情を作って」寺田明日香さんら講師(STVニュース北海道)",
+        "name": "札幌ドーム交差点",
+        "address": "",
+        "reason": "トップアスリートの直接指導と交流の機会",
+        "date": "2026-05-18",
+        "link": "https://news.yahoo.co.jp/articles/490a909fa218ad2d28f7f4eea81247a3ff6d8ab8?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260518-06771873-stv-000-1-thumb.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.4087529,
+          43.0177849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "日本橋ストリートフェスタ2026、横山大阪市長も本気のコスプレ「今年は投射呪法がごとく…」(Lmaga.jp)",
+        "name": "日本橋・藤久",
+        "address": "",
+        "reason": "市長のコスプレとイベントのユニークさが興味を引く",
+        "date": "2026-05-18",
+        "link": "https://news.yahoo.co.jp/articles/86a004b0c25a11f77e1ef4ba044266a5b184524a?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260518-01056402-lmaga-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.50578306,
+          34.6640076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "category": "trend",
         "trend_word": "翔猿が客席深くへダイブ 館内騒然",
         "name": "東京　警視庁鑑識課身元不明相談室",
