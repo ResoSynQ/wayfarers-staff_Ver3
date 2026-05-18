@@ -1150,7 +1150,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://abenoharukas.d-kintetsu.co.jp/pages/expo2025_official_store/index.html",
-        "image_url": ""
+        "image_url": "/assets-static/images/common/ogp_logo.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -1416,7 +1416,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/nauruya_higashiosaka/",
-        "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/582967660_17847218595603414_3662126783736701623_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=103&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDM1LkMzIn0%3D&_nc_ohc=H7Tg8y9Y48IQ7kNvwEFgEtE&_nc_oc=Adrzdc-K1Dsp5nSA7ziAzUKTNJw7YwCOHi6JwQx9Vz5C__lWZ2GFsgBUYKrgt1GgwQQ&_nc_zt=24&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=GoOdinstmT56l0cj0PF3QA&_nc_ss=7f60f&oh=00_Af6JJFFGxBslFCqOQ_toDbKxtyDMnWnbufLcPuhqWq53pQ&oe=6A10103E"
+        "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/582967660_17847218595603414_3662126783736701623_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=103&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDM1LkMzIn0%3D&_nc_ohc=H7Tg8y9Y48IQ7kNvwFTyyh2&_nc_oc=Adoq677sY3l2r9_oxQ3ZRzzmERjs1dMKnz2ChQ28yt09OLl1RzysdAIenhRHhLq6HxY&_nc_zt=24&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=wodbqxvMAWSGqTUmsCo7Jg&_nc_ss=7f60f&oh=00_Af4e-vhJB1aX-i_hjcc5DpeiXM_RhLN57nYgK2H3mpfZJQ&oe=6A1080BE"
       },
       "geometry": {
         "type": "Point",
@@ -1682,7 +1682,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DXysxoTGIEb/",
-        "image_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/686125233_18584057269048646_8622215985408468812_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=pBVEz4rrbSAQ7kNvwGrGI-9&_nc_oc=AdpG8FYdGhD5bxCV7I_Zf8HF3Z6IjeTdnPswXFx9wNlYsTAM4k2cB20QXTiKnmr43Ag&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=oTKChB-DasV0P4HwsyJZ8A&_nc_ss=7f60f&oh=00_Af5O_tKErLoXCHnJ2hdHYStk3flHW9VKTLlr_78B8Stgqw&oe=6A103E8D"
+        "image_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/686125233_18584057269048646_8622215985408468812_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=pBVEz4rrbSAQ7kNvwEbXr0T&_nc_oc=Ado4pszFXHv_5qLzjxUDqY8-wsMFoepR3Pyz9N3zPew7xz4xP8cZG5Zb5Y58ePuEf2o&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=e6c8PG2ngfNvO3RdtMXJOg&_nc_ss=7f60f&oh=00_Af5V1LNnPcVr4XgRh-1cDSIXLVF2Gx-5yT87wyJhaG_gyQ&oe=6A1076CD"
       },
       "geometry": {
         "type": "Point",
@@ -1701,7 +1701,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DXysxoTGIEb/",
-        "image_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/686125233_18584057269048646_8622215985408468812_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=pBVEz4rrbSAQ7kNvwGrGI-9&_nc_oc=AdpG8FYdGhD5bxCV7I_Zf8HF3Z6IjeTdnPswXFx9wNlYsTAM4k2cB20QXTiKnmr43Ag&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=7p_q0nbRosW107yUY-Bs-w&_nc_ss=7f60f&oh=00_Af5W__8pyGH71zmSsz_tZl2yRj8CXcOT854M7RoKY3vGlw&oe=6A103E8D"
+        "image_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/686125233_18584057269048646_8622215985408468812_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=pBVEz4rrbSAQ7kNvwEbXr0T&_nc_oc=Ado4pszFXHv_5qLzjxUDqY8-wsMFoepR3Pyz9N3zPew7xz4xP8cZG5Zb5Y58ePuEf2o&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=Xc7Zcnxaa4E1Iot0OkemrA&_nc_ss=7f60f&oh=00_Af5Tr1RKjHZDYi-WS3aP6bzWDaVl8Y3pLE93ffkix3Yx3g&oe=6A1076CD"
       },
       "geometry": {
         "type": "Point",
