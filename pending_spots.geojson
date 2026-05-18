@@ -6,6 +6,26 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "鴨川のDMOが最大1万円割引の宿泊クーポンを発行（千葉県）(房日新聞)",
+        "name": "鴨川市役所",
+        "address": "",
+        "reason": "最大1万円割引の宿泊クーポンは魅力的",
+        "date": "2026-05-19",
+        "link": "https://news.yahoo.co.jp/articles/6a5d9c580ae3d94708ea69bdc43338ba2bb04553?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0987105,
+          35.1139863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "オリンピアンがコツを伝授！小学生のかけっこ教室「スポーツ通じて友情を作って」寺田明日香さんら講師(STVニュース北海道)",
         "name": "札幌ドーム交差点",
         "address": "",
