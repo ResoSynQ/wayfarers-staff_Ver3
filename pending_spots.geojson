@@ -6,6 +6,26 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "米軍ミサイル装置「タイフォン」「ハイマース」4カ月展開　日米共同訓練、海自鹿屋航空基地に6～10月(南日本新聞)",
+        "name": "海上自衛隊鹿屋航空基地",
+        "address": "",
+        "reason": "米軍の最新ミサイル装置が間近で見られる貴重な機会",
+        "date": "2026-05-23",
+        "link": "https://news.yahoo.co.jp/articles/f1f476d9c0fbfa8ee28acf1942ebc6cc79c128b1?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260523-00000002-minami-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.8339133,
+          31.3709338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "鴨川のDMOが最大1万円割引の宿泊クーポンを発行（千葉県）(房日新聞)",
         "name": "鴨川市役所",
         "address": "",
