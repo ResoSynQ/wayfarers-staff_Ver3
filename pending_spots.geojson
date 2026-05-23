@@ -6,6 +6,46 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "温泉・サウナ・仕事まで…“大人がこもれる”新スパ、大阪に誕生　サウナ3種に岩盤浴、緑あふれるラウンジも(Lmaga.jp)",
+        "name": "ロマスパ",
+        "address": "",
+        "reason": "温泉、サウナ、緑あふれるラウンジと、リラックスと仕事の両立ができる魅力的な施設だから。",
+        "date": "2026-05-24",
+        "link": "https://news.yahoo.co.jp/articles/3862a808bae426164b730c6c1b8c01a351f7c4de?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260524-01058916-lmaga-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.50634078,
+          34.69149354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "【桜坂劇場・下地久美子の映画コレ見た？】『霧のごとく』暗闇の時代　愛こそ希望(沖縄タイムス)",
+        "name": "桜坂劇場",
+        "address": "",
+        "reason": "映画の舞台となった沖縄の風景を実際に体験できる",
+        "date": "2026-05-24",
+        "link": "https://news.yahoo.co.jp/articles/42e205b2808869cf6983eb587b4e9c7d4436c5af?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260524-01842143-okinawat-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.6901384,
+          26.2147706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "米軍ミサイル装置「タイフォン」「ハイマース」4カ月展開　日米共同訓練、海自鹿屋航空基地に6～10月(南日本新聞)",
         "name": "海上自衛隊鹿屋航空基地",
         "address": "",
