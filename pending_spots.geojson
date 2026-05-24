@@ -6,6 +6,46 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "石垣の子、台湾のサバ祭り体験　シイラの団子作りも　29人がホームステイ交流(沖縄タイムス)",
+        "name": "石垣市役所",
+        "address": "",
+        "reason": "異文化体験と食が魅力的",
+        "date": "2026-05-25",
+        "link": "https://news.yahoo.co.jp/articles/c40a1efb53ce30260aa1ed241f0a8890566317f9?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260525-01843507-okinawat-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.185246,
+          24.3444941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "京都祇園・八坂神社の御神田で田植え「御田祭」　祇園祭の神輿飾りなどに用いられる稲に　京都・京丹波町(関西テレビ)",
+        "name": "八坂神社",
+        "address": "",
+        "reason": "歴史ある祭りと神聖な田植え体験",
+        "date": "2026-05-25",
+        "link": "https://news.yahoo.co.jp/articles/c539f9f69794d661dd0009a511dfe242d7f7f18d?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260525-90027279-kantelev-000-1-thumb.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.77852596,
+          35.00363386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "初夏の訪れを告げるバラが見頃　　三重・津市(中京テレビＮＥＷＳ)",
         "name": "三重県庁",
         "address": "",
