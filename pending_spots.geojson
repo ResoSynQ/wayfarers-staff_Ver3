@@ -6,6 +6,26 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "初夏の訪れを告げるバラが見頃　　三重・津市(中京テレビＮＥＷＳ)",
+        "name": "三重県庁",
+        "address": "",
+        "reason": "初夏の訪れを感じさせる美しいバラを堪能できる",
+        "date": "2026-05-25",
+        "link": "https://news.yahoo.co.jp/articles/972913a184fc338059d5405583b48923a8a24771?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260525-02791283-sp_ctv-000-1-thumb.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.508588,
+          34.7302821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "温泉・サウナ・仕事まで…“大人がこもれる”新スパ、大阪に誕生　サウナ3種に岩盤浴、緑あふれるラウンジも(Lmaga.jp)",
         "name": "ロマスパ",
         "address": "",
