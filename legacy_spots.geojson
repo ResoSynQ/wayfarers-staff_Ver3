@@ -954,25 +954,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "EXPO2025オフィシャルポップアップストア 丸善丸の内OAZO店​",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【EXPO2025オフィシャルポップアップストア 丸善丸の内OAZO店​】</b><br>📅 期間: 2026/04/14 ～ 2026/05/25<br>📝 大阪・関西万博の公式ライセンスグッズを取り扱う「EXPO2025 オフィシャルストア」大盛況のうちに幕を閉じた万博の熱気をそのままに、公式キャラクター「ミャクミャク」のグッズなどを豊富にラインナップ！<br><br><a href='https://corp.maruzenjunkudo.co.jp/info/20260407-01/' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": true,
-        "isKomyaku": false,
-        "link": "https://corp.maruzenjunkudo.co.jp/info/20260407-01/",
-        "image_url": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.7665322,
-          35.6836664
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "EXPO2025オフィシャルストア タオル美術館店",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【EXPO2025オフィシャルストア タオル美術館店】</b><br>📅 期間: 2026/04/12 ～ 常設<br>📝 大阪・関西万博の公式ライセンスグッズを取り扱う「EXPO2025 オフィシャルストア」大盛況のうちに幕を閉じた万博の熱気をそのままに、公式キャラクター「ミャクミャク」のグッズなどを豊富にラインナップ！<br><br><a href='https://towelmuseum-shop.jp/collections/japanexpo2025?srsltid=AfmBOopjy5AJcfi9ulWDIEC6pLhMCKL8MdyuN_qnxKGkVriK57fLV7Qf' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
@@ -1682,32 +1663,13 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DXysxoTGIEb/",
-        "image_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/686125233_18584057269048646_8622215985408468812_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=tvI14ZKPRl0Q7kNvwGBx0yS&_nc_oc=AdobDKF8enW9W61ND9Cmkpqz8JZv7cTBkfgNArrAc_GDT-Sxc_wPVLF9r0f1COcz4uQ&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=MMWFswHy4aZY1LsvSVAlmg&_nc_ss=7f60f&oh=00_Af4jCJM67K0TDdzLoKBNPJxCtjX9iytijGyWHVb2KagGZA&oe=6A19B14D"
+        "image_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-15/686125233_18584057269048646_8622215985408468812_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=tvI14ZKPRl0Q7kNvwGRTmrI&_nc_oc=Adpn13B9afWcO9miAWI6rbr5CjHmRfquGGm3Jvs24Ec_3ZOYWIvgrCprFjPtclVIIOU&_nc_zt=23&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_gid=VS7urDceUL5dEQusut6-YA&_nc_ss=7f60f&oh=00_Af4719-UsfgPrAmSMaH3WzYxryGpqdgfFh8dQ_pI3VX3rA&oe=6A19E98D"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           135.5535678,
           34.65370937
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "日本民家集落博物館（EARTH MART 茅葺き体験）【5月23日特別ゲスト】ミャクミャク・もずやん",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【日本民家集落博物館（EARTH MART 茅葺き体験）【5月23日特別ゲスト】ミャクミャク・もずやん】</b><br>📅 期間: 2026/05/23 ～ 2026/05/24<br>📝 万博パビリオン「EARTH MART」で使われた茅（かや）を未来へ繋ぐイベントが、服部緑地の日本民家集落博物館で開催\nなんと5月23日には、ミャクミャクと大阪府のもずやんが特別ゲストとしてステージに登場します！<br><br><a href='https://www.instagram.com/p/DXysxoTGIEb/' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://www.instagram.com/p/DXysxoTGIEb/",
-        "image_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/686125233_18584057269048646_8622215985408468812_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=tvI14ZKPRl0Q7kNvwGBx0yS&_nc_oc=AdobDKF8enW9W61ND9Cmkpqz8JZv7cTBkfgNArrAc_GDT-Sxc_wPVLF9r0f1COcz4uQ&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=kYCg2EEkV225EX9KpWlqiQ&_nc_ss=7f60f&oh=00_Af56iCSkXfn385TQA959ptBWexO_r0JJLpSLpbmRdVgLTg&oe=6A19B14D"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.487966,
-          34.77962589
         ]
       }
     },
@@ -1784,25 +1746,6 @@
         "coordinates": [
           135.414579,
           34.63624751
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "GiGO秋葉原5号館 景品情報　EXPO2025ミャクミャクゴムひも付きぬいぐるみ",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【GiGO秋葉原5号館 景品情報　EXPO2025ミャクミャクゴムひも付きぬいぐるみ】</b><br>📅 期間: 常設 / 時期----<br>📝 『１階』で景品予定<br><br><a href='https://x.com/GiGO_Akiba_5/status/2056326794836615245?s=20' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": true,
-        "isKomyaku": false,
-        "link": "https://x.com/GiGO_Akiba_5/status/2056326794836615245?s=20",
-        "image_url": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.7707372,
-          35.69893826
         ]
       }
     },
@@ -2487,6 +2430,63 @@
         "coordinates": [
           136.8240097,
           35.3919747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "シグネチャーパビリオン「いのちの未来」に登場した、ピアノを弾くアンドロイドロボット",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【シグネチャーパビリオン「いのちの未来」に登場した、ピアノを弾くアンドロイドロボット】</b><br>📅 期間: 常設 / 時期----<br>📝 大阪・関西万博のシグネチャーパビリオン「いのちの未来」に登場した、ピアノを弾くアンドロイドロボットです。人とロボットが共に生きる未来を描いたパビリオンの記憶を受け継ぐ展示として、グランフロント大阪北館2階「The Lab.」で公開されています。定期的に行われる演奏を通じて、万博で示された未来の世界観を再び体感できます。\r<br><br><a href='https://kc-i.jp/facilities/the-lab/active-lab/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://kc-i.jp/facilities/the-lab/active-lab/",
+        "image_url": "https://kc-i.jp/facilities/the-lab/active-lab/img/ogp.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4944757,
+          34.7060544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）ちはや園地　ちはやの森 ワクワクフェスミャクミャク登場！",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【ちはや園地　ちはやの森 ワクワクフェスミャクミャク登場！】</b><br>📅 期間: 2026/05/31 ～ 2026/05/31<br>📝 大阪府民の森ちはや園地では「ちはやの森 ワクワクフェス」が開催され、万博写真展やミャクミャク関連展示、ちはやの森の体感コース散策などが実施されます。<br><br><a href='https://www.vill.chihayaakasaka.osaka.jp/kakuka/sangyokensetsu/nourinkankyou/noutomidorinokasseika/12304.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.vill.chihayaakasaka.osaka.jp/kakuka/sangyokensetsu/nourinkankyou/noutomidorinokasseika/12304.html",
+        "image_url": "http://www.vill.chihayaakasaka.osaka.jp/material/images/group/10/20260519001.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6778088,
+          34.41281833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ミャクミャクモニュメント「ワクワク」設置予定",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ミャクミャクモニュメント「ワクワク」設置予定】</b><br>📅 期間: 時期---- ～ 2026年11月予定<br>📝 2026年9月〜11月にミャクミャクモニュメント「ワクワク」がちはや園地に設置予定です。<br><br><a href='https://www.pref.osaka.lg.jp/hodo/fumin/o120030/prs_51172.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.pref.osaka.lg.jp/hodo/fumin/o120030/prs_51172.html",
+        "image_url": "https://www.pref.osaka.lg.jp/shared/images/sns/logo.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.677444,
+          34.410972
         ]
       }
     }
