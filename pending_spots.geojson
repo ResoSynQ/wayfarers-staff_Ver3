@@ -6,6 +6,46 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "明治42年創業「奈良ホテル」一時休館から復活！6月から営業再開へ…関西唯一のクラシックホテル(Lmaga.jp)",
+        "name": "奈良ホテル",
+        "address": "",
+        "reason": "歴史と格式あるホテルの復活は魅力的",
+        "date": "2026-05-26",
+        "link": "https://news.yahoo.co.jp/articles/ce773e50b2528b95f023237d4bd6cec06d9c1db8?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260526-01059197-lmaga-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.83374049,
+          34.67773575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "ドラマ「サバ缶、宇宙へ行く」で宇宙食サバ缶の人気急上昇　福井県小浜市の製造業者、放送前の3月から注文殺到(福井新聞ＯＮＬＩＮＥ)",
+        "name": "小浜市役所",
+        "address": "",
+        "reason": "ドラマの舞台となった場所で、特産品が注目されているため",
+        "date": "2026-05-26",
+        "link": "https://news.yahoo.co.jp/articles/69c08b88c4ed4a2b0ca8e38bc09aa571d9c1c261?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260526-00010000-fukui-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7466442,
+          35.4955927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "石垣の子、台湾のサバ祭り体験　シイラの団子作りも　29人がホームステイ交流(沖縄タイムス)",
         "name": "石垣市役所",
         "address": "",
