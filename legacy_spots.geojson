@@ -257,7 +257,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.chion-in.or.jp/news/6406/",
-        "image_url": ""
+        "image_url": "https://www.chion-in.or.jp/wp/wp-content/uploads//2025/10/上段-1-300x241.jpg?1761812847"
       },
       "geometry": {
         "type": "Point",
@@ -1397,7 +1397,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/nauruya_higashiosaka/",
-        "image_url": ""
+        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
       },
       "geometry": {
         "type": "Point",
@@ -1663,7 +1663,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DXysxoTGIEb/",
-        "image_url": "https://scontent-atl3-3.cdninstagram.com/v/t51.82787-15/686125233_18584057269048646_8622215985408468812_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=tvI14ZKPRl0Q7kNvwFlRpYg&_nc_oc=Adq6UGhMEEr9ib5VKLVPCcEaL4GwqPSPKhpm0Ol65V7jDhTcTW9Qb-Wl4KMJYAHZAAA&_nc_zt=23&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_gid=_dHUJXFwxepoZs5_F9aZgQ&_nc_ss=7f60f&oh=00_Af5njrhDZNhJEX3PusrZM3sjwNHBUl3jcsA2Ere67OxJzg&oe=6A1BE3CD"
+        "image_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/686125233_18584057269048646_8622215985408468812_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=tvI14ZKPRl0Q7kNvwGyrEgH&_nc_oc=AdoVY-oDe6VMS7FLPc4uxVIW2Qja9Tz9129b1gi2flnE0hEi8YPhhEOIX2SU4x4MbaQ&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=ozPj5wTjvy32Q7saF4Xi_Q&_nc_ss=7f60f&oh=00_Af4wo47CI2bvqVQASUg4hPxBjaSNYJZf1ZLlhqC5F9DSRg&oe=6A1C1C0D"
       },
       "geometry": {
         "type": "Point",
@@ -2487,6 +2487,25 @@
         "coordinates": [
           135.677444,
           34.410972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【】</b><br>📅 期間: 常設 / 時期----<br>📝 <br><br><a href='https://news.yahoo.co.jp/articles/c34fa7252cf3141e353bbc35f7142d29d7388793' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://news.yahoo.co.jp/articles/c34fa7252cf3141e353bbc35f7142d29d7388793",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260527-01059543-lmaga-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.0594555,
+          34.81604539
         ]
       }
     }
