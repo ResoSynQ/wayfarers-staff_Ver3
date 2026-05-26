@@ -61,8 +61,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "（予定）「共創脈々-あほちゃう共創ビジネスグランプリ」参加者募集のお知らせ",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【「共創脈々-あほちゃう共創ビジネスグランプリ」参加者募集のお知らせ】</b><br>📅 期間: 2026/05/26 ～ 2026/05/26<br>📝 万博発の共創ビジネスを募るグランプリ。参加者募集のお知らせです。<br><br><a href='https://prtimes.jp/main/html/rd/p/000000083.000134299.html' target='_blank'>🔗 詳細を開く</a>",
+        "name": "「共創脈々-あほちゃう共創ビジネスグランプリ」参加者募集のお知らせ",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【「共創脈々-あほちゃう共創ビジネスグランプリ」参加者募集のお知らせ】</b><br>📅 期間: 2026/05/26 ～ 2026/05/26<br>📝 万博発の共創ビジネスを募るグランプリ。参加者募集のお知らせです。<br><br><a href='https://prtimes.jp/main/html/rd/p/000000083.000134299.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false,
         "isKomyaku": false,
@@ -1397,7 +1397,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/nauruya_higashiosaka/",
-        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -1663,7 +1663,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DXysxoTGIEb/",
-        "image_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/686125233_18584057269048646_8622215985408468812_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=tvI14ZKPRl0Q7kNvwG-cWKv&_nc_oc=AdpAg-bIvv0oS1464z-8-7Z_HOCalpJ7801Rwf3uVHrZQlihqCmQ3460KzabMGrFkHU&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=F1aEk4JdPVvDAS0knVj3BA&_nc_ss=7f60f&oh=00_Af7HU70I7_N5tFJIdknJVsQ6Hxh7tDYVs8CriHhmKbyrTA&oe=6A1ACA8D"
+        "image_url": "https://scontent-atl3-3.cdninstagram.com/v/t51.82787-15/686125233_18584057269048646_8622215985408468812_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=tvI14ZKPRl0Q7kNvwFUU00z&_nc_oc=AdqzKw5C5Sw96kpfZSIYdHeyVUqJQ6cc1Ae_ZVvNggGFuMDqdPO2plvRBUWrwj9yM_Q&_nc_zt=23&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_gid=xIPadTKHnPd1v4D9lMrS2g&_nc_ss=7f60f&oh=00_Af5RLMCbZDhc0FDosvKnR4WrmGJfiQV7c1di73YyZqyzYw&oe=6A1B02CD"
       },
       "geometry": {
         "type": "Point",
