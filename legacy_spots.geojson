@@ -1543,8 +1543,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "（予定）マイドオオキニ大阪・関西万博缶",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【マイドオオキニ大阪・関西万博缶】</b><br>📅 期間: 2026/05/27 ～ 2026/06/02<br>📝 MVPスイーツ「 太陽ノ塔洋菓子店 POP UP 」場所：大丸東京店 1階 MVPスイーツ 個数制限：お一人様３個まで<br><br><a href='https://taiyounotou.com/%E3%82%81%E3%81%A3%E3%81%A1%E3%82%83%E3%83%9E%E3%82%A4%E3%83%89%E3%82%AA%E3%82%AA%E3%82%AD%E3%83%8B-%E5%A4%A7%E9%98%AA%E9%96%A2%E8%A5%BF%E4%B8%87%E5%8D%9A%E7%BC%B6/' target='_blank'>🔗 詳細を開く</a>",
+        "name": "マイドオオキニ大阪・関西万博缶",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【マイドオオキニ大阪・関西万博缶】</b><br>📅 期間: 2026/05/27 ～ 2026/06/02<br>📝 MVPスイーツ「 太陽ノ塔洋菓子店 POP UP 」場所：大丸東京店 1階 MVPスイーツ 個数制限：お一人様３個まで<br><br><a href='https://taiyounotou.com/%E3%82%81%E3%81%A3%E3%81%A1%E3%82%83%E3%83%9E%E3%82%A4%E3%83%89%E3%82%AA%E3%82%AA%E3%82%AD%E3%83%8B-%E5%A4%A7%E9%98%AA%E9%96%A2%E8%A5%BF%E4%B8%87%E5%8D%9A%E7%BC%B6/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": true,
         "isKomyaku": false,
@@ -1663,7 +1663,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DXysxoTGIEb/",
-        "image_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/686125233_18584057269048646_8622215985408468812_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=tvI14ZKPRl0Q7kNvwGyrEgH&_nc_oc=AdoVY-oDe6VMS7FLPc4uxVIW2Qja9Tz9129b1gi2flnE0hEi8YPhhEOIX2SU4x4MbaQ&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=ozPj5wTjvy32Q7saF4Xi_Q&_nc_ss=7f60f&oh=00_Af4wo47CI2bvqVQASUg4hPxBjaSNYJZf1ZLlhqC5F9DSRg&oe=6A1C1C0D"
+        "image_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-15/686125233_18584057269048646_8622215985408468812_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=tvI14ZKPRl0Q7kNvwGSg8lj&_nc_oc=AdqnyWzLvZVQrlFpo6Q3I4QA3CK4H5R4IEf73S9fdn8-CelqgEVXKWfLVr7dYrplaCw&_nc_zt=23&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_gid=6JRaWeiH6DkOL6A72LP_BA&_nc_ss=7f60f&oh=00_Af5QYrA1Wu3Vc7lJ9FHOBiySkxfxhEa6VNk0kCfZQGt9QQ&oe=6A1C1C0D"
       },
       "geometry": {
         "type": "Point",
@@ -2493,8 +2493,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【】</b><br>📅 期間: 常設 / 時期----<br>📝 <br><br><a href='https://news.yahoo.co.jp/articles/c34fa7252cf3141e353bbc35f7142d29d7388793' target='_blank'>🔗 詳細を開く</a>",
+        "name": "ネスタリゾート神戸万博レガシーウォール「ザ・ループ」",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ネスタリゾート神戸万博レガシーウォール「ザ・ループ」】</b><br>📅 期間: 2026/05/26 ～ 常設<br>📝 大阪・関西万博のルクセンブルク・パビリオンを支えた基礎コンクリートブロック220個が、兵庫県のネスタリゾート神戸で全長150mのミューラルアート作品『万博レガシーウォール「ザ・ループ」』として生まれ変わった。制作したのは兵庫県在住のアーティスト・KAC氏。車中泊しながら2週間で描き上げた作品には、ルクセンブルクのバラや三木刃物、ネスタリゾートの各アトラクションなど多彩なモチーフが散りばめられている。廃棄されるはずだった建材を再利用したこのプロジェクトは、2027年に外交関係樹立100周年を迎える日本とルクセンブルク両国の交流のシンボルとしても注目される。<br><br><a href='https://news.yahoo.co.jp/articles/c34fa7252cf3141e353bbc35f7142d29d7388793' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false,
         "isKomyaku": false,
@@ -2506,6 +2506,25 @@
         "coordinates": [
           135.0594555,
           34.81604539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "チュニジア館で展示されていた巨大モザイクアート",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【チュニジア館で展示されていた巨大モザイクアート】</b><br>📅 期間: 2026/05/26 ～ 2026/05/31<br>📝 大阪・関西万博のチュニジアパビリオンを飾った巨大モザイクアートが、大分県立美術館での展示を経て、立命館アジア太平洋大学（APU）に寄贈される。高さ4.5m・横7.1mの作品は、樹齢2500年のオリーブの木を60万個以上の石で表現したもの。チュニジアと大分には2002年サッカーW杯日韓大会でのキャンプ地という縁があり、大分青年会議所の働きかけで寄贈が実現。駐日大使は「大分を通じた両国交流のきっかけに」と期待を語った。<br><br><a href='https://news.yahoo.co.jp/articles/161b387ced16b0a717287f6594407cb37c38fee2' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://news.yahoo.co.jp/articles/161b387ced16b0a717287f6594407cb37c38fee2",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260526-22684733-obsnews-000-2-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.6014628,
+          33.24033316
         ]
       }
     }
