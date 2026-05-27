@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "approval_status": "WAITING",
+  "approval_status": "OK",
   "features": [
     {
       "type": "Feature",
@@ -27,7 +27,7 @@
       "properties": {
         "category": "local",
         "trend_word": "ドラマ「サバ缶、宇宙へ行く」で宇宙食サバ缶の人気急上昇　福井県小浜市の製造業者、放送前の3月から注文殺到(福井新聞ＯＮＬＩＮＥ)",
-        "name": "小浜市役所",
+        "name": "福井缶詰（株）",
         "address": "",
         "reason": "ドラマの舞台となった場所で、特産品が注目されているため",
         "date": "2026-05-26",
@@ -37,48 +37,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.7466442,
-          35.4955927
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "local",
-        "trend_word": "石垣の子、台湾のサバ祭り体験　シイラの団子作りも　29人がホームステイ交流(沖縄タイムス)",
-        "name": "石垣市役所",
-        "address": "",
-        "reason": "異文化体験と食が魅力的",
-        "date": "2026-05-25",
-        "link": "https://news.yahoo.co.jp/articles/c40a1efb53ce30260aa1ed241f0a8890566317f9?source=rss",
-        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260525-01843507-okinawat-000-1-view.jpg?exp=10800"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          124.185246,
-          24.3444941
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "local",
-        "trend_word": "京都祇園・八坂神社の御神田で田植え「御田祭」　祇園祭の神輿飾りなどに用いられる稲に　京都・京丹波町(関西テレビ)",
-        "name": "八坂神社",
-        "address": "",
-        "reason": "歴史ある祭りと神聖な田植え体験",
-        "date": "2026-05-25",
-        "link": "https://news.yahoo.co.jp/articles/c539f9f69794d661dd0009a511dfe242d7f7f18d?source=rss",
-        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260525-90027279-kantelev-000-1-thumb.jpg?exp=10800"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.77852596,
-          35.00363386
+          135.73866575462554,
+          35.50031950375085
         ]
       }
     },
@@ -87,7 +47,7 @@
       "properties": {
         "category": "local",
         "trend_word": "初夏の訪れを告げるバラが見頃　　三重・津市(中京テレビＮＥＷＳ)",
-        "name": "三重県庁",
+        "name": "レッドヒルヒーサーの森",
         "address": "",
         "reason": "初夏の訪れを感じさせる美しいバラを堪能できる",
         "date": "2026-05-25",
@@ -97,8 +57,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          136.508588,
-          34.7302821
+          136.46178325092512,
+          34.8025843844486
         ]
       }
     },
@@ -146,106 +106,6 @@
       "type": "Feature",
       "properties": {
         "category": "local",
-        "trend_word": "米軍ミサイル装置「タイフォン」「ハイマース」4カ月展開　日米共同訓練、海自鹿屋航空基地に6～10月(南日本新聞)",
-        "name": "海上自衛隊鹿屋航空基地",
-        "address": "",
-        "reason": "米軍の最新ミサイル装置が間近で見られる貴重な機会",
-        "date": "2026-05-23",
-        "link": "https://news.yahoo.co.jp/articles/f1f476d9c0fbfa8ee28acf1942ebc6cc79c128b1?source=rss",
-        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260523-00000002-minami-000-1-view.jpg?exp=10800"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          130.8339133,
-          31.3709338
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "local",
-        "trend_word": "鴨川のDMOが最大1万円割引の宿泊クーポンを発行（千葉県）(房日新聞)",
-        "name": "鴨川市役所",
-        "address": "",
-        "reason": "最大1万円割引の宿泊クーポンは魅力的",
-        "date": "2026-05-19",
-        "link": "https://news.yahoo.co.jp/articles/6a5d9c580ae3d94708ea69bdc43338ba2bb04553?source=rss",
-        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.0987105,
-          35.1139863
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "local",
-        "trend_word": "オリンピアンがコツを伝授！小学生のかけっこ教室「スポーツ通じて友情を作って」寺田明日香さんら講師(STVニュース北海道)",
-        "name": "札幌ドーム交差点",
-        "address": "",
-        "reason": "トップアスリートの直接指導と交流の機会",
-        "date": "2026-05-18",
-        "link": "https://news.yahoo.co.jp/articles/490a909fa218ad2d28f7f4eea81247a3ff6d8ab8?source=rss",
-        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260518-06771873-stv-000-1-thumb.jpg?exp=10800"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          141.4087529,
-          43.0177849
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "local",
-        "trend_word": "日本橋ストリートフェスタ2026、横山大阪市長も本気のコスプレ「今年は投射呪法がごとく…」(Lmaga.jp)",
-        "name": "日本橋・藤久",
-        "address": "",
-        "reason": "市長のコスプレとイベントのユニークさが興味を引く",
-        "date": "2026-05-18",
-        "link": "https://news.yahoo.co.jp/articles/86a004b0c25a11f77e1ef4ba044266a5b184524a?source=rss",
-        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260518-01056402-lmaga-000-1-view.jpg?exp=10800"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.50578306,
-          34.6640076
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "trend",
-        "trend_word": "翔猿が客席深くへダイブ 館内騒然",
-        "name": "東京　警視庁鑑識課身元不明相談室",
-        "address": "",
-        "reason": "興奮と活気を感じさせる",
-        "date": "2026-05-18",
-        "link": "https://news.yahoo.co.jp/pickup/6580569?source=rss",
-        "image_url": "https://s.yimg.jp/images/news-web/versions/20260515-02f1959/all/images/ogp_default.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.752151111111,
-          35.676826388889
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "local",
         "trend_word": "【桜坂劇場・下地久美子の映画コレ見た？】『旅立ちのラストダンス』葬儀巡る心の交流描く(沖縄タイムス)",
         "name": "桜坂劇場",
         "address": "",
@@ -259,106 +119,6 @@
         "coordinates": [
           127.6901384,
           26.2147706
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "trend",
-        "trend_word": "横浜高校人気 球場変更した好判断",
-        "name": "フレッシュネスバーガー横浜スタジアム店",
-        "address": "",
-        "reason": "高校野球の熱気を感じられる",
-        "date": "2026-05-17",
-        "link": "https://news.yahoo.co.jp/pickup/6580439?source=rss",
-        "image_url": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/16/537a474ae51980892cbe1c7e12e9d6d070baa58f24f0494b8b505a1b36827760.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.6407392,
-          35.4426604
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "trend",
-        "trend_word": "危険スイング初適用 場内どよめく",
-        "name": "東京　警視庁鑑識課身元不明相談室",
-        "address": "",
-        "reason": "未知の興奮を体験したい",
-        "date": "2026-05-16",
-        "link": "https://news.yahoo.co.jp/pickup/6580306?source=rss",
-        "image_url": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/15/346c889655e64570ed733664e661e00dc2d0fcedc06e2d6f7df2caea425e6c15.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.752151111111,
-          35.676826388889
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "local",
-        "trend_word": "多彩な職業や習い事に挑戦　体験イベントに親子連れ400人　鴨川（千葉県）(房日新聞)",
-        "name": "鴨川市役所",
-        "address": "",
-        "reason": "多様な体験ができるイベントで、親子で楽しめる",
-        "date": "2026-05-15",
-        "link": "https://news.yahoo.co.jp/articles/892b2ac4dd5bc0cc474dac4bf21c6909cafc4bb0?source=rss",
-        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260515-00010000-bonichi-000-1-view.jpg?exp=10800"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.0987105,
-          35.1139863
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "local",
-        "trend_word": "トロッコでＧｏ！Ｇｏ！、集客へ自然と魅力ＰＲ　黒部峡谷鉄道が５５周年でロゴ制作(北日本新聞)",
-        "name": "黒部峡谷鉄道",
-        "address": "",
-        "reason": "トロッコ列車での旅と自然の魅力をアピールしているため",
-        "date": "2026-05-13",
-        "link": "https://news.yahoo.co.jp/articles/56d677baec6548be071f6c794f40931dbee3ec3f?source=rss",
-        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260513-00000001-kitanihon-000-1-view.jpg?exp=10800"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          137.6476899,
-          36.7210695
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "local",
-        "trend_word": "スキヤキ、３５回の節目熱く　福野（富山）で８月２１～２３日、出演者決定(北日本新聞)",
-        "name": "富山県信用組合 福野支店",
-        "address": "",
-        "reason": "伝統行事の熱気と祭りの雰囲気",
-        "date": "2026-05-13",
-        "link": "https://news.yahoo.co.jp/articles/858f3b0817e7b575914cd38b3c6505ba0f80cfc9?source=rss",
-        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260513-00000002-kitanihon-000-1-view.jpg?exp=10800"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          136.92025364,
-          36.59322635
         ]
       }
     },
@@ -386,26 +146,6 @@
       "type": "Feature",
       "properties": {
         "category": "local",
-        "trend_word": "「麦秋」黄金色に染まる――収穫期、出来上々　出水平野(南日本新聞)",
-        "name": "出水市役所",
-        "address": "",
-        "reason": "黄金色に染まる麦畑の美しい風景と、収穫期の活気を感じられる",
-        "date": "2026-05-12",
-        "link": "https://news.yahoo.co.jp/articles/bc3cbfc6632d6a207ea163d42e1d55d14dfde7b4?source=rss",
-        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260512-00000004-minami-000-1-view.jpg?exp=10800"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          130.3532054,
-          32.0906441
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "local",
         "trend_word": "「広重描いた房総巡って」　菱川師宣記念館で企画展　鋸南（千葉県）(房日新聞)",
         "name": "鋸南町役場　菱川師宣記念館",
         "address": "",
@@ -422,47 +162,7 @@
         ]
       }
     },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "local",
-        "trend_word": "沖縄明治乳業と35コーヒーが限定コラボ　「ハイビスカスティ」と「珈琲アイス」発売(沖縄タイムス)",
-        "name": "那覇市役所那覇市上下水道局　沖縄県下水道協会",
-        "address": "",
-        "reason": "沖縄ならではの限定コラボ商品で、旅行意欲を掻き立てる",
-        "date": "2026-05-12",
-        "link": "https://news.yahoo.co.jp/articles/28b131688dc39b8618b59a36dea7c6ba45ab7730?source=rss",
-        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260512-01834494-okinawat-000-1-view.jpg?exp=10800"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          127.694213333333,
-          26.223057777778
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "local",
-        "trend_word": "赤く熟すヤマモモの実に「季節感じる」　地域住民の目の保養に　沖縄・名護市(沖縄タイムス)",
-        "name": "名護市営庭球場",
-        "address": "",
-        "reason": "初夏の訪れを感じさせる風物詩",
-        "date": "2026-05-11",
-        "link": "https://news.yahoo.co.jp/articles/75647ccfa790ecca79daac7b249c7a856a238c4b?source=rss",
-        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260511-01833654-okinawat-000-1-view.jpg?exp=10800"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          127.9725244,
-          26.5930346
-        ]
-      }
-    },
-    {
+       {
       "type": "Feature",
       "properties": {
         "category": "local",

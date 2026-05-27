@@ -1188,7 +1188,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.expo70-park.jp/event/75690/",
-        "image_url": "https://www.expo70-park.jp/sys/wp-content/uploads/d66d0f97eda4e1a8bb69359401f3fef4-640x640.png"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -1397,7 +1397,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/nauruya_higashiosaka/",
-        "image_url": ""
+        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
       },
       "geometry": {
         "type": "Point",
@@ -1582,7 +1582,7 @@
       "type": "Feature",
       "properties": {
         "name": "くら寿司　メモリアル店　なんば千日前",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【くら寿司　メモリアル店　なんば千日前】</b><br>📅 期間: 2026/05/14 ～ ----<br>📝 大阪・関西万博店のレガシーを引き継いだメモリアル店舗<br><br><a href='https://www.agara.co.jp/article/616843' target='_blank'>🔗 詳細を開く</a>",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【くら寿司　メモリアル店　なんば千日前】</b><br>📅 期間: 2026/05/14 ～ 常設<br>📝 大阪・関西万博店のレガシーを引き継いだメモリアル店舗<br><br><a href='https://www.agara.co.jp/article/616843' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": true,
         "isKomyaku": false,
@@ -1601,7 +1601,7 @@
       "type": "Feature",
       "properties": {
         "name": "（予定）祈器",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【祈器】</b><br>📅 期間: 2026/0401 ～ ----<br>📝 陶芸家・建築家の奈良祐希が制作した「祈器」は高さ2.4m・重さ3トンの巨大なアート作品。世界の国数と同じ196枚のアルミプレートで「手と手を合わせる地球」を形作り、能登半島地震からの復興への祈りを込め造形された。大阪・関西万博では「光の広場」に展示されていた。<br><br><a href='https://news.yahoo.co.jp/articles/7ad0ac6f042e568649a5815dae17c972c9d20400' target='_blank'>🔗 詳細を開く</a>",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【祈器】</b><br>📅 期間: 2026/0401 ～ 常設<br>📝 陶芸家・建築家の奈良祐希が制作した「祈器」は高さ2.4m・重さ3トンの巨大なアート作品。世界の国数と同じ196枚のアルミプレートで「手と手を合わせる地球」を形作り、能登半島地震からの復興への祈りを込め造形された。大阪・関西万博では「光の広場」に展示されていた。<br><br><a href='https://news.yahoo.co.jp/articles/7ad0ac6f042e568649a5815dae17c972c9d20400' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false,
         "isKomyaku": false,
@@ -1620,7 +1620,7 @@
       "type": "Feature",
       "properties": {
         "name": "大屋根リング",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【大屋根リング】</b><br>📅 期間: 2024/08/21 ～ ----<br>📝 大阪・関西万博のシンボル「大屋根リング」は、「多様でありながら、ひとつ」という会場デザインの理念を体現する巨大な建築物です。日本の伝統的な「貫（ぬき）接合」と現代技術を融合させて造られており、会場の主動線としてだけでなく、雨や日差しを遮る快適な滞留空間を提供します。建築面積約6.1万㎡、外径約675mにおよぶこの木造回廊は、2025年3月4日に「最大の木造建築物」としてギネス世界記録™にも認定されました。当初は閉幕後に全解体される計画でしたが、万博のレガシーとして北東部分の約200メートルが現地保存されることになりました。今後は周辺を含め市営公園として整備・管理される予定です。<br><br><a href='https://www.expo2025.or.jp/expo-map-index/main-facilities/grandring/' target='_blank'>🔗 詳細を開く</a>",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【大屋根リング】</b><br>📅 期間: 2024/08/21 ～ 常設<br>📝 大阪・関西万博のシンボル「大屋根リング」は、「多様でありながら、ひとつ」という会場デザインの理念を体現する巨大な建築物です。日本の伝統的な「貫（ぬき）接合」と現代技術を融合させて造られており、会場の主動線としてだけでなく、雨や日差しを遮る快適な滞留空間を提供します。建築面積約6.1万㎡、外径約675mにおよぶこの木造回廊は、2025年3月4日に「最大の木造建築物」としてギネス世界記録™にも認定されました。当初は閉幕後に全解体される計画でしたが、万博のレガシーとして北東部分の約200メートルが現地保存されることになりました。今後は周辺を含め市営公園として整備・管理される予定です。<br><br><a href='https://www.expo2025.or.jp/expo-map-index/main-facilities/grandring/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false,
         "isKomyaku": false,
@@ -1663,7 +1663,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DXysxoTGIEb/",
-        "image_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-15/686125233_18584057269048646_8622215985408468812_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=tvI14ZKPRl0Q7kNvwHO1OJR&_nc_oc=AdroTc8knDFyfBEJ3_OlZBfER7M8ThKvb189EW4rW2KUz_6e5DEv6KYB6rDY6YjFsGg&_nc_zt=23&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_gid=GYq5BXYLgwVMzsj-aF0tEw&_nc_ss=7f60f&oh=00_Af7NHSDG7UBb6pOakC5gAj9ewriofAPoxDT9IrF3J3B_ng&oe=6A1C1C0D"
+        "image_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/686125233_18584057269048646_8622215985408468812_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=tvI14ZKPRl0Q7kNvwESVrUm&_nc_oc=AdqUM4KrFmEpvl2nte6jWmZupqU9GxHzlUhlz4e1G7pRaPmymWkcRuWW9TCNcJUIprw&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=dyUzkt6KdJ_NRdKwAOZOag&_nc_ss=7f60f&oh=00_Af470Ruf2jbWJezp5vbbg0661k6_CfwFQcUvCplkh2U0Zw&oe=6A1C1C0D"
       },
       "geometry": {
         "type": "Point",
@@ -2494,7 +2494,7 @@
       "type": "Feature",
       "properties": {
         "name": "ネスタリゾート神戸万博レガシーウォール「ザ・ループ」",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ネスタリゾート神戸万博レガシーウォール「ザ・ループ」】</b><br>📅 期間: 2026/05/26 ～ 常設<br>📝 大阪・関西万博のルクセンブルク・パビリオンを支えた基礎コンクリートブロック220個が、兵庫県のネスタリゾート神戸で全長150mのミューラルアート作品『万博レガシーウォール「ザ・ループ」』として生まれ変わった。制作したのは兵庫県在住のアーティスト・KAC氏。車中泊しながら2週間で描き上げた作品には、ルクセンブルクのバラや三木刃物、ネスタリゾートの各アトラクションなど多彩なモチーフが散りばめられている。廃棄されるはずだった建材を再利用したこのプロジェクトは、2027年に外交関係樹立100周年を迎える日本とルクセンブルク両国の交流のシンボルとしても注目される。<br><br><a href='https://news.yahoo.co.jp/articles/c34fa7252cf3141e353bbc35f7142d29d7388793' target='_blank'>🔗 詳細を開く</a>",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ネスタリゾート神戸万博レガシーウォール「ザ・ループ」】</b><br>📅 期間: 2026/05/26 ～ 常設<br>📝 大阪・関西万博のルクセンブルク・パビリオンを支えた基礎コンクリートブロック220個が、兵庫県のネスタリゾート神戸で全長150mのミューラルアート作品『万博レガシーウォール「ザ・ループ」』として生まれ変わりました！制作したのは兵庫県在住のアーティスト・KAC氏。車中泊しながら2週間で描き上げた作品には、ルクセンブルクのバラや三木刃物、ネスタリゾートの各アトラクションなど多彩なモチーフが散りばめられています。廃棄されるはずだった建材を再利用したこのプロジェクトは、2027年に外交関係樹立100周年を迎える日本とルクセンブルク両国の交流のシンボルとしても注目されています。<br><br><a href='https://news.yahoo.co.jp/articles/c34fa7252cf3141e353bbc35f7142d29d7388793' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false,
         "isKomyaku": false,
