@@ -24,6 +24,162 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "【桜坂劇場・下地久美子の映画コレ見た？】『オールド・オーク』荒廃する町に希望の光(沖縄タイムス)",
+        "name": "桜坂劇場",
+        "address": "",
+        "reason": "映画の舞台となる場所への訪問意欲を掻き立てる",
+        "date": "2026-04-26",
+        "link": "https://news.yahoo.co.jp/articles/690c48164b5d1b4766f44c27ea71042936b2c923?source=rss"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.69008124819284,
+          26.214989523857465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "「富士山の巨大壁画」をモザイクアートで再現　旧神戸新聞会館の歴史を振り返るパネル展　ミント神戸(ラジトピ　ラジオ関西トピックス)",
+        "name": "ミント神戸",
+        "address": "",
+        "reason": "歴史的建造物のモザイクアートとパネル展で興味を引く",
+        "date": "2026-04-28",
+        "link": "https://news.yahoo.co.jp/articles/27b40b99666042b23fdd9bd02eef087e4e9303ea?source=rss"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.1960500300461,
+          34.69453103367957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "【兵庫県宍粟市】定例発表実施　新公園開設・教育施策を述べる　フォトコン最優秀賞受賞者への表彰式も(ラジトピ　ラジオ関西トピックス)",
+        "name": "宍粟市役所",
+        "address": "",
+        "reason": "新公園開設や教育施策、フォトコン表彰式など、地域活動に魅力",
+        "date": "2026-05-01",
+        "link": "https://news.yahoo.co.jp/articles/a70f2de31124cda56e300507deaa07e28323b0dd?source=rss"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5494657,
+          35.0044166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "【南島原そうめん】“ふし” が世界を平和に　絵本でふるさとのおいしい魅力をPR《長崎》(長崎国際テレビ)",
+        "name": "南島原市深江図書館",
+        "address": "",
+        "reason": "絵本で紹介されたそうめんの魅力を現地で体験したい",
+        "date": "2026-05-02",
+        "link": "https://news.yahoo.co.jp/articles/ba48e031ccf72b275581ccf784d700d21ced82dd?source=rss"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.35561160273951,
+          32.733282120155145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "祇園祭発祥の地・神泉苑でひと足早く祇園囃子　浴衣姿の女性たちが鉦や笛で清らかな音色響かせる　京都市(関西テレビ)",
+        "name": "神泉苑",
+        "address": "",
+        "reason": "伝統的な祭りの雰囲気を一足先に体験できる魅力",
+        "date": "2026-05-05",
+        "link": "https://news.yahoo.co.jp/articles/5d64b28b3a48fbab72ef5dd696ef2bf79b50c249?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260505-90026836-kantelev-000-1-thumb.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7483686,
+          35.0113819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "片道900メートルの小さな旅…愛称‟くりでん”で親しまれた『くりはら田園鉄道』の乗車会(宮城・栗原市)(ミヤギテレビ)",
+        "name": "くりはら田園鉄道公園",
+        "address": "",
+        "reason": "懐かしい鉄道体験を求めて",
+        "date": "2026-05-05",
+        "link": "https://news.yahoo.co.jp/articles/01c93a05f04ca5a87c6efdcdf81a9d81b55e14ea?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260505-02183641-mmt-000-1-thumb.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.132589,
+          38.774953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "奈良の名勝・寧楽美術館　無事願い軒に菖蒲 端午の節句の風習(奈良新聞デジタル)",
+        "name": "寧楽美術館",
+        "address": "",
+        "reason": "風情ある伝統行事と美しい菖蒲の風景が体験できるため",
+        "date": "2026-05-05",
+        "link": "https://news.yahoo.co.jp/articles/22315799725523e249438e973b70d388af7b208d?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260505-00000001-naranp-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8371304,
+          34.6860148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "魚津水族館（富山）のキャラ、シャリササリ人気です(北日本新聞)",
+        "name": "魚津水族館",
+        "address": "",
+        "reason": "ユニークなキャラクターが魅力的",
+        "date": "2026-05-07",
+        "link": "https://news.yahoo.co.jp/articles/02914c58702a18ad69fa02eb5fcef7f22888bea7?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260507-00000001-kitanihon-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.38865007550814,
+          36.79851453518301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "ＵＳＪで大切な人に“感謝”を伝えるイベント「Thanks Love Month」母の日を前にスタート　父の日まで開催　参加者「なかなか面と向かって言えない…いい機会」(関西テレビ)",
         "name": "ユニバーサルスタジオジャパン",
         "address": "",
@@ -104,19 +260,19 @@
       "type": "Feature",
       "properties": {
         "category": "local",
-        "trend_word": "祇園祭発祥の地・神泉苑でひと足早く祇園囃子　浴衣姿の女性たちが鉦や笛で清らかな音色響かせる　京都市(関西テレビ)",
-        "name": "神泉苑",
+        "trend_word": "【御殿場・小原屋】脱サラ女性が藍染の継承者へ 「みくりや染織」に新しい風(テレビ静岡NEWS)",
+        "name": "小原屋 物流部",
         "address": "",
-        "reason": "伝統的な祭りの雰囲気を一足先に体験できる魅力",
-        "date": "2026-05-05",
-        "link": "https://news.yahoo.co.jp/articles/5d64b28b3a48fbab72ef5dd696ef2bf79b50c249?source=rss",
-        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260505-90026836-kantelev-000-1-thumb.jpg?exp=10800"
+        "reason": "脱サラ女性の挑戦が地域に新しい風を吹き込むストーリーが魅力的",
+        "date": "2026-05-10",
+        "link": "https://news.yahoo.co.jp/articles/a33c66d57064f2210aef6edcf9759e6308d29556?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260510-90037052-sut-000-1-view.jpg?exp=10800"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.7483686,
-          35.0113819
+          138.9298041896783,
+          35.30500302995101
         ]
       }
     },
@@ -124,19 +280,19 @@
       "type": "Feature",
       "properties": {
         "category": "local",
-        "trend_word": "片道900メートルの小さな旅…愛称‟くりでん”で親しまれた『くりはら田園鉄道』の乗車会(宮城・栗原市)(ミヤギテレビ)",
-        "name": "くりはら田園鉄道公園",
+        "trend_word": "茨城・行方市の出産祝い金　3歳まで、誕生日も支給(茨城新聞クロスアイ)",
+        "name": "行方市役所",
         "address": "",
-        "reason": "懐かしい鉄道体験を求めて",
-        "date": "2026-05-05",
-        "link": "https://news.yahoo.co.jp/articles/01c93a05f04ca5a87c6efdcdf81a9d81b55e14ea?source=rss",
-        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260505-02183641-mmt-000-1-thumb.jpg?exp=10800"
+        "reason": "子育て支援が充実している",
+        "date": "2026-05-11",
+        "link": "https://news.yahoo.co.jp/articles/7fa78b10cda311b50569ecffe6f12d0ea3a1fa4e?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260511-00000002-ibaraki-000-1-view.jpg?exp=10800"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          141.132589,
-          38.774953
+          140.488933333333,
+          35.990540277778
         ]
       }
     },
@@ -144,19 +300,19 @@
       "type": "Feature",
       "properties": {
         "category": "local",
-        "trend_word": "奈良の名勝・寧楽美術館　無事願い軒に菖蒲 端午の節句の風習(奈良新聞デジタル)",
-        "name": "寧楽美術館",
+        "trend_word": "「広重描いた房総巡って」　菱川師宣記念館で企画展　鋸南（千葉県）(房日新聞)",
+        "name": "鋸南町役場　菱川師宣記念館",
         "address": "",
-        "reason": "風情ある伝統行事と美しい菖蒲の風景が体験できるため",
-        "date": "2026-05-05",
-        "link": "https://news.yahoo.co.jp/articles/22315799725523e249438e973b70d388af7b208d?source=rss",
-        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260505-00000001-naranp-000-1-view.jpg?exp=10800"
+        "reason": "江戸時代の浮世絵師・歌川広重が描いた房総の風景を巡る企画展は、歴史や美術に興味のある人にとって魅力的。",
+        "date": "2026-05-12",
+        "link": "https://news.yahoo.co.jp/articles/3becd3c7ec4395a1aa401bf3a92086c723e87066?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260512-00010000-bonichi-000-1-view.jpg?exp=10800"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.8371304,
-          34.6860148
+          139.836343888889,
+          35.128198333333
         ]
       }
     },
@@ -164,19 +320,19 @@
       "type": "Feature",
       "properties": {
         "category": "local",
-        "trend_word": "【見頃】仙台市の天然記念物『子平町の藤』、5日から一般公開(ミヤギテレビ)",
-        "name": "子平町の藤",
+        "trend_word": "優雅な100年前の薩摩焼ディナーセット　鹿児島県日置市の沈寿官窯に里帰り(南日本新聞)",
+        "name": "沈壽官窯",
         "address": "",
-        "reason": "天然記念物の藤が見頃で一般公開されるため",
-        "date": "2026-05-06",
-        "link": "https://news.yahoo.co.jp/articles/9d0e0e39e7ff0eabb4f7c5dc128671afab4c2bd5?source=rss",
-        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260506-02642431-mmt-000-1-view.jpg?exp=10800"
+        "reason": "歴史的価値のある美術品とその製造元を巡る体験",
+        "date": "2026-05-12",
+        "link": "https://news.yahoo.co.jp/articles/50d81fd03772f41a23b12b3b1158378a7dc1f92f?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260512-00000003-minami-000-1-view.jpg?exp=10800"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          140.84866285042594,
-          38.27598977464522
+          130.36052205,
+          31.64371543
         ]
       }
     },
@@ -184,76 +340,19 @@
       "type": "Feature",
       "properties": {
         "category": "local",
-        "trend_word": "魚津水族館（富山）のキャラ、シャリササリ人気です(北日本新聞)",
-        "name": "魚津水族館前交差点",
-        "address": "",
-        "reason": "ユニークなキャラクターが魅力的",
-        "date": "2026-05-07",
-        "link": "https://news.yahoo.co.jp/articles/02914c58702a18ad69fa02eb5fcef7f22888bea7?source=rss",
-        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260507-00000001-kitanihon-000-1-view.jpg?exp=10800"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          137.387595,
-          36.7993589
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "local",
-        "trend_word": "【兵庫県宍粟市】定例発表実施　新公園開設・教育施策を述べる　フォトコン最優秀賞受賞者への表彰式も(ラジトピ　ラジオ関西トピックス)",
-        "name": "宍粟市役所",
-        "address": "",
-        "reason": "新公園開設や教育施策、フォトコン表彰式など、地域活動に魅力",
-        "date": "2026-05-01",
-        "link": "https://news.yahoo.co.jp/articles/a70f2de31124cda56e300507deaa07e28323b0dd?source=rss"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          134.5494657,
-          35.0044166
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "local",
-        "trend_word": "【南島原そうめん】“ふし” が世界を平和に　絵本でふるさとのおいしい魅力をPR《長崎》(長崎国際テレビ)",
-        "name": "南島原市深江図書館",
-        "address": "",
-        "reason": "絵本で紹介されたそうめんの魅力を現地で体験したい",
-        "date": "2026-05-02",
-        "link": "https://news.yahoo.co.jp/articles/ba48e031ccf72b275581ccf784d700d21ced82dd?source=rss"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          130.35011843874835,
-          32.72923880039047
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "local",
-        "trend_word": "【桜坂劇場・下地久美子の映画コレ見た？】『オールド・オーク』荒廃する町に希望の光(沖縄タイムス)",
+        "trend_word": "【桜坂劇場・下地久美子の映画コレ見た？】『旅立ちのラストダンス』葬儀巡る心の交流描く(沖縄タイムス)",
         "name": "桜坂劇場",
         "address": "",
-        "reason": "映画の舞台となる場所への訪問意欲を掻き立てる",
-        "date": "2026-04-26",
-        "link": "https://news.yahoo.co.jp/articles/690c48164b5d1b4766f44c27ea71042936b2c923?source=rss"
+        "reason": "葬儀を巡る感動的な人間ドラマに興味をそそられるため",
+        "date": "2026-05-17",
+        "link": "https://news.yahoo.co.jp/articles/a7893ac85f5469fbd663938d6dc2c740946d11c4?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260517-01837112-okinawat-000-1-view.jpg?exp=10800"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.69008124819284,
-          26.214989523857465
+          127.6901384,
+          26.2147706
         ]
       }
     },
@@ -261,18 +360,19 @@
       "type": "Feature",
       "properties": {
         "category": "local",
-        "trend_word": "「富士山の巨大壁画」をモザイクアートで再現　旧神戸新聞会館の歴史を振り返るパネル展　ミント神戸(ラジトピ　ラジオ関西トピックス)",
-        "name": "ミント神戸",
+        "trend_word": "【桜坂劇場・下地久美子の映画コレ見た？】『霧のごとく』暗闇の時代　愛こそ希望(沖縄タイムス)",
+        "name": "桜坂劇場",
         "address": "",
-        "reason": "歴史的建造物のモザイクアートとパネル展で興味を引く",
-        "date": "2026-04-28",
-        "link": "https://news.yahoo.co.jp/articles/27b40b99666042b23fdd9bd02eef087e4e9303ea?source=rss"
+        "reason": "映画の舞台となった沖縄の風景を実際に体験できる",
+        "date": "2026-05-24",
+        "link": "https://news.yahoo.co.jp/articles/42e205b2808869cf6983eb587b4e9c7d4436c5af?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260524-01842143-okinawat-000-1-view.jpg?exp=10800"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.1960500300461,
-          34.69453103367957
+          127.6901384,
+          26.2147706
         ]
       }
     },
@@ -280,18 +380,79 @@
       "type": "Feature",
       "properties": {
         "category": "local",
-        "trend_word": "伊豆のクリエーター集結「開国てづくり市」　初の南伊豆開催(みんなの経済新聞ネットワーク)",
-        "name": "開国てづくり市（ピンの位置は観光案内所）",
+        "trend_word": "温泉・サウナ・仕事まで…“大人がこもれる”新スパ、大阪に誕生　サウナ3種に岩盤浴、緑あふれるラウンジも(Lmaga.jp)",
+        "name": "ロマスパ",
         "address": "",
-        "reason": "手作り品に興味があり、南伊豆の自然も楽しめそうだから",
-        "date": "2026-04-28",
-        "link": "https://news.yahoo.co.jp/articles/c230d185ffa95eb2c95ce361e0b5db757d708d6a?source=rss"
+        "reason": "温泉、サウナ、緑あふれるラウンジと、リラックスと仕事の両立ができる魅力的な施設だから。",
+        "date": "2026-05-24",
+        "link": "https://news.yahoo.co.jp/articles/3862a808bae426164b730c6c1b8c01a351f7c4de?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260524-01058916-lmaga-000-1-view.jpg?exp=10800"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          138.8666865697628,
-          34.64968867905211
+          135.50634078,
+          34.69149354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "初夏の訪れを告げるバラが見頃　　三重・津市(中京テレビＮＥＷＳ)",
+        "name": "レッドヒルヒーサーの森",
+        "address": "",
+        "reason": "初夏の訪れを感じさせる美しいバラを堪能できる",
+        "date": "2026-05-25",
+        "link": "https://news.yahoo.co.jp/articles/972913a184fc338059d5405583b48923a8a24771?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260525-02791283-sp_ctv-000-1-thumb.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.46178325092512,
+          34.8025843844486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "ドラマ「サバ缶、宇宙へ行く」で宇宙食サバ缶の人気急上昇　福井県小浜市の製造業者、放送前の3月から注文殺到(福井新聞ＯＮＬＩＮＥ)",
+        "name": "福井缶詰（株）",
+        "address": "",
+        "reason": "ドラマの舞台となった場所で、特産品が注目されているため",
+        "date": "2026-05-26",
+        "link": "https://news.yahoo.co.jp/articles/69c08b88c4ed4a2b0ca8e38bc09aa571d9c1c261?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260526-00010000-fukui-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.73866575462554,
+          35.50031950375085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "明治42年創業「奈良ホテル」一時休館から復活！6月から営業再開へ…関西唯一のクラシックホテル(Lmaga.jp)",
+        "name": "奈良ホテル",
+        "address": "",
+        "reason": "歴史と格式あるホテルの復活は魅力的",
+        "date": "2026-05-26",
+        "link": "https://news.yahoo.co.jp/articles/ce773e50b2528b95f023237d4bd6cec06d9c1db8?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260526-01059197-lmaga-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.83374049,
+          34.67773575
         ]
       }
     }
