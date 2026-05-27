@@ -1397,7 +1397,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/nauruya_higashiosaka/",
-        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -1663,7 +1663,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DXysxoTGIEb/",
-        "image_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-15/686125233_18584057269048646_8622215985408468812_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=tvI14ZKPRl0Q7kNvwGSg8lj&_nc_oc=AdqnyWzLvZVQrlFpo6Q3I4QA3CK4H5R4IEf73S9fdn8-CelqgEVXKWfLVr7dYrplaCw&_nc_zt=23&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_gid=6JRaWeiH6DkOL6A72LP_BA&_nc_ss=7f60f&oh=00_Af5QYrA1Wu3Vc7lJ9FHOBiySkxfxhEa6VNk0kCfZQGt9QQ&oe=6A1C1C0D"
+        "image_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-15/686125233_18584057269048646_8622215985408468812_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=tvI14ZKPRl0Q7kNvwHO1OJR&_nc_oc=AdroTc8knDFyfBEJ3_OlZBfER7M8ThKvb189EW4rW2KUz_6e5DEv6KYB6rDY6YjFsGg&_nc_zt=23&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_gid=GYq5BXYLgwVMzsj-aF0tEw&_nc_ss=7f60f&oh=00_Af7NHSDG7UBb6pOakC5gAj9ewriofAPoxDT9IrF3J3B_ng&oe=6A1C1C0D"
       },
       "geometry": {
         "type": "Point",
@@ -2513,7 +2513,7 @@
       "type": "Feature",
       "properties": {
         "name": "チュニジア館で展示されていた巨大モザイクアート",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【チュニジア館で展示されていた巨大モザイクアート】</b><br>📅 期間: 2026/05/26 ～ 2026/05/31<br>📝 大阪・関西万博のチュニジアパビリオンを飾った巨大モザイクアートが、大分県立美術館での展示を経て、立命館アジア太平洋大学（APU）に寄贈される。高さ4.5m・横7.1mの作品は、樹齢2500年のオリーブの木を60万個以上の石で表現したもの。チュニジアと大分には2002年サッカーW杯日韓大会でのキャンプ地という縁があり、大分青年会議所の働きかけで寄贈が実現。駐日大使は「大分を通じた両国交流のきっかけに」と期待を語った。<br><br><a href='https://news.yahoo.co.jp/articles/161b387ced16b0a717287f6594407cb37c38fee2' target='_blank'>🔗 詳細を開く</a>",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【チュニジア館で展示されていた巨大モザイクアート】</b><br>📅 期間: 2026/05/26 ～ 2026/05/31<br>📝 大阪・関西万博のチュニジアパビリオンを飾った巨大モザイクアートが、大分県立美術館で5月31日まで展示公開されています。その後、立命館アジア太平洋大学（APU）に寄贈される予定。高さ4.5m・横7.1mの作品は、樹齢2500年のオリーブの木を60万個以上の石で表現したもの。チュニジアと大分には2002年サッカーW杯日韓大会でのキャンプ地という縁があり、大分青年会議所の働きかけで寄贈が実現。駐日大使は「大分を通じた両国交流のきっかけに」と期待を語った。<br><br><a href='https://news.yahoo.co.jp/articles/161b387ced16b0a717287f6594407cb37c38fee2' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false,
         "isKomyaku": false,
