@@ -328,7 +328,7 @@
       "type": "Feature",
       "properties": {
         "name": "（予定）「いのちの遊び場 クラゲ館」移築計画",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【「いのちの遊び場 クラゲ館」移築計画】</b><br>📅 期間: 2029年予定 ～ 常設<br>📝 クラゲ館の大屋根を、福山の子ども未来館整備とあわせて移す計画があるんだって！<br><br><a href='https://www.city.fukuyama.hiroshima.jp/uploaded/attachment/327686.pdf' target='_blank'>🔗 詳細を開く</a>",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【「いのちの遊び場 クラゲ館」移築計画】</b><br>📅 期間: 2029年予定 ～ 常設<br>📝 クラゲ館の大屋根を、福山の子ども未来館整備とあわせて移す計画があります<br><br><a href='https://www.city.fukuyama.hiroshima.jp/uploaded/attachment/327686.pdf' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false,
         "isKomyaku": false,
@@ -1397,7 +1397,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/nauruya_higashiosaka/",
-        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -1663,7 +1663,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DXysxoTGIEb/",
-        "image_url": "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-15/686125233_18584057269048646_8622215985408468812_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=tvI14ZKPRl0Q7kNvwGbvYOB&_nc_oc=AdrND1Y59KvyW9gXWIi5mDGs51pXZo0V2oTi_XKPOmqA3dLxfcWFOHM43nMJYQZNYh0&_nc_zt=23&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_gid=zl2HHJbEktB5k6C-2X8cfQ&_nc_ss=7f60f&oh=00_Af5PWsipMr6XCn3rrngwdTrXMh9XfapP-hmxaEDUhIenZA&oe=6A1C544D"
+        "image_url": "https://scontent-fra3-1.cdninstagram.com/v/t51.82787-15/686125233_18584057269048646_8622215985408468812_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=tvI14ZKPRl0Q7kNvwHZJVMZ&_nc_oc=Adquc4jcCn5h4E66XnfE9907oJQPg-EGgx7sagT_YcRHpg7GsmoX4dtqa6hk9A2RhkM&_nc_zt=23&_nc_ht=scontent-fra3-1.cdninstagram.com&_nc_gid=fwNQsbK1x6k0SJEqpHx9ew&_nc_ss=7f60f&oh=00_Af4UrzzhhCWKQKVA0CJLsp3svb9U4JC57XJR-jwW47p-Mw&oe=6A1C544D"
       },
       "geometry": {
         "type": "Point",
