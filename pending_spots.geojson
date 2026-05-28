@@ -6,6 +6,46 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "6月6日、南部杜氏の里まつり　トークショー、抽選会も　道の駅石鳥谷　岩手・花巻(岩手日日新聞社)",
+        "name": "道の駅石鳥谷交差点",
+        "address": "",
+        "reason": "南部杜氏の里まつりの開催と、トークショー・抽選会といったイベント内容が魅力的だから",
+        "date": "2026-05-29",
+        "link": "https://news.yahoo.co.jp/articles/b12152c929c633b6d5cdeba4d1c5327bc68d3c6d?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.140705,
+          39.4825152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "製本の技で町おこし　大山にオリジナル御朱印帳　１級技能士・山崎さんが手がける　鳥取県大山町(山陰中央新報)",
+        "name": "大山町役場",
+        "address": "",
+        "reason": "地域色豊かなオリジナル御朱印帳で、訪れる価値がある。",
+        "date": "2026-05-29",
+        "link": "https://news.yahoo.co.jp/articles/10edc6ebd297d286036b4d987775aefbcc973006?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260529-00000001-saninchuo-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.4961143,
+          35.5107365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "明治42年創業「奈良ホテル」一時休館から復活！6月から営業再開へ…関西唯一のクラシックホテル(Lmaga.jp)",
         "name": "奈良ホテル",
         "address": "",
@@ -162,7 +202,7 @@
         ]
       }
     },
-       {
+    {
       "type": "Feature",
       "properties": {
         "category": "local",
