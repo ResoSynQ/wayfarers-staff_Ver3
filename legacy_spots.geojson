@@ -371,7 +371,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://news.panasonic.com/jp/press/jn251222-4",
-        "image_url": ""
+        "image_url": "https://news.panasonic.com/uploads/tmg_block_page/ogp_image/18238/l-jn251222-4-1.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -1188,7 +1188,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.expo70-park.jp/event/75690/",
-        "image_url": "https://www.expo70-park.jp/sys/wp-content/uploads/d66d0f97eda4e1a8bb69359401f3fef4-640x640.png"
+        "image_url": "https://www.expo70-park.jp/sys/wp-content/uploads/879a23503d32bf2473eb3d8522af1fde-640x640.png"
       },
       "geometry": {
         "type": "Point",
@@ -1207,7 +1207,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.expo70-park.jp/event/75690/",
-        "image_url": "https://www.expo70-park.jp/sys/wp-content/uploads/d66d0f97eda4e1a8bb69359401f3fef4-640x640.png"
+        "image_url": "https://www.expo70-park.jp/sys/wp-content/uploads/879a23503d32bf2473eb3d8522af1fde-640x640.png"
       },
       "geometry": {
         "type": "Point",
@@ -1663,7 +1663,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DXysxoTGIEb/",
-        "image_url": "https://scontent-atl3-3.cdninstagram.com/v/t51.82787-15/686125233_18584057269048646_8622215985408468812_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=SgfodlcpSZwQ7kNvwGH_MUd&_nc_oc=AdqHa5eH3XSKdp9kw_-QqRhG65SiT3LmJUCnKcdQyIrG0SlNnx1EgMmKxOYrjmXyCXQ&_nc_zt=23&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_gid=4vgoywu_V0n2dvHhP15i-g&_nc_ss=7f60f&oh=00_Af5VY06H54FD2BCqDJkJO-o_G98DzPz9sIC4IjAiLdpu3A&oe=6A1DA5CD"
+        "image_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/686125233_18584057269048646_8622215985408468812_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=SgfodlcpSZwQ7kNvwExnMfT&_nc_oc=AdoXVOUxr_t_XdP4evAPYHUmq0zPFQWFIdVjECkVV1cIjkmj4y5TDTaITKCLV9e5qEs&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=ysGfz-ENOeBm6tMcqmg0Bg&_nc_ss=7f60f&oh=00_Af6L7plYUvF7XYdj2X6qgDuwxQQYvD3QOXWeMFSYYNhgIg&oe=6A1DDE0D"
       },
       "geometry": {
         "type": "Point",
@@ -2525,6 +2525,63 @@
         "coordinates": [
           131.6014628,
           33.24033316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）EXPO2025公式ストアが新大阪駅に期間限定で復活！「23・24番線ホーム 7号車付近」",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【EXPO2025公式ストアが新大阪駅に期間限定で復活！「23・24番線ホーム 7号車付近」】</b><br>📅 期間: 2026/06/01 ～ 2026/07/05<br>📝 万博期間中に惜しまれつつ営業を終えた公式ストアが、お客さんの声を受けて新大阪駅の新幹線ホーム上に期間限定で再登場！雑貨を中心に、EXPO2025の思い出をもう一度手に取れるスポットです。<br><br><a href='https://www.jr-plus.co.jp/news/2026/05/000736/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": true,
+        "isKomyaku": false,
+        "link": "https://www.jr-plus.co.jp/news/2026/05/000736/",
+        "image_url": "https://www.jr-plus.co.jp/files/2025%E5%A4%A7%E9%98%AA%E3%83%BB%E9%96%A2%E8%A5%BF%E4%B8%87%E5%8D%9A%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%B9%E3%83%88%E3%82%A2%20JR%E6%96%B0%E5%A4%A7%E9%98%AA%E9%A7%85%20%E6%96%B0%E5%B9%B9%E7%B7%9A%E3%83%9B%E3%83%BC%E3%83%A0%E5%BA%97.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5002572,
+          34.73349689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "万博パビリオンを彩った西陣織が大阪公立大学で常設展示へ！",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【万博パビリオンを彩った西陣織が大阪公立大学で常設展示へ！】</b><br>📅 期間: 2026/05/25 ～ 常設<br>📝 大阪・関西万博の「飯田グループ×大阪公立大学共同出展館」で外装に使われた美しい西陣織が、屏風状に加工されて森之宮キャンパスへ移設されました。パビリオンのレプリカとともに、万博の記憶と日本の伝統美を未来へつなぐ常設展示です。<br><br><a href='https://www.omu.ac.jp/info/news/entry-24179.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.omu.ac.jp/info/news/entry-24179.html",
+        "image_url": "https://www.omu.ac.jp/assets/attachmentfile/attachmentfile-file-94276.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5393503,
+          34.68706212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）万博の続きを“食”で楽しむ！EXPO FOOD PASSPORTのスタンプ帳の先行販売！",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【万博の続きを“食”で楽しむ！EXPO FOOD PASSPORTのスタンプ帳の先行販売！】</b><br>📅 期間: 2026/06/06 ～ 2026/06/08<br>📝 大阪で世界の料理をめぐるグルメスタンプラリー「EXPO FOOD PASSPORT」が始まります。全12店舗を巡ってスタンプを集めながら、万博で感じた“世界と出会う楽しさ”を、今度は食で味わえるアフター万博企画です。泉南ロングパークのコモンズフェスティバル会場にて、6/6(土)〜6/8(月)の3日間限定で先行販売予定。価格は300円（税込）で、開催期間中の販売価格400円（税込）より少しお得に入手できるとのこと！<br><br><a href='https://www.instagram.com/p/DY1C6b0k470/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": true,
+        "isKomyaku": false,
+        "link": "https://www.instagram.com/p/DY1C6b0k470/",
+        "image_url": "https://scontent-sea1-1.cdninstagram.com/v/t51.82787-15/706054493_18105986611845533_3118488150264818427_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=AWkanhjVG6sQ7kNvwEp5ANx&_nc_oc=AdrSN0Lf0-69y7S1E6FieGvlg-BnuP4dtDF1Fj-nTZm_iXyuFjtA0pRoCVZKCIOMGy4&_nc_zt=23&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=vhtSO9d4SVnfvxoZf8LYvw&_nc_ss=7f60f&oh=00_Af6SCdLzGuzFQVWMxPvm6ylmYzvnbMsR4occFIg8qO9kiw&oe=6A1DCD45"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.2617719,
+          34.37943688
         ]
       }
     }
