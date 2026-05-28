@@ -105,7 +105,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://prtimes.jp/main/html/rd/p/000000231.000024682.html",
-        "image_url": "https://prcdn.freetls.fastly.net/release_image/24682/231/24682-231-0dc6eebfe424922f93cfcfb6a69691b5-1772x997.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -1530,7 +1530,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://expo2027.digitalnatureandarts.or.jp/",
-        "image_url": "https://expo2027.digitalnatureandarts.or.jp/images/null4_ogp-image.jpg"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -1549,7 +1549,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://taiyounotou.com/%E3%82%81%E3%81%A3%E3%81%A1%E3%82%83%E3%83%9E%E3%82%A4%E3%83%89%E3%82%AA%E3%82%AA%E3%82%AD%E3%83%8B-%E5%A4%A7%E9%98%AA%E9%96%A2%E8%A5%BF%E4%B8%87%E5%8D%9A%E7%BC%B6/",
-        "image_url": "https://taiyounotou.com/wp-content/uploads/2026/05/めっちゃマイドオオキニ缶_パターンC_1：1-02-scaled.jpg"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -1663,7 +1663,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DXysxoTGIEb/",
-        "image_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/686125233_18584057269048646_8622215985408468812_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=SgfodlcpSZwQ7kNvwExnMfT&_nc_oc=AdoXVOUxr_t_XdP4evAPYHUmq0zPFQWFIdVjECkVV1cIjkmj4y5TDTaITKCLV9e5qEs&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=ysGfz-ENOeBm6tMcqmg0Bg&_nc_ss=7f60f&oh=00_Af6L7plYUvF7XYdj2X6qgDuwxQQYvD3QOXWeMFSYYNhgIg&oe=6A1DDE0D"
+        "image_url": "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-15/686125233_18584057269048646_8622215985408468812_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=SgfodlcpSZwQ7kNvwGIuYiN&_nc_oc=AdrSaDCbfx1I8hkHFi4sI-kufkPc8Zh_4YIayTdOrpfXPQGp2-xx-xgANzbhI0_ZqDY&_nc_zt=23&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_gid=Hta46_B7xGCyZqlgID1h_g&_nc_ss=7f60f&oh=00_Af7aTknOyBaGLjzgE2JL5t7nJafpRo9ZIYsu-03W3dt1-w&oe=6A1DDE0D"
       },
       "geometry": {
         "type": "Point",
@@ -2575,13 +2575,51 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DY1C6b0k470/",
-        "image_url": "https://scontent-sea1-1.cdninstagram.com/v/t51.82787-15/706054493_18105986611845533_3118488150264818427_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=AWkanhjVG6sQ7kNvwEp5ANx&_nc_oc=AdrSN0Lf0-69y7S1E6FieGvlg-BnuP4dtDF1Fj-nTZm_iXyuFjtA0pRoCVZKCIOMGy4&_nc_zt=23&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=vhtSO9d4SVnfvxoZf8LYvw&_nc_ss=7f60f&oh=00_Af6SCdLzGuzFQVWMxPvm6ylmYzvnbMsR4occFIg8qO9kiw&oe=6A1DCD45"
+        "image_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/706054493_18105986611845533_3118488150264818427_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=AWkanhjVG6sQ7kNvwEZGnv-&_nc_oc=AdqFjKHQq0t_ejSrAPfNOS_1J9rWd6gQo8b0yw_orSsDOMD8dAXc_RD-972vYJBSaco&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=nMg1mYpg3u9Fk8wxEaOIBQ&_nc_ss=7f60f&oh=00_Af4RUCrjvh3CTb51XdRfAhzm1vG7zKe_dkVNMtmsR8NZaw&oe=6A1DCD45"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           135.2617719,
           34.37943688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "変なホテル大阪 心斎橋 みゃくみゃくルーム",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【変なホテル大阪 心斎橋 みゃくみゃくルーム】</b><br>📅 期間: 時期---- ～ 2026/06/30<br>📝 EXPO2025公式キャラクター・ミャクミャクの世界観を体験できる特別な客室「ミャクミャクコラボルーム」「ミャクミャクコラボルームプレミア」の宿泊対象期間が、2026年6月30日（火）宿泊分まで延長されることになりました。<br><br><a href='https://www.hennnahotel.com/shinsaibashi/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.hennnahotel.com/shinsaibashi/",
+        "image_url": "https://www.hennnahotel.com/shinsaibashi/wp-content/uploads/2018/06/0619_OGP.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5021893,
+          34.67574972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "変なホテル大阪 なんば みゃくみゃくルーム",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【変なホテル大阪 なんば みゃくみゃくルーム】</b><br>📅 期間: 時期---- ～ 2026/06/30<br>📝 EXPO2025公式キャラクター・ミャクミャクの世界観を体験できる特別な客室「ミャクミャクコラボルーム」「ミャクミャクコラボルームプレミア」の宿泊対象期間が、2026年6月30日（火）宿泊分まで延長されることになりました。<br><br><a href='https://www.hennnahotel.com/nishishinsaibashi/news/4767/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.hennnahotel.com/nishishinsaibashi/news/4767/",
+        "image_url": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4985503,
+          34.67133453
         ]
       }
     }
