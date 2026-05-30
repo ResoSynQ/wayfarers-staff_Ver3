@@ -6,6 +6,106 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "大自然の中で心身整え　八戸・種差で今季初の朝ヨガ(デーリー東北新聞社)",
+        "name": "種差海岸",
+        "address": "",
+        "reason": "自然豊かな環境でリフレッシュできる",
+        "date": "2026-05-31",
+        "link": "https://news.yahoo.co.jp/articles/e99ff1ca9a89ffbfaee7805dcae1f964aed64ec9?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260531-00010000-dtohoku-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.6083805,
+          40.5087805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "那古の町に行灯であかりを　地域活性化へプロジェクト　芝浦工大の学生ら　館山（千葉県）(房日新聞)",
+        "name": "館山市立 那古学童クラブ",
+        "address": "",
+        "reason": "歴史ある町並みと学生の創造性が融合した温かい光",
+        "date": "2026-05-31",
+        "link": "https://news.yahoo.co.jp/articles/f81c7894dc67024992ce04b256631ff9d0c856ed?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260531-00010001-bonichi-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.86851299,
+          35.02632107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "【桜坂劇場・下地久美子の映画コレ見た？】『カーンターラ　神の降臨』すさまじい神事の描写(沖縄タイムス)",
+        "name": "桜坂劇場",
+        "address": "",
+        "reason": "神事の描写に興味をそそられたため",
+        "date": "2026-05-31",
+        "link": "https://news.yahoo.co.jp/articles/e3db7645c0e589e6c71c1b739745e30892cf2621?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260531-01847041-okinawat-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.6901384,
+          26.2147706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "【特集】創業160年の伝統を誇る酒造会社「千代むすび酒造」　長い歴史の中で培ってきた酒づくりの技と感性を生かしたジャパニーズ・ウイスキー　伝統を守りながら次の時代へと挑戦　鳥取県境港市(日本海テレビ)",
+        "name": "千代むすび酒造株式会社",
+        "address": "",
+        "reason": "160年の伝統と革新的なジャパニーズ・ウイスキー造りに興味をそそられるため",
+        "date": "2026-05-31",
+        "link": "https://news.yahoo.co.jp/articles/ebe8ed1ddc09a066ce1df648df340752e7283daf?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260531-05143377-nkt-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.22484151,
+          35.54506292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "舞浜のディズニーが、映画「トイ・ストーリー5」のグッズを期間限定で(みんなの経済新聞ネットワーク)",
+        "name": "東京ディズニーリゾート・トイ・ストーリーホテル",
+        "address": "",
+        "reason": "「トイ・ストーリー5」の限定グッズに興味を惹かれるため",
+        "date": "2026-05-31",
+        "link": "https://news.yahoo.co.jp/articles/854a8bd50bbe3261bd743d468b0c111ccab9aeb5?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260531-00000000-minkei-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8746566,
+          35.626016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "6月6日、南部杜氏の里まつり　トークショー、抽選会も　道の駅石鳥谷　岩手・花巻(岩手日日新聞社)",
         "name": "道の駅石鳥谷交差点",
         "address": "",
