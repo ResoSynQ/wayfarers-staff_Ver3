@@ -6,6 +6,26 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "大阪・通天閣と満月の「競演」　なにわの夜空見上げる観光客ら(Yahoo!ニュース オリジナル THE PAGE)",
+        "name": "ローソン通天閣南店",
+        "address": "",
+        "reason": "象徴的なランドマークと満月の共演は、特別な体験として魅力的に映るため。",
+        "date": "2026-06-01",
+        "link": "https://news.yahoo.co.jp/articles/3d5f6244001266fab5889066cdd2a7aefc3809e2?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260531-00010000-wordleafv-000-3-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5061658,
+          34.6519227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "大自然の中で心身整え　八戸・種差で今季初の朝ヨガ(デーリー東北新聞社)",
         "name": "種差海岸",
         "address": "",
