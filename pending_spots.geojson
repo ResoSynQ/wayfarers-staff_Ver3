@@ -6,6 +6,66 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "再び聖なる音色響かせる…シンボルのパイプオルガン、大規模修繕が完了（宮城・加美町『中新田バッハホール』）(ミヤギテレビ)",
+        "name": "加美町役場　中新田バッハホール",
+        "address": "",
+        "reason": "歴史的建造物の修繕完了と美しい音色への期待感",
+        "date": "2026-06-02",
+        "link": "https://news.yahoo.co.jp/articles/2d4513fc9b88047317e392d67aca101d4b59f537?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260602-09792173-mmt-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.866033055556,
+          38.568418055556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "「心込めて育てたビワ、味わって」　富浦小6年生が枇杷倶楽部で販売会　あっという間に完売に（千葉県）(房日新聞)",
+        "name": "道の駅とみうら枇杷倶楽部",
+        "address": "",
+        "reason": "小学生が愛情込めて育てたビワの販売会が、あっという間に完売するほど人気だったというニュースは、高品質で美味しいビワが手に入る期待感と、地域貢献に繋がる体験ができるという魅力があるため。",
+        "date": "2026-06-02",
+        "link": "https://news.yahoo.co.jp/articles/bd22f1d5bae8040f18e3ae69a041dbe50f45d80e?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260602-00010001-bonichi-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.83713056,
+          35.037677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "イトマキヒトデ人気投票　魚津水族館、富山湾の６匹が参加(北日本新聞)",
+        "name": "魚津水族館前交差点",
+        "address": "",
+        "reason": "珍しい生き物の人気投票というユニークな企画で興味を引く",
+        "date": "2026-06-02",
+        "link": "https://news.yahoo.co.jp/articles/3e9166f4a85ba97724826093b7b17539d75f4404?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260602-00000002-kitanihon-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.387595,
+          36.7993589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "大阪・通天閣と満月の「競演」　なにわの夜空見上げる観光客ら(Yahoo!ニュース オリジナル THE PAGE)",
         "name": "ローソン通天閣南店",
         "address": "",
