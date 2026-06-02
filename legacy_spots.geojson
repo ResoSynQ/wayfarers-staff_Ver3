@@ -955,12 +955,12 @@
       "type": "Feature",
       "properties": {
         "name": "2025大阪・関西万博 オフィシャルストア 大丸梅田店",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【2025大阪・関西万博 オフィシャルストア 大丸梅田店】</b><br>📅 期間: 常設 / 時期----<br>📝 大阪・関西万博の公式ライセンスグッズを取り扱う「EXPO2025 オフィシャルストア」大盛況のうちに幕を閉じた万博の熱気をそのままに、公式キャラクター「ミャクミャク」のグッズなどを豊富にラインナップ！<br><br><a href='https://www.daimaru.co.jp/umedamise/topics/230919expo_officialstore.html' target='_blank'>🔗 詳細を開く</a>",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【2025大阪・関西万博 オフィシャルストア 大丸梅田店】</b><br>📅 期間: 常設 / 時期----<br>📝 大阪・関西万博の公式ライセンスグッズを取り扱う「EXPO2025 オフィシャルストア」大盛況のうちに幕を閉じた万博の熱気をそのままに、公式キャラクター「ミャクミャク」のグッズなどを豊富にラインナップ！<br><br><a href='https://www.daimaru.co.jp/umedamise/topics/230919expo_officialTRUE.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": true,
         "isKomyaku": false,
-        "link": "https://www.daimaru.co.jp/umedamise/topics/230919expo_officialstore.html",
-        "image_url": "https://www.daimaru.co.jp/umedamise/topics/assets/img/230207expo_officialstore_topics2_1.jpg"
+        "link": "https://www.daimaru.co.jp/umedamise/topics/230919expo_officialTRUE.html",
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -1050,12 +1050,12 @@
       "type": "Feature",
       "properties": {
         "name": "2025 大阪・関西万博オフィシャルストア あべのハルカス店",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【2025 大阪・関西万博オフィシャルストア あべのハルカス店】</b><br>📅 期間: 常設 / 時期----<br>📝 大阪・関西万博の公式ライセンスグッズを取り扱う「EXPO2025 オフィシャルストア」大盛況のうちに幕を閉じた万博の熱気をそのままに、公式キャラクター「ミャクミャク」のグッズなどを豊富にラインナップ！<br><br><a href='https://abenoharukas.d-kintetsu.co.jp/pages/expo2025_official_store/index.html' target='_blank'>🔗 詳細を開く</a>",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【2025 大阪・関西万博オフィシャルストア あべのハルカス店】</b><br>📅 期間: 常設 / 時期----<br>📝 大阪・関西万博の公式ライセンスグッズを取り扱う「EXPO2025 オフィシャルストア」大盛況のうちに幕を閉じた万博の熱気をそのままに、公式キャラクター「ミャクミャク」のグッズなどを豊富にラインナップ！<br><br><a href='https://abenoharukas.d-kintetsu.co.jp/pages/expo2025_official_TRUE/index.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": true,
         "isKomyaku": false,
-        "link": "https://abenoharukas.d-kintetsu.co.jp/pages/expo2025_official_store/index.html",
-        "image_url": "/assets-static/images/common/ogp_logo.jpg"
+        "link": "https://abenoharukas.d-kintetsu.co.jp/pages/expo2025_official_TRUE/index.html",
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -1188,7 +1188,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://prtimes.jp/main/html/rd/p/000000006.000176000.html",
-        "image_url": ""
+        "image_url": "https://prcdn.freetls.fastly.net/release_image/176000/6/176000-6-3d27190c014c14b41de417ad62da0f13-1620x1182.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
       },
       "geometry": {
         "type": "Point",
@@ -1264,7 +1264,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/nauruya_higashiosaka/",
-        "image_url": ""
+        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
       },
       "geometry": {
         "type": "Point",
@@ -1359,7 +1359,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://prtimes.jp/main/html/rd/p/000000087.000134299.html",
-        "image_url": ""
+        "image_url": "https://prcdn.freetls.fastly.net/release_image/134299/87/134299-87-d6c8c3bfbaf5b08c5bc643a99aa662de-920x450.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
       },
       "geometry": {
         "type": "Point",
@@ -2366,7 +2366,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DY1C6b0k470/",
-        "image_url": "https://scontent-lhr8-2.cdninstagram.com/v/t51.82787-15/706054493_18105986611845533_3118488150264818427_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=mRdIgjScI5MQ7kNvwF_WBgO&_nc_oc=Adrqg3bG98ZCNrrp4w5S_Jn3EvRUsO0-Scany6ddvEn0GO3k8gHKzK63YBL7ODH3AWM&_nc_zt=23&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_gid=HM57bjdC06A-53pl7QIXjQ&_nc_ss=7f60f&oh=00_Af9WoazZBM9_a-eJ2ICePHZthuKoySOn3I8RKNG_0658sg&oe=6A2464C5"
+        "image_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/706054493_18105986611845533_3118488150264818427_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=mRdIgjScI5MQ7kNvwE8MFGM&_nc_oc=Adr1-jEop9qXVOrkJpcSmg77OzUah_Jlt26M63qYgMnCgkagy0AXe9O_0fNBTsAeb7k&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=q6nOdrJyRnvUlI2AWTW1fw&_nc_ss=7f60f&oh=00_Af8ayVrsciJgQ0tJgs1d1ateHTXQZv92UxfDTpf--P83mQ&oe=6A2464C5"
       },
       "geometry": {
         "type": "Point",
