@@ -6,6 +6,46 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "色とキャラで街に彩り　富山市総曲輪の飲食店外装、漫画家の森さんがアート制作(北日本新聞)",
+        "name": "レストラン清風",
+        "address": "",
+        "reason": "漫画家の手による彩り豊かなアートが街の魅力を高めているため",
+        "date": "2026-06-03",
+        "link": "https://news.yahoo.co.jp/articles/8c601bd8b4b8d067387ad8c2d581220239f632d7?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260603-00000001-kitanihon-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.21238536,
+          36.69548456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "海辺でビール楽しんで　氷見市島尾（富山）で６、７日ビーチサミット、醸造所やアウトドア店集結(北日本新聞)",
+        "name": "氷見市農業協同組合 支所名島尾支所",
+        "address": "",
+        "reason": "海辺でビール、醸造所、アウトドアと魅力的な要素が揃っているため",
+        "date": "2026-06-03",
+        "link": "https://news.yahoo.co.jp/articles/f7615f3c7b3f9218bd3e5fe8cc98272ef5d63bda?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260603-00000002-kitanihon-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.00810184,
+          36.82518974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "再び聖なる音色響かせる…シンボルのパイプオルガン、大規模修繕が完了（宮城・加美町『中新田バッハホール』）(ミヤギテレビ)",
         "name": "加美町役場　中新田バッハホール",
         "address": "",

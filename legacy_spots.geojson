@@ -1072,7 +1072,7 @@
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【コミャクモニュメント「時空の広場」】</b><br>📅 期間: 常設 / 時期----<br>📝 大阪・関西万博のデザインシステムで「いのち」を象徴するエレメント「こみゃく」が万博のソフトレガシーとして、大阪駅のステーションシティ「時空の広場」にて「EXPO OSAKA STATION」のモニュメントとして展示中。<br><br><a href='' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false,
-        "isKomyaku": false,
+        "isKomyaku": true,
         "link": "",
         "image_url": ""
       },
@@ -2366,7 +2366,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DY1C6b0k470/",
-        "image_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/706054493_18105986611845533_3118488150264818427_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=mRdIgjScI5MQ7kNvwFi2Z6q&_nc_oc=AdqOUCzTzZBKM6QoZyYTOQtQ37MY-gWW9XRINVKeCtxs6Nyaxlx-eVNNY6mXjpxlUvM&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=a-qwJSj-K_dMVTDDZuFpFA&_nc_ss=7f60f&oh=00_Af80CZdY3fEbmvAtSJr3yYbp7D8bRwD8i89JyQZZ9eUE3Q&oe=6A2464C5"
+        "image_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-15/706054493_18105986611845533_3118488150264818427_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=mRdIgjScI5MQ7kNvwEHpbTS&_nc_oc=AdqqXfJl2KigOunPLnUgqXAK08BdUrYUMhiiF01C-45Ga0O1cXS4GDZ8lXVotRDtiRE&_nc_zt=23&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_gid=ZZTtiHmrEcEH3jrLDBJfjg&_nc_ss=7f60f&oh=00_Af-Hlr5ajwOV8V2tJjw3Lir-UFyD9V3WWTcNzmP5jITEhQ&oe=6A250D85"
       },
       "geometry": {
         "type": "Point",
