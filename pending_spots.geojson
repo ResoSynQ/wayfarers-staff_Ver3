@@ -6,6 +6,26 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "初代カローラやEV「イーパレット」を初展示　「沖縄トヨタフェスティバル」が6月13、14日に開催　宜野湾市(沖縄タイムス)",
+        "name": "宜野湾市役所",
+        "address": "",
+        "reason": "貴重な旧車と最新EVを一度に見られるイベントのため",
+        "date": "2026-06-04",
+        "link": "https://news.yahoo.co.jp/articles/d95a8cf809d69638723ddacc481e88efa757279b?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260604-01851368-okinawat-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.778634,
+          26.2815751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "色とキャラで街に彩り　富山市総曲輪の飲食店外装、漫画家の森さんがアート制作(北日本新聞)",
         "name": "レストラン清風",
         "address": "",
