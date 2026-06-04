@@ -2,27 +2,7 @@
   "type": "FeatureCollection",
   "approval_status": "OK",
   "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "local",
-        "trend_word": "初代カローラやEV「イーパレット」を初展示　「沖縄トヨタフェスティバル」が6月13、14日に開催　宜野湾市(沖縄タイムス)",
-        "name": "宜野湾市役所",
-        "address": "",
-        "reason": "貴重な旧車と最新EVを一度に見られるイベントのため",
-        "date": "2026-06-04",
-        "link": "https://news.yahoo.co.jp/articles/d95a8cf809d69638723ddacc481e88efa757279b?source=rss",
-        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260604-01851368-okinawat-000-1-view.jpg?exp=10800"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          127.778634,
-          26.2815751
-        ]
-      }
-    },
-    {
+        {
       "type": "Feature",
       "properties": {
         "category": "local",
@@ -39,26 +19,6 @@
         "coordinates": [
           137.21238536,
           36.69548456
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "local",
-        "trend_word": "海辺でビール楽しんで　氷見市島尾（富山）で６、７日ビーチサミット、醸造所やアウトドア店集結(北日本新聞)",
-        "name": "氷見市農業協同組合 支所名島尾支所",
-        "address": "",
-        "reason": "海辺でビール、醸造所、アウトドアと魅力的な要素が揃っているため",
-        "date": "2026-06-03",
-        "link": "https://news.yahoo.co.jp/articles/f7615f3c7b3f9218bd3e5fe8cc98272ef5d63bda?source=rss",
-        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260603-00000002-kitanihon-000-1-view.jpg?exp=10800"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          137.00810184,
-          36.82518974
         ]
       }
     },
@@ -86,26 +46,6 @@
       "type": "Feature",
       "properties": {
         "category": "local",
-        "trend_word": "「心込めて育てたビワ、味わって」　富浦小6年生が枇杷倶楽部で販売会　あっという間に完売に（千葉県）(房日新聞)",
-        "name": "道の駅とみうら枇杷倶楽部",
-        "address": "",
-        "reason": "小学生が愛情込めて育てたビワの販売会が、あっという間に完売するほど人気だったというニュースは、高品質で美味しいビワが手に入る期待感と、地域貢献に繋がる体験ができるという魅力があるため。",
-        "date": "2026-06-02",
-        "link": "https://news.yahoo.co.jp/articles/bd22f1d5bae8040f18e3ae69a041dbe50f45d80e?source=rss",
-        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260602-00010001-bonichi-000-1-view.jpg?exp=10800"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.83713056,
-          35.037677
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "local",
         "trend_word": "イトマキヒトデ人気投票　魚津水族館、富山湾の６匹が参加(北日本新聞)",
         "name": "魚津水族館前交差点",
         "address": "",
@@ -119,26 +59,6 @@
         "coordinates": [
           137.387595,
           36.7993589
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "local",
-        "trend_word": "大阪・通天閣と満月の「競演」　なにわの夜空見上げる観光客ら(Yahoo!ニュース オリジナル THE PAGE)",
-        "name": "ローソン通天閣南店",
-        "address": "",
-        "reason": "象徴的なランドマークと満月の共演は、特別な体験として魅力的に映るため。",
-        "date": "2026-06-01",
-        "link": "https://news.yahoo.co.jp/articles/3d5f6244001266fab5889066cdd2a7aefc3809e2?source=rss",
-        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260531-00010000-wordleafv-000-3-view.jpg?exp=10800"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.5061658,
-          34.6519227
         ]
       }
     },
@@ -239,46 +159,6 @@
         "coordinates": [
           139.8746566,
           35.626016
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "local",
-        "trend_word": "6月6日、南部杜氏の里まつり　トークショー、抽選会も　道の駅石鳥谷　岩手・花巻(岩手日日新聞社)",
-        "name": "道の駅石鳥谷交差点",
-        "address": "",
-        "reason": "南部杜氏の里まつりの開催と、トークショー・抽選会といったイベント内容が魅力的だから",
-        "date": "2026-05-29",
-        "link": "https://news.yahoo.co.jp/articles/b12152c929c633b6d5cdeba4d1c5327bc68d3c6d?source=rss",
-        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          141.140705,
-          39.4825152
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "local",
-        "trend_word": "製本の技で町おこし　大山にオリジナル御朱印帳　１級技能士・山崎さんが手がける　鳥取県大山町(山陰中央新報)",
-        "name": "大山町役場",
-        "address": "",
-        "reason": "地域色豊かなオリジナル御朱印帳で、訪れる価値がある。",
-        "date": "2026-05-29",
-        "link": "https://news.yahoo.co.jp/articles/10edc6ebd297d286036b4d987775aefbcc973006?source=rss",
-        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260529-00000001-saninchuo-000-1-view.jpg?exp=10800"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          133.4961143,
-          35.5107365
         ]
       }
     },

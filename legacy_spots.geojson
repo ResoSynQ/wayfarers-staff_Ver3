@@ -86,7 +86,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://prtimes.jp/main/html/rd/p/000000075.000068158.html",
-        "image_url": "https://prcdn.freetls.fastly.net/release_image/68158/75/68158-75-07b09b245f51637a106b1437bf3aeb36-3900x2925.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -2366,7 +2366,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DY1C6b0k470/",
-        "image_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/706054493_18105986611845533_3118488150264818427_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=mRdIgjScI5MQ7kNvwF5Aism&_nc_oc=Adp8JLmkDSbYD5MM7w8sETKYvCtp28aZcA9ZsDYN52zpoB03tjKJbp4-TmIusLwP75w&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=BuJDPXtfi41bIl3mxjy2Ww&_nc_ss=7fa02&oh=00_Af_ie0OBGl6I4OITU-EEMow11XH2hGuhd1rQvVyiaHvpPQ&oe=6A269745"
+        "image_url": "https://scontent-sea1-1.cdninstagram.com/v/t51.82787-15/706054493_18105986611845533_3118488150264818427_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=mRdIgjScI5MQ7kNvwG5Oy2M&_nc_oc=Ado9Lz4N5Fgh0-UqelmeQcXTF_PJ6E03Ih8Zk90naUdGfk4TX2lp6Mf8Ul8OxwkqGy0&_nc_zt=23&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=twHuBH8ZC_7WFAULqKtwMg&_nc_ss=7f60f&oh=00_Af9G2TtxCZjFMFlm3o1SlG1TlQ13JgREXCWowqWVZbgFTQ&oe=6A26CF85"
       },
       "geometry": {
         "type": "Point",
@@ -2449,6 +2449,25 @@
         "coordinates": [
           139.7302103,
           35.67459209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）いのちの未来＋ が東京・高輪で開催！",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【いのちの未来＋ が東京・高輪で開催！】</b><br>📅 期間: 2026/07/25 ～ 2026/09/25<br>📝 大阪・関西万博で話題となった、石黒浩氏によるシグネチャーパビリオン「いのちの未来」が、東京・高輪で企画展示「いのちの未来＋」として開催されます！万博で描かれた50年後の物語に加え、新たに いのちの未来の選択について のシナリオも追加。アンドロイドとの対話体験やグッズ販売、来場者特典も予定されており、万博の感動を東京でもう一度体験できるレガシー展示です。\r\n\r\n開催期間は2026年7月25日〜9月25日。30分ごとの日時指定制で、第1期は6月12日からチケット販売開始予定とのこと！<br><br><a href='https://news.yahoo.co.jp/articles/b714866bb0c4930ae1e425749b07a48560237628' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://news.yahoo.co.jp/articles/b714866bb0c4930ae1e425749b07a48560237628",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260604-00000009-imptrw-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7398603,
+          35.63575782
         ]
       }
     }
