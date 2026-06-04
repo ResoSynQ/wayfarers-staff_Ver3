@@ -219,7 +219,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.chion-in.or.jp/news/6406/",
-        "image_url": "https://www.chion-in.or.jp/wp/wp-content/uploads//2025/10/上段-1-300x241.jpg?1761812847"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -1264,7 +1264,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/nauruya_higashiosaka/",
-        "image_url": ""
+        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
       },
       "geometry": {
         "type": "Point",
@@ -2366,7 +2366,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DY1C6b0k470/",
-        "image_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/706054493_18105986611845533_3118488150264818427_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=mRdIgjScI5MQ7kNvwHuqDEs&_nc_oc=AdrYhaRN5MS2A4v2Polfijz0HdV-OEDliPc06o3HQT751fKo3WELgvq19iRITVl4xJY&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=dm8wTq3xvDhZe66afp-ggQ&_nc_ss=7f60f&oh=00_Af82wbPv8ch3axOZBom7wmUAu6goHaJ8t1qxNMGPuJOY9A&oe=6A2707C5"
+        "image_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/706054493_18105986611845533_3118488150264818427_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=mRdIgjScI5MQ7kNvwG3kz_5&_nc_oc=Adp396UWQRsTZIYVW7bjKOh1z0KAvlXD7756mpCSRkIA4q-VmeMnYp3GIo-adcbpTo8&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=srHnPOopKQ-L2Kk81lwvyw&_nc_ss=7f60f&oh=00_Af-mv2Z2rm6PaYBgdyR46fw1eCHfmzdztw4vE_BkRxiQKQ&oe=6A2707C5"
       },
       "geometry": {
         "type": "Point",
@@ -2506,6 +2506,25 @@
         "coordinates": [
           135.490461,
           34.69254762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）【期間限定】EXPO2025公式ポップアップストア　高島屋大阪店",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【【期間限定】EXPO2025公式ポップアップストア　高島屋大阪店】</b><br>📅 期間: 2026/06/10 ～ 2026/06/22<br>📝 2026年1月の開催で大好評を博したEXPO2025オフィシャルポップアップストアが、6月10日(水)〜22日(月)に高島屋大阪店で再びオープンします。<br><br><a href='https://www.takashimaya.co.jp/osaka/topics/10_1_20260508140607/?category=event#contents' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": true,
+        "isKomyaku": false,
+        "link": "https://www.takashimaya.co.jp/osaka/topics/10_1_20260508140607/?category=event#contents",
+        "image_url": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5012204,
+          34.6647986
         ]
       }
     }
