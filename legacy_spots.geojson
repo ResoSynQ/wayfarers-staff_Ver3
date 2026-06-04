@@ -542,7 +542,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.ritsumei.ac.jp/news/detail/?id=4449",
-        "image_url": "https://www.ritsumei.ac.jp/image.jsp?id=691608"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -1359,7 +1359,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://prtimes.jp/main/html/rd/p/000000087.000134299.html",
-        "image_url": ""
+        "image_url": "https://prcdn.freetls.fastly.net/release_image/134299/87/134299-87-d6c8c3bfbaf5b08c5bc643a99aa662de-920x450.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
       },
       "geometry": {
         "type": "Point",
@@ -2366,7 +2366,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DY1C6b0k470/",
-        "image_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/706054493_18105986611845533_3118488150264818427_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=mRdIgjScI5MQ7kNvwEuv3Cd&_nc_oc=AdolZ7x_hp3dOrUS9OsYQDNuJszUp_8bIieHEvgEuDQMm8IY-nBxy6sYrIR0Hgic8pU&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=ddl2ZT98AZw8ueIlaeh2Lg&_nc_ss=7f60f&oh=00_Af8Lx8wvyIn_V-YKeHqHLjehXNxAPl1ctOeKslLg1dx_2w&oe=6A26CF85"
+        "image_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/706054493_18105986611845533_3118488150264818427_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=mRdIgjScI5MQ7kNvwHuqDEs&_nc_oc=AdrYhaRN5MS2A4v2Polfijz0HdV-OEDliPc06o3HQT751fKo3WELgvq19iRITVl4xJY&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=dm8wTq3xvDhZe66afp-ggQ&_nc_ss=7f60f&oh=00_Af82wbPv8ch3axOZBom7wmUAu6goHaJ8t1qxNMGPuJOY9A&oe=6A2707C5"
       },
       "geometry": {
         "type": "Point",
@@ -2487,6 +2487,25 @@
         "coordinates": [
           135.5887426,
           34.73527778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "中之島クロスでDotHealth カラダ測定サービスが提供開始！",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【中之島クロスでDotHealth カラダ測定サービスが提供開始！】</b><br>📅 期間: 2026/05/28 ～ 常設<br>📝 大阪・関西万博の会期中、大阪ヘルスケアパビリオンに設置され、予約が取れないほど多くの利用者でにぎわった「カラダ測定ポッド」が、5/28より万博レガシーを継承する未来医療拠点・中之島クロスにも設置されました。\r\n\r\n「DotHealth カラダ測定サービス」では、脳、心血管、髪、筋骨格、肌、歯などの測定結果を確認でき、自分の健康をより身近に感じられる内容となっています。<br><br><a href='https://prtimes.jp/main/html/rd/p/000001162.000008062.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://prtimes.jp/main/html/rd/p/000001162.000008062.html",
+        "image_url": "https://prcdn.freetls.fastly.net/release_image/8062/1162/8062-1162-3fbd5a5d227085c4d48b586de1f55f12-1200x630.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.490461,
+          34.69254762
         ]
       }
     }
