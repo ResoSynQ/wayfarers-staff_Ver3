@@ -86,7 +86,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://prtimes.jp/main/html/rd/p/000000075.000068158.html",
-        "image_url": ""
+        "image_url": "https://prcdn.freetls.fastly.net/release_image/68158/75/68158-75-07b09b245f51637a106b1437bf3aeb36-3900x2925.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
       },
       "geometry": {
         "type": "Point",
@@ -1264,7 +1264,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/nauruya_higashiosaka/",
-        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -1359,7 +1359,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://prtimes.jp/main/html/rd/p/000000087.000134299.html",
-        "image_url": "https://prcdn.freetls.fastly.net/release_image/134299/87/134299-87-d6c8c3bfbaf5b08c5bc643a99aa662de-920x450.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -2366,7 +2366,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DY1C6b0k470/",
-        "image_url": "https://scontent-sea1-1.cdninstagram.com/v/t51.82787-15/706054493_18105986611845533_3118488150264818427_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=mRdIgjScI5MQ7kNvwG5Oy2M&_nc_oc=Ado9Lz4N5Fgh0-UqelmeQcXTF_PJ6E03Ih8Zk90naUdGfk4TX2lp6Mf8Ul8OxwkqGy0&_nc_zt=23&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=twHuBH8ZC_7WFAULqKtwMg&_nc_ss=7f60f&oh=00_Af9G2TtxCZjFMFlm3o1SlG1TlQ13JgREXCWowqWVZbgFTQ&oe=6A26CF85"
+        "image_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/706054493_18105986611845533_3118488150264818427_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=mRdIgjScI5MQ7kNvwEuv3Cd&_nc_oc=AdolZ7x_hp3dOrUS9OsYQDNuJszUp_8bIieHEvgEuDQMm8IY-nBxy6sYrIR0Hgic8pU&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=ddl2ZT98AZw8ueIlaeh2Lg&_nc_ss=7f60f&oh=00_Af8Lx8wvyIn_V-YKeHqHLjehXNxAPl1ctOeKslLg1dx_2w&oe=6A26CF85"
       },
       "geometry": {
         "type": "Point",
@@ -2461,13 +2461,32 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://news.yahoo.co.jp/articles/b714866bb0c4930ae1e425749b07a48560237628",
-        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260604-00000009-imptrw-000-1-view.jpg?exp=10800"
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260604-00000009-imptrw-000-2-view.jpg?exp=10800"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           139.7398603,
           35.63575782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）株式会社海洋堂　ミャクミャクのカプセルフィギュアにモノクロカラーが登場！",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【株式会社海洋堂　ミャクミャクのカプセルフィギュアにモノクロカラーが登場！】</b><br>📅 期間: 2026/10/01 ～ （予定）<br>📝 大阪・関西万博公式キャラクター「ミャクミャク」の手のひらサイズのカプセルフィギュアに、モノクロカラーが追加されて再登場するとのこと！価格は1回400円（税込）で、全12種。<br><br><a href='https://x.com/kaiyodo_PR/status/2062368756530348433' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": true,
+        "isKomyaku": false,
+        "link": "https://x.com/kaiyodo_PR/status/2062368756530348433",
+        "image_url": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5887426,
+          34.73527778
         ]
       }
     }
