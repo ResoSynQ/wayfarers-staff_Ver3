@@ -1264,7 +1264,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/nauruya_higashiosaka/",
-        "image_url": ""
+        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
       },
       "geometry": {
         "type": "Point",
@@ -2366,7 +2366,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DY1C6b0k470/",
-        "image_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/706054493_18105986611845533_3118488150264818427_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=2vrjup2TDqsQ7kNvwEg-pEW&_nc_oc=Adr_20hdHp3bhUexwaVC7Rgojy6mgK_77Se35FxQzwAQasQObhuf8KVAVf90PMZJwJw&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=gVw8T83scDqNiwmzVTsgeg&_nc_ss=7fa02&oh=00_Af-RGcAuJE65NrtbdqKNc_ZJTifLChcpuRvT7apOHX-_-A&oe=6A29AAC5"
+        "image_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/706054493_18105986611845533_3118488150264818427_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=2vrjup2TDqsQ7kNvwGkSu8L&_nc_oc=Adq73KUDvJg_yeX69NhV9tlMYZl9llE6M-tyfZU084MUP5AUQLjUuX13GP8c14rDX6Y&_nc_zt=23&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_gid=TAmre71MYi1iJRQXuDB1_w&_nc_ss=7fa02&oh=00_Af9b4-7r1IJfmEsaHWQBU88B4f-Hqn_aw1gs5HyXdjkCTA&oe=6A29AAC5"
       },
       "geometry": {
         "type": "Point",
@@ -2544,6 +2544,25 @@
         "coordinates": [
           133.0326905,
           33.96948839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）万博の記憶を一冊に！万博写真集の窓口販売が大阪府庁でスタート！",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【万博の記憶を一冊に！万博写真集の窓口販売が大阪府庁でスタート！】</b><br>📅 期間: 2026/06/08 ～ 2026/06/12<br>📝 大阪・関西万博の思い出を振り返ることができる「万博写真集」の窓口販売が、2026年6月8日（月）から大阪府庁本館1階で始まります。\n\n6月8日（月）〜12日（金）は府政情報室 会議室で、6月15日（月）以降は府政情報センターで販売予定。販売時間はいずれも午後1時〜午後5時で、土日祝は除くとのことです。\n\n購入はおひとり一冊まで、窓口販売は現金のみ。販売開始直後は混雑が予想され、屋外で並ぶ場合もあるため、帽子の着用やこまめな水分補給など、熱中症対策も忘れずにチェックしたいところです。\n\n万博の感動を写真で振り返れる、手元に残る万博レガシーです。<br><br><a href='https://www.pref.osaka.lg.jp/o020060/bampaku_syashinsyu.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": true,
+        "isKomyaku": false,
+        "link": "https://www.pref.osaka.lg.jp/o020060/bampaku_syashinsyu.html",
+        "image_url": "https://www.pref.osaka.lg.jp/shared/images/sns/logo.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5193475,
+          34.68656602
         ]
       }
     }
