@@ -219,7 +219,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.chion-in.or.jp/news/6406/",
-        "image_url": ""
+        "image_url": "https://www.chion-in.or.jp/wp/wp-content/uploads//2025/10/上段-1-300x241.jpg?1761812847"
       },
       "geometry": {
         "type": "Point",
@@ -1169,7 +1169,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.osakametro.co.jp/news/news/other/20260421_kibounopiano.php",
-        "image_url": "https://www.osakametro.co.jp/common_all/img/og_image.png"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -1429,8 +1429,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "（予定）なでしこジャパンVS南アフリカ女子代表　ミャクミャク\n来場",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【なでしこジャパンVS南アフリカ女子代表　ミャクミャク\n来場】</b><br>📅 期間: 2026/06/06 ～ 2026/06/06<br>📝 なでしこジャパンの試合に、スペシャルゲストとして大阪・関西万博キャラクター　ミャクミャク\nの来場が決定！<br><br><a href='https://jfa.jp/nadeshikojapan/lp/20260606/?utm_source=x&utm_medium=sns&utm_campaign=NJ20260606_x_sns_nadeshikox_myaku' target='_blank'>🔗 詳細を開く</a>",
+        "name": "なでしこジャパンVS南アフリカ女子代表　ミャクミャク\n来場",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【なでしこジャパンVS南アフリカ女子代表　ミャクミャク\n来場】</b><br>📅 期間: 2026/06/06 ～ 2026/06/06<br>📝 なでしこジャパンの試合に、スペシャルゲストとして大阪・関西万博キャラクター　ミャクミャク\nの来場が決定！<br><br><a href='https://jfa.jp/nadeshikojapan/lp/20260606/?utm_source=x&utm_medium=sns&utm_campaign=NJ20260606_x_sns_nadeshikox_myaku' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false,
         "isKomyaku": false,
@@ -1524,8 +1524,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "（予定）【OSAKA BAY SKYLUMINA】",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【【OSAKA BAY SKYLUMINA】】</b><br>📅 期間: 2026/06/06 ～ 2026/06/06<br>📝 万博のレガシーを次世代へつなぐフューチャーナイトエンターテインメント「OSAKA BAY SKYLUMINA」が舞洲スポーツアイランドで開催！1万発の花火と1,500機のドローンが海と空のひらける圧倒的なロケーションを彩ります。全席有料。<br><br><a href='https://skylumina.jp/' target='_blank'>🔗 詳細を開く</a>",
+        "name": "【OSAKA BAY SKYLUMINA】",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【【OSAKA BAY SKYLUMINA】】</b><br>📅 期間: 2026/06/06 ～ 2026/06/06<br>📝 万博のレガシーを次世代へつなぐフューチャーナイトエンターテインメント「OSAKA BAY SKYLUMINA」が舞洲スポーツアイランドで開催！1万発の花火と1,500機のドローンが海と空のひらける圧倒的なロケーションを彩ります。全席有料。<br><br><a href='https://skylumina.jp/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false,
         "isKomyaku": false,
@@ -2360,13 +2360,13 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "（予定）万博の続きを“食”で楽しむ！EXPO FOOD PASSPORTのスタンプ帳の先行販売！泉南ロングパークのコモンズフェスティバル会場",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【万博の続きを“食”で楽しむ！EXPO FOOD PASSPORTのスタンプ帳の先行販売！泉南ロングパークのコモンズフェスティバル会場】</b><br>📅 期間: 2026/06/06 ～ 2026/06/08<br>📝 大阪で世界の料理をめぐるグルメスタンプラリー「EXPO FOOD PASSPORT」が始まります。全12店舗を巡ってスタンプを集めながら、万博で感じた“世界と出会う楽しさ”を、今度は食で味わえるアフター万博企画です。泉南ロングパークのコモンズフェスティバル会場にて、6/6(土)〜6/8(月)の3日間限定で先行販売予定。価格は300円（税込）で、開催期間中の販売価格400円（税込）より少しお得に入手できるとのこと！<br><br><a href='https://www.instagram.com/p/DY1C6b0k470/' target='_blank'>🔗 詳細を開く</a>",
+        "name": "万博の続きを“食”で楽しむ！EXPO FOOD PASSPORTのスタンプ帳の先行販売！泉南ロングパークのコモンズフェスティバル会場",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【万博の続きを“食”で楽しむ！EXPO FOOD PASSPORTのスタンプ帳の先行販売！泉南ロングパークのコモンズフェスティバル会場】</b><br>📅 期間: 2026/06/06 ～ 2026/06/08<br>📝 大阪で世界の料理をめぐるグルメスタンプラリー「EXPO FOOD PASSPORT」が始まります。全12店舗を巡ってスタンプを集めながら、万博で感じた“世界と出会う楽しさ”を、今度は食で味わえるアフター万博企画です。泉南ロングパークのコモンズフェスティバル会場にて、6/6(土)〜6/8(月)の3日間限定で先行販売予定。価格は300円（税込）で、開催期間中の販売価格400円（税込）より少しお得に入手できるとのこと！<br><br><a href='https://www.instagram.com/p/DY1C6b0k470/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DY1C6b0k470/",
-        "image_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/706054493_18105986611845533_3118488150264818427_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=2vrjup2TDqsQ7kNvwH4fR4v&_nc_oc=AdoG-fCNfKTj4yEjOFET181HoO2g2dVKUs74o24eF5pWfA0uZYDt3fqDzVjNPmpv7YI&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=YbR42bbztyToRtjFNJ3Wpg&_nc_ss=7fa02&oh=00_Af9McE-UuEq9cDGNpO-xzU15cylhzESJcQb6EI_8DVKCDg&oe=6A293A45"
+        "image_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/706054493_18105986611845533_3118488150264818427_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=2vrjup2TDqsQ7kNvwEg-pEW&_nc_oc=Adr_20hdHp3bhUexwaVC7Rgojy6mgK_77Se35FxQzwAQasQObhuf8KVAVf90PMZJwJw&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=gVw8T83scDqNiwmzVTsgeg&_nc_ss=7fa02&oh=00_Af-RGcAuJE65NrtbdqKNc_ZJTifLChcpuRvT7apOHX-_-A&oe=6A29AAC5"
       },
       "geometry": {
         "type": "Point",
