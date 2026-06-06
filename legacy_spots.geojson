@@ -2366,7 +2366,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DY1C6b0k470/",
-        "image_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/706054493_18105986611845533_3118488150264818427_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=2vrjup2TDqsQ7kNvwGkSu8L&_nc_oc=Adq73KUDvJg_yeX69NhV9tlMYZl9llE6M-tyfZU084MUP5AUQLjUuX13GP8c14rDX6Y&_nc_zt=23&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_gid=TAmre71MYi1iJRQXuDB1_w&_nc_ss=7fa02&oh=00_Af9b4-7r1IJfmEsaHWQBU88B4f-Hqn_aw1gs5HyXdjkCTA&oe=6A29AAC5"
+        "image_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/706054493_18105986611845533_3118488150264818427_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=2vrjup2TDqsQ7kNvwEYtzeX&_nc_oc=AdpVG74lEcbsZ2ie5z5yHCNXP6ql9fEhp_XtSjb5vV4klDPpHViL5sxl802rEtOzLjk&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=ngE9eJ8NVf0kbLyPIdOXWA&_nc_ss=7fa02&oh=00_Af-salflHAxPwHao3dukipN7SC-gbJgs_ZUsFIN2RiNzMQ&oe=6A29AAC5"
       },
       "geometry": {
         "type": "Point",
@@ -2563,6 +2563,25 @@
         "coordinates": [
           135.5193475,
           34.68656602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ミャクミャクモニュメント「ワクワク」",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ミャクミャクモニュメント「ワクワク」】</b><br>📅 期間: 2026/06/06 ～ 2026/08/31<br>📝 SENNAN LONG PARKに、ミャクミャクモニュメント「ワクワク」が登場します！\n設置期間は6/6(土)〜8/31(月)予定。<br><br><a href='https://sennanlongpark.com/?xo_event=2026%E5%B9%B46%E6%9C%886%E6%97%A5%E5%9C%9F%EF%BC%89%EF%BD%9E8%E6%9C%8831%E6%97%A5%E6%9C%88-sennanlongpark%E3%81%AB%E3%83%9F%E3%83%A3%E3%82%AF%E3%83%9F%E3%83%A3%E3%82%AF%E3%81%8C%E3%82%84%E3%81%A3' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://sennanlongpark.com/?xo_event=2026%E5%B9%B46%E6%9C%886%E6%97%A5%E5%9C%9F%EF%BC%89%EF%BD%9E8%E6%9C%8831%E6%97%A5%E6%9C%88-sennanlongpark%E3%81%AB%E3%83%9F%E3%83%A3%E3%82%AF%E3%83%9F%E3%83%A3%E3%82%AF%E3%81%8C%E3%82%84%E3%81%A3",
+        "image_url": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.2618183,
+          34.37932282
         ]
       }
     }
