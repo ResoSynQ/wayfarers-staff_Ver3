@@ -2,7 +2,67 @@
   "type": "FeatureCollection",
   "approval_status": "OK",
   "features": [
-        {
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "【特集】「月面でサツマイモは作れるのか」プロジェクト　鳥取大学農学部でこの春からスタート　鳥取砂丘の砂を使った実験や重力が弱い中でもツルや根が生育するのか検証　宇宙への挑戦が始まる　鳥取県(日本海テレビ)",
+        "name": "鳥取大学　農学部",
+        "address": "",
+        "reason": "宇宙食への期待とユニークな実験内容が興味を引くため",
+        "date": "2026-06-07",
+        "link": "https://news.yahoo.co.jp/articles/d0518e311655b954046e32835a49c48bd5ed60e5?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260607-08236112-nkt-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.1743575,
+          35.516362222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "大臣賞に石井さん（南無谷枇杷組合）の「大房」　4年に一度の県びわ共進会　南房総（千葉県）(房日新聞)",
+        "name": "南房総市役所",
+        "address": "",
+        "reason": "特産品のびわの品評会で最優秀賞に選ばれた出品物に興味をそそられるため",
+        "date": "2026-06-07",
+        "link": "https://news.yahoo.co.jp/articles/dcf2ac3a70868f22773b9fc315e4ff3d62e2dde6?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260607-00010001-bonichi-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8401274,
+          35.0429901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "【桜坂劇場・下地久美子の映画コレ見た？】『スカーフェイス　4K　日本最終上映』飽くなき欲望　男の末路(沖縄タイムス)",
+        "name": "桜坂劇場",
+        "address": "",
+        "reason": "沖縄で「スカーフェイス 4K 日本最終上映」を体験できる貴重な機会であり、映画ファンならずとも興味を引く内容だから。",
+        "date": "2026-06-07",
+        "link": "https://news.yahoo.co.jp/articles/8530cb907e83b841a758392874253809a3fc1220?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260607-01852343-okinawat-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.6901384,
+          26.2147706
+        ]
+      }
+    },
+    {
       "type": "Feature",
       "properties": {
         "category": "local",
