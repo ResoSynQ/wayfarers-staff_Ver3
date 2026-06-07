@@ -6,6 +6,46 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "平和と幸せ祈願　奈良県安堵町の極楽寺　30年ぶり再建「不動堂」で落慶法要(奈良新聞デジタル)",
+        "name": "極楽寺",
+        "address": "",
+        "reason": "30年ぶりの落慶法要という特別な機会と、祈願の場としての魅力",
+        "date": "2026-06-08",
+        "link": "https://news.yahoo.co.jp/articles/335c9e37b1dc701200d265b99fe07f54e8188667?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260608-00000001-naranp-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.75813933,
+          34.60370189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "平塚発「万能」トマトソース　地場のサバとトマト使用、異業種連携第４弾(カナロコ by 神奈川新聞)",
+        "name": "平塚市役所",
+        "address": "",
+        "reason": "地域特産品を使ったユニークな商品開発",
+        "date": "2026-06-08",
+        "link": "https://news.yahoo.co.jp/articles/ffb6f98858bcf7f266390b790d1439a78e15f8e8?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260608-01278384-kana-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.349476,
+          35.3351096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "【特集】「月面でサツマイモは作れるのか」プロジェクト　鳥取大学農学部でこの春からスタート　鳥取砂丘の砂を使った実験や重力が弱い中でもツルや根が生育するのか検証　宇宙への挑戦が始まる　鳥取県(日本海テレビ)",
         "name": "鳥取大学　農学部",
         "address": "",
