@@ -2366,7 +2366,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DY1C6b0k470/",
-        "image_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/706054493_18105986611845533_3118488150264818427_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=2vrjup2TDqsQ7kNvwFoc2TT&_nc_oc=Adr-pXZgmbJ93tnnG6d8KcTj_3cAcK0gByRJZmNoxOijktJYtCH8ey0L9S1wyyQqDDE&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=37AeIgeo45PEpjPDIpG5_w&_nc_ss=7fa02&oh=00_Af91_0xn9-ftxhcO20foQWy2cX9QhTyaOennxT9WvXuFRg&oe=6A2AC405"
+        "image_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/706054493_18105986611845533_3118488150264818427_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=2vrjup2TDqsQ7kNvwFwivmu&_nc_oc=AdrteqZ9XILhZvhaxSPf61Hu9sMObQb1fVlyQjZZEoIvwdnOy5ifvt-y4kT4ziukpT4&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=9IgEhhvqPcHQythS5-2kJg&_nc_ss=7f60f&oh=00_Af88NZ_ldzVLL5Ofgu7V0ewi8aMvu9jTqIMeH-hJMg6QnQ&oe=6A2AFC45"
       },
       "geometry": {
         "type": "Point",
@@ -2494,7 +2494,7 @@
       "type": "Feature",
       "properties": {
         "name": "中之島クロスでDotHealth カラダ測定サービスが提供開始！",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【中之島クロスでDotHealth カラダ測定サービスが提供開始！】</b><br>📅 期間: 2026/05/28 ～ 常設<br>📝 大阪・関西万博の会期中、大阪ヘルスケアパビリオンに設置され、予約が取れないほど多くの利用者でにぎわった「カラダ測定ポッド」が、5/28より万博レガシーを継承する未来医療拠点・中之島クロスにも設置されました。\r\n\r\n「DotHealth カラダ測定サービス」では、脳、心血管、髪、筋骨格、肌、歯などの測定結果を確認でき、自分の健康をより身近に感じられる内容となっています。<br><br><a href='https://prtimes.jp/main/html/rd/p/000001162.000008062.html' target='_blank'>🔗 詳細を開く</a>",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【中之島クロスでDotHealth カラダ測定サービスが提供開始！】</b><br>📅 期間: 2026/05/28 ～ 常設<br>📝 大阪・関西万博の会期中、大阪ヘルスケアパビリオンに設置され、予約が取れないほど多くの利用者でにぎわった「カラダ測定ポッド」が、5/28より万博レガシーを継承する未来医療拠点・中之島クロスにも設置されました。\n\n「DotHealth カラダ測定サービス」では、脳、心血管、髪、筋骨格、肌、歯などの測定結果を確認でき、自分の健康をより身近に感じられる内容となっています。<br><br><a href='https://prtimes.jp/main/html/rd/p/000001162.000008062.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false,
         "isKomyaku": false,
@@ -2601,6 +2601,82 @@
         "coordinates": [
           135.3868918,
           34.65041226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DotHealth OSAKA　大阪駅：中央コンコース",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【DotHealth OSAKA　大阪駅：中央コンコース】</b><br>📅 期間: 常設 / 時期----<br>📝 DotHealthは、これまで特別な場所でしか触れにくかったヘルスケアとの接点を、駅ナカなど毎日の動線上につくるプロジェクト。数分で肌年齢や内臓脂肪、脳健康度などを含む健康データを測定でき、自分のカラダの状態を日常の中で記録していくことができます。<br><br><a href='https://dot-health.net/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://dot-health.net/",
+        "image_url": "https://dot-health.net/ogp.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4959432,
+          34.70252875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DotHealth OSAKA　天王寺駅：阪和線こ線橋 1・2番線階段付近（改札内）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【DotHealth OSAKA　天王寺駅：阪和線こ線橋 1・2番線階段付近（改札内）】</b><br>📅 期間: 常設 / 時期----<br>📝 DotHealthは、これまで特別な場所でしか触れにくかったヘルスケアとの接点を、駅ナカなど毎日の動線上につくるプロジェクト。数分で肌年齢や内臓脂肪、脳健康度などを含む健康データを測定でき、自分のカラダの状態を日常の中で記録していくことができます。<br><br><a href='https://dot-health.net/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://dot-health.net/",
+        "image_url": "https://dot-health.net/ogp.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5138805,
+          34.64738436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DotHealth OSAKA　岸辺駅：改札口外",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【DotHealth OSAKA　岸辺駅：改札口外】</b><br>📅 期間: 常設 / 時期----<br>📝 DotHealthは、これまで特別な場所でしか触れにくかったヘルスケアとの接点を、駅ナカなど毎日の動線上につくるプロジェクト。数分で肌年齢や内臓脂肪、脳健康度などを含む健康データを測定でき、自分のカラダの状態を日常の中で記録していくことができます。<br><br><a href='https://dot-health.net/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://dot-health.net/",
+        "image_url": "https://dot-health.net/ogp.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5416035,
+          34.77724916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DotHealth OSAKA日本橋室町三井タワー地下1階",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【DotHealth OSAKA日本橋室町三井タワー地下1階】</b><br>📅 期間: 常設 / 時期----<br>📝 DotHealthは、これまで特別な場所でしか触れにくかったヘルスケアとの接点を、駅ナカなど毎日の動線上につくるプロジェクト。数分で肌年齢や内臓脂肪、脳健康度などを含む健康データを測定でき、自分のカラダの状態を日常の中で記録していくことができます。<br><br><a href='https://dot-health.net/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://dot-health.net/",
+        "image_url": "https://dot-health.net/ogp.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7725723,
+          35.68781345
         ]
       }
     }
