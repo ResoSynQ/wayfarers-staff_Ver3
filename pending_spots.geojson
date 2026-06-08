@@ -6,6 +6,26 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "パワー満点!　アメリカ軍三沢基地が主催する「ボディービル」のアマチュア大会がおよそ四半世紀ぶりに開催!　会場が熱気に包まれる(ＡＴＶ青森テレビ)",
+        "name": "航空自衛隊三沢基地",
+        "address": "",
+        "reason": "四半世紀ぶりの熱気あふれるイベントに興味をそそられるから",
+        "date": "2026-06-09",
+        "link": "https://news.yahoo.co.jp/articles/afd5fd2927b4a1827dc42d285821c5749df1e58f?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260609-22718214-atv-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.374572,
+          40.6988151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "平和と幸せ祈願　奈良県安堵町の極楽寺　30年ぶり再建「不動堂」で落慶法要(奈良新聞デジタル)",
         "name": "極楽寺",
         "address": "",

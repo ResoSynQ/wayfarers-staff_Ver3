@@ -1163,44 +1163,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "万博レガシー「希望のピアノ」in 御堂筋・本町(期間限定)",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【万博レガシー「希望のピアノ」in 御堂筋・本町(期間限定)】</b><br>📅 期間: 2026/4/29 ～ 2026/6/5<br>📝 万博シグネチャーパビリオン「いのちの遊び場 クラゲ館」で愛された「希望のピアノ」が、Osaka Metro 本町ビルに期間限定で登場！どなたでも自由に演奏いただけるストリートピアノとして一般開放されています！\r\n\r\n演奏できる日（5月の金・土のみ）\r\n\r\n5/15(金)・16(土)\r\n\r\n5/22(金)・23(土)\r\n\r\n5/29(金)・30(土)\r\n\r\n時間： 金曜(17:00-20:00) / 土曜(13:00-18:00)\r\n\r\nオフィス街にやってきた貴重な万博レガシーを皆で大切に守るため、騒音（アンプ・歌唱）や営利目的（ライブ配信・投げ銭）の利用は避け、やさしいタッチで、1回10分（混雑時は5分）を目安に譲り合ってお楽しみください。詳しい禁止事項等はURL先のページをご確認ください。\r<br><br><a href='https://www.osakametro.co.jp/news/news/other/20260421_kibounopiano.php' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://www.osakametro.co.jp/news/news/other/20260421_kibounopiano.php",
-        "image_url": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.5009646,
-          34.68305127
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "JAPAN FIREWORKS EXPO 2026 in Osaka – Nishikinohama",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【JAPAN FIREWORKS EXPO 2026 in Osaka – Nishikinohama】</b><br>📅 期間: 2026/06/07 ～ 2026/06/07<br>📝 大阪・関西万博の感動を未来へつなぐ花火イベント「JAPAN FIREWORKS EXPO 2026 in Osaka – Nishikinohama」が開催！\n万博の開幕日やスペシャル花火を手がけた「ワキノアートファクトリー」が打ち上げを担当。大阪・関西万博でも打ち上げられた尺玉（10号玉）を含むプログラムや、万博に縁のある楽曲を使用したミュージックスターマインや、JAPAN FIREWORKS EXPO（JFE）ならではの特別なプログラムを準備しています。使用楽曲名の詳細は、本番当日までの秘密とのこと。（雨天決行・荒天中止の場合あり）<br><br><a href='https://prtimes.jp/main/html/rd/p/000000006.000176000.html' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://prtimes.jp/main/html/rd/p/000000006.000176000.html",
-        "image_url": "https://prcdn.freetls.fastly.net/release_image/176000/6/176000-6-3d27190c014c14b41de417ad62da0f13-1620x1182.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.3345437,
-          34.43801599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "大阪万博石黒館のアンドロイド",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【大阪万博石黒館のアンドロイド】</b><br>📅 期間: 2026/05/09 ～ ----<br>📝 大阪・関西万博のシグネチャーパビリオン「いのちの未来」で展示されていたアンドロイド計3体が東京都多摩市の「長谷工マンションミュージアム」に移設されました。<br><br><a href='https://www.nikkei.com/article/DGXZQOUC304D50Q6A430C2000000/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
@@ -1264,7 +1226,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/nauruya_higashiosaka/",
-        "image_url": ""
+        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
       },
       "geometry": {
         "type": "Point",
@@ -1410,44 +1372,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "マイドオオキニ大阪・関西万博缶",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【マイドオオキニ大阪・関西万博缶】</b><br>📅 期間: 2026/05/27 ～ 2026/06/02<br>📝 MVPスイーツ「 太陽ノ塔洋菓子店 POP UP 」場所：大丸東京店 1階 MVPスイーツ 個数制限：お一人様３個まで<br><br><a href='https://taiyounotou.com/%E3%82%81%E3%81%A3%E3%81%A1%E3%82%83%E3%83%9E%E3%82%A4%E3%83%89%E3%82%AA%E3%82%AA%E3%82%AD%E3%83%8B-%E5%A4%A7%E9%98%AA%E9%96%A2%E8%A5%BF%E4%B8%87%E5%8D%9A%E7%BC%B6/' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": true,
-        "isKomyaku": false,
-        "link": "https://taiyounotou.com/%E3%82%81%E3%81%A3%E3%81%A1%E3%82%83%E3%83%9E%E3%82%A4%E3%83%89%E3%82%AA%E3%82%AA%E3%82%AD%E3%83%8B-%E5%A4%A7%E9%98%AA%E9%96%A2%E8%A5%BF%E4%B8%87%E5%8D%9A%E7%BC%B6/",
-        "image_url": "https://taiyounotou.com/wp-content/uploads/2026/05/めっちゃマイドオオキニ缶_パターンC_1：1-02-scaled.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.7688255,
-          35.68176209
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "なでしこジャパンVS南アフリカ女子代表　ミャクミャク\n来場",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【なでしこジャパンVS南アフリカ女子代表　ミャクミャク\n来場】</b><br>📅 期間: 2026/06/06 ～ 2026/06/06<br>📝 なでしこジャパンの試合に、スペシャルゲストとして大阪・関西万博キャラクター　ミャクミャク\nの来場が決定！<br><br><a href='https://jfa.jp/nadeshikojapan/lp/20260606/?utm_source=x&utm_medium=sns&utm_campaign=NJ20260606_x_sns_nadeshikox_myaku' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://jfa.jp/nadeshikojapan/lp/20260606/?utm_source=x&utm_medium=sns&utm_campaign=NJ20260606_x_sns_nadeshikox_myaku",
-        "image_url": "https://www.jfa.jp/nadeshikojapan/lp/assets/images/20260606/ogp_1200-630_v2.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.5186119,
-          34.61420894
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "くら寿司　メモリアル店　なんば千日前",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【くら寿司　メモリアル店　なんば千日前】</b><br>📅 期間: 2026/05/14 ～ 常設<br>📝 大阪・関西万博店のレガシーを引き継いだメモリアル店舗<br><br><a href='https://www.agara.co.jp/article/616843' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
@@ -1518,25 +1442,6 @@
         "coordinates": [
           135.4930116,
           34.70623307
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "【OSAKA BAY SKYLUMINA】",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【【OSAKA BAY SKYLUMINA】】</b><br>📅 期間: 2026/06/06 ～ 2026/06/06<br>📝 万博のレガシーを次世代へつなぐフューチャーナイトエンターテインメント「OSAKA BAY SKYLUMINA」が舞洲スポーツアイランドで開催！1万発の花火と1,500機のドローンが海と空のひらける圧倒的なロケーションを彩ります。全席有料。<br><br><a href='https://skylumina.jp/' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://skylumina.jp/",
-        "image_url": "https://skylumina.jp/wp-content/themes/OsakaBaySkylumina/img/og_img.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.3951021,
-          34.66713407
         ]
       }
     },
@@ -2266,7 +2171,7 @@
       "type": "Feature",
       "properties": {
         "name": "シグネチャーパビリオン「いのちの未来」に登場した、ピアノを弾くアンドロイドロボット",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【シグネチャーパビリオン「いのちの未来」に登場した、ピアノを弾くアンドロイドロボット】</b><br>📅 期間: 常設 / 時期----<br>📝 大阪・関西万博のシグネチャーパビリオン「いのちの未来」に登場した、ピアノを弾くアンドロイドロボットです。人とロボットが共に生きる未来を描いたパビリオンの記憶を受け継ぐ展示として、グランフロント大阪北館2階「The Lab.」で公開されています。定期的に行われる演奏を通じて、万博で示された未来の世界観を再び体感できます。\r<br><br><a href='https://kc-i.jp/facilities/the-lab/active-lab/' target='_blank'>🔗 詳細を開く</a>",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【シグネチャーパビリオン「いのちの未来」に登場した、ピアノを弾くアンドロイドロボット】</b><br>📅 期間: 常設 / 時期----<br>📝 大阪・関西万博のシグネチャーパビリオン「いのちの未来」に登場した、ピアノを弾くアンドロイドロボットです。人とロボットが共に生きる未来を描いたパビリオンの記憶を受け継ぐ展示として、グランフロント大阪北館2階「The Lab.」で公開されています。定期的に行われる演奏を通じて、万博で示された未来の世界観を再び体感できます。\n<br><br><a href='https://kc-i.jp/facilities/the-lab/active-lab/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false,
         "isKomyaku": false,
@@ -2354,25 +2259,6 @@
         "coordinates": [
           135.5393503,
           34.68706212
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "万博の続きを“食”で楽しむ！EXPO FOOD PASSPORTのスタンプ帳の先行販売！泉南ロングパークのコモンズフェスティバル会場",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【万博の続きを“食”で楽しむ！EXPO FOOD PASSPORTのスタンプ帳の先行販売！泉南ロングパークのコモンズフェスティバル会場】</b><br>📅 期間: 2026/06/06 ～ 2026/06/08<br>📝 大阪で世界の料理をめぐるグルメスタンプラリー「EXPO FOOD PASSPORT」が始まります。全12店舗を巡ってスタンプを集めながら、万博で感じた“世界と出会う楽しさ”を、今度は食で味わえるアフター万博企画です。泉南ロングパークのコモンズフェスティバル会場にて、6/6(土)〜6/8(月)の3日間限定で先行販売予定。価格は300円（税込）で、開催期間中の販売価格400円（税込）より少しお得に入手できるとのこと！<br><br><a href='https://www.instagram.com/p/DY1C6b0k470/' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": true,
-        "isKomyaku": false,
-        "link": "https://www.instagram.com/p/DY1C6b0k470/",
-        "image_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/706054493_18105986611845533_3118488150264818427_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=FAC0ZDwX8eoQ7kNvwGz6HcB&_nc_oc=AdpTM2Vi-xBkny8Svz34DmhaiWWlLYgDiTfHx1G_i3y4Ns8-v91dESK5fq5zEPXNU9g&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=iGpG--HiXFHbwUvmplf9KA&_nc_ss=7fa02&oh=00_Af_6QoQMj8A6APwE6vXIRW0ICICAd15LjU4d18dnxZ2PiA&oe=6A2C4DC5"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.2617719,
-          34.37943688
         ]
       }
     },
