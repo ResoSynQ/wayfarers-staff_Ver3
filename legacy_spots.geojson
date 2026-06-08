@@ -219,7 +219,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.chion-in.or.jp/news/6406/",
-        "image_url": ""
+        "image_url": "https://www.chion-in.or.jp/wp/wp-content/uploads//2025/10/上段-1-300x241.jpg?1761812847"
       },
       "geometry": {
         "type": "Point",
@@ -1549,7 +1549,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://prtimes.jp/main/html/rd/p/000000024.000100006.html",
-        "image_url": ""
+        "image_url": "https://prcdn.freetls.fastly.net/release_image/100006/24/100006-24-ff86f25dd8ede17b93f1d94ae2d47f89-2500x1666.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
       },
       "geometry": {
         "type": "Point",
@@ -2366,7 +2366,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DY1C6b0k470/",
-        "image_url": "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/706054493_18105986611845533_3118488150264818427_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=2vrjup2TDqsQ7kNvwEV3__0&_nc_oc=AdqI-pZliJ9HR1Unrrt5ekONCWaeDF6zXRjS8oSTMLUWaGmNSBcLtlH6TA_S5o6uvdE&_nc_zt=23&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_gid=7m9E78SVX5BY-FGg3o_TXg&_nc_ss=7f60f&oh=00_Af-HiW0n3qXtMLcVG39D09pXN7qTOLFSp9i5FDNgc70z0w&oe=6A2BDD45"
+        "image_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/706054493_18105986611845533_3118488150264818427_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=FAC0ZDwX8eoQ7kNvwGz6HcB&_nc_oc=AdpTM2Vi-xBkny8Svz34DmhaiWWlLYgDiTfHx1G_i3y4Ns8-v91dESK5fq5zEPXNU9g&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=iGpG--HiXFHbwUvmplf9KA&_nc_ss=7fa02&oh=00_Af_6QoQMj8A6APwE6vXIRW0ICICAd15LjU4d18dnxZ2PiA&oe=6A2C4DC5"
       },
       "geometry": {
         "type": "Point",
@@ -2550,8 +2550,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "（予定）万博の記憶を一冊に！万博写真集の窓口販売が大阪府庁でスタート！",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【万博の記憶を一冊に！万博写真集の窓口販売が大阪府庁でスタート！】</b><br>📅 期間: 2026/06/08 ～ 2026/06/12<br>📝 大阪・関西万博の思い出を振り返ることができる「万博写真集」の窓口販売が、2026年6月8日（月）から大阪府庁本館1階で始まります。\n\n6月8日（月）〜12日（金）は府政情報室 会議室で、6月15日（月）以降は府政情報センターで販売予定。販売時間はいずれも午後1時〜午後5時で、土日祝は除くとのことです。\n\n購入はおひとり一冊まで、窓口販売は現金のみ。販売開始直後は混雑が予想され、屋外で並ぶ場合もあるため、帽子の着用やこまめな水分補給など、熱中症対策も忘れずにチェックしたいところです。\n\n万博の感動を写真で振り返れる、手元に残る万博レガシーです。<br><br><a href='https://www.pref.osaka.lg.jp/o020060/bampaku_syashinsyu.html' target='_blank'>🔗 詳細を開く</a>",
+        "name": "万博の記憶を一冊に！万博写真集の窓口販売が大阪府庁でスタート！",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【万博の記憶を一冊に！万博写真集の窓口販売が大阪府庁でスタート！】</b><br>📅 期間: 2026/06/08 ～ 2026/06/12<br>📝 大阪・関西万博の思い出を振り返ることができる「万博写真集」の窓口販売が、2026年6月8日（月）から大阪府庁本館1階で始まります。\n\n6月8日（月）〜12日（金）は府政情報室 会議室で、6月15日（月）以降は府政情報センターで販売予定。販売時間はいずれも午後1時〜午後5時で、土日祝は除くとのことです。\n\n購入はおひとり一冊まで、窓口販売は現金のみ。販売開始直後は混雑が予想され、屋外で並ぶ場合もあるため、帽子の着用やこまめな水分補給など、熱中症対策も忘れずにチェックしたいところです。\n\n万博の感動を写真で振り返れる、手元に残る万博レガシーです。<br><br><a href='https://www.pref.osaka.lg.jp/o020060/bampaku_syashinsyu.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": true,
         "isKomyaku": false,
