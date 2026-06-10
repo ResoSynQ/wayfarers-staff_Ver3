@@ -884,7 +884,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://towelmuseum-shop.jp/collections/japanexpo2025?srsltid=AfmBOopjy5AJcfi9ulWDIEC6pLhMCKL8MdyuN_qnxKGkVriK57fLV7Qf",
-        "image_url": ""
+        "image_url": "https://cdn.shopify.com/s/files/1/0487/6795/9189/collections/osakaexpo.png?v=1702447653"
       },
       "geometry": {
         "type": "Point",
@@ -2563,6 +2563,63 @@
         "coordinates": [
           139.7725723,
           35.68781345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "大屋根リングが駅のベンチに！　阪神伝法駅",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【大屋根リングが駅のベンチに！　阪神伝法駅】</b><br>📅 期間: 2026/06/09 ～ 常設<br>📝 大阪・関西万博会場のシンボル「大屋根リング」の柱材が、阪神なんば線の伝法駅・福駅で駅の待合ベンチとして活用されることになりました。<br><br><a href='https://prtimes.jp/main/html/rd/p/000003632.000005180.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://prtimes.jp/main/html/rd/p/000003632.000005180.html",
+        "image_url": "https://prcdn.freetls.fastly.net/release_image/5180/3632/5180-3632-6ff015c5dfd75aa3e319e73777ac058a-559x376.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4516973,
+          34.68921489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "大屋根リングが駅のベンチに！　阪神福駅",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【大屋根リングが駅のベンチに！　阪神福駅】</b><br>📅 期間: 2026/06/09 ～ 常設<br>📝 大阪・関西万博会場のシンボル「大屋根リング」の柱材が、阪神なんば線の伝法駅・福駅で駅の待合ベンチとして活用されることになりました。<br><br><a href='https://prtimes.jp/main/html/rd/p/000003632.000005180.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://prtimes.jp/main/html/rd/p/000003632.000005180.html",
+        "image_url": "https://prcdn.freetls.fastly.net/release_image/5180/3632/5180-3632-6ff015c5dfd75aa3e319e73777ac058a-559x376.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4426283,
+          34.70000901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）日本館で展示されていた「藻類キティ」が大分・HiCaLiに登場！",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【日本館で展示されていた「藻類キティ」が大分・HiCaLiに登場！】</b><br>📅 期間: 2026/07/07 ～ 常設<br>📝 大阪・関西万博「日本館」で展示されて話題になった「藻類キティ」が、今度はハーモニーランドの地元・大分に登場します。\n\nJR暘谷駅に隣接する交流ひろばHiCaLiでは、藻類をモチーフにしたハローキティ10体が展示されるほか、全32種の藻類ハローキティ紹介パネルも並ぶとのこと。展示は7月7日から予定されています。\n\n万博で藻類キティに会えなかった人も、大分で再び出会えるチャンス。日本館の記憶が地域へ広がる、かわいくてユニークな万博レガシースポットです。<br><br><a href='https://prtimes.jp/main/html/rd/p/000000518.000007643.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://prtimes.jp/main/html/rd/p/000000518.000007643.html",
+        "image_url": "https://prcdn.freetls.fastly.net/release_image/7643/518/7643-518-6436a86a50cae46e58d0101aabb3ad3b-1600x1201.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.5319434,
+          33.37077159
         ]
       }
     }
