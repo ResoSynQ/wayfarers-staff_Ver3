@@ -6,6 +6,66 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "県歌が分かる本集めて  「信濃の国と飯伊」関連展  飯田市立中央図書館【長野県】(南信州新聞)",
+        "name": "飯田市立中央図書館",
+        "address": "",
+        "reason": "地元愛をくすぐるテーマの展示",
+        "date": "2026-06-11",
+        "link": "https://news.yahoo.co.jp/articles/e27155acf579594d2e9b67eefb6840ac52e801db?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260611-00010000-mssnw-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.8296261,
+          35.5131921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "紅差す初夏の桃「はなよめ」初出荷　岡山県倉敷市の露地栽培(山陽新聞デジタル)",
+        "name": "倉敷市役所　その他岡山県南部水道企業団",
+        "address": "",
+        "reason": "初夏の味覚を求めて",
+        "date": "2026-06-11",
+        "link": "https://news.yahoo.co.jp/articles/54db40e12e8b839ff9198154023a9fb66dd14df3?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260611-00010001-sanyo-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.735450277778,
+          34.596926111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "奈良県王寺町公式マスコット「雪丸」ぬいぐるみが人気　愛らしい表情特徴、追加生産へ(奈良新聞デジタル)",
+        "name": "王寺町役場",
+        "address": "",
+        "reason": "マスコットの可愛らしさに惹かれて訪れたい",
+        "date": "2026-06-11",
+        "link": "https://news.yahoo.co.jp/articles/6c10ab281802618ed9f41b09e1a33c2433a6fd92?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260611-00000001-naranp-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7065508,
+          34.5947241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "パワー満点!　アメリカ軍三沢基地が主催する「ボディービル」のアマチュア大会がおよそ四半世紀ぶりに開催!　会場が熱気に包まれる(ＡＴＶ青森テレビ)",
         "name": "航空自衛隊三沢基地",
         "address": "",
