@@ -219,7 +219,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.chion-in.or.jp/news/6406/",
-        "image_url": ""
+        "image_url": "https://www.chion-in.or.jp/wp/wp-content/uploads//2025/10/上段-1-300x241.jpg?1761812847"
       },
       "geometry": {
         "type": "Point",
@@ -428,7 +428,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.expo70-park.jp/facility/watchlearn/inochidama/",
-        "image_url": ""
+        "image_url": "https://www.expo70-park.jp/sys/wp-content/uploads/1c623daf87c5b4e145327b96ac296f03-640x480.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -542,7 +542,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.ritsumei.ac.jp/news/detail/?id=4449",
-        "image_url": ""
+        "image_url": "https://www.ritsumei.ac.jp/image.jsp?id=691608"
       },
       "geometry": {
         "type": "Point",
@@ -656,7 +656,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://x.com/wkamigata/status/2047612623978643853?s=43&t=Spz9-6o9mDMe00Tl3EPxfg",
-        "image_url": ""
+        "image_url": "https://pbs.twimg.com/media/HGqU1B8bUAAHxJu.jpg:large"
       },
       "geometry": {
         "type": "Point",
@@ -732,7 +732,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://panaf.jp/",
-        "image_url": ""
+        "image_url": "https://panaf.jp/assets/img/ogp.png"
       },
       "geometry": {
         "type": "Point",
@@ -751,7 +751,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://sen-oku.or.jp/news_20260414/",
-        "image_url": ""
+        "image_url": "https://sen-oku.or.jp/wp-content/uploads/2026/04/44.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -789,7 +789,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://kobe-journal.com/archives/7547745875.html",
-        "image_url": ""
+        "image_url": "https://i0.wp.com/kobe-journal.com/web/images/2026/04/ai20260421170405.jpg?fit=487%2C274&ssl=1"
       },
       "geometry": {
         "type": "Point",
@@ -808,7 +808,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://medicineinfra.com/site/expo2025/",
-        "image_url": ""
+        "image_url": "https://medicineinfra.com/wp-content/uploads/2025/03/ogp.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -827,7 +827,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://medicineinfra.com/site/expo2025/",
-        "image_url": ""
+        "image_url": "https://medicineinfra.com/wp-content/uploads/2025/03/ogp.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -1283,7 +1283,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://osaka-shotengai-info.com/bampaku/tenyonkita/",
-        "image_url": ""
+        "image_url": "https://osaka-shotengai-info.com/wp-content/uploads/2026/02/DSC_0628.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -1302,7 +1302,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://osaka-shotengai-info.com/bampaku/tenyonkita/",
-        "image_url": ""
+        "image_url": "https://osaka-shotengai-info.com/wp-content/uploads/2026/02/DSC_0628.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -1429,8 +1429,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "（予定）大阪・関西万博 レガシー継承イベント 万博後の新たなムーブメントの創出に向けて",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【大阪・関西万博 レガシー継承イベント 万博後の新たなムーブメントの創出に向けて】</b><br>📅 期間: 2026/06/10 ～ 2026/06/10<br>📝 万博の理念を社会実装するためのレガシー継承イベントが6月10日にグラングリーン大阪で開催！企業講演や大阪市長による成長戦略の解説、大学生のピッチセッションを通じて、課題解決と経済成長の両立に向けたシナリオを描きます。参加無料で現在申し込み受付中（6/5締切）！」<br><br><a href='https://events.nikkei.co.jp/81743/' target='_blank'>🔗 詳細を開く</a>",
+        "name": "大阪・関西万博 レガシー継承イベント 万博後の新たなムーブメントの創出に向けて",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【大阪・関西万博 レガシー継承イベント 万博後の新たなムーブメントの創出に向けて】</b><br>📅 期間: 2026/06/10 ～ 2026/06/10<br>📝 万博の理念を社会実装するためのレガシー継承イベントが6月10日にグラングリーン大阪で開催！企業講演や大阪市長による成長戦略の解説、大学生のピッチセッションを通じて、課題解決と経済成長の両立に向けたシナリオを描きます。参加無料で現在申し込み受付中（6/5締切）！」<br><br><a href='https://events.nikkei.co.jp/81743/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false,
         "isKomyaku": false,
@@ -2271,7 +2271,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.hennnahotel.com/shinsaibashi/news/5285/",
-        "image_url": ""
+        "image_url": "https://www.hennnahotel.com/shinsaibashi/wp-content/uploads/2018/06/0619_OGP.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -2328,7 +2328,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://x.com/yukikoishi81071/status/2061429568830148840",
-        "image_url": ""
+        "image_url": "https://pbs.twimg.com/media/HJurQZFaEAAZswC.jpg:large"
       },
       "geometry": {
         "type": "Point",
@@ -2398,8 +2398,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "（予定）EXPO2025公式ポップアップストア　高島屋大阪店",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【EXPO2025公式ポップアップストア　高島屋大阪店】</b><br>📅 期間: 2026/06/10 ～ 2026/06/22<br>📝 2026年1月の開催で大好評を博したEXPO2025オフィシャルポップアップストアが、6月10日(水)〜22日(月)に高島屋大阪店で再びオープンします。<br><br><a href='https://www.takashimaya.co.jp/osaka/topics/10_1_20260508140607/?category=event#contents' target='_blank'>🔗 詳細を開く</a>",
+        "name": "EXPO2025公式ポップアップストア　高島屋大阪店",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【EXPO2025公式ポップアップストア　高島屋大阪店】</b><br>📅 期間: 2026/06/10 ～ 2026/06/22<br>📝 2026年1月の開催で大好評を博したEXPO2025オフィシャルポップアップストアが、6月10日(水)〜22日(月)に高島屋大阪店で再びオープンします。<br><br><a href='https://www.takashimaya.co.jp/osaka/topics/10_1_20260508140607/?category=event#contents' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": true,
         "isKomyaku": false,
@@ -2423,7 +2423,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://x.com/towelmuseumboy/status/2061960021760721196",
-        "image_url": ""
+        "image_url": "https://pbs.twimg.com/media/HJ2NtUJbwAAiaqS.jpg:large"
       },
       "geometry": {
         "type": "Point",
