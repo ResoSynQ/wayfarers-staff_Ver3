@@ -219,7 +219,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.chion-in.or.jp/news/6406/",
-        "image_url": ""
+        "image_url": "https://www.chion-in.or.jp/wp/wp-content/uploads//2025/10/上段-1-300x241.jpg?1761812847"
       },
       "geometry": {
         "type": "Point",
@@ -1226,7 +1226,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/nauruya_higashiosaka/",
-        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -2620,6 +2620,44 @@
         "coordinates": [
           131.5319434,
           33.37077159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "万博で使われた給水機が姫路城へ！　菱の門前",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【万博で使われた給水機が姫路城へ！　菱の門前】</b><br>📅 期間: 2026/06/10 ～ 常設<br>📝 大阪・関西万博で、来場者やスタッフの熱中症予防対策として使用された給水機が、姫路城内に設置されます。\n\n万博会場では無料給水スポットとして活用され、熱中症予防だけでなく、ペットボトルなどのプラスチックごみ削減にも貢献していた給水機。閉幕後はリユース品として販売されていたものを、大阪・関西万博のレガシーを姫路に残し、次世代へ引き継ぐ観点から購入したとのことです。<br><br><a href='https://www.city.himeji.lg.jp/shisei/0000033497.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.city.himeji.lg.jp/shisei/0000033497.html",
+        "image_url": "https://www.city.himeji.lg.jp/design_img/og_image.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.6924976,
+          34.8386987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）万博で使われた給水機が姫路城へ！　備前丸",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【万博で使われた給水機が姫路城へ！　備前丸】</b><br>📅 期間: 2026/06/30頃 ～ 常設<br>📝 大阪・関西万博で、来場者やスタッフの熱中症予防対策として使用された給水機が、姫路城内に設置されます。\n\n万博会場では無料給水スポットとして活用され、熱中症予防だけでなく、ペットボトルなどのプラスチックごみ削減にも貢献していた給水機。閉幕後はリユース品として販売されていたものを、大阪・関西万博のレガシーを姫路に残し、次世代へ引き継ぐ観点から購入したとのことです。<br><br><a href='https://www.city.himeji.lg.jp/shisei/0000033497.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.city.himeji.lg.jp/shisei/0000033497.html",
+        "image_url": "https://www.city.himeji.lg.jp/design_img/og_image.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.6939337,
+          34.83905275
         ]
       }
     }

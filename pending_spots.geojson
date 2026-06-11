@@ -6,6 +6,66 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "サッカーワールドカップ2026の開幕にあわせてエルムに期間限定ショップがオープン　会場にはW杯出場の8か国のグッズ約700点　東北では唯一の開催場所で初日からにぎわう　青森県五所川原(ＡＴＶ青森テレビ)",
+        "name": "エルム(ELM)",
+        "address": "",
+        "reason": "W杯出場の8か国のグッズ約700点が東北唯一で手に入るから",
+        "date": "2026-06-12",
+        "link": "https://news.yahoo.co.jp/articles/54b5ea90c09cac2f6f0c053823906337adaa2ce7?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260612-22726762-atv-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.45493414,
+          40.80019221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "「52年間ありがとう」　壁や床に感謝の言葉　建て替えの喜仲公民館でお別れ会　沖縄・うるま(沖縄タイムス)",
+        "name": "喜仲公民館",
+        "address": "",
+        "reason": "長年の感謝が込められた温かいお別れの光景",
+        "date": "2026-06-12",
+        "link": "https://news.yahoo.co.jp/articles/4354a6bf2d6a33d26464e25969dccee7fdb1c4b3?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260612-01856491-okinawat-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.84593844,
+          26.35679748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "世界遺産「飛鳥・藤原の宮都」を案内する方位盤　飛鳥寺西の広場に設置　奈良県明日香村(奈良新聞デジタル)",
+        "name": "飛鳥寺",
+        "address": "",
+        "reason": "歴史的建造物と地域遺産への興味を刺激する",
+        "date": "2026-06-12",
+        "link": "https://news.yahoo.co.jp/articles/40b2fe17dfb8d339ad4cb75548d17ea09e9d6592?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260612-00000001-naranp-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.82018597,
+          34.47866007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "県歌が分かる本集めて  「信濃の国と飯伊」関連展  飯田市立中央図書館【長野県】(南信州新聞)",
         "name": "飯田市立中央図書館",
         "address": "",
