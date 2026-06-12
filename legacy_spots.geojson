@@ -542,7 +542,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.ritsumei.ac.jp/news/detail/?id=4449",
-        "image_url": "https://www.ritsumei.ac.jp/image.jsp?id=691608"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -1226,7 +1226,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/nauruya_higashiosaka/",
-        "image_url": ""
+        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
       },
       "geometry": {
         "type": "Point",
