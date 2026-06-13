@@ -6,6 +6,66 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "那古船形駅舎活用し地域活性化へ　JRと運営会社が事業協定　館山（千葉県）(房日新聞)",
+        "name": "那古船形駅（JR）",
+        "address": "",
+        "reason": "廃校・廃駅の活用による地域活性化は、ノスタルジーと新しさを兼ね備え、訪れる人に発見と感動を与える可能性が高いからです。",
+        "date": "2026-06-14",
+        "link": "https://news.yahoo.co.jp/articles/704ae34d32f4eca86c711628c2ca83e29ff03f46?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260614-00010000-bonichi-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.851583,
+          35.0284947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "【桜坂劇場・下地久美子の映画コレ見た？】『ヴィヴァルディと私』天才と出会い才能開花(沖縄タイムス)",
+        "name": "桜坂劇場",
+        "address": "",
+        "reason": "映画の紹介で、桜坂劇場への関心を高める",
+        "date": "2026-06-14",
+        "link": "https://news.yahoo.co.jp/articles/15577271abb9db54287735d6c708f9c07083bec6?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260614-01857406-okinawat-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.6901384,
+          26.2147706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "プロが使った人形に触れる　飯田市の美術館が期間限定でコーナー開設(信濃毎日新聞デジタル)",
+        "name": "飯田市　美術博物館日夏耿之介記念館",
+        "address": "",
+        "reason": "プロの作品に触れる体験ができるため",
+        "date": "2026-06-14",
+        "link": "https://news.yahoo.co.jp/articles/1762c1d55ce8e8040fbf4bfff16ff4101ffa8b83?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260614-00010000-shinmai-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.831981388889,
+          35.511878333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "サッカーワールドカップ2026の開幕にあわせてエルムに期間限定ショップがオープン　会場にはW杯出場の8か国のグッズ約700点　東北では唯一の開催場所で初日からにぎわう　青森県五所川原(ＡＴＶ青森テレビ)",
         "name": "エルム(ELM)",
         "address": "",
