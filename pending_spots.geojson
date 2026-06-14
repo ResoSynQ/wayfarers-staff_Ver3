@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "approval_status": "OK",
+  "approval_status": "WAITING",
   "features": [
     {
       "type": "Feature",
@@ -86,26 +86,6 @@
       "type": "Feature",
       "properties": {
         "category": "local",
-        "trend_word": "「52年間ありがとう」　壁や床に感謝の言葉　建て替えの喜仲公民館でお別れ会　沖縄・うるま(沖縄タイムス)",
-        "name": "喜仲公民館",
-        "address": "",
-        "reason": "長年の感謝が込められた温かいお別れの光景",
-        "date": "2026-06-12",
-        "link": "https://news.yahoo.co.jp/articles/4354a6bf2d6a33d26464e25969dccee7fdb1c4b3?source=rss",
-        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260612-01856491-okinawat-000-1-view.jpg?exp=10800"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          127.84593844,
-          26.35679748
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "local",
         "trend_word": "世界遺産「飛鳥・藤原の宮都」を案内する方位盤　飛鳥寺西の広場に設置　奈良県明日香村(奈良新聞デジタル)",
         "name": "飛鳥寺",
         "address": "",
@@ -146,26 +126,6 @@
       "type": "Feature",
       "properties": {
         "category": "local",
-        "trend_word": "紅差す初夏の桃「はなよめ」初出荷　岡山県倉敷市の露地栽培(山陽新聞デジタル)",
-        "name": "倉敷市役所　その他岡山県南部水道企業団",
-        "address": "",
-        "reason": "初夏の味覚を求めて",
-        "date": "2026-06-11",
-        "link": "https://news.yahoo.co.jp/articles/54db40e12e8b839ff9198154023a9fb66dd14df3?source=rss",
-        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260611-00010001-sanyo-000-1-view.jpg?exp=10800"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          133.735450277778,
-          34.596926111111
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "local",
         "trend_word": "奈良県王寺町公式マスコット「雪丸」ぬいぐるみが人気　愛らしい表情特徴、追加生産へ(奈良新聞デジタル)",
         "name": "王寺町役場",
         "address": "",
@@ -182,27 +142,6 @@
         ]
       }
     },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "local",
-        "trend_word": "パワー満点!　アメリカ軍三沢基地が主催する「ボディービル」のアマチュア大会がおよそ四半世紀ぶりに開催!　会場が熱気に包まれる(ＡＴＶ青森テレビ)",
-        "name": "航空自衛隊三沢基地",
-        "address": "",
-        "reason": "四半世紀ぶりの熱気あふれるイベントに興味をそそられるから",
-        "date": "2026-06-09",
-        "link": "https://news.yahoo.co.jp/articles/afd5fd2927b4a1827dc42d285821c5749df1e58f?source=rss",
-        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260609-22718214-atv-000-1-view.jpg?exp=10800"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          141.374572,
-          40.6988151
-        ]
-      }
-    },
-    {
       "type": "Feature",
       "properties": {
         "category": "local",
