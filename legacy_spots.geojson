@@ -1226,7 +1226,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/nauruya_higashiosaka/",
-        "image_url": ""
+        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
       },
       "geometry": {
         "type": "Point",
@@ -2436,25 +2436,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "万博の記憶を一冊に！万博写真集の窓口販売が大阪府庁でスタート！",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【万博の記憶を一冊に！万博写真集の窓口販売が大阪府庁でスタート！】</b><br>📅 期間: 2026/06/08 ～ 2026/06/12<br>📝 大阪・関西万博の思い出を振り返ることができる「万博写真集」の窓口販売が、2026年6月8日（月）から大阪府庁本館1階で始まります。\n\n6月8日（月）〜12日（金）は府政情報室 会議室で、6月15日（月）以降は府政情報センターで販売予定。販売時間はいずれも午後1時〜午後5時で、土日祝は除くとのことです。\n\n購入はおひとり一冊まで、窓口販売は現金のみ。販売開始直後は混雑が予想され、屋外で並ぶ場合もあるため、帽子の着用やこまめな水分補給など、熱中症対策も忘れずにチェックしたいところです。\n\n万博の感動を写真で振り返れる、手元に残る万博レガシーです。<br><br><a href='https://www.pref.osaka.lg.jp/o020060/bampaku_syashinsyu.html' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": true,
-        "isKomyaku": false,
-        "link": "https://www.pref.osaka.lg.jp/o020060/bampaku_syashinsyu.html",
-        "image_url": "https://www.pref.osaka.lg.jp/shared/images/sns/logo.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.5193475,
-          34.68656602
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "SENNAN LONG PARKに、ミャクミャクモニュメント「ワクワク」が登場します！",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【SENNAN LONG PARKに、ミャクミャクモニュメント「ワクワク」が登場します！】</b><br>📅 期間: 2026/06/06 ～ 2026/08/31<br>📝 設置期間は6/6(土)〜8/31(月)の予定。<br><br><a href='https://sennanlongpark.com/?xo_event=2026%E5%B9%B46%E6%9C%886%E6%97%A5%E5%9C%9F%EF%BC%89%EF%BD%9E8%E6%9C%8831%E6%97%A5%E6%9C%88-sennanlongpark%E3%81%AB%E3%83%9F%E3%83%A3%E3%82%AF%E3%83%9F%E3%83%A3%E3%82%AF%E3%81%8C%E3%82%84%E3%81%A3' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
@@ -2658,6 +2639,63 @@
         "coordinates": [
           134.6939337,
           34.83905275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "あのミャクミャクソフトが、まさかのマスコット化！",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【あのミャクミャクソフトが、まさかのマスコット化！】</b><br>📅 期間: 2026/06/18 ～ 2026/06/30<br>📝 「ミャクミャクソフト」が、かわいいマスコットになって登場！対象レシートを持つ人限定の受注生産で、S・M・Lの3サイズ展開。<br><br><a href='https://lapoppo.com/expo2025-oc/news/myakumyaku-soft-mascot/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": true,
+        "isKomyaku": false,
+        "link": "https://lapoppo.com/expo2025-oc/news/myakumyaku-soft-mascot/",
+        "image_url": "https://lapoppo.com/expo2025-oc/news/myakumyaku-soft-mascot/assets/mascot-size-all.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4973354,
+          34.7050294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）「あの靴」履いて集まろう！ミズノの万博シューズ購入者限定オフ会が開催！",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【「あの靴」履いて集まろう！ミズノの万博シューズ購入者限定オフ会が開催！】</b><br>📅 期間: 2026/08/22 ～ 2026/08/22<br>📝 ミズノと大阪・関西万博がコラボした「THE MIZUNO ENERZY OSAKA EXPO 2025シューズ」の購入者を対象に、アフター万博の特別イベントが開催されます。抽選で200名が招待される購入者限定オフ会で、開催日は2026年8月22日。時間は13:00〜16:00、受付開始は12:30予定とのこと。会場は大阪市内某所、詳細は当選連絡にて通知されるとのこと！（マップ上のピンは大阪ミズノ株式会社）<br><br><a href='https://jpn.mizuno.com/dicontents/osaka_expo2025/after_event?utm_source=twitter&utm_medium=social&utm_campaign=sndilhwk_afterexpo&utm_content=260617' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://jpn.mizuno.com/dicontents/osaka_expo2025/after_event?utm_source=twitter&utm_medium=social&utm_campaign=sndilhwk_afterexpo&utm_content=260617",
+        "image_url": "https://jpn.mizuno.com/sites/default/files/2022-02/MRB400_400.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4170097,
+          34.63857655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）りそな銀行主催の万博レガシーイベントがATCホールで開催！",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【りそな銀行主催の万博レガシーイベントがATCホールで開催！】</b><br>📅 期間: 2026/08/21 ～ 2026/08/23<br>📝 大阪・関西万博で生まれた感動を“過去の思い出”で終わらせず、未来の日常へつなげる万博レガシーイベントが、大阪南港ATCホールで開催されます。\r<br><br><a href='https://www.resona-expo.com/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.resona-expo.com/",
+        "image_url": "https://www.resona-expo.com/wpsys/wp-content/uploads/2026/06/ogp.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4145372,
+          34.63618702
         ]
       }
     }
