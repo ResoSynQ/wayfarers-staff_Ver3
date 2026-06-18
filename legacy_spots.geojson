@@ -808,7 +808,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://medicineinfra.com/site/expo2025/",
-        "image_url": ""
+        "image_url": "https://medicineinfra.com/wp-content/uploads/2025/03/ogp.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -1226,7 +1226,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/nauruya_higashiosaka/",
-        "image_url": ""
+        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
       },
       "geometry": {
         "type": "Point",
@@ -1461,25 +1461,6 @@
         "coordinates": [
           130.092658,
           33.28253384
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "（予定）万博レガシーイベント",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【万博レガシーイベント】</b><br>📅 期間: 2026/08/21 ～ 2026/08/23<br>📝 大阪・関西万博の感動を再び味わえる「万博レガシーイベント」が、2026年8月21日（金）から23日（日）の3日間、大阪のATCホールで開催されます。<br><br><a href='https://www.osaka.cci.or.jp/event/seminar/202604/D24260409014.html' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://www.osaka.cci.or.jp/event/seminar/202604/D24260409014.html",
-        "image_url": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.414579,
-          34.63624751
         ]
       }
     },
