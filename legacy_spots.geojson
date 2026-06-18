@@ -808,7 +808,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://medicineinfra.com/site/expo2025/",
-        "image_url": "https://medicineinfra.com/wp-content/uploads/2025/03/ogp.jpg"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -1226,7 +1226,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/nauruya_higashiosaka/",
-        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -2696,6 +2696,44 @@
         "coordinates": [
           135.4145372,
           34.63618702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "万博で使われた「マイボトル洗浄機」がイオンモール京都桂川へ！",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【万博で使われた「マイボトル洗浄機」がイオンモール京都桂川へ！】</b><br>📅 期間: 常設 / 時期----<br>📝 大阪・関西万博の会場に設置されていた象印の「マイボトル洗浄機」が、イオンモール京都桂川へ移設されました。万博会場では、マイボトルを快適に使うための設備として活躍し、会期中の総洗浄回数は158,488回、総CO2削減量は約12,837kgにのぼったとのこと。外出先でボトルを洗えることで、マイボトル利用を後押しし、プラスチックごみ削減にもつながる取り組みです。<br><br><a href='https://prtimes.jp/main/html/rd/p/000000282.000006490.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://prtimes.jp/main/html/rd/p/000000282.000006490.html",
+        "image_url": "https://prcdn.freetls.fastly.net/release_image/6490/282/6490-282-7504f65be112099d5dc6f0d8affac83a-3900x2919.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7083058,
+          34.9635261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）万博の鳥取県パビリオンが限定復活！",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【万博の鳥取県パビリオンが限定復活！】</b><br>📅 期間: 2026/06/20 ～ 2026/06/20<br>📝 大阪・関西万博で人気を集めた鳥取県パビリオンが、ららぽーと門真で1日限定復活します！イベント名は「ワクワク鳥取EXPO2026」。会場では、万博の鳥取県パビリオンで楽しめた「鳥取無限砂丘」が登場し、虫眼鏡型デバイスで鳥取の観光地やグルメを探すお宝探し「鳥取魅力名探偵」を体験できるとのこと。<br><br><a href='https://www.neyagawa-np.jp/hitokoto/tottori-20260616.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.neyagawa-np.jp/hitokoto/tottori-20260616.html",
+        "image_url": "https://www.neyagawa-np.jp/uploads/2026/06/image-39.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5846738,
+          34.73225666
         ]
       }
     }
