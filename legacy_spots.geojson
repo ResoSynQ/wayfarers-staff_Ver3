@@ -219,7 +219,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.chion-in.or.jp/news/6406/",
-        "image_url": ""
+        "image_url": "https://www.chion-in.or.jp/wp/wp-content/uploads//2025/10/上段-1-300x241.jpg?1761812847"
       },
       "geometry": {
         "type": "Point",
@@ -428,7 +428,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.expo70-park.jp/facility/watchlearn/inochidama/",
-        "image_url": ""
+        "image_url": "https://www.expo70-park.jp/sys/wp-content/uploads/1c623daf87c5b4e145327b96ac296f03-640x480.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -732,7 +732,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://panaf.jp/",
-        "image_url": ""
+        "image_url": "https://panaf.jp/assets/img/ogp.png"
       },
       "geometry": {
         "type": "Point",
@@ -751,7 +751,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://sen-oku.or.jp/news_20260414/",
-        "image_url": ""
+        "image_url": "https://sen-oku.or.jp/wp-content/uploads/2026/04/44.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -789,7 +789,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://kobe-journal.com/archives/7547745875.html",
-        "image_url": ""
+        "image_url": "https://i0.wp.com/kobe-journal.com/web/images/2026/04/ai20260421170405.jpg?fit=487%2C274&ssl=1"
       },
       "geometry": {
         "type": "Point",
@@ -808,7 +808,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://medicineinfra.com/site/expo2025/",
-        "image_url": ""
+        "image_url": "https://medicineinfra.com/wp-content/uploads/2025/03/ogp.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -827,7 +827,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://medicineinfra.com/site/expo2025/",
-        "image_url": ""
+        "image_url": "https://medicineinfra.com/wp-content/uploads/2025/03/ogp.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -1283,7 +1283,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://osaka-shotengai-info.com/bampaku/tenyonkita/",
-        "image_url": ""
+        "image_url": "https://osaka-shotengai-info.com/wp-content/uploads/2026/02/DSC_0628.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -1302,7 +1302,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://osaka-shotengai-info.com/bampaku/tenyonkita/",
-        "image_url": ""
+        "image_url": "https://osaka-shotengai-info.com/wp-content/uploads/2026/02/DSC_0628.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -2252,7 +2252,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.hennnahotel.com/shinsaibashi/news/5285/",
-        "image_url": ""
+        "image_url": "https://www.hennnahotel.com/shinsaibashi/wp-content/uploads/2018/06/0619_OGP.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -2632,7 +2632,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://lapoppo.com/expo2025-oc/news/myakumyaku-soft-mascot/",
-        "image_url": ""
+        "image_url": "https://lapoppo.com/expo2025-oc/news/myakumyaku-soft-mascot/assets/mascot-size-all.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -2708,7 +2708,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.neyagawa-np.jp/hitokoto/tottori-20260616.html",
-        "image_url": ""
+        "image_url": "https://www.neyagawa-np.jp/uploads/2026/06/image-39.png"
       },
       "geometry": {
         "type": "Point",
@@ -2829,6 +2829,25 @@
         "coordinates": [
           139.7406442,
           35.66156434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）EXPO2025公式ポップアップストアがラゾーナ川崎に期間限定OPEN！",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【EXPO2025公式ポップアップストアがラゾーナ川崎に期間限定OPEN！】</b><br>📅 期間: 2026/06/26 ～ 2026/07/22<br>📝 EXPO2025オフィシャルポップアップストアが、丸善ラゾーナ川崎店内に期間限定でオープンします。\n会場では、ミャクミャク関連グッズの販売に加え、開催期間中に「ミャクミャクぬいぐるみくじ ブラックVer.」も実施予定とのこと！<br><br><a href='https://myakumyakuhouse.jp/topics/detail/342/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://myakumyakuhouse.jp/topics/detail/342/",
+        "image_url": "https://myakumyakuhouse.jp/assets/images/ogp.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6960859,
+          35.53307844
         ]
       }
     }
