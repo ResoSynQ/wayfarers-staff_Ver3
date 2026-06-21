@@ -884,7 +884,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://towelmuseum-shop.jp/collections/japanexpo2025?srsltid=AfmBOopjy5AJcfi9ulWDIEC6pLhMCKL8MdyuN_qnxKGkVriK57fLV7Qf",
-        "image_url": "https://cdn.shopify.com/s/files/1/0487/6795/9189/collections/osakaexpo.png?v=1702447653"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -2874,18 +2874,37 @@
       "type": "Feature",
       "properties": {
         "name": "（予定）ウラマヨ！で「大阪・関西万博で盛り上がっていたアレ大丈夫ですかSP」放送！",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【ウラマヨ！で「大阪・関西万博で盛り上がっていたアレ大丈夫ですかSP」放送！】</b><br>📅 期間: 2026/06/27 ～ 2026/06/27<br>📝 スタジオにミャクミャクが出演！関西で食べられる万博グルメも紹介されるようです。<br><br><a href='https://www.youtube.com/watch?v=y_JAK8RKv9g' target='_blank'>🔗 詳細を開く</a>",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【ウラマヨ！で「大阪・関西万博で盛り上がっていたアレ大丈夫ですかSP」放送！】</b><br>📅 期間: 2026/06/27 ～ 2026/06/27<br>📝 スタジオにミャクミャクが出演！関西で食べられる万博グルメも紹介されるようです。<br><br><a href='https://www.ktv.jp/uramayo/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false,
         "isKomyaku": false,
-        "link": "https://www.youtube.com/watch?v=y_JAK8RKv9g",
-        "image_url": "https://i.ytimg.com/vi/y_JAK8RKv9g/maxresdefault.jpg"
+        "link": "https://www.ktv.jp/uramayo/",
+        "image_url": "https://www.ktv.jp/uramayo/wp-content/uploads/sites/17/2020/09/main_1.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           135.5102247,
           34.70494229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）大屋根リングの木材が関西大学へ！新学生会館のエントランスに万博レガシーを継承！",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【大屋根リングの木材が関西大学へ！新学生会館のエントランスに万博レガシーを継承！】</b><br>📅 期間: 2029年3月予定 ～ 常設<br>📝 大阪・関西万博のシンボル「大屋根リング」で使用された木材を活用し、その一部を再現したエントランス空間を整備予定とのこと。大屋根リングに込められた「多様でありながら、ひとつ」という理念や記憶が、学生たちの日常空間へ受け継がれていきます。新たな学生会館は地上11階、高さ約45m、延床面積約22,000㎡。トレーニングジム、共通講義空間、音楽・スポーツ活動機能、部室・活動拠点などを備え、学生同士の出会いや交流、新たな挑戦を生み出すキャンパス・コアを目指すとのことです。<br><br><a href='https://prtimes.jp/main/html/rd/p/000000292.000013058.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://prtimes.jp/main/html/rd/p/000000292.000013058.html",
+        "image_url": "https://prcdn.freetls.fastly.net/release_image/13058/292/13058-292-e7de966c0383276f4782fbeb4a64f939-916x832.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5117465,
+          34.77539548
         ]
       }
     }
