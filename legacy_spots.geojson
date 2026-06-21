@@ -1226,7 +1226,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/nauruya_higashiosaka/",
-        "image_url": ""
+        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
       },
       "geometry": {
         "type": "Point",
@@ -2838,7 +2838,7 @@
         "name": "（予定）EXPO2025公式ポップアップストアがラゾーナ川崎に期間限定OPEN！",
         "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【EXPO2025公式ポップアップストアがラゾーナ川崎に期間限定OPEN！】</b><br>📅 期間: 2026/06/26 ～ 2026/07/22<br>📝 EXPO2025オフィシャルポップアップストアが、丸善ラゾーナ川崎店内に期間限定でオープンします。\n会場では、ミャクミャク関連グッズの販売に加え、開催期間中に「ミャクミャクぬいぐるみくじ ブラックVer.」も実施予定とのこと！<br><br><a href='https://myakumyakuhouse.jp/topics/detail/342/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
-        "isStore": false,
+        "isStore": true,
         "isKomyaku": false,
         "link": "https://myakumyakuhouse.jp/topics/detail/342/",
         "image_url": "https://myakumyakuhouse.jp/assets/images/ogp.png"
@@ -2867,6 +2867,25 @@
         "coordinates": [
           135.4522902,
           34.68314373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）ウラマヨ！で「大阪・関西万博で盛り上がっていたアレ大丈夫ですかSP」放送！",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【ウラマヨ！で「大阪・関西万博で盛り上がっていたアレ大丈夫ですかSP」放送！】</b><br>📅 期間: 2026/06/27 ～ 2026/06/27<br>📝 スタジオにミャクミャクが出演！関西で食べられる万博グルメも紹介されるようです。<br><br><a href='https://www.youtube.com/watch?v=y_JAK8RKv9g' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.youtube.com/watch?v=y_JAK8RKv9g",
+        "image_url": "https://i.ytimg.com/vi/y_JAK8RKv9g/maxresdefault.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5102247,
+          34.70494229
         ]
       }
     }
