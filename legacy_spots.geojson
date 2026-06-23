@@ -1568,7 +1568,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://prtimes.jp/main/html/rd/p/000000010.000135416.html",
-        "image_url": ""
+        "image_url": "https://prcdn.freetls.fastly.net/release_image/135416/10/135416-10-ea212ec47075bd421cd1f9080fbd7b7b-1477x1108.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
       },
       "geometry": {
         "type": "Point",
@@ -2145,6 +2145,44 @@
         "coordinates": [
           135.5117465,
           34.77539548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）太陽ノ塔洋菓子店の「めっちゃマイドオオキニ缶」が、阪神梅田本店B1Fで期間限定販売",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【太陽ノ塔洋菓子店の「めっちゃマイドオオキニ缶」が、阪神梅田本店B1Fで期間限定販売】</b><br>📅 期間: 2026/06/24 ～ 2026/06/30<br>📝 販売数は各日500缶予定で、おひとり様3缶まで購入可能とのことです。販売期間中は、毎朝その日の販売分の購入引換券を配布予定。購入希望者の待機場所は「JR側❺入口」となっており、通常の待機場所とは異なるため注意が必要です。購入引換券は並んだ順に配布され、希望購入数分の引換券を受け取る形になります。引換券を取得した場合は、取得日当日の19:30までであれば、好きな時間に売り場で受け取り可能とのこと。なお、引換券がなくなり次第、その日の販売分は完売となります。<br><br><a href='https://www.instagram.com/p/DZuI9nkj0EG/?img_index=1' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": true,
+        "isKomyaku": false,
+        "link": "https://www.instagram.com/p/DZuI9nkj0EG/?img_index=1",
+        "image_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/725860407_18590568658032420_8860855189953546567_n.jpg?stp=c655.0.1966.1966a_dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=yCwtWy5k3v8Q7kNvwFbm3-G&_nc_oc=Adr6uFmVV7kl4-1Yi15GqdDbLzf6JIQUfuF9oTHlFrfEkLllZSnBM0CdkKxlobKU8ys&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=m6ebD_bxi1BgS2IJDQ8Ljg&_nc_ss=7f60f&oh=00_Af_qNFQ8UCRhGdBNWQoIEKcQERVMHSY1Ellx8ctaJzN6sQ&oe=6A3FD0D2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4984162,
+          34.70144729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）太陽ノ塔洋菓子店の「めっちゃマイドオオキニ缶」が、阪神梅田本店B1Fで期間限定販売",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【太陽ノ塔洋菓子店の「めっちゃマイドオオキニ缶」が、阪神梅田本店B1Fで期間限定販売】</b><br>📅 期間: 2026/06/25 ～ 2026/07/01<br>📝 販売数は各日500缶予定で、おひとり様3缶まで購入可能とのことです。販売期間中は、毎朝その日の販売分の購入引換券を配布予定。購入希望者の待機場所は「JR側❺入口」となっており、通常の待機場所とは異なるため注意が必要です。購入引換券は並んだ順に配布され、希望購入数分の引換券を受け取る形になります。引換券を取得した場合は、取得日当日の19:30までであれば、好きな時間に売り場で受け取り可能とのこと。なお、引換券がなくなり次第、その日の販売分は完売となります。<br><br><a href='https://www.instagram.com/p/DZuI9nkj0EG/?img_index=2' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.instagram.com/p/DZuI9nkj0EG/?img_index=2",
+        "image_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/725860407_18590568658032420_8860855189953546567_n.jpg?stp=c655.0.1966.1966a_dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=yCwtWy5k3v8Q7kNvwFbm3-G&_nc_oc=Adr6uFmVV7kl4-1Yi15GqdDbLzf6JIQUfuF9oTHlFrfEkLllZSnBM0CdkKxlobKU8ys&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=ydd-J3L9ftZiTQ8Xxfp_ag&_nc_ss=7f60f&oh=00_Af_fb7Voqk5FyCKFM_SxAY5Pz3B0ES5yu1Ydd6fm10qWQg&oe=6A3FD0D2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.70144729,
+          135.4984162
         ]
       }
     }
