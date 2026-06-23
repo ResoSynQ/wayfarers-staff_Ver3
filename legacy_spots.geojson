@@ -219,7 +219,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.chion-in.or.jp/news/6406/",
-        "image_url": "https://www.chion-in.or.jp/wp/wp-content/uploads//2025/10/上段-1-300x241.jpg?1761812847"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -618,7 +618,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.city.sakai.lg.jp/kanko/rekishi/sei/kohun_otozureru/mozukofungun_visitorcenter.html",
-        "image_url": ""
+        "image_url": "https://www.city.sakai.lg.jp/images/sakai_ogp_image.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -2151,19 +2151,19 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "（予定）待機場所はJR側❺入口より！太陽ノ塔洋菓子店の「めっちゃマイドオオキニ缶」が、阪神梅田本店B1Fで期間限定販売",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【待機場所はJR側❺入口より！太陽ノ塔洋菓子店の「めっちゃマイドオオキニ缶」が、阪神梅田本店B1Fで期間限定販売】</b><br>📅 期間: 2026/06/24 ～ 2026/06/30<br>📝 販売数は各日500缶予定で、おひとり様3缶まで購入可能とのことです。販売期間中は、毎朝その日の販売分の購入引換券を配布予定。購入希望者の待機場所は「JR側❺入口」となっており、通常の待機場所とは異なるため注意が必要です。購入引換券は並んだ順に配布され、希望購入数分の引換券を受け取る形になります。引換券を取得した場合は、取得日当日の19:30までであれば、好きな時間に売り場で受け取り可能とのこと。なお、引換券がなくなり次第、その日の販売分は完売となります。<br><br><a href='https://www.instagram.com/p/DZuI9nkj0EG/?img_index=1' target='_blank'>🔗 詳細を開く</a>",
+        "name": "（予定）待機場所はJR側❺入口より！　太陽ノ塔洋菓子店の「めっちゃマイドオオキニ缶」が、阪神梅田本店B1Fで期間限定販売",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【待機場所はJR側❺入口より！　太陽ノ塔洋菓子店の「めっちゃマイドオオキニ缶」が、阪神梅田本店B1Fで期間限定販売】</b><br>📅 期間: 2026/06/24 ～ 2026/06/30<br>📝 販売数は各日500缶予定で、おひとり様3缶まで購入可能とのことです。販売期間中は、毎朝その日の販売分の購入引換券を配布予定。購入希望者の待機場所は「JR側❺入口」となっており、通常の待機場所とは異なるため注意が必要です。購入引換券は並んだ順に配布され、希望購入数分の引換券を受け取る形になります。引換券を取得した場合は、取得日当日の19:30までであれば、好きな時間に売り場で受け取り可能とのこと。なお、引換券がなくなり次第、その日の販売分は完売となります。<br><br><a href='https://www.instagram.com/p/DZuI9nkj0EG/?img_index=1' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DZuI9nkj0EG/?img_index=1",
-        "image_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/725860407_18590568658032420_8860855189953546567_n.jpg?stp=c655.0.1966.1966a_dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=yCwtWy5k3v8Q7kNvwGdCR7C&_nc_oc=Adphb9pVrfonAa61UdMS-HS66As41TEIyYrK9vxKdBHUS-OudEOxkuwUWBMWwVkf7Iw&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=hfqzJq4wxTxt3VlJgphLvA&_nc_ss=7f60f&oh=00_Af-GFsIzOr_d8oZ6df7FHQLm0GRttHTSymA0SrLFgLmtyw&oe=6A3FD0D2"
+        "image_url": "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-15/725860407_18590568658032420_8860855189953546567_n.jpg?stp=c655.0.1966.1966a_dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=yCwtWy5k3v8Q7kNvwEvoMy4&_nc_oc=AdrRKc71j6k6QpvuFakM-Xf-qM5m9Mx2vBCbf7gOhSRrns4cJCzVPh8YGtUAS1WiPsA&_nc_zt=23&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_gid=CuL22bzOcC4lmGioI_Ol2Q&_nc_ss=7f60f&oh=00_Af9yxdvlBAc5F0mfFEsLtATtOCeViPqcwuE7ADpMrqG6Kw&oe=6A3FD0D2"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.497346,
-          34.70163278
+          135.4975414,
+          34.70101766
         ]
       }
     }
