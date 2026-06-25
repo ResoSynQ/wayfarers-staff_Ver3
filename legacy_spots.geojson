@@ -1226,7 +1226,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/nauruya_higashiosaka/",
-        "image_url": ""
+        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
       },
       "geometry": {
         "type": "Point",
@@ -2157,7 +2157,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DZuI9nkj0EG/?img_index=1",
-        "image_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/725860407_18590568658032420_8860855189953546567_n.jpg?stp=c655.0.1966.1966a_dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=4CQoyhMdtzsQ7kNvwGz9UY8&_nc_oc=Adpb0yaJ7cy1pJDeNC-irSNphFz1z2bjuo0W8KLlJihNgnOiHRBOs0WsbhkTHB2iXX4&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=-B-TMETu52ylS2AwaSkhUA&_nc_ss=7fa02&oh=00_Af-jkv0McFt7v-ATPfK9JjIAu7d7w2HU5Ss7tRMS3HstYQ&oe=6A423B92"
+        "image_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/725860407_18590568658032420_8860855189953546567_n.jpg?stp=c655.0.1966.1966a_dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=4CQoyhMdtzsQ7kNvwEbIPtW&_nc_oc=AdpmcjssKNyThFgpnZjYh0KuaMSRbg11nt10mKM0ERcOOvjzvcZDO-DAdRrKHlV74D8&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=tXotBBQ7G4yuaF-IWQg30w&_nc_ss=7f60f&oh=00_Af8Cp_jMQZp6XT9YgrPpk_Fa9mAzgOJrGdwaMFb4o_PFvg&oe=6A423B92"
       },
       "geometry": {
         "type": "Point",
@@ -2202,6 +2202,44 @@
         "coordinates": [
           135.2633683,
           34.37980149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）なら国際映画祭2026　ミャクミャクとせんとくんもゲストとして登場予定",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【なら国際映画祭2026　ミャクミャクとせんとくんもゲストとして登場予定】</b><br>📅 期間: 2026/09/19 ～ 2026/09/19<br>📝 「なら国際映画祭2026」の開催が決定！9月19日（土）には、世界遺産・東大寺大仏殿前で「祈りのレッドカーペット」が開催されます。映画の祭典でありながら、舞台は奈良の世界遺産。映画と祈りが交わる、特別なひとときになりそうです。\nさらに、ミャクミャクとせんとくんもゲストとして登場予定とのこと。大阪・関西万博から生まれた“いのち”のテーマが、奈良の地で新たな形につながっていく注目のアフター万博ニュースです。<br><br><a href='https://news.yahoo.co.jp/articles/f22c66cbebeb78f9b485fdfe511d114a6e6c57e0' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://news.yahoo.co.jp/articles/f22c66cbebeb78f9b485fdfe511d114a6e6c57e0",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260624-00010039-huffpost-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8439563,
+          34.68350869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）アフター万博「いのちを祝う」開催へ！クラゲ館の精神を未来へつなぐクラゲ祭り！",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【アフター万博「いのちを祝う」開催へ！クラゲ館の精神を未来へつなぐクラゲ祭り！】</b><br>📅 期間: 2026/08/08 ～ 2026/08/09<br>📝 大阪・関西万博のシグネチャーパビリオン「いのちの遊び場 クラゲ館」から生まれたアフター万博イベント、「いのちを祝う」の公式サイトがオープンし、チケット販売も始まっています！万博で生まれた世界とのつながりと共創の精神を未来へ。音楽、文化、対話、手仕事、食を通して、多様ないのちが響き合うイベントになるとのこと。KURAGE Bandや上方芸能、世界の文化に触れられる体験ブース、トーク、ワークショップ、キッチンカー、万博スタンプなども予定されており、まさに“クラゲ館の続きを楽しむ”アフター万博になりそうです！<br><br><a href='https://expokurage-2025.com/after-expo/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://expokurage-2025.com/after-expo/",
+        "image_url": "https://expokurage-2025.com/after-expo/img/ogp.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4145468,
+          34.63618572
         ]
       }
     }
