@@ -1226,7 +1226,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/nauruya_higashiosaka/",
-        "image_url": ""
+        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
       },
       "geometry": {
         "type": "Point",
@@ -2157,7 +2157,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DZuI9nkj0EG/?img_index=1",
-        "image_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/725860407_18590568658032420_8860855189953546567_n.jpg?stp=c655.0.1966.1966a_dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=4CQoyhMdtzsQ7kNvwHVSMV9&_nc_oc=AdomGyYeqgP7yWAKmf2ltnQtVtd9mgYwgb-2XFoMrQVpS3gCZSl9Y-zo3kZjBMl6NjM&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=QIIidGwuZiVjN0iKtXB1Mg&_nc_ss=7f60f&oh=00_Af_flAzNOojtZCfv62I_tME0vToxqY91M_6P2blwOzbjzw&oe=6A438D12"
+        "image_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/725860407_18590568658032420_8860855189953546567_n.jpg?stp=c655.0.1966.1966a_dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=4CQoyhMdtzsQ7kNvwHjJRIu&_nc_oc=AdrB3rbnEKdQE7UN19BW6QG0iFvgxBVt96Cw1D7BTm6tdwY-X2U2i4UA9O_psIWjyuo&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=kuF7t4LQzvp5SvpYCOjRlQ&_nc_ss=7f60f&oh=00_Af-fKe9ftotuAcIkNjpIkWjCYM6wFadfdU_fWNGmnNZhxQ&oe=6A43C552"
       },
       "geometry": {
         "type": "Point",
@@ -2240,6 +2240,25 @@
         "coordinates": [
           135.4145468,
           34.63618572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）万博で人気のチキンビリヤニが京都へ！ハラルムガルが四条烏丸に初出店！",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【万博で人気のチキンビリヤニが京都へ！ハラルムガルが四条烏丸に初出店！】</b><br>📅 期間: 2026/07/01 ～ 常設<br>📝 大阪・関西万博で人気を集めた「ハラルムガル」が、7月1日に京都・四条烏丸の「SUINA室町」へ初出店します！\n\n万博会場では、看板商品のチキンビリヤニを52,000食以上提供。今回の京都出店では、ハラル対応やヴィーガン対応メニューも展開予定とのこと。\n\n万博で生まれた“誰もが同じテーブルを囲める食体験”が、京都の日常へ広がっていく注目のレガシースポットです！<br><br><a href='https://prtimes.jp/main/html/rd/p/000000002.000179009.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://prtimes.jp/main/html/rd/p/000000002.000179009.html",
+        "image_url": "https://prcdn.freetls.fastly.net/release_image/179009/2/179009-2-c999918d7a4b458a5202cca148a11525-780x780.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7584536,
+          35.00338314
         ]
       }
     }
