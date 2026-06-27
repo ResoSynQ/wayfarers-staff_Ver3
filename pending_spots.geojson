@@ -6,6 +6,46 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "8月12日から人形劇フェスティバル開催　南房総（千葉県）(房日新聞)",
+        "name": "南房総市役所",
+        "address": "",
+        "reason": "人形劇の魅力と南房総の自然",
+        "date": "2026-06-28",
+        "link": "https://news.yahoo.co.jp/articles/35a355684e4ab1ad59d284a150cb5f0b528513aa?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260628-00010001-bonichi-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8401274,
+          35.0429901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "【桜坂劇場・下地久美子の映画コレ見た？】『エレノアってグレイト。』嘘だけど優しく温かい(沖縄タイムス)",
+        "name": "桜坂劇場",
+        "address": "",
+        "reason": "映画の温かい雰囲気が伝わるため",
+        "date": "2026-06-28",
+        "link": "https://news.yahoo.co.jp/articles/c414e499feb520f163ae3d4bebfcbc0101c0d9a0?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260628-01867249-okinawat-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.6901384,
+          26.2147706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "那古船形駅舎活用し地域活性化へ　JRと運営会社が事業協定　館山（千葉県）(房日新聞)",
         "name": "那古船形駅（JR）",
         "address": "",
