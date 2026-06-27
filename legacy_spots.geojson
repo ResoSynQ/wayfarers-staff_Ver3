@@ -618,7 +618,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.city.sakai.lg.jp/kanko/rekishi/sei/kohun_otozureru/mozukofungun_visitorcenter.html",
-        "image_url": "https://www.city.sakai.lg.jp/images/sakai_ogp_image.jpg"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -1226,7 +1226,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/nauruya_higashiosaka/",
-        "image_url": ""
+        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
       },
       "geometry": {
         "type": "Point",
@@ -2113,8 +2113,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "（予定）ウラマヨ！で「大阪・関西万博で盛り上がっていたアレ大丈夫ですかSP」放送！",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【ウラマヨ！で「大阪・関西万博で盛り上がっていたアレ大丈夫ですかSP」放送！】</b><br>📅 期間: 2026/06/27 ～ 2026/06/27<br>📝 スタジオにミャクミャクが出演！関西で食べられる万博グルメも紹介されるようです。<br><br><a href='https://www.ktv.jp/uramayo/' target='_blank'>🔗 詳細を開く</a>",
+        "name": "ウラマヨ！で「大阪・関西万博で盛り上がっていたアレ大丈夫ですかSP」放送！",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ウラマヨ！で「大阪・関西万博で盛り上がっていたアレ大丈夫ですかSP」放送！】</b><br>📅 期間: 2026/06/27 ～ 2026/06/27<br>📝 スタジオにミャクミャクが出演！関西で食べられる万博グルメも紹介されるようです。<br><br><a href='https://www.ktv.jp/uramayo/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false,
         "isKomyaku": false,
@@ -2157,7 +2157,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DZuI9nkj0EG/?img_index=1",
-        "image_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/725860407_18590568658032420_8860855189953546567_n.jpg?stp=c655.0.1966.1966a_dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=4CQoyhMdtzsQ7kNvwGwK_T4&_nc_oc=AdqT7GC95RgJLtv8DY6CHU-34GZNqC_ldhP2Y8LWrhT77sbDZrkCj8b-6BKJ5y76skk&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=_MOyAlcgN-lQ-B9bDCbTag&_nc_ss=7f60f&oh=00_Af8uCEU67NQ4Pd1mqhV1NXidPEgg_D0zMBd4SxcZo-98gA&oe=6A44DE92"
+        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
       },
       "geometry": {
         "type": "Point",
