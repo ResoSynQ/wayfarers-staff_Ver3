@@ -6,6 +6,86 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "「吽形像」初の解体修理終え帰還　奈良県葛城市の当麻寺　仁王像が4年ぶりそろう(奈良新聞デジタル)",
+        "name": "当麻寺駅（近鉄）",
+        "address": "",
+        "reason": "歴史的価値のある仁王像が4年ぶりに揃う貴重な機会",
+        "date": "2026-06-29",
+        "link": "https://news.yahoo.co.jp/articles/8bab49237b40f33f5b108bee740ee84549e0d1d7?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260629-00000001-naranp-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7060781,
+          34.5160034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "図書館で並ばなくていい？　静岡市がセルフ貸出機を7館で導入　７月１日から(静岡朝日テレビ)",
+        "name": "静岡県立中央図書館",
+        "address": "",
+        "reason": "図書館での待ち時間解消に期待できるため",
+        "date": "2026-06-29",
+        "link": "https://news.yahoo.co.jp/articles/37e0d65a3ef5f2cbc7ef53353dbb0280dfa74ebd?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260629-00091274-satvv-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.44612903,
+          34.99286138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "茅の輪くぐって健康願う　富山の多久比礼志神社で夏越の大祓(北日本新聞)",
+        "name": "多久比禮志神社",
+        "address": "",
+        "reason": "縁起の良い行事に見どころがあるため",
+        "date": "2026-06-29",
+        "link": "https://news.yahoo.co.jp/articles/d8d6a0e1070c6ba8c848ba49f4849df91eb8dca5?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260629-00000001-kitanihon-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.19075418,
+          36.59668537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "絵柄涼やか　五箇山和紙でうちわ作り(北日本新聞)",
+        "name": "南砺市五箇山和紙の里五箇山和紙体験館",
+        "address": "",
+        "reason": "伝統工芸体験で旅の思い出を作れる",
+        "date": "2026-06-29",
+        "link": "https://news.yahoo.co.jp/articles/cf07fa2ce6cf8b5975b27bf8e1cc71387d040408?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260629-00000002-kitanihon-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.9744372,
+          36.445276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "8月12日から人形劇フェスティバル開催　南房総（千葉県）(房日新聞)",
         "name": "南房総市役所",
         "address": "",
