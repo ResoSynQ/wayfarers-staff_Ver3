@@ -1226,7 +1226,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/nauruya_higashiosaka/",
-        "image_url": ""
+        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
       },
       "geometry": {
         "type": "Point",
@@ -2157,7 +2157,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DZuI9nkj0EG/?img_index=1",
-        "image_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/725860407_18590568658032420_8860855189953546567_n.jpg?stp=c655.0.1966.1966a_dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=jQadYk9Kg6cQ7kNvwGJ5dgf&_nc_oc=AdpvUK98NEsajTseUtVuio-8gCECy9RaiaN0iyAMNsJr-JssIFarqfA2Kiy8CLXK3Sg&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=z1vmnZOT5cAGL3DyCmrykw&_nc_ss=7f60f&oh=00_AQBjmVdtT8pb_tfilgbSBq_plMVF-qXRSyf_b1fdQCAjFw&oe=6A4A2492"
+        "image_url": "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-15/725860407_18590568658032420_8860855189953546567_n.jpg?stp=c655.0.1966.1966a_dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=jQadYk9Kg6cQ7kNvwF0n0B8&_nc_oc=AdqcJquP9YyB1mH3Wp5yyHUmWGor0Xh8t3D6xI9wl9lRTj2ATWEPZdMzngWcx1HeU2M&_nc_zt=23&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_gid=bmSAWRicJT1LvSZn1QY8xA&_nc_ss=7f60f&oh=00_AQD4MLBqrfy7TmG4SztI3tKPWBmluBXTS2W8dUWTlr38DA&oe=6A4A9512"
       },
       "geometry": {
         "type": "Point",
@@ -2214,7 +2214,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://news.yahoo.co.jp/articles/f22c66cbebeb78f9b485fdfe511d114a6e6c57e0",
-        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260624-00010039-huffpost-000-1-view.jpg?exp=10800"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -2246,8 +2246,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "（予定）万博で人気のチキンビリヤニが京都へ！ハラルムガルが四条烏丸に初出店！",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【万博で人気のチキンビリヤニが京都へ！ハラルムガルが四条烏丸に初出店！】</b><br>📅 期間: 2026/07/01 ～ 常設<br>📝 大阪・関西万博で人気を集めた「ハラルムガル」が、7月1日に京都・四条烏丸の「SUINA室町」へ初出店します！\n\n万博会場では、看板商品のチキンビリヤニを52,000食以上提供。今回の京都出店では、ハラル対応やヴィーガン対応メニューも展開予定とのこと。\n\n万博で生まれた“誰もが同じテーブルを囲める食体験”が、京都の日常へ広がっていく注目のレガシースポットです！<br><br><a href='https://prtimes.jp/main/html/rd/p/000000002.000179009.html' target='_blank'>🔗 詳細を開く</a>",
+        "name": "万博で人気のチキンビリヤニが京都へ！ハラルムガルが四条烏丸に初出店！",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【万博で人気のチキンビリヤニが京都へ！ハラルムガルが四条烏丸に初出店！】</b><br>📅 期間: 2026/07/01 ～ 常設<br>📝 大阪・関西万博で人気を集めた「ハラルムガル」が、7月1日に京都・四条烏丸の「SUINA室町」へ初出店します！\n\n万博会場では、看板商品のチキンビリヤニを52,000食以上提供。今回の京都出店では、ハラル対応やヴィーガン対応メニューも展開予定とのこと。\n\n万博で生まれた“誰もが同じテーブルを囲める食体験”が、京都の日常へ広がっていく注目のレガシースポットです！<br><br><a href='https://prtimes.jp/main/html/rd/p/000000002.000179009.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false,
         "isKomyaku": false,
