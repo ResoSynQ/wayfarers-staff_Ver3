@@ -808,7 +808,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://medicineinfra.com/site/expo2025/",
-        "image_url": ""
+        "image_url": "https://medicineinfra.com/wp-content/uploads/2025/03/ogp.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -827,7 +827,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://medicineinfra.com/site/expo2025/",
-        "image_url": ""
+        "image_url": "https://medicineinfra.com/wp-content/uploads/2025/03/ogp.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -1226,7 +1226,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/nauruya_higashiosaka/",
-        "image_url": ""
+        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
       },
       "geometry": {
         "type": "Point",
@@ -2157,7 +2157,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DZuI9nkj0EG/?img_index=1",
-        "image_url": "https://scontent-sin2-3.cdninstagram.com/v/t51.82787-15/725860407_18590568658032420_8860855189953546567_n.jpg?stp=c655.0.1966.1966a_dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=jQadYk9Kg6cQ7kNvwF-C6vp&_nc_oc=AdrTPQBffsNzH51F_DoxXWSA9p280Qcyu_v1zG3t8iZBSqNM8DbNTS9yvLqPQaHXO3Y&_nc_zt=23&_nc_ht=scontent-sin2-3.cdninstagram.com&_nc_gid=V3QuO9dy58HxHMukPNgfHw&_nc_ss=7f60f&oh=00_AQC8v6RorlcSTN_88NhJiO7-natoD4sbaI978z5wmq7bQA&oe=6A4B7612"
+        "image_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/725860407_18590568658032420_8860855189953546567_n.jpg?stp=c655.0.1966.1966a_dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=jQadYk9Kg6cQ7kNvwFSdbFe&_nc_oc=Ado_-NZGHwWkfBTCgEb6RLwEA_q4LQewrWMHUImL_7utj2eKWrIs9_jOwyzqpOnuCU8&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=bKQmczwuuALBpyopmMEUzw&_nc_ss=7f60f&oh=00_AQBuias4i_4gX5lweMHm8GGc-fku0YoMae4eGF1JZY9eAw&oe=6A4BAE52"
       },
       "geometry": {
         "type": "Point",
@@ -2259,6 +2259,63 @@
         "coordinates": [
           135.7584536,
           35.00338314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）ミライ人間洗濯機が箕面へ",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【ミライ人間洗濯機が箕面へ】</b><br>📅 期間: 2026/10/01 ～ 常設<br>📝 大阪・関西万博で大きな話題となった「ミライ人間洗濯機」が、Premium 箕面観光ホテル・箕面温泉スパーガーデンに初導入🎉\n\n最先端技術と温浴が融合した新感覚の入浴体験を、貸切風呂（当日予約制・各日限定）で楽しめます♨️\n\n📅2026年10月1日(木)リニューアルオープン\n📅予約受付：2026年7月1日(水)開始\n📍Premium 箕面観光ホテル・箕面温泉スパーガーデン（大阪府箕面市）\n\n万博で生まれた未来のお風呂が、関西の温泉施設で新たなレガシーとして受け継がれます！<br><br><a href='https://prtimes.jp/main/html/rd/p/000000711.000018653.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://prtimes.jp/main/html/rd/p/000000711.000018653.html",
+        "image_url": "https://prcdn.freetls.fastly.net/release_image/18653/711/18653-711-c1937e5808b4e7c0b016fa6116e35252-1200x800.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.468939,
+          34.83851433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）万博で話題の「そらクルーズ」が東京で常設展示へ",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【万博で話題の「そらクルーズ」が東京で常設展示へ】</b><br>📅 期間: 2026/08/01 ～ 常設<br>📝 大阪・関西万博で約13万人が体験したJALの没入型シアター「SoraCruise by Japan Airlines」が、東京のJAL SKY MUSEUMで常設展示されます🎉\n\nリアルな映像・立体音響・振動演出により、空飛ぶクルマに乗っているような没入体験が楽しめます🚁✨\n\n📅運用開始：2026年8月1日(土)\n📍JAL SKY MUSEUM（東京都）\n⏱上映：約3分30秒\n👥最大9名\n🎬企画・制作：ソニーPCL<br><br><a href='https://press.jal.co.jp/ja/release/202606/009601.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://press.jal.co.jp/ja/release/202606/009601.html",
+        "image_url": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7888977,
+          35.54167621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）ミャクミャクモニュメント（いらっしゃい）が道頓堀へ",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【ミャクミャクモニュメント（いらっしゃい）が道頓堀へ】</b><br>📅 期間: 2026/07/06 ～ 2026/08/31<br>📝 設置期間は2026年7月6日(月)から8月31日(月)まで！\r\n大阪を代表する観光名所にミャクミャクが現れることで、新たなフォトスポットとして注目されそうです\r\n\r\n万博誘致の象徴だった「げんこつオブジェ」の跡地に設置されるのも、万博の歩みと記憶を未来へつなぐレガシーとして熱いポイントです🔥<br><br><a href='https://www.watch.impress.co.jp/docs/news/2120488.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.watch.impress.co.jp/docs/news/2120488.html",
+        "image_url": "https://www.watch.impress.co.jp/img/ipw/list/2120/488/osaka_00.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5014872,
+          34.66872848
         ]
       }
     }
