@@ -181,7 +181,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://prtimes.jp/main/html/rd/p/000000212.000139670.html",
-        "image_url": "https://prcdn.freetls.fastly.net/release_image/139670/212/139670-212-d91cf16550fc3b359342f89d4f8e4493-2225x694.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -219,7 +219,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.chion-in.or.jp/news/6406/",
-        "image_url": ""
+        "image_url": "https://www.chion-in.or.jp/wp/wp-content/uploads//2025/10/上段-1-300x241.jpg?1761812847"
       },
       "geometry": {
         "type": "Point",
@@ -2157,7 +2157,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DZuI9nkj0EG/?img_index=1",
-        "image_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/725860407_18590568658032420_8860855189953546567_n.jpg?stp=c655.0.1966.1966a_dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=jQadYk9Kg6cQ7kNvwGyz8n0&_nc_oc=Ado6YbmEFdEXbU72ybU6KGg8JBVbYPLLUODT0sBqnOz94matb5TYj3odMz5LydzZn3Y&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=hn4eDSUrwHwi4cWe5YJHog&_nc_ss=7f60f&oh=00_AQAloVJ4cobeFx1w0loxwV5CvqGUN82HaHOuPJemDsQPXg&oe=6A4BE692"
+        "image_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/725860407_18590568658032420_8860855189953546567_n.jpg?stp=c655.0.1966.1966a_dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=jQadYk9Kg6cQ7kNvwE_nxRY&_nc_oc=Adp_fL9HhPfuIDMMDjdfSx-s69LIuz0I3j6Wi7mg96FcZKtbADgn7ggNPFz05nEyLtg&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=8-sHJ-o7ckN3Yi-lmJlV7A&_nc_ss=7f60f&oh=00_AQCdzl98Pd9qpTVwNxAnRDsitThR2b6xHISx22AdbWk9xQ&oe=6A4BE692"
       },
       "geometry": {
         "type": "Point",
@@ -2411,6 +2411,25 @@
         "coordinates": [
           135.494361,
           34.705778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）アフター万博 WORLD hands〜世界のつづき〜（なんばマルイ外広場）",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【アフター万博 WORLD hands〜世界のつづき〜（なんばマルイ外広場）】</b><br>📅 期間: 2026/07/11 ～ 2026/08/09<br>📝 なんばマルイ外広場で開催される「アフター万博 WORLD hands〜世界のつづき〜」。万博で出会った世界のワクワクをもう一度楽しめる週末イベントとして、世界のハンドクラフト、グルメ、スイーツなどが集まる。開催日は7/11〜12、7/18〜20、8/1〜2、8/8〜9、時間は11:00〜19:30。<br><br><a href='https://www.instagram.com/after.expo.event/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.instagram.com/after.expo.event/",
+        "image_url": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.500757,
+          34.6654
         ]
       }
     }
