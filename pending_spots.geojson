@@ -6,6 +6,46 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "今月は天神祭　大阪天満宮で公式キャラクターが誕生(関西テレビ)",
+        "name": "天満宮",
+        "address": "",
+        "reason": "公式キャラクター誕生という話題性が来訪意欲を刺激する",
+        "date": "2026-07-03",
+        "link": "https://news.yahoo.co.jp/articles/cda8b4b3a6709ff6e3226e2c8c493ff3f7f2b2cc?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260703-90028105-kantelev-000-1-thumb.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.47249184,
+          34.63476945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "「定期便化につなげたい」北九州と台湾・台中を結ぶチャーター便就航　九州旅行人気と小倉・大分方面へのアクセスの良さ背景に(RKB毎日放送)",
+        "name": "エホバの証人の福岡県北九州市戸畑牧山会衆",
+        "address": "",
+        "reason": "台湾・台中との定期便化を目指すチャーター便就航により、北九州の魅力が国内外へ発信され、旅行意欲を掻き立てるため。",
+        "date": "2026-07-03",
+        "link": "https://news.yahoo.co.jp/articles/617b38290ed2dbef60eb8114fbe417c69c074ae8?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260703-22777329-rkbv-000-1-thumb.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.80786104,
+          33.89302927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "「吽形像」初の解体修理終え帰還　奈良県葛城市の当麻寺　仁王像が4年ぶりそろう(奈良新聞デジタル)",
         "name": "当麻寺駅（近鉄）",
         "address": "",
