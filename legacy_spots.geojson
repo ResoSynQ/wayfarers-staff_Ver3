@@ -219,7 +219,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.chion-in.or.jp/news/6406/",
-        "image_url": "https://www.chion-in.or.jp/wp/wp-content/uploads//2025/10/上段-1-300x241.jpg?1761812847"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -1226,7 +1226,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/nauruya_higashiosaka/",
-        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -1929,7 +1929,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://jpn.mizuno.com/dicontents/osaka_expo2025/after_event?utm_source=twitter&utm_medium=social&utm_campaign=sndilhwk_afterexpo&utm_content=260617",
-        "image_url": ""
+        "image_url": "https://jpn.mizuno.com/sites/default/files/2022-02/MRB400_400.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -2157,7 +2157,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DZuI9nkj0EG/?img_index=1",
-        "image_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/725860407_18590568658032420_8860855189953546567_n.jpg?stp=c655.0.1966.1966a_dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=jQadYk9Kg6cQ7kNvwGTyMVe&_nc_oc=Adq9zNCEOyQjGmz0lDfAPId9LFaPx0_CT1iHgq7YfJ0QjR6B5YHJCvd4P_rsIQ-hhOE&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=K0oHivyk2nOCXJi2NXd6aw&_nc_ss=7f60f&oh=00_AQBdXrftmNTjeerF7dwiDavi4hMOi9v_XipEs4RwOGYCmw&oe=6A4BE692"
+        "image_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/725860407_18590568658032420_8860855189953546567_n.jpg?stp=c655.0.1966.1966a_dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=jQadYk9Kg6cQ7kNvwG0Dtcf&_nc_oc=Ado9BYLLonRGBPXv29oVzVPNdM8BN5eKJ5bz1lV05zvHxGUYR1k5PIneZ3X3XL7tIPs&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=7liUdoaIGrCpPEAMVHqsrg&_nc_ss=7f60f&oh=00_AQB6SsIuODmke4S2A05k51__cv6EWukk6QVqet-5aPXvzQ&oe=6A4BE692"
       },
       "geometry": {
         "type": "Point",
@@ -2430,6 +2430,25 @@
         "coordinates": [
           135.500757,
           34.6654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ミャクミャクPVCキーホルダー透明CLEAR（通天閣3階セレクトショップ）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ミャクミャクPVCキーホルダー透明CLEAR（通天閣3階セレクトショップ）】</b><br>📅 期間: 2026/07/01 ～ 常設<br>📝 通天閣3階セレクトショップに、株式会社FUJISEYのEXPO2025公式ライセンス商品「ミャクミャクPVCキーホルダー 透明CLEAR」が入荷。税込1,320円。万博閉幕後も、新世界のランドマークでミャクミャクグッズに出会える物販スポット。<br><br><a href='https://x.com/tsutenkaku/status/2072251800065839293' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": true,
+        "isKomyaku": false,
+        "link": "https://x.com/tsutenkaku/status/2072251800065839293",
+        "image_url": "https://pbs.twimg.com/media/HMIeBpTa0AA6pQ0.jpg:large"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5063,
+          34.652458
         ]
       }
     }
