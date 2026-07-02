@@ -2157,7 +2157,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DZuI9nkj0EG/?img_index=1",
-        "image_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/725860407_18590568658032420_8860855189953546567_n.jpg?stp=c655.0.1966.1966a_dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=jQadYk9Kg6cQ7kNvwFSdbFe&_nc_oc=Ado_-NZGHwWkfBTCgEb6RLwEA_q4LQewrWMHUImL_7utj2eKWrIs9_jOwyzqpOnuCU8&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=bKQmczwuuALBpyopmMEUzw&_nc_ss=7f60f&oh=00_AQBuias4i_4gX5lweMHm8GGc-fku0YoMae4eGF1JZY9eAw&oe=6A4BAE52"
+        "image_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/725860407_18590568658032420_8860855189953546567_n.jpg?stp=c655.0.1966.1966a_dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=jQadYk9Kg6cQ7kNvwFRNr2S&_nc_oc=AdqtFD5XBekU-yb0Mw1uNMImgkQH3rHHsXXEd529L4wNn2Mm9rtNzAA4yGMwxjz60F8&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=-Yk9FXwJ15CDT_Udej4-9g&_nc_ss=7f60f&oh=00_AQAt-u8zJa9813INO25H01j5YFCWHXEvL4QYvTQ1cgV5jQ&oe=6A4BE692"
       },
       "geometry": {
         "type": "Point",
@@ -2316,6 +2316,82 @@
         "coordinates": [
           135.5014872,
           34.66872848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EXPO 2025 ART BLOOM by A4 GALLERY 大阪会場（あべのハルカス近鉄本店）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【EXPO 2025 ART BLOOM by A4 GALLERY 大阪会場（あべのハルカス近鉄本店）】</b><br>📅 期間: 2026/07/02 ～ 2026/07/20<br>📝 大阪・関西万博公式キャラクター「ミャクミャク」など万博IPを使用したアート作品を巡回展示するアートプロジェクト。国内外の人気アーティストによる作品に加え、サッカーをテーマにしたオリジナルアートやグッズも登場。LEGACY展も同時開催。<br><br><a href='https://a4tokyo.myshopify.com/collections/expo-2025-art-bloom-by-a4-gallery' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://a4tokyo.myshopify.com/collections/expo-2025-art-bloom-by-a4-gallery",
+        "image_url": "http://a4tokyo.myshopify.com/cdn/shop/collections/1_dfec591a-9191-432c-9354-5b767bfb0b81.jpg?v=1753428515"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.513415,
+          34.646004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）EXPO 2025 ART BLOOM by A4 GALLERY 名古屋会場（イオンモール Nagoya Noritake Garden）",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【EXPO 2025 ART BLOOM by A4 GALLERY 名古屋会場（イオンモール Nagoya Noritake Garden）】</b><br>📅 期間: 2026/07/25 ～ 2026/08/02<br>📝 大阪・関西万博公式キャラクター「ミャクミャク」など万博IPを使用したアート作品を巡回展示するアートプロジェクト。国内外の人気アーティストによる作品に加え、サッカーをテーマにしたオリジナルアートやグッズも登場。LEGACY展も同時開催。<br><br><a href='https://a4tokyo.myshopify.com/collections/expo-2025-art-bloom-by-a4-gallery' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://a4tokyo.myshopify.com/collections/expo-2025-art-bloom-by-a4-gallery",
+        "image_url": "http://a4tokyo.myshopify.com/cdn/shop/collections/1_dfec591a-9191-432c-9354-5b767bfb0b81.jpg?v=1753428515"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.880304,
+          35.179965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）EXPO 2025 ART BLOOM by A4 GALLERY 三重会場（イオンモール津南）",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【EXPO 2025 ART BLOOM by A4 GALLERY 三重会場（イオンモール津南）】</b><br>📅 期間: 2026/08/07 ～ 2026/08/16<br>📝 大阪・関西万博公式キャラクター「ミャクミャク」など万博IPを使用したアート作品を巡回展示するアートプロジェクト。国内外の人気アーティストによる作品に加え、サッカーをテーマにしたオリジナルアートやグッズも登場。LEGACY展も同時開催。<br><br><a href='https://a4tokyo.myshopify.com/collections/expo-2025-art-bloom-by-a4-gallery' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://a4tokyo.myshopify.com/collections/expo-2025-art-bloom-by-a4-gallery",
+        "image_url": "http://a4tokyo.myshopify.com/cdn/shop/collections/1_dfec591a-9191-432c-9354-5b767bfb0b81.jpg?v=1753428515"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.517958,
+          34.670349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）EXPO 2025 ART BLOOM by A4 GALLERY 和歌山会場（近鉄百貨店和歌山店）",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【EXPO 2025 ART BLOOM by A4 GALLERY 和歌山会場（近鉄百貨店和歌山店）】</b><br>📅 期間: 2026/08/19 ～ 2026/09/01<br>📝 大阪・関西万博公式キャラクター「ミャクミャク」など万博IPを使用したアート作品を巡回展示するアートプロジェクト。国内外の人気アーティストによる作品に加え、サッカーをテーマにしたオリジナルアートやグッズも登場。LEGACY展も同時開催。<br><br><a href='https://a4tokyo.myshopify.com/collections/expo-2025-art-bloom-by-a4-gallery' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://a4tokyo.myshopify.com/collections/expo-2025-art-bloom-by-a4-gallery",
+        "image_url": "http://a4tokyo.myshopify.com/cdn/shop/collections/1_dfec591a-9191-432c-9354-5b767bfb0b81.jpg?v=1753428515"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.190588,
+          34.233136
         ]
       }
     }
