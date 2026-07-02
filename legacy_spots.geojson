@@ -219,7 +219,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.chion-in.or.jp/news/6406/",
-        "image_url": "https://www.chion-in.or.jp/wp/wp-content/uploads//2025/10/上段-1-300x241.jpg?1761812847"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -1226,7 +1226,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/nauruya_higashiosaka/",
-        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -2157,7 +2157,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DZuI9nkj0EG/?img_index=1",
-        "image_url": "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-15/725860407_18590568658032420_8860855189953546567_n.jpg?stp=c655.0.1966.1966a_dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=jQadYk9Kg6cQ7kNvwEVYcaV&_nc_oc=AdpdlX6FKzhHQzQY-3UsVXu6HMTOIXVtoN3R82-4NT0WtOjjlKZCKkTlhmtZ1wLEKLQ&_nc_zt=23&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_gid=pGeipruPt64xEPda6sdW1g&_nc_ss=7f60f&oh=00_AQCWjtw8tE6nv2nL26kv_MuTXSiAFE6FFdL1sxcV_cHHUQ&oe=6A4BE692"
+        "image_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/725860407_18590568658032420_8860855189953546567_n.jpg?stp=c655.0.1966.1966a_dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=jQadYk9Kg6cQ7kNvwGyz8n0&_nc_oc=Ado6YbmEFdEXbU72ybU6KGg8JBVbYPLLUODT0sBqnOz94matb5TYj3odMz5LydzZn3Y&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=hn4eDSUrwHwi4cWe5YJHog&_nc_ss=7f60f&oh=00_AQAloVJ4cobeFx1w0loxwV5CvqGUN82HaHOuPJemDsQPXg&oe=6A4BE692"
       },
       "geometry": {
         "type": "Point",
@@ -2392,6 +2392,25 @@
         "coordinates": [
           135.190588,
           34.233136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）麦食音祭GG PASONA NATUREVERSE アフター万博特別企画",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【麦食音祭GG PASONA NATUREVERSE アフター万博特別企画】</b><br>📅 期間: 2026/07/10 ～ 2026/07/12<br>📝 グラングリーン大阪 うめきた公園で開催される国際フェスティバル「麦食音祭GG」に、PASONA NATUREVERSEによるアフター万博特別ブースが出展。限定グッズ販売に加え、万博パビリオンでアテンダントが着用していたユニフォームの試着体験などを実施。ハローキティ出演やサーキュラー公式販売所、GREEN DA・KA・RAの熱中症対策企画も展開される。<br><br><a href='https://prtimes.jp/main/html/rd/p/000000171.000067685.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://prtimes.jp/main/html/rd/p/000000171.000067685.html",
+        "image_url": "https://prcdn.freetls.fastly.net/release_image/67685/171/67685-171-7d65fb7c8a75981ef255421255bf071d-1913x2700.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.494361,
+          34.705778
         ]
       }
     }
