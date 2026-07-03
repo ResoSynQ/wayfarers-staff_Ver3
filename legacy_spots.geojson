@@ -1226,7 +1226,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/nauruya_higashiosaka/",
-        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -2157,7 +2157,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DZuI9nkj0EG/?img_index=1",
-        "image_url": "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-15/725860407_18590568658032420_8860855189953546567_n.jpg?stp=c655.0.1966.1966a_dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=jQadYk9Kg6cQ7kNvwGg0E3E&_nc_oc=Adr0jBsj-4umUAT8lIO6S2F3ZKLVfyxt3TLRz0MPFySlU1C0gZr7v9VVeB5qykXEVRQ&_nc_zt=23&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_gid=uHYUsl_lW9t4wDgE5DQ52w&_nc_ss=7f60f&oh=00_AQCSMv-yXMy4vp7H0XXrwHPDPCvYlAFXUbCEYWlRN3_CGw&oe=6A4D3812"
+        "image_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/725860407_18590568658032420_8860855189953546567_n.jpg?stp=c655.0.1966.1966a_dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=jQadYk9Kg6cQ7kNvwFqciN5&_nc_oc=AdpDk9ZL9QIVHWKgENplpF7VAQQ_1lojJ559xFVile-FpdpU1L9uIsWRYZxCJJt_74A&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=pOvv89wGjyXHsbytT3RfMg&_nc_ss=7f60f&oh=00_AQBFqyvzWEZo19FuiApHTlObBbVNC-FPWITZOlO8saxVGg&oe=6A4DA892"
       },
       "geometry": {
         "type": "Point",
@@ -2423,7 +2423,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/after.expo.event/",
-        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -2449,6 +2449,177 @@
         "coordinates": [
           135.5063,
           34.652458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "WHX Osaka 2026（インテックス大阪）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【WHX Osaka 2026（インテックス大阪）】</b><br>📅 期間: 2026/07/02 ～ 2026/07/04<br>📝 大阪・関西万博の理念を継承するヘルスケア総合イベント。日本の先端医療技術・サービスを世界へ発信する国際展示会・カンファレンスとして、万博レガシーゾーンや大阪パビリオンを展開し、医療・ヘルスケア分野の国際交流とビジネス創出を促進する。<br><br><a href='https://www.worldhealthexpo.com/events/healthcare/japan/ja/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.worldhealthexpo.com/events/healthcare/japan/ja/",
+        "image_url": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.421809,
+          34.637622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）万博バーラトフェス2026 SUMMER／ビリヤニ祭",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【万博バーラトフェス2026 SUMMER／ビリヤニ祭】</b><br>📅 期間: 2026/08/22 ～ 2026/08/23<br>📝 万博記念公園（上の広場）で開催されるインド文化フェス。全国の本格ビリヤニ、インドフードやスイーツ、雑貨、民族衣装、音楽・ダンス、ヨガ、カバディやクリケットなどを通じ、万博後もインド文化との交流を継続するイベント。<br><br><a href='https://www.expo-bharat.jp/bharat-fes' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.expo-bharat.jp/bharat-fes",
+        "image_url": "https://static.wixstatic.com/media/9f5db7_f4149fee544e4b1391c56c4ec8ead853%7Emv2.png/v1/fit/w_2500,h_1330,al_c/9f5db7_f4149fee544e4b1391c56c4ec8ead853%7Emv2.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.530373,
+          34.809953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "黒ミャクミャクコラボルーム（変なホテル大阪 なんば）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【黒ミャクミャクコラボルーム（変なホテル大阪 なんば）】</b><br>📅 期間: 2026/07/03 ～ 常設<br>📝 変なホテル大阪 なんばで展開される、大阪・関西万博公式キャラクター「ミャクミャク」とのコラボ企画第4弾。話題の黒ミャクミャクで客室をデザインし、ホテルオリジナルのスタンプ台やタンブラー、ミラー、ルームキー風カードが付く宿泊プラン。<br><br><a href='https://www.hishotelgroup.com/news/3265/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.hishotelgroup.com/news/3265/",
+        "image_url": "https://www.hishotelgroup.com/img/common/ogp.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.49854,
+          34.671294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "黒ミャクミャクコラボルーム（変なホテル大阪 心斎橋）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【黒ミャクミャクコラボルーム（変なホテル大阪 心斎橋）】</b><br>📅 期間: 2026/07/03 ～ 常設<br>📝 変なホテル大阪 心斎橋で展開される、大阪・関西万博公式キャラクター「ミャクミャク」とのコラボ企画第4弾。話題の黒ミャクミャクで客室をデザインし、ホテルオリジナルのスタンプ台やタンブラー、ミラー、ルームキー風カードが付く宿泊プラン。<br><br><a href='https://www.hishotelgroup.com/news/3265/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.hishotelgroup.com/news/3265/",
+        "image_url": "https://www.hishotelgroup.com/img/common/ogp.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.502327,
+          34.67564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "黒ミャクミャクコラボルーム（変なリゾート＆スパ 関西空港）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【黒ミャクミャクコラボルーム（変なリゾート＆スパ 関西空港）】</b><br>📅 期間: 2026/07/03 ～ 常設<br>📝 変なリゾート＆スパ 関西空港で展開される、大阪・関西万博公式キャラクター「ミャクミャク」とのコラボ企画第4弾。話題の黒ミャクミャクで客室をデザインし、ホテルオリジナルのスタンプ台やタンブラー、ミラー、ルームキー風カードが付く宿泊プラン。<br><br><a href='https://www.hishotelgroup.com/news/3265/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.hishotelgroup.com/news/3265/",
+        "image_url": "https://www.hishotelgroup.com/img/common/ogp.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.29884,
+          34.414993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）泉州ビーチランタンフェス vol.7（SENNAN LONG PARK／タルイサザンビーチ）",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【泉州ビーチランタンフェス vol.7（SENNAN LONG PARK／タルイサザンビーチ）】</b><br>📅 期間: 2026/07/04 ～ 2026/07/05<br>📝 SENNAN LONG PARKおよびタルイサザンビーチで開催される夏のランタンイベント。2026年は万博特別企画として赤・青の特別カラーランタンが登場し、会場にはミャクミャク像も設置予定。泉南の海辺で、万博の記憶を光の景色として楽しめるイベント。<br><br><a href='https://prtimes.jp/main/html/rd/p/000000087.000147733.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://prtimes.jp/main/html/rd/p/000000087.000147733.html",
+        "image_url": "https://prcdn.freetls.fastly.net/release_image/147733/87/147733-87-c856b5ea4f41c4e02eaeabfae43f3386-1700x963.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.264178,
+          34.381094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）大阪・関西万博の盛り上がりをもう一度！サキタハヂメ氏と創る特別ワークショップ",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【大阪・関西万博の盛り上がりをもう一度！サキタハヂメ氏と創る特別ワークショップ】</b><br>📅 期間: 2026/08/01 ～ 2026/08/01<br>📝 河内長野市の市民交流センターキックスで開催される、世界的ミュージカルソー奏者・サキタハヂメ氏を招いた体験型ワークショップ。音をつくる体験に加え、河内長野で進行中のビッグプロジェクト紹介や、自分に合った関わり方を見つけるワークを実施。万博後の地域共創につながる市民参加型イベント。<br><br><a href='https://www.city.kawachinagano.lg.jp/soshiki/33/126801.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.city.kawachinagano.lg.jp/soshiki/33/126801.html",
+        "image_url": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5603541,
+          34.4544103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）たくろう万博 TAKURO EXPO（万博記念公園 もみじ川芝生広場）",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【たくろう万博 TAKURO EXPO（万博記念公園 もみじ川芝生広場）】</b><br>📅 期間: 2026/11/07 ～ 2026/11/08<br>📝 M-1グランプリ2025王者・たくろうが主宰する大型イベント。大阪・関西万博で話題となったよしもとwaraii myraii館の「万博盆踊り」が帰ってくるほか、大阪・関西万博で設置されていたスタンプの一部も登場予定。ミャクミャクとのコラボグッズ展開も予定されている。<br><br><a href='https://myakumyakuhouse.jp/greeting/detail/377/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://myakumyakuhouse.jp/greeting/detail/377/",
+        "image_url": "https://myakumyakuhouse.jp/assets/images/ogp.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5270591,
+          34.8101825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）ミャクミャク塗装ワークショップ（ホビーロビー大阪）",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【ミャクミャク塗装ワークショップ（ホビーロビー大阪）】</b><br>📅 期間: 2026/07/18 ～ 常設<br>📝 海洋堂ホビーロビー大阪で開催される、EXPO2025公式キャラクター・ミャクミャクフィギュアを自由に塗装できる体験ワークショップ。2025年に好評だった企画が新世界の新拠点で復活。参加年齢は6歳以上、所要時間60分、参加料2,500円（税込）。塗装できるポーズは「お座り」「寝ころび」の2種類で、ポーズは選択不可。<br><br><a href='https://x.com/HLO_kaiyodo/status/2072879440439455933' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": true,
+        "isKomyaku": false,
+        "link": "https://x.com/HLO_kaiyodo/status/2072879440439455933",
+        "image_url": "https://pbs.twimg.com/media/HMRY3Hla8AAc2QG.jpg:large"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.50678,
+          34.65252
         ]
       }
     }
