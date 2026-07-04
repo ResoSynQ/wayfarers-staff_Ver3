@@ -6,6 +6,66 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "レッサーパンダじゃダメですか？　上野のパンダ返還で再注目？　かわいいだけじゃない　実は絶滅危惧種…レッサーパンダを守る最前線(静岡朝日テレビ)",
+        "name": "静岡市役所文化・観光施設　日本平動物園",
+        "address": "",
+        "reason": "レッサーパンダの魅力と保護活動への共感が来園を促す",
+        "date": "2026-07-05",
+        "link": "https://news.yahoo.co.jp/articles/8119ae0b64cbd5e3a6c7f273eb1c14414a15540d?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260705-00091094-satvv-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.438029166667,
+          34.980403888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "地域応援クーポン券を配布　市民全員に1万5000円分　南房総市（千葉県）(房日新聞)",
+        "name": "南房総市役所",
+        "address": "",
+        "reason": "経済的なメリットがあり、地域への関心が高まるため",
+        "date": "2026-07-05",
+        "link": "https://news.yahoo.co.jp/articles/19a625144a3985ac444db892fa2ceaf93e448e85?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260705-00010001-bonichi-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8401274,
+          35.0429901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "【桜坂劇場・下地久美子の映画コレ見た？】『マダム・ソワ・セヴェンヌ』自然へ感謝と畏敬の念(沖縄タイムス)",
+        "name": "桜坂劇場",
+        "address": "",
+        "reason": "映画の魅力と感動が伝わる",
+        "date": "2026-07-05",
+        "link": "https://news.yahoo.co.jp/articles/3225e6848529bba4a5826e0e6ce2fae8f068384d?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260705-01872446-okinawat-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.6901384,
+          26.2147706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "今月は天神祭　大阪天満宮で公式キャラクターが誕生(関西テレビ)",
         "name": "天満宮",
         "address": "",
