@@ -764,25 +764,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "大阪・関西万博 迎賓館を彩ったタペストリー特別展示\r",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【大阪・関西万博 迎賓館を彩ったタペストリー特別展示\r】</b><br>📅 期間: 時期---- ～ 2026/06/30<br>📝 万博会期中は一般非公開だった「迎賓館」の特製タペストリーが、好評につき東京ショールームで期間延長展示されています。国内外の賓客を迎えた、現代美術作家・川人綾氏デザインの美しい作品を間近で鑑賞できる貴重な機会です。<br><br><a href='https://www.kawashimaselkon.co.jp/info/news/20260421-01/' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://www.kawashimaselkon.co.jp/info/news/20260421-01/",
-        "image_url": "https://www.kawashimaselkon.co.jp/contents/files/sites/2/2025/12/20251218-01-s.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.7976933,
-          35.65067133
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "大阪・関西万博の『スマートポール』移設",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【大阪・関西万博の『スマートポール』移設】</b><br>📅 期間: 2026/05/01 ～ 常設<br>📝 大阪・関西万博の「未来の都市」パビリオン前に設置されていた多機能ポール『スマートポール』が、神戸のウォーターフロントエリアへ移設されました。5月1日の夕方から点灯が開始され、神戸の海辺の景色を新たに彩ります。<br><br><a href='https://kobe-journal.com/archives/7547745875.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
@@ -1486,25 +1467,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "EXPO2025公式ストアが新大阪駅に期間限定で復活！「23・24番線ホーム 7号車付近」",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【EXPO2025公式ストアが新大阪駅に期間限定で復活！「23・24番線ホーム 7号車付近」】</b><br>📅 期間: 2026/06/01 ～ 2026/07/05<br>📝 万博期間中に惜しまれつつ営業を終えた公式ストアが、お客さんの声を受けて新大阪駅の新幹線ホーム上に期間限定で再登場！雑貨を中心に、EXPO2025の思い出をもう一度手に取れるスポットです。<br><br><a href='https://www.jr-plus.co.jp/news/2026/05/000736/' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": true,
-        "isKomyaku": false,
-        "link": "https://www.jr-plus.co.jp/news/2026/05/000736/",
-        "image_url": "https://www.jr-plus.co.jp/files/2025%E5%A4%A7%E9%98%AA%E3%83%BB%E9%96%A2%E8%A5%BF%E4%B8%87%E5%8D%9A%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%B9%E3%83%88%E3%82%A2%20JR%E6%96%B0%E5%A4%A7%E9%98%AA%E9%A7%85%20%E6%96%B0%E5%B9%B9%E7%B7%9A%E3%83%9B%E3%83%BC%E3%83%A0%E5%BA%97.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.5002572,
-          34.73349689
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "万博パビリオンを彩った西陣織が大阪公立大学で常設展示へ！",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【万博パビリオンを彩った西陣織が大阪公立大学で常設展示へ！】</b><br>📅 期間: 2026/05/25 ～ 常設<br>📝 大阪・関西万博の「飯田グループ×大阪公立大学共同出展館」で外装に使われた美しい西陣織が、屏風状に加工されて森之宮キャンパスへ移設されました。パビリオンのレプリカとともに、万博の記憶と日本の伝統美を未来へつなぐ常設展示です。<br><br><a href='https://www.omu.ac.jp/info/news/entry-24179.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
@@ -1518,44 +1480,6 @@
         "coordinates": [
           135.5393503,
           34.68706212
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "変なホテル大阪 心斎橋 みゃくみゃくルーム 期間延長！",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【変なホテル大阪 心斎橋 みゃくみゃくルーム 期間延長！】</b><br>📅 期間: 時期---- ～ 2026/06/30<br>📝 EXPO2025公式キャラクター・ミャクミャクの世界観を体験できる特別な客室「ミャクミャクコラボルーム」「ミャクミャクコラボルームプレミア」の宿泊対象期間が、2026年6月30日（火）宿泊分まで延長されることになりました。<br><br><a href='https://www.hennnahotel.com/shinsaibashi/news/5285/' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://www.hennnahotel.com/shinsaibashi/news/5285/",
-        "image_url": "https://www.hennnahotel.com/shinsaibashi/wp-content/uploads/2018/06/0619_OGP.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.5021893,
-          34.67574972
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "変なホテル大阪 なんば みゃくみゃくルーム 期間延長！",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【変なホテル大阪 なんば みゃくみゃくルーム 期間延長！】</b><br>📅 期間: 時期---- ～ 2026/06/30<br>📝 EXPO2025公式キャラクター・ミャクミャクの世界観を体験できる特別な客室「ミャクミャクコラボルーム」「ミャクミャクコラボルームプレミア」の宿泊対象期間が、2026年6月30日（火）宿泊分まで延長されることになりました。<br><br><a href='https://www.hennnahotel.com/nishishinsaibashi/news/4767/' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://www.hennnahotel.com/nishishinsaibashi/news/4767/",
-        "image_url": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.4985503,
-          34.67133453
         ]
       }
     },
@@ -1651,25 +1575,6 @@
         "coordinates": [
           135.490461,
           34.69254762
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EXPO2025公式ポップアップストア　高島屋大阪店",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【EXPO2025公式ポップアップストア　高島屋大阪店】</b><br>📅 期間: 2026/06/10 ～ 2026/06/22<br>📝 2026年1月の開催で大好評を博したEXPO2025オフィシャルポップアップストアが、6月10日(水)〜22日(月)に高島屋大阪店で再びオープンします。<br><br><a href='https://www.takashimaya.co.jp/osaka/topics/10_1_20260508140607/?category=event#contents' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": true,
-        "isKomyaku": false,
-        "link": "https://www.takashimaya.co.jp/osaka/topics/10_1_20260508140607/?category=event#contents",
-        "image_url": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.5012204,
-          34.6647986
         ]
       }
     },
@@ -2157,7 +2062,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DZuI9nkj0EG/?img_index=1",
-        "image_url": "https://scontent-sin2-3.cdninstagram.com/v/t51.82787-15/725860407_18590568658032420_8860855189953546567_n.jpg?stp=c655.0.1966.1966a_dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=zaqFu8pvjZ0Q7kNvwHKy4_5&_nc_oc=AdqfPeHayI1ncSg32RoPt-QwjHCU9hiPVxp0qL4lHxmDas35KNn5xgmfeBQ7KBa0aBo&_nc_zt=23&_nc_ht=scontent-sin2-3.cdninstagram.com&_nc_gid=C_jkFNh7xNvJna_OPCPKyA&_nc_ss=7f60f&oh=00_AQC7lXVsyODy52jpEujn2SxlLPIrlr_4DvHjbSzj_jN2IQ&oe=6A4FDB12"
+        "image_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/725860407_18590568658032420_8860855189953546567_n.jpg?stp=c655.0.1966.1966a_dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=zaqFu8pvjZ0Q7kNvwH10PT7&_nc_oc=AdowotFSkzcqIvHphAOd1xtqkWD_co_ciHwidmMCYyinbwarqQBQJbl5uJIxeqx8p7g&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=kml4IV1ccMz3AJK5M-NAhA&_nc_ss=7f60f&oh=00_AQDbHon_9yVXw2yTURU1e4T-lCVrSeAyoF1LtayKhBZfbQ&oe=6A504B92"
       },
       "geometry": {
         "type": "Point",
@@ -2632,7 +2537,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/kakogawa_yamatoyashiki/p/DaXZACimvaL/",
-        "image_url": "https://scontent-sin2-1.cdninstagram.com/v/t51.82787-15/731187431_18329705428260128_398122673892725195_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=zNR_b9-ld9QQ7kNvwEgnThM&_nc_oc=Adr0HaW1M0eQT5lxEEV-hpnydKmdEgj97fg5AqZs-eq2V_xTBzsqpVE5E-Pe3Nxdafg&_nc_zt=23&_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_gid=_DTNSNyFg3eRu3HAn3iq_w&_nc_ss=7f60f&oh=00_AQAC0axHSJ9KwyYVZpuNiyZ6HWsfXSXqARdn6VQC9hbDOg&oe=6A4FD041"
+        "image_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/731187431_18329705428260128_398122673892725195_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=zNR_b9-ld9QQ7kNvwGbBbu3&_nc_oc=AdoZ7EE4nbCia8KN2GEnJybGi1N_n5xEdPr9r6yc53zLLS2D_r5TUZrEV4K-_ugb8to&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=Ogv7awjbROtc-dwE-LlmEg&_nc_ss=7f60f&oh=00_AQArfjgszDupjm_8EukkUEaW4P7VMsVO56cXmB1S3KOPtQ&oe=6A5040C1"
       },
       "geometry": {
         "type": "Point",
