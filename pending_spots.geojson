@@ -6,6 +6,26 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "東伊豆・稲取温泉で計10日間の「花火演舞」開催へ　花火ナイトクルーズも(みんなの経済新聞ネットワーク)",
+        "name": "稲取温泉",
+        "address": "",
+        "reason": "花火と温泉の組み合わせが魅力的",
+        "date": "2026-07-09",
+        "link": "https://news.yahoo.co.jp/articles/1f7151ad75dd2b879de950cb76e79ee3917cc150?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260709-00000002-minkei-000-2-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.0394198,
+          34.7663614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "レッサーパンダじゃダメですか？　上野のパンダ返還で再注目？　かわいいだけじゃない　実は絶滅危惧種…レッサーパンダを守る最前線(静岡朝日テレビ)",
         "name": "静岡市役所文化・観光施設　日本平動物園",
         "address": "",
