@@ -1207,7 +1207,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/nauruya_higashiosaka/",
-        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -2018,8 +2018,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "（予定）うめきた公園に50カ国以上が集結！アフター万博イベント「麦食音祭 GG」開催！",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【うめきた公園に50カ国以上が集結！アフター万博イベント「麦食音祭 GG」開催！】</b><br>📅 期間: 2026/07/10 ～ 2026/07/12<br>📝 大阪・関西万博をきっかけに生まれた国際的なつながりを継承するイベント「麦食音祭 GG」が、7月10日（金）〜12日（日）にグラングリーン大阪・うめきた公園で開催されます。<br><br><a href='https://umeda.keizai.biz/headline/4625/' target='_blank'>🔗 詳細を開く</a>",
+        "name": "うめきた公園に50カ国以上が集結！アフター万博イベント「麦食音祭 GG」開催！",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【うめきた公園に50カ国以上が集結！アフター万博イベント「麦食音祭 GG」開催！】</b><br>📅 期間: 2026/07/10 ～ 2026/07/12<br>📝 大阪・関西万博をきっかけに生まれた国際的なつながりを継承するイベント「麦食音祭 GG」が、7月10日（金）〜12日（日）にグラングリーン大阪・うめきた公園で開催されます。<br><br><a href='https://umeda.keizai.biz/headline/4625/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": true,
         "isKomyaku": false,
@@ -2246,8 +2246,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "（予定）麦食音祭GG PASONA NATUREVERSE アフター万博特別企画",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【麦食音祭GG PASONA NATUREVERSE アフター万博特別企画】</b><br>📅 期間: 2026/07/10 ～ 2026/07/12<br>📝 グラングリーン大阪 うめきた公園で開催される国際フェスティバル「麦食音祭GG」に、PASONA NATUREVERSEによるアフター万博特別ブースが出展。限定グッズ販売に加え、万博パビリオンでアテンダントが着用していたユニフォームの試着体験などを実施。ハローキティ出演やサーキュラー公式販売所、GREEN DA・KA・RAの熱中症対策企画も展開される。<br><br><a href='https://prtimes.jp/main/html/rd/p/000000171.000067685.html' target='_blank'>🔗 詳細を開く</a>",
+        "name": "麦食音祭GG PASONA NATUREVERSE アフター万博特別企画",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【麦食音祭GG PASONA NATUREVERSE アフター万博特別企画】</b><br>📅 期間: 2026/07/10 ～ 2026/07/12<br>📝 グラングリーン大阪 うめきた公園で開催される国際フェスティバル「麦食音祭GG」に、PASONA NATUREVERSEによるアフター万博特別ブースが出展。限定グッズ販売に加え、万博パビリオンでアテンダントが着用していたユニフォームの試着体験などを実施。ハローキティ出演やサーキュラー公式販売所、GREEN DA・KA・RAの熱中症対策企画も展開される。<br><br><a href='https://prtimes.jp/main/html/rd/p/000000171.000067685.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false,
         "isKomyaku": false,
@@ -2271,7 +2271,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/after.expo.event/",
-        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -2371,8 +2371,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.502327,
-          34.67564
+          135.502199,
+          34.6757361
         ]
       }
     },
@@ -2390,8 +2390,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.29884,
-          34.414993
+          135.2990562,
+          34.41532333
         ]
       }
     },
@@ -2480,7 +2480,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/kakogawa_yamatoyashiki/p/DaXZACimvaL/",
-        "image_url": "https://scontent-fra5-1.cdninstagram.com/v/t51.82787-15/731187431_18329705428260128_398122673892725195_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=pui-ScFZeioQ7kNvwGb0TjK&_nc_oc=Adokm2LsBDj44stwb4SslSHp9t_yft5rjkZ8ldzKFcFf7QVJrNcyJZowbhGwiDVu-AQ&_nc_zt=23&_nc_ht=scontent-fra5-1.cdninstagram.com&_nc_gid=5BAWaXtc6AyoUtSMOIYhRA&_nc_ss=7f60f&oh=00_AQCDqszOpxpuFfhj9jEgmJz2ffoZ17pNc3jf7Zq71kVgwQ&oe=6A55F741"
+        "image_url": "https://scontent-sin2-1.cdninstagram.com/v/t51.82787-15/731187431_18329705428260128_398122673892725195_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=pui-ScFZeioQ7kNvwGNMHRw&_nc_oc=AdrUD3SquqkyOJXcQHElHMgt5lGoANsj1hGvlIaVlA_JtpdmqaW_lawuBf17sFD0fK0&_nc_zt=23&_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_gid=X_w2aWtV3Z4R1W_rhZobgQ&_nc_ss=7f60f&oh=00_AQAgR7QnglgL7Iohjy54oUpP06Br90Y7EAJlCdk79XVWMw&oe=6A5667C1"
       },
       "geometry": {
         "type": "Point",
@@ -2561,8 +2561,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.500942,
-          34.668805
+          135.5009421,
+          34.66883913
         ]
       }
     },
@@ -2580,8 +2580,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.5021776,
-          34.6687949
+          135.5022094,
+          34.66899008
         ]
       }
     },
@@ -2599,8 +2599,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.5031409,
-          34.6692064
+          135.5030403,
+          34.66943789
         ]
       }
     },
@@ -2618,8 +2618,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.5006071,
-          34.6682035
+          135.5006757,
+          34.66836181
         ]
       }
     },
@@ -2637,16 +2637,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.5013393,
-          34.6726564
+          135.5015697,
+          34.67283026
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "ミャクミャク風たこ焼（大阪国際空港店／伊丹空港）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ミャクミャク風たこ焼（大阪国際空港店／伊丹空港）】</b><br>📅 期間: 2026/07/06 ～ 2026/08/31<br>📝 関西8店舗限定で販売されるEXPO2025公式ライセンス商品「ミャクミャク風たこ焼」。くくるの大たこ入りふわとろたこ焼を、ミャクミャクを思わせる赤・青のビジュアルに仕上げた期間限定メニュー。販売は2026年7月6日から8月末まで。<br><br><a href='https://x.com/kukuru_takoyaki/status/2074026048875012137' target='_blank'>🔗 詳細を開く</a>",
+        "name": "ミャクミャク風たこ焼（くくる大阪国際空港店／伊丹空港）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ミャクミャク風たこ焼（くくる大阪国際空港店／伊丹空港）】</b><br>📅 期間: 2026/07/06 ～ 2026/08/31<br>📝 関西8店舗限定で販売されるEXPO2025公式ライセンス商品「ミャクミャク風たこ焼」。くくるの大たこ入りふわとろたこ焼を、ミャクミャクを思わせる赤・青のビジュアルに仕上げた期間限定メニュー。販売は2026年7月6日から8月末まで。<br><br><a href='https://x.com/kukuru_takoyaki/status/2074026048875012137' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": true,
         "isKomyaku": false,
@@ -2656,16 +2656,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.4428679,
-          34.7898165
+          135.4428894,
+          34.79001913
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "ミャクミャク風たこ焼（大阪のれんめぐり店／JR新大阪駅新幹線改札内）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ミャクミャク風たこ焼（大阪のれんめぐり店／JR新大阪駅新幹線改札内）】</b><br>📅 期間: 2026/07/06 ～ 2026/08/31<br>📝 関西8店舗限定で販売されるEXPO2025公式ライセンス商品「ミャクミャク風たこ焼」。くくるの大たこ入りふわとろたこ焼を、ミャクミャクを思わせる赤・青のビジュアルに仕上げた期間限定メニュー。販売は2026年7月6日から8月末まで。<br><br><a href='https://x.com/kukuru_takoyaki/status/2074026048875012137' target='_blank'>🔗 詳細を開く</a>",
+        "name": "ミャクミャク風たこ焼（くくる大阪のれんめぐり店／JR新大阪駅新幹線改札内）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ミャクミャク風たこ焼（くくる大阪のれんめぐり店／JR新大阪駅新幹線改札内）】</b><br>📅 期間: 2026/07/06 ～ 2026/08/31<br>📝 関西8店舗限定で販売されるEXPO2025公式ライセンス商品「ミャクミャク風たこ焼」。くくるの大たこ入りふわとろたこ焼を、ミャクミャクを思わせる赤・青のビジュアルに仕上げた期間限定メニュー。販売は2026年7月6日から8月末まで。<br><br><a href='https://x.com/kukuru_takoyaki/status/2074026048875012137' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": true,
         "isKomyaku": false,
@@ -2675,8 +2675,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.5004232,
-          34.7338386
+          135.5004137,
+          34.73393609
         ]
       }
     },
@@ -2694,8 +2694,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.5000051,
-          34.7332254
+          135.5014354,
+          34.73462119
         ]
       }
     },
@@ -2708,13 +2708,393 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://news.yahoo.co.jp/articles/a4c782a08df7cb4a9f762da02c8944bcaacbaed6",
-        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260706-01074787-lmaga-000-3-view.jpg?exp=10800"
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260706-01074787-lmaga-000-4-view.jpg?exp=10800"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.501721,
-          34.668428
+          135.5019887,
+          34.66859616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）EXPO2025オフィシャルポップアップストア 広島テレビホール店",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【EXPO2025オフィシャルポップアップストア 広島テレビホール店】</b><br>📅 期間: 2026/07/11 ～ 2026/07/12<br>📝 EXPO2025 Futures Tour広島会場にあわせて展開されるオフィシャルポップアップストア。広島コンベンションホール1階の広島テレビホール＆エントランスホールで、ミャクミャクをはじめとする公式ライセンス商品に出会える期間限定スポット。<br><br><a href='https://expo2025mlo.jp/wp-content/themes/expo-2025/assets/file/officialstore_list.pdf' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": true,
+        "isKomyaku": false,
+        "link": "https://expo2025mlo.jp/wp-content/themes/expo-2025/assets/file/officialstore_list.pdf",
+        "image_url": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.47579212,
+          34.40011801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）EXPO2025オフィシャルポップアップストア サンポート高松店",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【EXPO2025オフィシャルポップアップストア サンポート高松店】</b><br>📅 期間: 2026/07/25 ～ 2026/07/26<br>📝 EXPO2025 Futures Tour高松会場にあわせて展開されるオフィシャルポップアップストア。高松シンボルタワー周辺で万博公式グッズを手に取れる、四国エリアの期間限定レガシースポット。<br><br><a href='https://expo2025mlo.jp/wp-content/themes/expo-2025/assets/file/officialstore_list.pdf' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": true,
+        "isKomyaku": false,
+        "link": "https://expo2025mlo.jp/wp-content/themes/expo-2025/assets/file/officialstore_list.pdf",
+        "image_url": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.04668,
+          34.35258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）EXPO2025オフィシャルポップアップストア CoCoLo新潟店",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【EXPO2025オフィシャルポップアップストア CoCoLo新潟店】</b><br>📅 期間: 2026/08/08 ～ 2026/08/09<br>📝 EXPO2025 Futures Tour新潟会場にあわせて、CoCoLo新潟で展開されるオフィシャルポップアップストア。駅直結の商業施設で、万博公式グッズとアフター万博の熱気に触れられる。<br><br><a href='https://expo2025mlo.jp/wp-content/themes/expo-2025/assets/file/officialstore_list.pdf' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": true,
+        "isKomyaku": false,
+        "link": "https://expo2025mlo.jp/wp-content/themes/expo-2025/assets/file/officialstore_list.pdf",
+        "image_url": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.06156,
+          37.91205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）EXPO2025オフィシャルポップアップストア 金沢フォーラス店",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【EXPO2025オフィシャルポップアップストア 金沢フォーラス店】</b><br>📅 期間: 2026/08/29 ～ 2026/08/30<br>📝 EXPO2025 Futures Tour金沢会場にあわせて、金沢フォーラスで展開されるオフィシャルポップアップストア。北陸エリアで万博公式グッズを楽しめる期間限定スポット。<br><br><a href='https://expo2025mlo.jp/wp-content/themes/expo-2025/assets/file/officialstore_list.pdf' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": true,
+        "isKomyaku": false,
+        "link": "https://expo2025mlo.jp/wp-content/themes/expo-2025/assets/file/officialstore_list.pdf",
+        "image_url": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.6497461,
+          36.57919429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）EXPO2025オフィシャルポップアップストア JPタワー名古屋店",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【EXPO2025オフィシャルポップアップストア JPタワー名古屋店】</b><br>📅 期間: 2026/09/12 ～ 2026/09/13<br>📝 EXPO2025 Futures Tour名古屋会場にあわせて、JPタワー名古屋・KITTE名古屋エリアで展開されるオフィシャルポップアップストア。東海エリアで万博公式グッズを手に取れる期間限定レガシースポット。<br><br><a href='https://expo2025mlo.jp/wp-content/themes/expo-2025/assets/file/officialstore_list.pdf' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": true,
+        "isKomyaku": false,
+        "link": "https://expo2025mlo.jp/wp-content/themes/expo-2025/assets/file/officialstore_list.pdf",
+        "image_url": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.8821481,
+          35.17315232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）EXPO2025オフィシャルポップアップストア 麻布台ヒルズ店",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【EXPO2025オフィシャルポップアップストア 麻布台ヒルズ店】</b><br>📅 期間: 2026/10/10 ～ 2026/10/11<br>📝 EXPO2025 Futures Tour東京会場にあわせて、麻布台ヒルズで展開されるオフィシャルポップアップストア。全国ツアー終盤に首都圏で万博公式グッズを楽しめるスポット。<br><br><a href='https://expo2025mlo.jp/wp-content/themes/expo-2025/assets/file/officialstore_list.pdf' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": true,
+        "isKomyaku": false,
+        "link": "https://expo2025mlo.jp/wp-content/themes/expo-2025/assets/file/officialstore_list.pdf",
+        "image_url": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.74043,
+          35.66025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "よしもとおみやげもん横丁 NGK店（ミャクミャク公式グッズ）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【よしもとおみやげもん横丁 NGK店（ミャクミャク公式グッズ）】</b><br>📅 期間: 2026/07/10 ～ 常設<br>📝 なんばグランド花月2階にある関西みやげのショップ。ミャクミャク公式グッズ売り場があり、観劇なしでも無料で入れるため、なんば周辺で万博グッズを探せる穴場スポット。<br><br><a href='https://jp.trip.com/moments/detail/osaka-293-119711048/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": true,
+        "isKomyaku": false,
+        "link": "https://jp.trip.com/moments/detail/osaka-293-119711048/",
+        "image_url": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5036863,
+          34.66514962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ビアレストラン オーシー なんばOCAT店",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ビアレストラン オーシー なんばOCAT店】</b><br>📅 期間: 2025/06/23 ～ 常設<br>📝 ORA外食パビリオン「宴〜UTAGE〜」に出展したビアレストラン。万博ドッグ、米粉麺を使ったまぜそばや冷麺など、万博向けメニューを展開した店舗として、なんばOCATで引き続き利用できるレガシーフードスポット。<br><br><a href='https://shoya-group.jp/jp/archives/1757' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": true,
+        "isKomyaku": false,
+        "link": "https://shoya-group.jp/jp/archives/1757",
+        "image_url": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4954679,
+          34.66716718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cafe Bintang 道頓堀店",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【Cafe Bintang 道頓堀店】</b><br>📅 期間: 2026/04/11 ～ 常設<br>📝 大阪・関西万博インドネシア館で話題となったヨヤクナシガールズ＆ボーイズの来店企画も行われた、道頓堀のインドネシア料理店。ナシゴレンやサテなど、本場の味をなんばの街で楽しめる国際交流型レガシースポット。<br><br><a href='https://www.hotpepper.jp/strJ004536690/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": true,
+        "isKomyaku": false,
+        "link": "https://www.hotpepper.jp/strJ004536690/",
+        "image_url": "https://imgfp.hotp.jp/IMGH/03/09/P049990309/P049990309_480.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.501705,
+          34.66966464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HIMALAYAN KITCHEN MOMO&BIRYANI HOUSE",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【HIMALAYAN KITCHEN MOMO&BIRYANI HOUSE】</b><br>📅 期間: 2026/03/23 ～ 常設<br>📝 大阪・関西万博ネパールパビリオンで好評だった料理を、心斎橋BIGSTEPで楽しめるネパール・インド料理店。モモ、ビリヤニ、ダルバートなど、万博で出会った味を街なかで再体験できるスポット。<br><br><a href='https://big-step.co.jp/shop/detail/62' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": true,
+        "isKomyaku": false,
+        "link": "https://big-step.co.jp/shop/detail/62",
+        "image_url": "http://big-step.co.jp/resources/images/ogp.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4987599,
+          34.67229097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "タイ料理とタイスキの店 クンテープ 道頓堀本店",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【タイ料理とタイスキの店 クンテープ 道頓堀本店】</b><br>📅 期間: 2026/07/10 ～ 常設<br>📝 大阪・関西万博のリングサイドマーケットプレイス西にも出店していたタイ料理店の道頓堀本店。タイ国政府認定の本格料理や、道頓堀川沿いのテラス席で、万博で味わったタイ料理の記憶を街なかで楽しめる。<br><br><a href='https://krungtep-dotonbori.gorp.jp/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": true,
+        "isKomyaku": false,
+        "link": "https://krungtep-dotonbori.gorp.jp/",
+        "image_url": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5019375,
+          34.66887087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EXPO KUWAIT KITCHEN",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【EXPO KUWAIT KITCHEN】</b><br>📅 期間: 2026/06/13 ～ 常設<br>📝 万博クウェートレストラン「シドラ」で腕を振るったシェフによる、クウェート料理のテイクアウト専門店。万博で印象に残った中東の味を、大阪市内で再び楽しめるフードレガシースポット。<br><br><a href='https://tabelog.com/osaka/A2701/A270205/27153961/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": true,
+        "isKomyaku": false,
+        "link": "https://tabelog.com/osaka/A2701/A270205/27153961/",
+        "image_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/367803/1b67a70ed5c476f948de32fff64f346f.jpg?token=c2d358c&api=v2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5125444,
+          34.66919742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PERK'N PEEK COFFEE",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【PERK'N PEEK COFFEE】</b><br>📅 期間: 2026/06/13 ～ 常設<br>📝 なんば・心斎橋エリアにあるカフェ。万博グルメを巡るEXPO FOOD PASSPORT関連店舗として紹介され、トルコパビリオンに関わったオーナーの店として、アフター万博の食文化めぐりに加えたいスポット。<br><br><a href='https://tabelog.com/osaka/A2701/A270202/27154860/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": true,
+        "isKomyaku": false,
+        "link": "https://tabelog.com/osaka/A2701/A270202/27154860/",
+        "image_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/369035/2bb03ba7bb32cd29d8abfc54ba544aaa.jpg?token=e6c56fa&api=v2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4977045,
+          34.66998501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SALAM COFFEE AMAL店",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【SALAM COFFEE AMAL店】</b><br>📅 期間: 2026/07/10 ～ 常設<br>📝 大阪・関西万博コモンズAのイエメンブース関係者が営むイエメンモカ専門店。イエメン産モカコーヒーやアラビアコーヒー、中東スイーツを楽しめる、万博で出会った味と会話が続く高槻のレガシースポット。<br><br><a href='https://www.instagram.com/salamcoffee_stand/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": true,
+        "isKomyaku": false,
+        "link": "https://www.instagram.com/salamcoffee_stand/",
+        "image_url": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.615438,
+          34.85401338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "パン工房シャルドン",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【パン工房シャルドン】</b><br>📅 期間: 2026/07/10 ～ 常設<br>📝 大阪・関西万博のオマーンパビリオン内カフェへ焼き菓子を提供した茨木市のパン工房。デーツやイチジクを使った焼き菓子を店頭で楽しめ、EXPO FOOD PASSPORT関連でも注目されるレガシーフードスポット。<br><br><a href='https://chardon-pan.jp/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": true,
+        "isKomyaku": false,
+        "link": "https://chardon-pan.jp/",
+        "image_url": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5751381,
+          34.84426189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "オステリア・ガウダンテ 大阪駅前第4ビル店",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【オステリア・ガウダンテ 大阪駅前第4ビル店】</b><br>📅 期間: 2026/07/10 ～ 常設<br>📝 大阪・関西万博セルビア館のレストラン運営と料理提供を担った中納言グループの店舗。万博で提供したセルビア料理やワインの一部を期間限定で楽しめる、梅田のアフター万博フードスポット。<br><br><a href='https://gaudente.jp/d4/2026/after-expo-fair.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": true,
+        "isKomyaku": false,
+        "link": "https://gaudente.jp/d4/2026/after-expo-fair.html",
+        "image_url": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4989857,
+          34.6998999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "オステリア・ガウダンテ ルクア大阪店",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【オステリア・ガウダンテ ルクア大阪店】</b><br>📅 期間: 2026/07/10 ～ 常設<br>📝 大阪・関西万博セルビア館の味を、駅直結のルクア大阪で気軽に楽しめるガウダンテの店舗。大阪駅前第4ビル店とともに、セルビア館由来の料理やワインを提供するレガシーフードスポット。<br><br><a href='https://gaudente.jp/d4/2026/after-expo-fair.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": true,
+        "isKomyaku": false,
+        "link": "https://gaudente.jp/d4/2026/after-expo-fair.html",
+        "image_url": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4953451,
+          34.70309826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KASTURI restaurant",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【KASTURI restaurant】</b><br>📅 期間: 2026/07/10 ～ 常設<br>📝 大阪・関西万博フィリピン館レストランに関わった店舗。万博で人気だったレチョン・ビサヤをはじめ、フィリピン由来の味を茨木で再び楽しめるレガシーフードスポット。<br><br><a href='https://www.kasturi-restaurant.com/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": true,
+        "isKomyaku": false,
+        "link": "https://www.kasturi-restaurant.com/",
+        "image_url": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5954882,
+          34.81493742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "A DINING",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【A DINING】</b><br>📅 期間: 2026/07/10 ～ 常設<br>📝 大阪・関西万博マレーシア館で提供されていたロティチャナイを、グラングリーン大阪の店内で楽しめるアジアンダイニング。ミーゴレンやカレーなど、マレーシア館の余韻を街なかで味わえるスポット。<br><br><a href='https://s.tabelog.com/osaka/A2701/A270101/27144427/party/280680881/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": true,
+        "isKomyaku": false,
+        "link": "https://s.tabelog.com/osaka/A2701/A270101/27144427/party/280680881/",
+        "image_url": "https://tblg.k-img.com/resize/640x640c/restaurant/images/Rvw/267581/e109361fee36d4d57d58d6da913243d0.jpg?token=4433d49&api=v2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4933033,
+          34.70617401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "FURAI GUYS",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【FURAI GUYS】</b><br>📅 期間: 2026/05/08 ～ 常設<br>📝 大阪・関西万博英国パビリオンで話題になった英国料理をベースに、関西の食材や味噌グレーズなど大阪らしさを重ねるフィッシュ＆チップスの新店舗。タイムアウトマーケット大阪で楽しめる英国館レガシースポット。<br><br><a href='https://www.timeout.jp/osaka/ja/news/timeoutmarketosaka-furai-guys-050826' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": true,
+        "isKomyaku": false,
+        "link": "https://www.timeout.jp/osaka/ja/news/timeoutmarketosaka-furai-guys-050826",
+        "image_url": "https://media.timeout.com/images/106402497/image.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4915965,
+          34.70179024
         ]
       }
     }
