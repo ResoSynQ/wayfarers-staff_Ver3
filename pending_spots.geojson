@@ -6,6 +6,106 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "IT技術で釣り場の安全管理へ　館山で実証実験　自衛隊堤防の利用再開目指し（千葉県）(房日新聞)",
+        "name": "館山市役所",
+        "address": "",
+        "reason": "最新技術による安全な釣り場提供に期待",
+        "date": "2026-07-11",
+        "link": "https://news.yahoo.co.jp/articles/c2d0c109fd850405da6d5c3ee6481ecc14ca89ba?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260711-00010000-bonichi-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8699652,
+          34.9965054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "来春統合の3小学校1年生が交流　学校探検で早くも打ち解ける　館山（千葉県）(房日新聞)",
+        "name": "館山市役所",
+        "address": "",
+        "reason": "新しい学校生活への期待感",
+        "date": "2026-07-11",
+        "link": "https://news.yahoo.co.jp/articles/02f496c3f62725d90ec07e1522546f653cea851a?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260711-00010001-bonichi-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8699652,
+          34.9965054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "台湾の絵本を身近に感じて　岡山県倉敷市「つづきの絵本屋」で黄一文さん原画展(山陽新聞デジタル)",
+        "name": "つづきの絵本屋",
+        "address": "",
+        "reason": "台湾の絵本に触れられるユニークな機会",
+        "date": "2026-07-11",
+        "link": "https://news.yahoo.co.jp/articles/a55250e33a32adcc5800a06bda0d1127535ad497?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260711-00010000-sanyo-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.7598011,
+          34.6055889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "「沖縄かなさ花火」きょうチケット販売開始　安室奈美恵さんの楽曲で夜空を彩る　9月19日に宜野湾海浜公園で開催(沖縄タイムス)",
+        "name": "宜野湾海浜公園",
+        "address": "",
+        "reason": "安室奈美恵さんの楽曲に合わせた花火大会に魅力を感じるため",
+        "date": "2026-07-11",
+        "link": "https://news.yahoo.co.jp/articles/ee06421b0d62ded9b6235dcb90c82596e9dfcda3?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260711-01878223-okinawat-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.7354598,
+          26.2813324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "角館で「塩野米松のいのちわくわくおはなし絵本展」　絵本ができるまでの制作資料も(みんなの経済新聞ネットワーク)",
+        "name": "角館オープン薬局",
+        "address": "",
+        "reason": "絵本制作の裏側が見られるユニークな展示",
+        "date": "2026-07-11",
+        "link": "https://news.yahoo.co.jp/articles/4eca8efbb339e05632daf5c0c8a8871147c50df3?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260711-00000001-minkei-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.55957476,
+          39.58885243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "東伊豆・稲取温泉で計10日間の「花火演舞」開催へ　花火ナイトクルーズも(みんなの経済新聞ネットワーク)",
         "name": "稲取温泉",
         "address": "",
