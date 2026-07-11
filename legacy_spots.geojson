@@ -219,7 +219,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.chion-in.or.jp/news/6406/",
-        "image_url": ""
+        "image_url": "https://www.chion-in.or.jp/wp/wp-content/uploads//2025/10/上段-1-300x241.jpg?1761812847"
       },
       "geometry": {
         "type": "Point",
@@ -428,7 +428,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.expo70-park.jp/facility/watchlearn/inochidama/",
-        "image_url": "https://www.expo70-park.jp/sys/wp-content/uploads/1c623daf87c5b4e145327b96ac296f03-640x480.jpg"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -732,7 +732,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://panaf.jp/",
-        "image_url": "https://panaf.jp/assets/img/ogp.png"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -751,7 +751,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://sen-oku.or.jp/news_20260414/",
-        "image_url": "https://sen-oku.or.jp/wp-content/uploads/2026/04/44.jpg"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -770,7 +770,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://kobe-journal.com/archives/7547745875.html",
-        "image_url": "https://i0.wp.com/kobe-journal.com/web/images/2026/04/ai20260421170405.jpg?fit=487%2C274&ssl=1"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -789,7 +789,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://medicineinfra.com/site/expo2025/",
-        "image_url": "https://medicineinfra.com/wp-content/uploads/2025/03/ogp.jpg"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -808,7 +808,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://medicineinfra.com/site/expo2025/",
-        "image_url": "https://medicineinfra.com/wp-content/uploads/2025/03/ogp.jpg"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -1207,7 +1207,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/nauruya_higashiosaka/",
-        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -1264,7 +1264,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://osaka-shotengai-info.com/bampaku/tenyonkita/",
-        "image_url": "https://osaka-shotengai-info.com/wp-content/uploads/2026/02/DSC_0628.jpg"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -1283,7 +1283,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://osaka-shotengai-info.com/bampaku/tenyonkita/",
-        "image_url": "https://osaka-shotengai-info.com/wp-content/uploads/2026/02/DSC_0628.jpg"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -1866,8 +1866,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "（予定）広島コンベンションホール1階 広島テレビホール＆エントランスホール　大阪・関西万博の1周年メモリアルイベントTour「EXPO2025 Futures Tour」の開催が決定しました！",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【広島コンベンションホール1階 広島テレビホール＆エントランスホール　大阪・関西万博の1周年メモリアルイベントTour「EXPO2025 Futures Tour」の開催が決定しました！】</b><br>📅 期間: 2026/07/11 ～ 2026/07/12<br>📝 万博で生まれた感動や未来へのワクワクを、閉幕後も全国各地へつないでいくアフター万博イベントです。大阪・関西万博に行った人も、行けなかった人も、各地で“もう一度万博”を感じられる機会になりそうです。<br><br><a href='https://www.expo2025.or.jp/news/news-20260619-03/' target='_blank'>🔗 詳細を開く</a>",
+        "name": "広島コンベンションホール1階 広島テレビホール＆エントランスホール　大阪・関西万博の1周年メモリアルイベントTour「EXPO2025 Futures Tour」の開催が決定しました！",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【広島コンベンションホール1階 広島テレビホール＆エントランスホール　大阪・関西万博の1周年メモリアルイベントTour「EXPO2025 Futures Tour」の開催が決定しました！】</b><br>📅 期間: 2026/07/11 ～ 2026/07/12<br>📝 万博で生まれた感動や未来へのワクワクを、閉幕後も全国各地へつないでいくアフター万博イベントです。大阪・関西万博に行った人も、行けなかった人も、各地で“もう一度万博”を感じられる機会になりそうです。<br><br><a href='https://www.expo2025.or.jp/news/news-20260619-03/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false,
         "isKomyaku": false,
@@ -2265,13 +2265,13 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "（予定）アフター万博 WORLD hands〜世界のつづき〜（なんばマルイ外広場）",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【アフター万博 WORLD hands〜世界のつづき〜（なんばマルイ外広場）】</b><br>📅 期間: 2026/07/11 ～ 2026/08/09<br>📝 なんばマルイ外広場で開催される「アフター万博 WORLD hands〜世界のつづき〜」。万博で出会った世界のワクワクをもう一度楽しめる週末イベントとして、世界のハンドクラフト、グルメ、スイーツなどが集まる。開催日は7/11〜12、7/18〜20、8/1〜2、8/8〜9、時間は11:00〜19:30。<br><br><a href='https://www.instagram.com/after.expo.event/' target='_blank'>🔗 詳細を開く</a>",
+        "name": "アフター万博 WORLD hands〜世界のつづき〜（なんばマルイ外広場）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【アフター万博 WORLD hands〜世界のつづき〜（なんばマルイ外広場）】</b><br>📅 期間: 2026/07/11 ～ 2026/08/09<br>📝 なんばマルイ外広場で開催される「アフター万博 WORLD hands〜世界のつづき〜」。万博で出会った世界のワクワクをもう一度楽しめる週末イベントとして、世界のハンドクラフト、グルメ、スイーツなどが集まる。開催日は7/11〜12、7/18〜20、8/1〜2、8/8〜9、時間は11:00〜19:30。<br><br><a href='https://www.instagram.com/after.expo.event/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/after.expo.event/",
-        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -2480,7 +2480,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/kakogawa_yamatoyashiki/p/DaXZACimvaL/",
-        "image_url": "https://scontent-sin2-1.cdninstagram.com/v/t51.82787-15/731187431_18329705428260128_398122673892725195_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=pui-ScFZeioQ7kNvwFLfert&_nc_oc=AdoPjHN5ich6DQK6eFf9GRjuV1LQQRzXcLUhVGXXXuU6jGat4KFHuGc0mdfUkiQ7pqQ&_nc_zt=23&_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_gid=ZPCF0bB3BHkkaD5QroSiWA&_nc_ss=7f60f&oh=00_AQDuXJ3d5Iw_BzzXs66cSgPc4LJi2Xa4ekatS-O-WhBwCw&oe=6A5748C1"
+        "image_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/731187431_18329705428260128_398122673892725195_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=pui-ScFZeioQ7kNvwHnj2Za&_nc_oc=AdqLUQwzNAYVUjeRAj9cgrkvBixnlALZ2V7ZYJO1RKqnDwS01LTZWI4U3Gut_TP8k8I&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=3Ny8cVO9_p3yWR3KOwXgGg&_nc_ss=7f60f&oh=00_AQD-DijHF3NNjmJqI4_gXTocb-d8Pe2WaOWzaX56vVONXQ&oe=6A57B941"
       },
       "geometry": {
         "type": "Point",
@@ -2518,7 +2518,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://banpakuhanabi.jp/",
-        "image_url": "https://banpakuhanabi.jp/wp-content/uploads/2026/07/ogp.png"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -2537,7 +2537,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://banpakuhanabi.jp/",
-        "image_url": "https://banpakuhanabi.jp/wp-content/uploads/2026/07/ogp.png"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -2721,8 +2721,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "（予定）EXPO2025オフィシャルポップアップストア 広島テレビホール店",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【EXPO2025オフィシャルポップアップストア 広島テレビホール店】</b><br>📅 期間: 2026/07/11 ～ 2026/07/12<br>📝 EXPO2025 Futures Tour広島会場にあわせて展開されるオフィシャルポップアップストア。広島コンベンションホール1階の広島テレビホール＆エントランスホールで、ミャクミャクをはじめとする公式ライセンス商品に出会える期間限定スポット。<br><br><a href='https://expo2025mlo.jp/wp-content/themes/expo-2025/assets/file/officialstore_list.pdf' target='_blank'>🔗 詳細を開く</a>",
+        "name": "EXPO2025オフィシャルポップアップストア 広島テレビホール店",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【EXPO2025オフィシャルポップアップストア 広島テレビホール店】</b><br>📅 期間: 2026/07/11 ～ 2026/07/12<br>📝 EXPO2025 Futures Tour広島会場にあわせて展開されるオフィシャルポップアップストア。広島コンベンションホール1階の広島テレビホール＆エントランスホールで、ミャクミャクをはじめとする公式ライセンス商品に出会える期間限定スポット。<br><br><a href='https://expo2025mlo.jp/wp-content/themes/expo-2025/assets/file/officialstore_list.pdf' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": true,
         "isKomyaku": false,
@@ -2974,7 +2974,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/salamcoffee_stand/",
-        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
