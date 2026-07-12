@@ -6,6 +6,26 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "小中高生が稽古の成果披露　富山・八尾でおわら演技発表大会(北日本新聞)",
+        "name": "富山市役所　富山市・八尾保健福祉センター",
+        "address": "",
+        "reason": "地域の伝統文化に触れられる",
+        "date": "2026-07-13",
+        "link": "https://news.yahoo.co.jp/articles/1d049b87ba075fdca79b4dc0a76d6a5a91b7e29e?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260713-00000001-kitanihon-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.137711944444,
+          36.582941388889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "IT技術で釣り場の安全管理へ　館山で実証実験　自衛隊堤防の利用再開目指し（千葉県）(房日新聞)",
         "name": "館山市役所",
         "address": "",
