@@ -2461,7 +2461,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://x.com/HLO_kaiyodo/status/2072879440439455933",
-        "image_url": "https://pbs.twimg.com/media/HMRY3Hla8AAc2QG.jpg:large"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -2480,7 +2480,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/kakogawa_yamatoyashiki/p/DaXZACimvaL/",
-        "image_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/731187431_18329705428260128_398122673892725195_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=FIINFVvr7KsQ7kNvwFLZsk6&_nc_oc=Adrs0vedHVOKIsoy1PTCnYfMAuSJ7VaqCn0Hp_9spaDJBoMjjFMmLkX3FFWF-cFl_AE&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=YEkq0B4F7lTKY3M9t1vPbQ&_nc_ss=7fa02&oh=00_AQB17rCXuPswnFMbmWeEDp64NBC-N335Mz443yUxPhadRQ&oe=6A590AC1"
+        "image_url": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-15/731187431_18329705428260128_398122673892725195_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=FIINFVvr7KsQ7kNvwHyI4Vp&_nc_oc=Adr_Ct8Hkn4tmkoB7SGVSDHXbFfGeupla_s-70L2yrqciFmLPKHxUyzUoMmRJ-nhu88&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_gid=miS_jpwkUcLj7BugFN5mLw&_nc_ss=7fa02&oh=00_AQA5n6ABvlN63qhW6sHP8ZJVlZymFXmRkXYc4ZqTcQJ6IQ&oe=6A590AC1"
       },
       "geometry": {
         "type": "Point",
@@ -3159,12 +3159,12 @@
       "type": "Feature",
       "properties": {
         "name": "未来のモビリティ展示（カワサキワールド）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【未来のモビリティ展示（カワサキワールド）】</b><br>📅 期間: 2026/03/27 ～ 常設<br>📝 大阪・関西万博で展示された未来のモビリティ「ALICE SYSTEM」や4脚型オフロードパーソナルモビリティ「CORLEO」などを、カワサキワールドで常設展示。未来の移動体験を神戸で見られるレガシースポット。<br><br><a href='https://www.khi.co.jp/cgi-bin/kawasakiworld/topics/index.cgi?file=topics&mode=detail&select=1774598830' target='_blank'>🔗 詳細を開く</a>",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【未来のモビリティ展示（カワサキワールド）】</b><br>📅 期間: 2026/03/27 ～ 常設<br>📝 大阪・関西万博で展示された未来のモビリティ「ALICE SYSTEM」や4脚型オフロードパーソナルモビリティ「CORLEO」などを、カワサキワールドで常設展示。未来の移動体験を神戸で見られるレガシースポット。<br><br><a href='https://answers.khi.co.jp/ja/mobility/20260529j-01/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false,
         "isKomyaku": false,
-        "link": "https://www.khi.co.jp/cgi-bin/kawasakiworld/topics/index.cgi?file=topics&mode=detail&select=1774598830",
-        "image_url": ""
+        "link": "https://answers.khi.co.jp/ja/mobility/20260529j-01/",
+        "image_url": "https://images.ctfassets.net/r57nqja17dif/3yl8dc2Fm2UFJjiOFvQ5QV/bd75d7027201a512fa49d715e67e96ed/ALI1757.jpg?w=1200&q=100"
       },
       "geometry": {
         "type": "Point",
@@ -3178,12 +3178,12 @@
       "type": "Feature",
       "properties": {
         "name": "（予定）セイコークラゲ日時計（明石市立天文科学館）",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【セイコークラゲ日時計（明石市立天文科学館）】</b><br>📅 期間: 2026/07/30 ～ 常設<br>📝 大阪・関西万博シグネチャーパビリオン「いのちの遊び場 クラゲ館」に設置されたクラゲモチーフの日時計を、明石用に目盛り等を再設計して明石市立天文科学館へ寄贈。2026年7月30日から一般公開予定。<br><br><a href='https://www.am12.jp/topics/hottokenaiday_2026/' target='_blank'>🔗 詳細を開く</a>",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【セイコークラゲ日時計（明石市立天文科学館）】</b><br>📅 期間: 2026/07/30 ～ 常設<br>📝 大阪・関西万博シグネチャーパビリオン「いのちの遊び場 クラゲ館」に設置されたクラゲモチーフの日時計を、明石用に目盛り等を再設計して明石市立天文科学館へ寄贈。2026年7月30日から一般公開予定。<br><br><a href='https://www.yomiuri.co.jp/local/kansai/news/20260526-GYO1T00123/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false,
         "isKomyaku": false,
-        "link": "https://www.am12.jp/topics/hottokenaiday_2026/",
-        "image_url": ""
+        "link": "https://www.yomiuri.co.jp/local/kansai/news/20260526-GYO1T00123/",
+        "image_url": "https://www.yomiuri.co.jp/media/2026/05/20260526-GYO1I00124-1.jpg?type=ogp"
       },
       "geometry": {
         "type": "Point",
@@ -3235,12 +3235,12 @@
       "type": "Feature",
       "properties": {
         "name": "播州織のトンネルアート（茜が丘複合施設みらいえ）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【播州織のトンネルアート（茜が丘複合施設みらいえ）】</b><br>📅 期間: 2026/03/24 ～ 2026/09/30<br>📝 兵庫県の情報発信拠点「ひょうごEXPO TERMINAL」で展示された播州織のトンネルアートの一部が西脇市へ移設。みらいえ正面玄関で播州織の風合いに触れられるレガシー展示。<br><br><a href='https://www.city.nishiwaki.lg.jp/kakukanogoannai/shichoukoushitsu/seisaku/2025expo/28447.html' target='_blank'>🔗 詳細を開く</a>",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【播州織のトンネルアート（茜が丘複合施設みらいえ）】</b><br>📅 期間: 2026/03/24 ～ 2026/09/30<br>📝 兵庫県の情報発信拠点「ひょうごEXPO TERMINAL」で展示された播州織のトンネルアートの一部が西脇市へ移設。みらいえ正面玄関で播州織の風合いに触れられるレガシー展示。<br><br><a href='https://www.kobe-np.co.jp/news/hokuban/202603/0020165762.shtml' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false,
         "isKomyaku": false,
-        "link": "https://www.city.nishiwaki.lg.jp/kakukanogoannai/shichoukoushitsu/seisaku/2025expo/28447.html",
-        "image_url": "http://www.city.nishiwaki.lg.jp/material/images/group/27/R80330_banpakukyougikai.jpg"
+        "link": "https://www.kobe-np.co.jp/news/hokuban/202603/0020165762.shtml",
+        "image_url": "https://i.kobe-np.co.jp/news/hokuban/202603/img/a_20165763.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -3323,6 +3323,44 @@
         "coordinates": [
           135.5323809,
           34.81260056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "小松宏誠展 光と影のモビール 海がのぼる空がふる",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【小松宏誠展 光と影のモビール 海がのぼる空がふる】</b><br>📅 期間: 2026/07/10 ～ 2026/09/27<br>📝 岡山県の瀬戸内市立美術館で開催される特別展。大阪・関西万博にも出品したアーティスト小松宏誠氏のモビール作品を、海のまち牛窓で楽しめるレガシーアート展。<br><br><a href='https://www.city.setouchi.lg.jp/site/museum/159139.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.city.setouchi.lg.jp/site/museum/159139.html",
+        "image_url": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.1468977,
+          34.62063073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ベルギーパビリオン 屋外用クッション（神戸空港）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ベルギーパビリオン 屋外用クッション（神戸空港）】</b><br>📅 期間: 2025/11/12 ～ 常設<br>📝 大阪・関西万博ベルギーパビリオンの外に置かれていた屋外用クッションが、関西エアポートのExpo Legacy Projectとして神戸空港へ設置。第1ターミナル展望デッキと第2ターミナルにぎわい広場で、万博会場の休憩空間を空港で再活用するレガシースポット。<br><br><a href='https://www.kansai-airports.co.jp/special/expo-legacy-project/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.kansai-airports.co.jp/special/expo-legacy-project/",
+        "image_url": "https://www.kansai-airports.co.jp/wp-content/themes/kap-corporate/assets/image/og-image.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.228605,
+          34.636741
         ]
       }
     }
