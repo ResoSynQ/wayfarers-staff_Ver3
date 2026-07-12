@@ -1207,7 +1207,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/nauruya_higashiosaka/",
-        "image_url": ""
+        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
       },
       "geometry": {
         "type": "Point",
@@ -2271,7 +2271,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/after.expo.event/",
-        "image_url": ""
+        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
       },
       "geometry": {
         "type": "Point",
@@ -2480,7 +2480,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/kakogawa_yamatoyashiki/p/DaXZACimvaL/",
-        "image_url": "https://scontent-lga3-3.cdninstagram.com/v/t51.82787-15/731187431_18329705428260128_398122673892725195_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=FIINFVvr7KsQ7kNvwHi2d6o&_nc_oc=Adr6KFRofDBMxUWOJ3BlvF6sRAqlRan_8MX35fehs1ctDrdsPMj_Vj59VNCAmOL__mw&_nc_zt=23&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_gid=ZyYeMYQjnRJqkQ3tFdlc7w&_nc_ss=7fa02&oh=00_AQDQVAtQ3ZAInZx0X_N22IA7pQRgaHqZumxjBl2O-HvrwQ&oe=6A590AC1"
+        "image_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/731187431_18329705428260128_398122673892725195_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=FIINFVvr7KsQ7kNvwFLZsk6&_nc_oc=Adrs0vedHVOKIsoy1PTCnYfMAuSJ7VaqCn0Hp_9spaDJBoMjjFMmLkX3FFWF-cFl_AE&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=YEkq0B4F7lTKY3M9t1vPbQ&_nc_ss=7fa02&oh=00_AQB17rCXuPswnFMbmWeEDp64NBC-N335Mz443yUxPhadRQ&oe=6A590AC1"
       },
       "geometry": {
         "type": "Point",
@@ -2974,7 +2974,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/salamcoffee_stand/",
-        "image_url": ""
+        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
       },
       "geometry": {
         "type": "Point",
@@ -3095,6 +3095,234 @@
         "coordinates": [
           135.4915965,
           34.70179024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "大阪科学技術館 特別展示「ミライ人間洗濯機」体験はできません",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【大阪科学技術館 特別展示「ミライ人間洗濯機」体験はできません】</b><br>📅 期間: 2026/07/08 ～ 常設<br>📝 大阪科学技術館で開催されている特別展示。大阪・関西万博で注目されたミライ人間洗濯機を、閉幕後も大阪市内で見られるレガシー展示として紹介。<br><br><a href='https://www.ostec.or.jp/pop/news/2361/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.ostec.or.jp/pop/news/2361/",
+        "image_url": "https://www.ostec.or.jp/pop/pop_wpcore/wp-content/uploads/2025/07/mainv_mb-1.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4964198,
+          34.68663798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HYOGOミライバス（兵庫津ミュージアム）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【HYOGOミライバス（兵庫津ミュージアム）】</b><br>📅 期間: 2026/03/27 ～ 常設<br>📝 大阪・関西万博の関西パビリオン兵庫県ブースに出展されたシアター型展示の映像を、兵庫津ミュージアムのひょうごダイナミックシアターで公開。兵庫の歴史や文化を時空を超えたバスツアーとして楽しめる。<br><br><a href='https://hyogo-no-tsu.jp/theater0327/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://hyogo-no-tsu.jp/theater0327/",
+        "image_url": "https://hyogo-no-tsu.jp/wp/wp-content/themes/hyogonotsu/dist/img/ogp-default.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.1746519,
+          34.66398306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KOBELCO インタラクティブウォール（灘浜サイエンススクエア）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【KOBELCO インタラクティブウォール（灘浜サイエンススクエア）】</b><br>📅 期間: 2026/03/31 ～ 常設<br>📝 大阪・関西万博「未来の都市」パビリオンのKOBELCOプレイスに展示されたインタラクティブ展示。灘浜サイエンススクエアへ移設され、ものづくり・エネルギーを学べる科学館展示として継承されている。<br><br><a href='https://www.kobelco.co.jp/notices/2025/1218600_18560.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.kobelco.co.jp/notices/2025/1218600_18560.html",
+        "image_url": "https://www.kobelco.co.jp/app-files/img/symbol/ogp.webp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.2366999,
+          34.7019066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "未来のモビリティ展示（カワサキワールド）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【未来のモビリティ展示（カワサキワールド）】</b><br>📅 期間: 2026/03/27 ～ 常設<br>📝 大阪・関西万博で展示された未来のモビリティ「ALICE SYSTEM」や4脚型オフロードパーソナルモビリティ「CORLEO」などを、カワサキワールドで常設展示。未来の移動体験を神戸で見られるレガシースポット。<br><br><a href='https://www.khi.co.jp/cgi-bin/kawasakiworld/topics/index.cgi?file=topics&mode=detail&select=1774598830' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.khi.co.jp/cgi-bin/kawasakiworld/topics/index.cgi?file=topics&mode=detail&select=1774598830",
+        "image_url": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.1889008,
+          34.68310407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）セイコークラゲ日時計（明石市立天文科学館）",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【セイコークラゲ日時計（明石市立天文科学館）】</b><br>📅 期間: 2026/07/30 ～ 常設<br>📝 大阪・関西万博シグネチャーパビリオン「いのちの遊び場 クラゲ館」に設置されたクラゲモチーフの日時計を、明石用に目盛り等を再設計して明石市立天文科学館へ寄贈。2026年7月30日から一般公開予定。<br><br><a href='https://www.am12.jp/topics/hottokenaiday_2026/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.am12.jp/topics/hottokenaiday_2026/",
+        "image_url": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.0015119,
+          34.64960842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KOBELCO ボールコースター（バンドー神戸青少年科学館）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【KOBELCO ボールコースター（バンドー神戸青少年科学館）】</b><br>📅 期間: 2026/03/25 ～ 常設<br>📝 大阪・関西万博「未来の都市」で展示された、映像とボールの動きを組み合わせたボールコースターを神戸市立青少年科学館へ移設。ものづくり・まちづくり・エネルギーの流れを体感できる常設展示。<br><br><a href='https://www.kobelco.co.jp/releases/2025/1218451_18562.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.kobelco.co.jp/releases/2025/1218451_18562.html",
+        "image_url": "https://www.kobelco.co.jp/app-files/img/symbol/ogp.webp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.2184927,
+          34.6660923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "インドネシア館 サバルヤシ（橘公園）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【インドネシア館 サバルヤシ（橘公園）】</b><br>📅 期間: 2025/12/02 ～ 常設<br>📝 大阪・関西万博インドネシアパビリオンで展示されていたサバルヤシを、植栽工事を手掛けた西部造園土木株式会社が尼崎市へ寄贈。橘公園に移植され、地域に受け継がれる植物レガシー。<br><br><a href='https://www.city.amagasaki.hyogo.jp/_res/projects/default_project/_page_/001/042/253/251126-01.pdf' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.city.amagasaki.hyogo.jp/_res/projects/default_project/_page_/001/042/253/251126-01.pdf",
+        "image_url": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4079571,
+          34.73321468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "播州織のトンネルアート（茜が丘複合施設みらいえ）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【播州織のトンネルアート（茜が丘複合施設みらいえ）】</b><br>📅 期間: 2026/03/24 ～ 2026/09/30<br>📝 兵庫県の情報発信拠点「ひょうごEXPO TERMINAL」で展示された播州織のトンネルアートの一部が西脇市へ移設。みらいえ正面玄関で播州織の風合いに触れられるレガシー展示。<br><br><a href='https://www.city.nishiwaki.lg.jp/kakukanogoannai/shichoukoushitsu/seisaku/2025expo/28447.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.city.nishiwaki.lg.jp/kakukanogoannai/shichoukoushitsu/seisaku/2025expo/28447.html",
+        "image_url": "http://www.city.nishiwaki.lg.jp/material/images/group/27/R80330_banpakukyougikai.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.9568652,
+          34.9737048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wafelhuis（ワーフルハウス）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【Wafelhuis（ワーフルハウス）】</b><br>📅 期間: 2026/07/12 ～ 常設<br>📝 大阪・関西万博オランダ館で提供されたストロープワッフルにゆかりのある、神戸・六甲道の専門店。焼きたてのストロープワッフルやクランブルアイスクリームを楽しめる、オランダ菓子のレガシーフードスポット。<br><br><a href='http://www.wafelhuis.com/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": true,
+        "isKomyaku": false,
+        "link": "http://www.wafelhuis.com/",
+        "image_url": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.2360463,
+          34.71647609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）EXPO2025オフィシャルポップアップストア 高島屋大阪店",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【EXPO2025オフィシャルポップアップストア 高島屋大阪店】</b><br>📅 期間: 2026/07/15 ～ 2027/01/31<br>📝 高島屋大阪店7階にEXPO2025オフィシャルポップアップストアが期間限定で再登場。ミャクミャクアイテムや公式ライセンス商品を幅広く販売する、なんばの万博公式グッズスポット。<br><br><a href='https://www.takashimaya.co.jp/osaka/topics/10_1_20260624164313/?category=event' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": true,
+        "isKomyaku": false,
+        "link": "https://www.takashimaya.co.jp/osaka/topics/10_1_20260624164313/?category=event",
+        "image_url": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5016337,
+          34.66471751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "スマートポール（JR曽根駅北側駅前広場）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【スマートポール（JR曽根駅北側駅前広場）】</b><br>📅 期間: 2026/03/21 ～ 常設<br>📝 大阪・関西万博の「未来の都市」パビリオン入口に設置されていた多機能街路灯スマートポールの1本が、高砂市のJR曽根駅北側駅前広場へ移設。未来志向の都市づくりを示す駅前ランドマーク。<br><br><a href='https://takasago-mania.com/town-smartpole-sone/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://takasago-mania.com/town-smartpole-sone/",
+        "image_url": "https://takasago-mania.com/wp-content/uploads/2026/03/PXL_20260322_074736057.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.7709671,
+          34.79303332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "英国パビリオン寄贈のバラ（万博記念公園 平和のバラ園）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【英国パビリオン寄贈のバラ（万博記念公園 平和のバラ園）】</b><br>📅 期間: 2026/07/12 ～ 常設<br>📝 大阪・関西万博会場に植栽されていたバラのうち6株が英国パビリオンから万博記念公園へ寄贈。スターリースカイ、レインボーノックアウト、リモンチェッロが平和のバラ園で受け継がれている。<br><br><a href='https://www.expo70-park.jp/facility/watchlearn/rosegarden/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.expo70-park.jp/facility/watchlearn/rosegarden/",
+        "image_url": "https://www.expo70-park.jp/sys/wp-content/uploads/sns_190515_04-640x480.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5323809,
+          34.81260056
         ]
       }
     }
