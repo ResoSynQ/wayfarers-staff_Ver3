@@ -428,7 +428,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.expo70-park.jp/facility/watchlearn/inochidama/",
-        "image_url": "https://www.expo70-park.jp/sys/wp-content/uploads/1c623daf87c5b4e145327b96ac296f03-640x480.jpg"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -732,7 +732,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://panaf.jp/",
-        "image_url": "https://panaf.jp/assets/img/ogp.png"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -751,7 +751,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://sen-oku.or.jp/news_20260414/",
-        "image_url": "https://sen-oku.or.jp/wp-content/uploads/2026/04/44.jpg"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -770,7 +770,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://kobe-journal.com/archives/7547745875.html",
-        "image_url": "https://i0.wp.com/kobe-journal.com/web/images/2026/04/ai20260421170405.jpg?fit=487%2C274&ssl=1"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -789,7 +789,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://medicineinfra.com/site/expo2025/",
-        "image_url": "https://medicineinfra.com/wp-content/uploads/2025/03/ogp.jpg"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -808,7 +808,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://medicineinfra.com/site/expo2025/",
-        "image_url": "https://medicineinfra.com/wp-content/uploads/2025/03/ogp.jpg"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -1264,7 +1264,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://osaka-shotengai-info.com/bampaku/tenyonkita/",
-        "image_url": "https://osaka-shotengai-info.com/wp-content/uploads/2026/02/DSC_0628.jpg"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -1283,7 +1283,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://osaka-shotengai-info.com/bampaku/tenyonkita/",
-        "image_url": "https://osaka-shotengai-info.com/wp-content/uploads/2026/02/DSC_0628.jpg"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -2480,7 +2480,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/kakogawa_yamatoyashiki/p/DaXZACimvaL/",
-        "image_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/731187431_18329705428260128_398122673892725195_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=FIINFVvr7KsQ7kNvwF9CD-8&_nc_oc=AdoXhilQwrYgD67SjpSfbtaQVm89k15SFz7kdAcl24Gc9VCgH6iuSMmosyTMEhauWnw&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=VyTX9qHYkdYgjc2YWuiqzA&_nc_ss=7fa02&oh=00_AQCv1o5z3FsUZ587okfUT85T2ZR_v67sAWS51x4h8Hmd-w&oe=6A59EBC1"
+        "image_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/731187431_18329705428260128_398122673892725195_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=FIINFVvr7KsQ7kNvwEPqZAU&_nc_oc=AdqKB2xAR6tD2coVg310VtsqFj4ouV9Uj1UxQ0M_WgUEErNa1TE7ptcbg2VgI7MmSe8&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=1A_iyFKjhoddhgwB9RWrnA&_nc_ss=7fa02&oh=00_AQBomn_CiakS-7i6MqlWfwNYdAxhL5h82QCmXfT5uZigWQ&oe=6A5A5C41"
       },
       "geometry": {
         "type": "Point",
@@ -2518,7 +2518,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://banpakuhanabi.jp/",
-        "image_url": "https://banpakuhanabi.jp/wp-content/uploads/2026/07/ogp.png"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -2537,7 +2537,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://banpakuhanabi.jp/",
-        "image_url": "https://banpakuhanabi.jp/wp-content/uploads/2026/07/ogp.png"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -3297,7 +3297,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://takasago-mania.com/town-smartpole-sone/",
-        "image_url": "https://takasago-mania.com/wp-content/uploads/2026/03/PXL_20260322_074736057.jpg"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -3316,7 +3316,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.expo70-park.jp/facility/watchlearn/rosegarden/",
-        "image_url": "https://www.expo70-park.jp/sys/wp-content/uploads/sns_190515_04-640x480.jpg"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
