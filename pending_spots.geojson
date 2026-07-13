@@ -6,6 +6,26 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "新指定の重文　医学書を特別公開　館山市立博物館　9月27日まで（千葉県）(房日新聞)",
+        "name": "館山市立博物館",
+        "address": "",
+        "reason": "貴重な重文医学書を特別公開しているため。",
+        "date": "2026-07-14",
+        "link": "https://news.yahoo.co.jp/articles/286aa2552ac24a6840e131cb5a3975742111a516?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260714-00010001-bonichi-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8544613,
+          34.9824542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "小中高生が稽古の成果披露　富山・八尾でおわら演技発表大会(北日本新聞)",
         "name": "富山市役所　富山市・八尾保健福祉センター",
         "address": "",
