@@ -6,6 +6,66 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "パッションフルーツの収穫始まる　館山（千葉県）(房日新聞)",
+        "name": "館山市役所",
+        "address": "",
+        "reason": "南国フルーツの収穫体験は魅力的",
+        "date": "2026-07-16",
+        "link": "https://news.yahoo.co.jp/articles/9c489835b740529d722b0191c91737f4bc228c20?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260716-00010000-bonichi-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8699652,
+          34.9965054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "29日に鴨川市民花火大会　尺玉など3000発打ち上げ（千葉県）(房日新聞)",
+        "name": "鴨川市役所",
+        "address": "",
+        "reason": "夏の風物詩である花火大会で、尺玉を含む3000発の打ち上げは迫力があり、訪れたい気持ちになる。",
+        "date": "2026-07-16",
+        "link": "https://news.yahoo.co.jp/articles/2dabf519128db40adac992a2b67f527fc76af9d7?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0987105,
+          35.1139863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "熱海の夜間観光企画「ナイトウオーク」夏季版　ライトアップや夜延長営業(みんなの経済新聞ネットワーク)",
+        "name": "熱海市役所",
+        "address": "",
+        "reason": "幻想的なライトアップと夜間延長営業で、普段と違う熱海を楽しめるから",
+        "date": "2026-07-16",
+        "link": "https://news.yahoo.co.jp/articles/27c4b0aed900a18337b6847076de0698272842e0?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260716-00000002-minkei-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.0717038,
+          35.0962759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "愛知・大府市　「あいち健康の森公園」に新たな屋内施設が7月19日にオープン(中京テレビＮＥＷＳ)",
         "name": "あいち健康の森公園",
         "address": "",
