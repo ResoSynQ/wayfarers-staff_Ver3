@@ -6,6 +6,26 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "愛知・大府市　「あいち健康の森公園」に新たな屋内施設が7月19日にオープン(中京テレビＮＥＷＳ)",
+        "name": "あいち健康の森公園",
+        "address": "",
+        "reason": "新しい屋内施設がオープンし、健康増進やリフレッシュの場として魅力的だから",
+        "date": "2026-07-16",
+        "link": "https://news.yahoo.co.jp/articles/ba76ed683db120edb8a6bc59f580446d1cddc754?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260716-05965224-sp_ctv-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.9468599,
+          34.9960544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "新指定の重文　医学書を特別公開　館山市立博物館　9月27日まで（千葉県）(房日新聞)",
         "name": "館山市立博物館",
         "address": "",
