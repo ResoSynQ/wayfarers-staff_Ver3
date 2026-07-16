@@ -6,6 +6,46 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "奥飛騨の特産品さんしょう　高山市の小学生らが摘み取り体験　人手不足の中自らで取り組み始める(中京テレビＮＥＷＳ)",
+        "name": "高山市役所",
+        "address": "",
+        "reason": "特産品摘み取り体験というユニークな農作業体験ができるため。",
+        "date": "2026-07-17",
+        "link": "https://news.yahoo.co.jp/articles/b2cf24e6883220ec9054eeb1eab10fbc5cb2812d?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260717-09218856-sp_ctv-000-1-thumb.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.2521724,
+          36.1461234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "trend",
+        "trend_word": "「南米のドバイ」ガイアナ急成長",
+        "name": "ガイア(税理士法人)名古屋支店",
+        "address": "",
+        "reason": "石油資源開発による急速な経済成長とインフラ整備",
+        "date": "2026-07-17",
+        "link": "https://news.yahoo.co.jp/pickup/6588191?source=rss",
+        "image_url": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/7/16/ce0a16c2e94c3f7443d874348a84106c69ede75d1d6c3202e5c3e5cec89f0fe2.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.90647946,
+          35.17777739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "パッションフルーツの収穫始まる　館山（千葉県）(房日新聞)",
         "name": "館山市役所",
         "address": "",
