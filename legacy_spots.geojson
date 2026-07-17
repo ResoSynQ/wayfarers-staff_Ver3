@@ -219,7 +219,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.chion-in.or.jp/news/6406/",
-        "image_url": ""
+        "image_url": "https://www.chion-in.or.jp/wp/wp-content/uploads//2025/10/上段-1-300x241.jpg?1761812847"
       },
       "geometry": {
         "type": "Point",
@@ -1505,25 +1505,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "（予定）タカラベルモント株式会社 東京本社で1日限定のアフター万博イベント開催！",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【タカラベルモント株式会社 東京本社で1日限定のアフター万博イベント開催！】</b><br>📅 期間: 2026/08/08 ～ 2026/08/08<br>📝 万博LOVERSに向けたアフター万博イベントが、8月8日(土)11時〜16時に東京本社で1日限定開催されるとのこと！<br><br><a href='https://x.com/yukikoishi81071/status/2061429568830148840' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://x.com/yukikoishi81071/status/2061429568830148840",
-        "image_url": "https://pbs.twimg.com/media/HJurQZFaEAAZswC.jpg:large"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.7302103,
-          35.67459209
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "（予定）いのちの未来＋ が東京・高輪で開催！",
         "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【いのちの未来＋ が東京・高輪で開催！】</b><br>📅 期間: 2026/07/25 ～ 2026/09/25<br>📝 大阪・関西万博で話題となった、石黒浩氏によるシグネチャーパビリオン「いのちの未来」が、東京・高輪で企画展示「いのちの未来＋」として開催されます！万博で描かれた50年後の物語に加え、新たに いのちの未来の選択について のシナリオも追加。アンドロイドとの対話体験やグッズ販売、来場者特典も予定されており、万博の感動を東京でもう一度体験できるレガシー展示です。\r\n\r\n開催期間は2026年7月25日〜9月25日。30分ごとの日時指定制で、第1期は6月12日からチケット販売開始予定とのこと！<br><br><a href='https://news.yahoo.co.jp/articles/b714866bb0c4930ae1e425749b07a48560237628' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
@@ -1815,7 +1796,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://jpn.mizuno.com/dicontents/osaka_expo2025/after_event?utm_source=twitter&utm_medium=social&utm_campaign=sndilhwk_afterexpo&utm_content=260617",
-        "image_url": ""
+        "image_url": "https://jpn.mizuno.com/sites/default/files/2022-02/MRB400_400.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -2385,7 +2366,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/kakogawa_yamatoyashiki/p/DaXZACimvaL/",
-        "image_url": "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/731187431_18329705428260128_398122673892725195_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=jv34FMVb-1MQ7kNvwHToZz7&_nc_oc=Adr-fs2CJ65syfb6UOnGEWkLH6AVVV0nAhN67tWVFCn3Dwoqa3JwgBsctGzxZVqFFqQ&_nc_zt=23&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_gid=wJmAovlMMcgriqwYjzmnCg&_nc_ss=7f60f&oh=00_AQC2KGxm01ifM7slUm2gVXYAaM7dNbwQsKr4TmyF4OzjDw&oe=6A5FA241"
+        "image_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/731187431_18329705428260128_398122673892725195_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=jv34FMVb-1MQ7kNvwG09CEa&_nc_oc=AdoX402Eo60ScfRSdJv6AQrUUYblkYh-wZ1xKRRtvOzPu6wdI9XhB3ltz3iQNqrynKc&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=VaCinjX9tO2lXkl_5FLZlA&_nc_ss=7fa02&oh=00_AQCR-BcANvhkuBppA1wLT2TVtsmnvPJohNUT_aQv1zjfqg&oe=6A604B01"
       },
       "geometry": {
         "type": "Point",
@@ -3297,7 +3278,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.threads.com/@crew184_expo.epilogue.cafe",
-        "image_url": "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-19/658898481_18070880096308952_7068635315121074024_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=b3fa00&_nc_ohc=io30ag1mal0Q7kNvwGzA_dF&_nc_oc=AdptLEoe3hwFwl7OltG2KqAIXq53YlHAyd5xOe7Zemh6fY_jAWOhxkpniCBftyAW8uY&_nc_zt=24&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_gid=u9jXyghCF9_U4Hmmg_VWMw&_nc_ss=7f20f&oh=00_AQDK6GtrIVM0h1_LkGpx5OXX_dNsGlxToCaxj3AalhcQ-Q&oe=6A5F7849"
+        "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/658898481_18070880096308952_7068635315121074024_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=b3fa00&_nc_ohc=io30ag1mal0Q7kNvwExlYRR&_nc_oc=Adrcb8erB5M9MlLOYGnLoy0bdVWFJ4G7v8gU_aibCDhKHcYLQkrpvCVcYm-c1Su3s-Y&_nc_zt=24&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=0yfCdk2enoALfS-1OclPKA&_nc_ss=7f20f&oh=00_AQDCLkRiV93yPIz9k_-b2h4lG5OuW-LlZ0ezTOVzWO2cfA&oe=6A605949"
       },
       "geometry": {
         "type": "Point",
@@ -3373,7 +3354,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DalfgwECeqF/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==",
-        "image_url": "https://scontent-atl3-1.cdninstagram.com/v/t51.82787-15/741671055_18599635276031936_3389225437979274047_n.jpg?stp=c460.0.1383.1382a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=Q-0ydEA6NpAQ7kNvwGGNvLw&_nc_oc=Adoc1dajiDxt_pvQCmr9CG6Ik-3U-Z9iKmp7w50kAy4SY9cyVesulTdMofZ4oKNQ4Lo&_nc_zt=23&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=FXq6albninIh_7D0DNizJg&_nc_ss=7f60f&oh=00_AQA_eDjcrubYDYrfVxvhKoGnG0fPaYSOMQx6t8uIBOHGGA&oe=6A5FAD4D"
+        "image_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/741671055_18599635276031936_3389225437979274047_n.jpg?stp=c460.0.1383.1382a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=Q-0ydEA6NpAQ7kNvwGkNxqj&_nc_oc=AdqyLtd0l-shIc3y010Jg2OZQR9J50AOXQ4E47ktjg91b58RpNyoA7NHhOw9wPgmtsY&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=4r4ZMFfAEnlGJHrXGPVH6A&_nc_ss=7fa02&oh=00_AQAKl9BBiaGS6iGVm3kfuzbp2xOYcsqkSbCrVUR2QvWrqA&oe=6A60560D"
       },
       "geometry": {
         "type": "Point",
