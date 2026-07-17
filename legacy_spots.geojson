@@ -219,7 +219,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.chion-in.or.jp/news/6406/",
-        "image_url": "https://www.chion-in.or.jp/wp/wp-content/uploads//2025/10/上段-1-300x241.jpg?1761812847"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -428,7 +428,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.expo70-park.jp/facility/watchlearn/inochidama/",
-        "image_url": "https://www.expo70-park.jp/sys/wp-content/uploads/1c623daf87c5b4e145327b96ac296f03-640x480.jpg"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -732,7 +732,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://panaf.jp/",
-        "image_url": "https://panaf.jp/assets/img/ogp.png"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -751,7 +751,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://sen-oku.or.jp/news_20260414/",
-        "image_url": "https://sen-oku.or.jp/wp-content/uploads/2026/04/44.jpg"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -770,7 +770,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://kobe-journal.com/archives/7547745875.html",
-        "image_url": "https://i0.wp.com/kobe-journal.com/web/images/2026/04/ai20260421170405.jpg?fit=487%2C274&ssl=1"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -789,7 +789,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://medicineinfra.com/site/expo2025/",
-        "image_url": "https://medicineinfra.com/wp-content/uploads/2025/03/ogp.jpg"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -808,7 +808,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://medicineinfra.com/site/expo2025/",
-        "image_url": "https://medicineinfra.com/wp-content/uploads/2025/03/ogp.jpg"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -1264,7 +1264,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://osaka-shotengai-info.com/bampaku/tenyonkita/",
-        "image_url": "https://osaka-shotengai-info.com/wp-content/uploads/2026/02/DSC_0628.jpg"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -1283,7 +1283,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://osaka-shotengai-info.com/bampaku/tenyonkita/",
-        "image_url": "https://osaka-shotengai-info.com/wp-content/uploads/2026/02/DSC_0628.jpg"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -1866,25 +1866,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "広島コンベンションホール1階 広島テレビホール＆エントランスホール　大阪・関西万博の1周年メモリアルイベントTour「EXPO2025 Futures Tour」の開催が決定しました！",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【広島コンベンションホール1階 広島テレビホール＆エントランスホール　大阪・関西万博の1周年メモリアルイベントTour「EXPO2025 Futures Tour」の開催が決定しました！】</b><br>📅 期間: 2026/07/11 ～ 2026/07/12<br>📝 万博で生まれた感動や未来へのワクワクを、閉幕後も全国各地へつないでいくアフター万博イベントです。大阪・関西万博に行った人も、行けなかった人も、各地で“もう一度万博”を感じられる機会になりそうです。<br><br><a href='https://www.expo2025.or.jp/news/news-20260619-03/' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://www.expo2025.or.jp/news/news-20260619-03/",
-        "image_url": "https://www.expo2025.or.jp/wp/wp-content/uploads/key.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          132.4756467,
-          34.40025371
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "（予定）高松シンボルタワー ホール棟1階展示場　大阪・関西万博の1周年メモリアルイベントTour「EXPO2025 Futures Tour」の開催が決定しました！",
         "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【高松シンボルタワー ホール棟1階展示場　大阪・関西万博の1周年メモリアルイベントTour「EXPO2025 Futures Tour」の開催が決定しました！】</b><br>📅 期間: 2026/07/25 ～ 2026/07/26<br>📝 万博で生まれた感動や未来へのワクワクを、閉幕後も全国各地へつないでいくアフター万博イベントです。大阪・関西万博に行った人も、行けなかった人も、各地で“もう一度万博”を感じられる機会になりそうです。<br><br><a href='https://www.expo2025.or.jp/news/news-20260619-03/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
@@ -2012,25 +1993,6 @@
         "coordinates": [
           135.5117465,
           34.77539548
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "うめきた公園に50カ国以上が集結！アフター万博イベント「麦食音祭 GG」開催！",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【うめきた公園に50カ国以上が集結！アフター万博イベント「麦食音祭 GG」開催！】</b><br>📅 期間: 2026/07/10 ～ 2026/07/12<br>📝 大阪・関西万博をきっかけに生まれた国際的なつながりを継承するイベント「麦食音祭 GG」が、7月10日（金）〜12日（日）にグラングリーン大阪・うめきた公園で開催されます。<br><br><a href='https://umeda.keizai.biz/headline/4625/' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": true,
-        "isKomyaku": false,
-        "link": "https://umeda.keizai.biz/headline/4625/",
-        "image_url": "https://images.keizai.biz/umeda_keizai/headline/1782204479_photo.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.4926336,
-          34.703847
         ]
       }
     },
@@ -2246,25 +2208,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "麦食音祭GG PASONA NATUREVERSE アフター万博特別企画",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【麦食音祭GG PASONA NATUREVERSE アフター万博特別企画】</b><br>📅 期間: 2026/07/10 ～ 2026/07/12<br>📝 グラングリーン大阪 うめきた公園で開催される国際フェスティバル「麦食音祭GG」に、PASONA NATUREVERSEによるアフター万博特別ブースが出展。限定グッズ販売に加え、万博パビリオンでアテンダントが着用していたユニフォームの試着体験などを実施。ハローキティ出演やサーキュラー公式販売所、GREEN DA・KA・RAの熱中症対策企画も展開される。<br><br><a href='https://prtimes.jp/main/html/rd/p/000000171.000067685.html' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://prtimes.jp/main/html/rd/p/000000171.000067685.html",
-        "image_url": "https://prcdn.freetls.fastly.net/release_image/67685/171/67685-171-7d65fb7c8a75981ef255421255bf071d-1913x2700.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.494361,
-          34.705778
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "アフター万博 WORLD hands〜世界のつづき〜（なんばマルイ外広場）",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【アフター万博 WORLD hands〜世界のつづき〜（なんばマルイ外広場）】</b><br>📅 期間: 2026/07/11 ～ 2026/08/09<br>📝 なんばマルイ外広場で開催される「アフター万博 WORLD hands〜世界のつづき〜」。万博で出会った世界のワクワクをもう一度楽しめる週末イベントとして、世界のハンドクラフト、グルメ、スイーツなどが集まる。開催日は7/11〜12、7/18〜20、8/1〜2、8/8〜9、時間は11:00〜19:30。<br><br><a href='https://www.instagram.com/after.expo.event/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
@@ -2297,25 +2240,6 @@
         "coordinates": [
           135.5063,
           34.652458
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "WHX Osaka 2026（インテックス大阪）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【WHX Osaka 2026（インテックス大阪）】</b><br>📅 期間: 2026/07/02 ～ 2026/07/04<br>📝 大阪・関西万博の理念を継承するヘルスケア総合イベント。日本の先端医療技術・サービスを世界へ発信する国際展示会・カンファレンスとして、万博レガシーゾーンや大阪パビリオンを展開し、医療・ヘルスケア分野の国際交流とビジネス創出を促進する。<br><br><a href='https://www.worldhealthexpo.com/events/healthcare/japan/ja/' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://www.worldhealthexpo.com/events/healthcare/japan/ja/",
-        "image_url": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.421809,
-          34.637622
         ]
       }
     },
@@ -2398,25 +2322,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "泉州ビーチランタンフェス vol.7（SENNAN LONG PARK／タルイサザンビーチ）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【泉州ビーチランタンフェス vol.7（SENNAN LONG PARK／タルイサザンビーチ）】</b><br>📅 期間: 2026/07/04 ～ 2026/07/05<br>📝 SENNAN LONG PARKおよびタルイサザンビーチで開催される夏のランタンイベント。2026年は万博特別企画として赤・青の特別カラーランタンが登場し、会場にはミャクミャク像も設置予定。泉南の海辺で、万博の記憶を光の景色として楽しめるイベント。<br><br><a href='https://prtimes.jp/main/html/rd/p/000000087.000147733.html' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://prtimes.jp/main/html/rd/p/000000087.000147733.html",
-        "image_url": "https://prcdn.freetls.fastly.net/release_image/147733/87/147733-87-c856b5ea4f41c4e02eaeabfae43f3386-1700x963.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.264178,
-          34.381094
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "（予定）大阪・関西万博の盛り上がりをもう一度！サキタハヂメ氏と創る特別ワークショップ",
         "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【大阪・関西万博の盛り上がりをもう一度！サキタハヂメ氏と創る特別ワークショップ】</b><br>📅 期間: 2026/08/01 ～ 2026/08/01<br>📝 河内長野市の市民交流センターキックスで開催される、世界的ミュージカルソー奏者・サキタハヂメ氏を招いた体験型ワークショップ。音をつくる体験に加え、河内長野で進行中のビッグプロジェクト紹介や、自分に合った関わり方を見つけるワークを実施。万博後の地域共創につながる市民参加型イベント。<br><br><a href='https://www.city.kawachinagano.lg.jp/soshiki/33/126801.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
@@ -2480,7 +2385,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/kakogawa_yamatoyashiki/p/DaXZACimvaL/",
-        "image_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-15/731187431_18329705428260128_398122673892725195_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=jv34FMVb-1MQ7kNvwH9iMck&_nc_oc=AdoC4VA_RqZBVflOu2nRcPmUfvChJlnRNqAjWCS6GYn2ASnlvilNJ0Kb1fp1ZwJAn2A&_nc_zt=23&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_gid=yA32T1G7tUwALmzgsQxerw&_nc_ss=7f60f&oh=00_AQCFd3G41LRrtD9_X5MxZlvI_JfEYWe8Kwcn4EqK1_UNNw&oe=6A5FA241"
+        "image_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/731187431_18329705428260128_398122673892725195_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=jv34FMVb-1MQ7kNvwHue0Wl&_nc_oc=AdpBSO6JTwdSkfXk-4zlPjwDX-a9sBWnoX4QeDd0foyFosWRAv-HxrEdhvwDr98sPMg&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=a0b8WQCpePf3RnTDYPP92Q&_nc_ss=7f60f&oh=00_AQDxXeNqbqce3ChTjgdUD-AAs_QQEcfF3lPg8033VkLh0A&oe=6A5FA241"
       },
       "geometry": {
         "type": "Point",
@@ -2518,7 +2423,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://banpakuhanabi.jp/",
-        "image_url": "https://banpakuhanabi.jp/wp-content/uploads/2026/07/ogp.png"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -2537,7 +2442,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://banpakuhanabi.jp/",
-        "image_url": "https://banpakuhanabi.jp/wp-content/uploads/2026/07/ogp.png"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -3297,7 +3202,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://takasago-mania.com/town-smartpole-sone/",
-        "image_url": "https://takasago-mania.com/wp-content/uploads/2026/03/PXL_20260322_074736057.jpg"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -3316,7 +3221,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.expo70-park.jp/facility/watchlearn/rosegarden/",
-        "image_url": "https://www.expo70-park.jp/sys/wp-content/uploads/sns_190515_04-640x480.jpg"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -3392,7 +3297,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.threads.com/@crew184_expo.epilogue.cafe",
-        "image_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-19/658898481_18070880096308952_7068635315121074024_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=b3fa00&_nc_ohc=io30ag1mal0Q7kNvwFLCO8Q&_nc_oc=AdrqeuaJYkpsX6iFKClsPgKEuqXf7COgrkggAktwKP5hH1OwlkO3DDE8w3OG_wFKuHM&_nc_zt=24&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_gid=J5o82hGQBjn2evGcCM_8Cw&_nc_ss=7f20f&oh=00_AQBQjhpuSzXri179g0Vf2aKdSH7vOtl_QB2Kz17IBwin9A&oe=6A5F7849"
+        "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/658898481_18070880096308952_7068635315121074024_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=b3fa00&_nc_ohc=io30ag1mal0Q7kNvwGkVN6i&_nc_oc=AdrEI7RPbBngPZ3GMMPG_4XeOh-UfjiUGodqLR8LZhfzATIyDlXdSW3idM-OfPKCdlw&_nc_zt=24&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=1GS7hkXQgvhkVUJHtoY1UA&_nc_ss=7f20f&oh=00_AQCRQfL2SYDSvZoYgtr37g_RO7Dr0ZUcipOaZYJhp1pF7w&oe=6A5F7849"
       },
       "geometry": {
         "type": "Point",
@@ -3468,7 +3373,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DalfgwECeqF/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==",
-        "image_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-15/741671055_18599635276031936_3389225437979274047_n.jpg?stp=c460.0.1383.1382a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=Q-0ydEA6NpAQ7kNvwGzrv5d&_nc_oc=Adr1uFUGl8GqV1hZuxUFcCKVfOBywMsduhweqpXxBAJU-D169GMGHc4uW2Dhv_BbWK4&_nc_zt=23&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_gid=W1fa9soiAle7Lrn0HeRjpQ&_nc_ss=7f60f&oh=00_AQDrAiVLmddj2eXjF6EHj8L3-diykG9uq3Rxun1gJBytjg&oe=6A5F750D"
+        "image_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/741671055_18599635276031936_3389225437979274047_n.jpg?stp=c460.0.1383.1382a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=Q-0ydEA6NpAQ7kNvwGvVv8m&_nc_oc=AdoQTP-r8Nt73ocdr0U1vNuuVI8A6lJI252Vi2cLrICB2CB97nxnFIYWZpwomEoCmKU&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=ua7Lmv_F08RukLpugn1XoA&_nc_ss=7f60f&oh=00_AQCnEbS_q2jWZS_FBpIhls-Zt50eRXwSFTBDUJrs2MBvog&oe=6A5F750D"
       },
       "geometry": {
         "type": "Point",
