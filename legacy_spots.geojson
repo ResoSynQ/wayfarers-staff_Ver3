@@ -865,7 +865,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://towelmuseum-shop.jp/collections/japanexpo2025?srsltid=AfmBOopjy5AJcfi9ulWDIEC6pLhMCKL8MdyuN_qnxKGkVriK57fLV7Qf",
-        "image_url": "https://cdn.shopify.com/s/files/1/0487/6795/9189/collections/osakaexpo.png?v=1702447653"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -1207,7 +1207,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/nauruya_higashiosaka/",
-        "image_url": ""
+        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
       },
       "geometry": {
         "type": "Point",
@@ -2119,7 +2119,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://a4tokyo.myshopify.com/collections/expo-2025-art-bloom-by-a4-gallery",
-        "image_url": "http://a4tokyo.myshopify.com/cdn/shop/collections/1_dfec591a-9191-432c-9354-5b767bfb0b81.jpg?v=1753428515"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -2138,7 +2138,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://a4tokyo.myshopify.com/collections/expo-2025-art-bloom-by-a4-gallery",
-        "image_url": "http://a4tokyo.myshopify.com/cdn/shop/collections/1_dfec591a-9191-432c-9354-5b767bfb0b81.jpg?v=1753428515"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -2157,7 +2157,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://a4tokyo.myshopify.com/collections/expo-2025-art-bloom-by-a4-gallery",
-        "image_url": "http://a4tokyo.myshopify.com/cdn/shop/collections/1_dfec591a-9191-432c-9354-5b767bfb0b81.jpg?v=1753428515"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -2176,7 +2176,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://a4tokyo.myshopify.com/collections/expo-2025-art-bloom-by-a4-gallery",
-        "image_url": "http://a4tokyo.myshopify.com/cdn/shop/collections/1_dfec591a-9191-432c-9354-5b767bfb0b81.jpg?v=1753428515"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -2195,7 +2195,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/after.expo.event/",
-        "image_url": ""
+        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
       },
       "geometry": {
         "type": "Point",
@@ -2341,8 +2341,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "（予定）ミャクミャク塗装ワークショップ（ホビーロビー大阪）",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【ミャクミャク塗装ワークショップ（ホビーロビー大阪）】</b><br>📅 期間: 2026/07/18 ～ 常設<br>📝 海洋堂ホビーロビー大阪で開催される、EXPO2025公式キャラクター・ミャクミャクフィギュアを自由に塗装できる体験ワークショップ。2025年に好評だった企画が新世界の新拠点で復活。参加年齢は6歳以上、所要時間60分、参加料2,500円（税込）。塗装できるポーズは「お座り」「寝ころび」の2種類で、ポーズは選択不可。<br><br><a href='https://x.com/HLO_kaiyodo/status/2072879440439455933' target='_blank'>🔗 詳細を開く</a>",
+        "name": "ミャクミャク塗装ワークショップ（ホビーロビー大阪）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ミャクミャク塗装ワークショップ（ホビーロビー大阪）】</b><br>📅 期間: 2026/07/18 ～ 常設<br>📝 海洋堂ホビーロビー大阪で開催される、EXPO2025公式キャラクター・ミャクミャクフィギュアを自由に塗装できる体験ワークショップ。2025年に好評だった企画が新世界の新拠点で復活。参加年齢は6歳以上、所要時間60分、参加料2,500円（税込）。塗装できるポーズは「お座り」「寝ころび」の2種類で、ポーズは選択不可。<br><br><a href='https://x.com/HLO_kaiyodo/status/2072879440439455933' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": true,
         "isKomyaku": false,
@@ -2366,7 +2366,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/kakogawa_yamatoyashiki/p/DaXZACimvaL/",
-        "image_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/731187431_18329705428260128_398122673892725195_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=2hFH6Sh0UGAQ7kNvwHlgdWO&_nc_oc=AdpPdlMqU9uirVyLaTz1_LpzEndtB96NREaT745eB4nDzzRUEikM0PzRuDDVvXXSf6k&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=hNdlO53cNOXlhdMCOyd9tw&_nc_ss=7fa02&oh=00_AQBRjfrqVpB0cZev4HnuTlfKPptnzQ5dVoxn8Imzb9pjrA&oe=6A608341"
+        "image_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/731187431_18329705428260128_398122673892725195_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=2hFH6Sh0UGAQ7kNvwE39_Jx&_nc_oc=AdpI5sn82FtehciBtjGxd2wjSiOgoWZScySv9TLYPq2UsPEIwsbMSkxaD5M23k_E8DQ&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=mnMiE3OpVAMhzH7BI63EeQ&_nc_ss=7fa02&oh=00_AQCuMRYejfbS9ykbCbDGGAg3lHlpoE6vVrOrAEw4Nq-pGA&oe=6A60F3C1"
       },
       "geometry": {
         "type": "Point",
@@ -2860,7 +2860,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/salamcoffee_stand/",
-        "image_url": ""
+        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
       },
       "geometry": {
         "type": "Point",
@@ -3278,7 +3278,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.threads.com/@crew184_expo.epilogue.cafe",
-        "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/658898481_18070880096308952_7068635315121074024_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=b3fa00&_nc_ohc=io30ag1mal0Q7kNvwHQ7Jrb&_nc_oc=Adp-Jk0Xph51Atgt-ASFowt7bckSflWMK7sH-9ULbtiAcfUfTap0XdgaI1CCHTFhRxE&_nc_zt=24&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=B_jajraEyA8WE3wUcCX-OQ&_nc_ss=7f20f&oh=00_AQBAZlXPLKOS6I3dw79-PvRdkVw-eXq-JfqYrgGwyKaTjg&oe=6A609189"
+        "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/658898481_18070880096308952_7068635315121074024_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=b3fa00&_nc_ohc=io30ag1mal0Q7kNvwE6MQfR&_nc_oc=AdqUFEDYzuNBnj5ns88ATat7IL7YADxocgijVsflpmVzevP-13Ltl4QfTTFhhL-Eysg&_nc_zt=24&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=tVo15XvMRXTxlzXCBj1qKQ&_nc_ss=7f20f&oh=00_AQCW2mEs6lfOGHpUXBP6PyitJIjjTwfRKmcifAItDGpumQ&oe=6A60C9C9"
       },
       "geometry": {
         "type": "Point",
@@ -3354,7 +3354,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DalfgwECeqF/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==",
-        "image_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/741671055_18599635276031936_3389225437979274047_n.jpg?stp=c460.0.1383.1382a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=Q-0ydEA6NpAQ7kNvwFizypE&_nc_oc=AdqBlgAaPgSAfr_XcLP23CwPMgZGUoKkqhc0ZNb-zj4ty2WdLgyTjiTtvQa90eCb7OY&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=2AxI-HeijDTsx8s8C_hvEQ&_nc_ss=7fa02&oh=00_AQD0dNGJSvFICExS7XMP8-Vo5xKQyElKPdS1RPvoD1lyLQ&oe=6A608E4D"
+        "image_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/741671055_18599635276031936_3389225437979274047_n.jpg?stp=c460.0.1383.1382a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=Q-0ydEA6NpAQ7kNvwHuNNyJ&_nc_oc=AdprE4a4fZmsCwZCbl3zj8b0te0EXClCbvtMHhO6r9wYUenypwLVuQfCMwhRntT8BKg&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=oO1vKOWPDkcyXG-q0k8j5g&_nc_ss=7fa02&oh=00_AQA3PeN3MA27lJ-ttRVdhHk6gSDLZ3NcwR699-ZUwx9wxA&oe=6A60C68D"
       },
       "geometry": {
         "type": "Point",
