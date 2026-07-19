@@ -6,6 +6,26 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "北九州の夏の風物詩「小倉祇園太鼓が」フィナーレ　子供たちの掛け声に合わせ太鼓の音響く(RKB毎日放送)",
+        "name": "北九州市小倉南区役所",
+        "address": "",
+        "reason": "祭りの活気と子供たちの参加が魅力的",
+        "date": "2026-07-20",
+        "link": "https://news.yahoo.co.jp/articles/9b1277d1459fcb2464a2ac0a02bad2d8bd05a734?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260720-22813099-rkbv-000-2-thumb.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.8848104,
+          33.8465244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "奥飛騨の特産品さんしょう　高山市の小学生らが摘み取り体験　人手不足の中自らで取り組み始める(中京テレビＮＥＷＳ)",
         "name": "高山市役所",
         "address": "",
