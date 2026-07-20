@@ -6,6 +6,26 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "幻想的な大夜泳で観客魅了　白浜海女まつりに2万8000人　南房総（千葉県）(房日新聞)",
+        "name": "南房総市 白浜コミュニティセンター",
+        "address": "",
+        "reason": "幻想的な夜の海でのイベントに興味をそそられるから",
+        "date": "2026-07-21",
+        "link": "https://news.yahoo.co.jp/articles/f7c46fbde67034048d3d395e513271db60c915dd?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260721-00010001-bonichi-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8959295,
+          34.90881675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "北九州の夏の風物詩「小倉祇園太鼓が」フィナーレ　子供たちの掛け声に合わせ太鼓の音響く(RKB毎日放送)",
         "name": "北九州市小倉南区役所",
         "address": "",
