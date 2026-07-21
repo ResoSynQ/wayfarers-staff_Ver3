@@ -6,6 +6,46 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "奈良の吉野杉使った特産品クラフトジン「森の息吹、香り感じて」　奈良県黒滝村の植田村長ら、山下知事にPR　おすすめはオン・ザ・ロックや炭酸割り(奈良新聞デジタル)",
+        "name": "黒滝村役場",
+        "address": "",
+        "reason": "吉野杉を使ったクラフトジンは、その土地ならではの香りと味わいが期待でき、興味をそそられるため。",
+        "date": "2026-07-22",
+        "link": "https://news.yahoo.co.jp/articles/ff086bb973f444bbfc718821259e7ca9d9f20ee4?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260722-00000001-naranp-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8521419,
+          34.3093065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "海の家、店主は男子高校生　南房総市の南千倉海水浴場（千葉県）(房日新聞)",
+        "name": "南千倉海水浴場",
+        "address": "",
+        "reason": "男子高校生が営む珍しい海の家",
+        "date": "2026-07-22",
+        "link": "https://news.yahoo.co.jp/articles/ec517ea2ce362d110c03649bee6ae24486bf2c4a?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260722-00010000-bonichi-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.9602736,
+          34.9648997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "幻想的な大夜泳で観客魅了　白浜海女まつりに2万8000人　南房総（千葉県）(房日新聞)",
         "name": "南房総市 白浜コミュニティセンター",
         "address": "",
