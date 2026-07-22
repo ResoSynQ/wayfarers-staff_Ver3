@@ -6,6 +6,26 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "鴨川出身の米澤威さん、米国でレザークラフトアートが国際的評価（千葉県）(房日新聞)",
+        "name": "鴨川市役所",
+        "address": "",
+        "reason": "著名なアーティストの出身地",
+        "date": "2026-07-23",
+        "link": "https://news.yahoo.co.jp/articles/2f9ded9df28f24dd75fd130886869993499ae085?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260723-00010001-bonichi-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0987105,
+          35.1139863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "奈良の吉野杉使った特産品クラフトジン「森の息吹、香り感じて」　奈良県黒滝村の植田村長ら、山下知事にPR　おすすめはオン・ザ・ロックや炭酸割り(奈良新聞デジタル)",
         "name": "黒滝村役場",
         "address": "",
