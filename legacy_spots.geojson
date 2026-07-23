@@ -219,7 +219,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.chion-in.or.jp/news/6406/",
-        "image_url": ""
+        "image_url": "https://www.chion-in.or.jp/wp/wp-content/uploads//2025/10/上段-1-300x241.jpg?1761812847"
       },
       "geometry": {
         "type": "Point",
@@ -1125,25 +1125,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "（予定）本町ミャクミャクステーション【跡地】",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【本町ミャクミャクステーション【跡地】】</b><br>📅 期間: ---- ～ 2026/4/29<br>📝 かつてOsaka Metro御堂筋線「本町駅」で、非公式の常設展示としてファンや通勤客に愛されてきた『本町ミャクミャクステーション』がありました。駅員さんの発案で始まり、ミャクミャクや海外パビリオンのキャラクターなど約50体のぬいぐるみが並ぶ姿はまるで小さな万博会場でした。万博のワクワク感を届けてくれた心温まる展示で、展示終了時には多くの万博ファンの方々が訪れました。<br><br><a href='https://www.lmaga.jp/news/2026/04/1050001/' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://www.lmaga.jp/news/2026/04/1050001/",
-        "image_url": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.5007822,
-          34.68302377
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "大阪万博石黒館のアンドロイド",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【大阪万博石黒館のアンドロイド】</b><br>📅 期間: 2026/05/09 ～ ----<br>📝 大阪・関西万博のシグネチャーパビリオン「いのちの未来」で展示されていたアンドロイド計3体が東京都多摩市の「長谷工マンションミュージアム」に移設されました。<br><br><a href='https://www.nikkei.com/article/DGXZQOUC304D50Q6A430C2000000/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
@@ -1796,7 +1777,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://jpn.mizuno.com/dicontents/osaka_expo2025/after_event?utm_source=twitter&utm_medium=social&utm_campaign=sndilhwk_afterexpo&utm_content=260617",
-        "image_url": "https://jpn.mizuno.com/sites/default/files/2022-02/MRB400_400.jpg"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -1936,25 +1917,6 @@
         "coordinates": [
           139.7406442,
           35.66156434
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EXPO2025公式ポップアップストアがラゾーナ川崎に期間限定OPEN！",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【EXPO2025公式ポップアップストアがラゾーナ川崎に期間限定OPEN！】</b><br>📅 期間: 2026/06/26 ～ 2026/07/22<br>📝 EXPO2025オフィシャルポップアップストアが、丸善ラゾーナ川崎店内に期間限定でオープンします。\n会場では、ミャクミャク関連グッズの販売に加え、開催期間中に「ミャクミャクぬいぐるみくじ ブラックVer.」も実施予定とのこと！<br><br><a href='https://myakumyakuhouse.jp/topics/detail/342/' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": true,
-        "isKomyaku": false,
-        "link": "https://myakumyakuhouse.jp/topics/detail/342/",
-        "image_url": "https://myakumyakuhouse.jp/assets/images/ogp.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.6960859,
-          35.53307844
         ]
       }
     },
@@ -2107,25 +2069,6 @@
         "coordinates": [
           135.5014872,
           34.66872848
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EXPO 2025 ART BLOOM by A4 GALLERY 大阪会場（あべのハルカス近鉄本店）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【EXPO 2025 ART BLOOM by A4 GALLERY 大阪会場（あべのハルカス近鉄本店）】</b><br>📅 期間: 2026/07/02 ～ 2026/07/20<br>📝 大阪・関西万博公式キャラクター「ミャクミャク」など万博IPを使用したアート作品を巡回展示するアートプロジェクト。国内外の人気アーティストによる作品に加え、サッカーをテーマにしたオリジナルアートやグッズも登場。LEGACY展も同時開催。<br><br><a href='https://a4tokyo.myshopify.com/collections/expo-2025-art-bloom-by-a4-gallery' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://a4tokyo.myshopify.com/collections/expo-2025-art-bloom-by-a4-gallery",
-        "image_url": "http://a4tokyo.myshopify.com/cdn/shop/collections/1_dfec591a-9191-432c-9354-5b767bfb0b81.jpg?v=1753428515"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.513415,
-          34.646004
         ]
       }
     },
@@ -2360,25 +2303,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "EXPO2025 ミャクミャク ひっぱりだこ飯 期間限定販売（加古川ヤマトヤシキ）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【EXPO2025 ミャクミャク ひっぱりだこ飯 期間限定販売（加古川ヤマトヤシキ）】</b><br>📅 期間: 2026/07/15 ～ 2026/07/20<br>📝 加古川ヤマトヤシキ1階で、淡路屋の「EXPO2025 ミャクミャク ひっぱりだこ飯」を期間限定販売。人気駅弁「ひっぱりだこ飯」の内容はそのままに、ミャクミャクをあしらった特製陶器と掛け紙を採用した公式ライセンス商品。価格は税込1,980円、各日48個限定。<br><br><a href='https://www.instagram.com/kakogawa_yamatoyashiki/p/DaXZACimvaL/' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": true,
-        "isKomyaku": false,
-        "link": "https://www.instagram.com/kakogawa_yamatoyashiki/p/DaXZACimvaL/",
-        "image_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/731187431_18329705428260128_398122673892725195_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=8N94qklGe0cQ7kNvwE4FrGA&_nc_oc=Adori0WoZrD5lA3120OaCtPT9yojkyzS4qUTK-TRuBvqL7t_oVhcuvfh5LocDFp3Ers&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=B3rrXdd-lv7MP8M9iKp-OA&_nc_ss=7f60f&oh=00_AQAIWJOPsqP1DsymyuMyVGTihzsJYMsSLRwK3H1i9gl7Xg&oe=6A671AC1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          134.838893,
-          34.766277
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "（予定）ベルギービールウィークエンド2026 京都（お東さん広場）",
         "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【ベルギービールウィークエンド2026 京都（お東さん広場）】</b><br>📅 期間: 2026/10/08 ～ 2026/10/12<br>📝 京都・お東さん広場で開催されるベルギービールと食文化のフェス。歴史ある東本願寺前のロケーションで、本格ベルギービール、グルメフード、音楽ライブを楽しめる。万博後も海外文化に触れる機会をまちなかへ広げる国際交流型イベント。<br><br><a href='https://belgianbeerweekend.jp/kyoto' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
@@ -2601,25 +2525,6 @@
         "coordinates": [
           135.5019887,
           34.66859616
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EXPO2025オフィシャルポップアップストア 広島テレビホール店",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【EXPO2025オフィシャルポップアップストア 広島テレビホール店】</b><br>📅 期間: 2026/07/11 ～ 2026/07/12<br>📝 EXPO2025 Futures Tour広島会場にあわせて展開されるオフィシャルポップアップストア。広島コンベンションホール1階の広島テレビホール＆エントランスホールで、ミャクミャクをはじめとする公式ライセンス商品に出会える期間限定スポット。<br><br><a href='https://expo2025mlo.jp/wp-content/themes/expo-2025/assets/file/officialstore_list.pdf' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": true,
-        "isKomyaku": false,
-        "link": "https://expo2025mlo.jp/wp-content/themes/expo-2025/assets/file/officialstore_list.pdf",
-        "image_url": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          132.4756257,
-          34.40022336
         ]
       }
     },
@@ -3278,7 +3183,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.threads.com/@crew184_expo.epilogue.cafe",
-        "image_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/658898481_18070880096308952_7068635315121074024_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=b3fa00&_nc_ohc=DZGQXSZ97xMQ7kNvwFwTKI3&_nc_oc=Ado7m58Olf26jucah17t7x9-pY6q4ay2L_SEF5ZiITS9QA0s5KpyP11cz8gwUhOezXI&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_gid=Un8lVHbTCOdLAEJcYjttUg&_nc_ss=7f20f&oh=00_AQBQXDlVH9a4f3v_sEtYQJYeeWomeeWFmXc-sOxtLj4aUA&oe=6A672909"
+        "image_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/658898481_18070880096308952_7068635315121074024_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=b3fa00&_nc_ohc=DZGQXSZ97xMQ7kNvwGt1_hl&_nc_oc=AdpD0UiA1aNgAFFWMHocfvthYPgFaBQU4ltzLHU-ijHhU50rSMmwJY11bhPC6PpjYm0&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=PV_C0cR75zxzAwli8ysB4A&_nc_ss=7f20f&oh=00_AQCRrv6KtroNoqvsYm4qepQRiyuF-70G-qus2ZTfpLdcjg&oe=6A676149"
       },
       "geometry": {
         "type": "Point",
@@ -3310,8 +3215,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "（予定）EXPO2025オフィシャルポップアップストア 丸善丸の内OAZO店",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【EXPO2025オフィシャルポップアップストア 丸善丸の内OAZO店】</b><br>📅 期間: 2026/07/23 ～ 2026/08/30<br>📝 東京・丸の内の丸善丸の内本店1階に期間限定で開くEXPO2025オフィシャルポップアップストア。公式ライセンス商品やミャクミャクぬいぐるみくじ（ブラックVer.）を展開し、万博の余韻を東京で楽しめる公式グッズスポット。<br><br><a href='https://www.expo2025.or.jp/news/news-20260715-01/' target='_blank'>🔗 詳細を開く</a>",
+        "name": "EXPO2025オフィシャルポップアップストア 丸善丸の内OAZO店",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【EXPO2025オフィシャルポップアップストア 丸善丸の内OAZO店】</b><br>📅 期間: 2026/07/23 ～ 2026/08/30<br>📝 東京・丸の内の丸善丸の内本店1階に期間限定で開くEXPO2025オフィシャルポップアップストア。公式ライセンス商品やミャクミャクぬいぐるみくじ（ブラックVer.）を展開し、万博の余韻を東京で楽しめる公式グッズスポット。<br><br><a href='https://www.expo2025.or.jp/news/news-20260715-01/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": true,
         "isKomyaku": false,
@@ -3354,7 +3259,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DalfgwECeqF/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==",
-        "image_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-15/741671055_18599635276031936_3389225437979274047_n.jpg?stp=c460.0.1383.1382a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=lN0jb_RdFJMQ7kNvwE6jrFG&_nc_oc=Adq4VnAliB34kNG_hfsTit2QR_g3s2Trk4lCqjRxRfoV4BQpoVUR3fuZMgkuTKSz-ww&_nc_zt=23&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_gid=VmauMWq5BLnB8RqrMfkNuA&_nc_ss=7f60f&oh=00_AQDVHm8K0-JluqGYN1mU4OXkJ59Neffi1DKDC6dh5nG8jg&oe=6A6725CD"
+        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
       },
       "geometry": {
         "type": "Point",
@@ -3380,44 +3285,6 @@
         "coordinates": [
           135.52014,
           34.66582
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "MEETS CHEESE（ごほうびすと塚口店）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【MEETS CHEESE（ごほうびすと塚口店）】</b><br>📅 期間: 2026/07/07 ～ 2026/07/13<br>📝 大阪・関西万博コロンビア館公式スイーツブランド「MEETS CHEESE」がごほうびすと阪急塚口店に期間限定出店。万博で話題のコロンビア素材×フランス産チーズのスイーツを楽しめる。<br><br><a href='https://meets-cheese.com/' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": true,
-        "isKomyaku": false,
-        "link": "https://meets-cheese.com/",
-        "image_url": "https://meets-cheese.com/wp/wp-content/themes/meets-cheese/img/common/cmn-ogp-img.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.41575,
-          34.75298
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "MEETS CHEESE（大丸京都店）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【MEETS CHEESE（大丸京都店）】</b><br>📅 期間: 2026/07/15 ～ 2026/07/21<br>📝 大阪・関西万博コロンビア館公式スイーツブランド「MEETS CHEESE」が大丸京都店B1F地階食品催事場に期間限定出店。京都の百貨店で万博ゆかりのチーズスイーツに出会える。<br><br><a href='https://meets-cheese.com/' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": true,
-        "isKomyaku": false,
-        "link": "https://meets-cheese.com/",
-        "image_url": "https://meets-cheese.com/wp/wp-content/themes/meets-cheese/img/common/cmn-ogp-img.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.76233,
-          35.00355
         ]
       }
     },
