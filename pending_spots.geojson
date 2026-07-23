@@ -6,6 +6,46 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "セ・パ選手等身大パネル登場　富山で２９日球宴、関連イベント続々(北日本新聞)",
+        "name": "富山県富山市西番運動広場",
+        "address": "",
+        "reason": "球宴と等身大パネルでファンを魅了",
+        "date": "2026-07-24",
+        "link": "https://news.yahoo.co.jp/articles/e9989b25aab692bfec0834c6ee6201943a5117cb?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260724-00000001-kitanihon-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.273256,
+          36.6439259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "公務員目指しませんか　８月、富山県と１５市町村初の合同イベント(北日本新聞)",
+        "name": "富山県庁",
+        "address": "",
+        "reason": "若者へのアピールと地域貢献",
+        "date": "2026-07-24",
+        "link": "https://news.yahoo.co.jp/articles/9626c1cda56704dc4dfabace6e77953bdad94ec7?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.211338,
+          36.6952901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "鴨川出身の米澤威さん、米国でレザークラフトアートが国際的評価（千葉県）(房日新聞)",
         "name": "鴨川市役所",
         "address": "",
