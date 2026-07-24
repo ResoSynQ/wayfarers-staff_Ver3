@@ -6,6 +6,66 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "「倉敷アフタヌーンティー」最多34店参加　夜にアルコールと食事提供の店も(山陽新聞デジタル)",
+        "name": "倉敷市役所",
+        "address": "",
+        "reason": "複数店舗で特色ある提供があり、魅力的だから",
+        "date": "2026-07-25",
+        "link": "https://news.yahoo.co.jp/articles/ca1e0c51360326e6be4efb26c481bae14a96b768?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260725-00010000-sanyo-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.7720839,
+          34.5850129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "【スターシアターズ・榮慶子の映画コレ見た？】『急に具合が悪くなる』魂が震える2人の交流(沖縄タイムス)",
+        "name": "桜坂劇場",
+        "address": "",
+        "reason": "沖縄の映画館で、地元ゆかりの映画監督による作品の紹介で、地域への関心を高める",
+        "date": "2026-07-25",
+        "link": "https://news.yahoo.co.jp/articles/898c58ccc956ca7f976758a74ddd5ed91234e2ab?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260725-01886895-okinawat-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.6901384,
+          26.2147706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "【日程】第６０回潮まつり「潮ねりこみ」は２５日開催　神輿パレードや大花火大会も　小樽市(STVニュース北海道)",
+        "name": "小樽市役所",
+        "address": "",
+        "reason": "祭りの賑わいや花火大会に魅力を感じて",
+        "date": "2026-07-25",
+        "link": "https://news.yahoo.co.jp/articles/cee9bc8cf58bde3140f0e0ad0b8e05326cc49a0f?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260725-01875156-stv-000-1-thumb.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.9946616,
+          43.1907167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "セ・パ選手等身大パネル登場　富山で２９日球宴、関連イベント続々(北日本新聞)",
         "name": "富山県富山市西番運動広場",
         "address": "",
