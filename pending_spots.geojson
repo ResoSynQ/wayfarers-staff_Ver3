@@ -6,6 +6,26 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "【桜坂劇場・下地久美子の映画コレ見た？】『新凱旋門物語』建築家の芸術への敬意(沖縄タイムス)",
+        "name": "桜坂劇場",
+        "address": "",
+        "reason": "沖縄の映画館で沖縄の映画評論を読めるため",
+        "date": "2026-07-26",
+        "link": "https://news.yahoo.co.jp/articles/3adba57ab9b3385a399426779fcf3d1820942202?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260726-01886896-okinawat-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.6901384,
+          26.2147706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "「倉敷アフタヌーンティー」最多34店参加　夜にアルコールと食事提供の店も(山陽新聞デジタル)",
         "name": "倉敷市役所",
         "address": "",
