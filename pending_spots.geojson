@@ -6,6 +6,66 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "仲間と速歩や筋トレで汗　東条公民館の実践で学ぶ健康講座好評　鴨川（千葉県）(房日新聞)",
+        "name": "鴨川市役所　東条公民館",
+        "address": "",
+        "reason": "健康維持に役立つ実践的な内容と、仲間と楽しく取り組める雰囲気が魅力",
+        "date": "2026-07-28",
+        "link": "https://news.yahoo.co.jp/articles/4c8c43f443ab7aa8ebd080d87ace3aaef6574ff4?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260728-00010000-bonichi-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.107831944444,
+          35.122151388889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "熱海「ホテルニューアカオ」にキッズフロア新設　全天候型キッズパークも(みんなの経済新聞ネットワーク)",
+        "name": "ホテルニューアカオ",
+        "address": "",
+        "reason": "子供連れに魅力的なキッズフロアと全天候型パークの新規開設",
+        "date": "2026-07-28",
+        "link": "https://news.yahoo.co.jp/articles/a54eaecec3fd8171952c011bf2de145dd55d5e86?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260728-00000005-minkei-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.08024836518,
+          35.085777554189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "「1000年に一度のお風呂の年」京都の銭湯が“にゃんこ大戦争”とコラボ、府知事もメロメロ「ネコの力はすごい」(Lmaga.jp)",
+        "name": "スーパー銭湯伏見力の湯",
+        "address": "",
+        "reason": "ユニークなコラボと知事のお墨付きで興味を引く",
+        "date": "2026-07-28",
+        "link": "https://news.yahoo.co.jp/articles/e815b80785c4925761ae7e0868991c72685727ff?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260728-01082797-lmaga-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.75150064,
+          34.9569768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "MOA美術館で「デジタル北斎漫画」　全15編をめくって鑑賞(みんなの経済新聞ネットワーク)",
         "name": "MOA美術館",
         "address": "",
