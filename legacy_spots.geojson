@@ -1188,7 +1188,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/nauruya_higashiosaka/",
-        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -1828,25 +1828,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "高松シンボルタワー ホール棟1階展示場　大阪・関西万博の1周年メモリアルイベントTour「EXPO2025 Futures Tour」の開催が決定しました！",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【高松シンボルタワー ホール棟1階展示場　大阪・関西万博の1周年メモリアルイベントTour「EXPO2025 Futures Tour」の開催が決定しました！】</b><br>📅 期間: 2026/07/25 ～ 2026/07/26<br>📝 万博で生まれた感動や未来へのワクワクを、閉幕後も全国各地へつないでいくアフター万博イベントです。大阪・関西万博に行った人も、行けなかった人も、各地で“もう一度万博”を感じられる機会になりそうです。<br><br><a href='https://www.expo2025.or.jp/news/news-20260619-03/' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://www.expo2025.or.jp/news/news-20260619-03/",
-        "image_url": "https://www.expo2025.or.jp/wp/wp-content/uploads/key.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          134.0470507,
-          34.3525382
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "（予定）CoCoLo新潟1階 吹き抜け広場「ガタリウム」　大阪・関西万博の1周年メモリアルイベントTour「EXPO2025 Futures Tour」の開催が決定しました！",
         "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【CoCoLo新潟1階 吹き抜け広場「ガタリウム」　大阪・関西万博の1周年メモリアルイベントTour「EXPO2025 Futures Tour」の開催が決定しました！】</b><br>📅 期間: 2026/08/08 ～ 2026/08/09<br>📝 万博で生まれた感動や未来へのワクワクを、閉幕後も全国各地へつないでいくアフター万博イベントです。大阪・関西万博に行った人も、行けなかった人も、各地で“もう一度万博”を感じられる機会になりそうです。<br><br><a href='https://www.expo2025.or.jp/news/news-20260619-03/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
@@ -2138,7 +2119,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/after.expo.event/",
-        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -2531,25 +2512,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "EXPO2025オフィシャルポップアップストア サンポート高松店",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【EXPO2025オフィシャルポップアップストア サンポート高松店】</b><br>📅 期間: 2026/07/25 ～ 2026/07/26<br>📝 EXPO2025 Futures Tour高松会場にあわせて展開されるオフィシャルポップアップストア。高松シンボルタワー周辺で万博公式グッズを手に取れる、四国エリアの期間限定レガシースポット。<br><br><a href='https://expo2025mlo.jp/wp-content/themes/expo-2025/assets/file/officialstore_list.pdf' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": true,
-        "isKomyaku": false,
-        "link": "https://expo2025mlo.jp/wp-content/themes/expo-2025/assets/file/officialstore_list.pdf",
-        "image_url": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          134.04668,
-          34.35258
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "（予定）EXPO2025オフィシャルポップアップストア CoCoLo新潟店",
         "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【EXPO2025オフィシャルポップアップストア CoCoLo新潟店】</b><br>📅 期間: 2026/08/08 ～ 2026/08/09<br>📝 EXPO2025 Futures Tour新潟会場にあわせて、CoCoLo新潟で展開されるオフィシャルポップアップストア。駅直結の商業施設で、万博公式グッズとアフター万博の熱気に触れられる。<br><br><a href='https://expo2025mlo.jp/wp-content/themes/expo-2025/assets/file/officialstore_list.pdf' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
@@ -2765,7 +2727,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/salamcoffee_stand/",
-        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -2898,7 +2860,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.ostec.or.jp/pop/news/2361/",
-        "image_url": ""
+        "image_url": "https://www.ostec.or.jp/pop/pop_wpcore/wp-content/uploads/2025/07/mainv_mb-1.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -3183,7 +3145,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.threads.com/@crew184_expo.epilogue.cafe",
-        "image_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/658898481_18070880096308952_7068635315121074024_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=b3fa00&_nc_ohc=mK_mnIxXJGIQ7kNvwGd6XeD&_nc_oc=AdqT8AhWJ4ZBm9aUhYxYf6b6LtT2fUx0t2PFULYnkBaIGX8XheCOpwMHoJ4RUBd16E4&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=lMC3muC-C6qFs2gDwRm64A&_nc_ss=7f20f&oh=00_AQBxbJxKe6w6uOLuHzs7w-KGguR_lXnmtsysSn-d52AHpA&oe=6A6C6F09"
+        "image_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/658898481_18070880096308952_7068635315121074024_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=b3fa00&_nc_ohc=mK_mnIxXJGIQ7kNvwEpsi9L&_nc_oc=AdpPPYhysgdGj0mdwx5DzjDFNx0ye8BACb4o40HSrEeTQlNRCqL8L2WvOwi920A7PVc&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=lmopS8NmqO7KGuqfJSYJ8g&_nc_ss=7f20f&oh=00_AQA1zEpiuplD750RKtKWXGmjtsMrhwBhyv-RVq1mKfmsOg&oe=6A6CA749"
       },
       "geometry": {
         "type": "Point",
@@ -3259,32 +3221,13 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DalfgwECeqF/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==",
-        "image_url": "https://scontent-sea1-1.cdninstagram.com/v/t51.82787-15/741671055_18599635276031936_3389225437979274047_n.jpg?stp=c460.0.1383.1382a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=fISQwM6Cl4IQ7kNvwHxaimE&_nc_oc=Ado3NlPpIj3kkSY3ZcM4D0ZOC_GfBgrs8pSPj0Q1inEzn-sqiM66SPdNGFs0IJtVA88&_nc_zt=23&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=EBeJrjOpzfNVaX5XU2CcPA&_nc_ss=7fa02&oh=00_AQD3uNzqMzMtTRkHEtUOCfgp51Pv0xnJ1pWdNxnVjyGJgQ&oe=6A6C6BCD"
+        "image_url": "https://scontent-sea1-1.cdninstagram.com/v/t51.82787-15/741671055_18599635276031936_3389225437979274047_n.jpg?stp=c460.0.1383.1382a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=fISQwM6Cl4IQ7kNvwGrUhck&_nc_oc=AdrIsQDHdrW-gdSX35yAhWWRzOo0iwUJGepKxxvKbWJfEgeytY4TEkcaHkl5-XeP7ww&_nc_zt=23&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=RCMKYINWlwu2ZLc0RsA-dA&_nc_ss=7fa02&oh=00_AQBMdIcZnhQHWSLaqDJkyr3zkoJCClFCociyX2e8Qa6wpA&oe=6A6CA40D"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -73.96927178,
           40.74933092
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "MEETS CHEESE（ミーツスイーツ上本町）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【MEETS CHEESE（ミーツスイーツ上本町）】</b><br>📅 期間: 2026/07/02 ～ 2026/07/08<br>📝 大阪・関西万博コロンビア館公式スイーツブランド「MEETS CHEESE」がミーツスイーツ上本町に期間限定出店。フランス産チーズとコロンビア産コーヒー・カカオ・アボカドを融合したチーズスイーツを展開。<br><br><a href='https://meets-cheese.com/' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": true,
-        "isKomyaku": false,
-        "link": "https://meets-cheese.com/",
-        "image_url": "https://meets-cheese.com/wp/wp-content/themes/meets-cheese/img/common/cmn-ogp-img.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.52014,
-          34.66582
         ]
       }
     },
@@ -3304,25 +3247,6 @@
         "coordinates": [
           135.4317,
           34.73178
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "MEETS CHEESE（ごほうびすと梅田店）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【MEETS CHEESE（ごほうびすと梅田店）】</b><br>📅 期間: 2026/07/21 ～ 2026/07/27<br>📝 大阪・関西万博コロンビア館公式スイーツブランド「MEETS CHEESE」がごほうびすと阪急梅田店に期間限定出店。コロンビア産素材とフランス産チーズを掛け合わせたプレミアムチーズスイーツを販売。<br><br><a href='https://ekinaka.hankyu-hanshin.co.jp/shop_news/popup/NS26071501/' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": true,
-        "isKomyaku": false,
-        "link": "https://ekinaka.hankyu-hanshin.co.jp/shop_news/popup/NS26071501/",
-        "image_url": "https://ekinaka.hankyu-hanshin.co.jp/common/img/og.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.49825,
-          34.70543
         ]
       }
     },
@@ -3418,6 +3342,728 @@
         "coordinates": [
           135.61986,
           34.84952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）万博スタンプがやってくる！",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【万博スタンプがやってくる！】</b><br>📅 期間: 2026/08/01 ～ 2026/08/02<br>📝 大阪科学技術館で開催される万博レガシーイベント。2階テクノくん広場に、ガスパビリオン「おばけワンダーランド」、電力館「可能性のタマゴたち」、ゼロカーボン電力、パナソニックグループパビリオン「ノモの国」、RITE未来の森、クラゲ館、ミライ人間洗濯機などのスタンプが登場。1階大阪ガスブースではガスパビリオン「化けるLABO」が押せるヒント探し企画も実施。<br><br><a href='https://www.ostec.or.jp/pop/news/2187/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.ostec.or.jp/pop/news/2187/",
+        "image_url": "https://www.ostec.or.jp/pop/pop_wpcore/wp-content/uploads/2025/07/mainv_mb-1.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.49495,
+          34.6852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ミャクミャクと。",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ミャクミャクと。】</b><br>📅 期間: 2026/07/24 ～ 2026/08/09<br>📝 梅田ロフトで開催される、ミャクミャクと一緒におでかけしたいグッズを集めた期間限定イベント。大阪・関西万博閉幕後も人気が続くミャクミャクのグッズに出会える、万博の思い出を日常につなぐ公式キャラクター系レガシーショップイベント。<br><br><a href='https://www.loft.co.jp/shop_list/info.php?info_id=696423&shop_id=143' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": true,
+        "isKomyaku": false,
+        "link": "https://www.loft.co.jp/shop_list/info.php?info_id=696423&shop_id=143",
+        "image_url": "https://loft-images.s3.ap-northeast-1.amazonaws.com/original_2265701__S%2BPOP%E3%83%87%E3%83%BC%E3%82%BF-1.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.49859,
+          34.70139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ナウル屋天王寺出張所",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ナウル屋天王寺出張所】</b><br>📅 期間: 常設 / 時期----<br>📝 大阪・関西万博で話題を集めたナウル共和国の公式キャラクター「ナウルくん」のグッズを扱う天王寺エリアの出張所。カバン店コーリンコバヤシ内で、天王寺出張所オリジナルのハンドメイドキーホルダーやミニチャームなどを販売している。<br><br><a href='https://www.instagram.com/p/DahWKivEoTO/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": true,
+        "isKomyaku": false,
+        "link": "https://www.instagram.com/p/DahWKivEoTO/",
+        "image_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/741068451_18336425095268595_8303109530742012563_n.jpg?stp=c595.0.1786.1786a_dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=0qEW0LY_HhIQ7kNvwFKrQQK&_nc_oc=AdrYxvBTyhQSDINfjseotzHu7ymoReqwvno5l1b0OcHQZN_3i-Smh-8NXEa9VDkGSK0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=EITBxIGc0TBC9nQCSQBZQQ&_nc_ss=7fa02&oh=00_AQChY8QhVBEb_xClM3fO1d0lMLTfZcXq9PChcjSEp3tz7A&oe=6A6CAA1A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5296,
+          34.658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）万博レガシー継承祭inアリオ八尾〜次代へつなぐ八尾の未来〜",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【万博レガシー継承祭inアリオ八尾〜次代へつなぐ八尾の未来〜】</b><br>📅 期間: 2026/08/09 ～ 2026/08/09<br>📝 大阪・関西万博に出展した八尾市を含む近隣自治体が再結集し、万博の絆を継承するイベント。万博出演団体や自治体によるステージ、万博で出店した食や伝統工芸の販売・展示、大屋根リング木材やクラゲ館記帳台などのレガシー展示、館内スタンプラリーを実施。<br><br><a href='https://www.city.yao.osaka.jp/bunka_sports_event/yaopromotion_banpaku/1011556/1024574.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.city.yao.osaka.jp/bunka_sports_event/yaopromotion_banpaku/1011556/1024574.html",
+        "image_url": "https://www.city.yao.osaka.jp/_template_/_site_/_default_/_res/images/sns/ogimage.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6049,
+          34.632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）海を救え！プラごみへらし隊 チャレンジ大作戦",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【海を救え！プラごみへらし隊 チャレンジ大作戦】</b><br>📅 期間: 2026/08/09 ～ 2026/08/09<br>📝 大阪市環境局が開催する、海洋プラスチックごみやリサイクルについて楽しく学べる体験型イベント。マイクロプラスチック分離実験、オリジナルうちわ作成、ゲーム、クイズ、スタンプラリーなどを実施し、大阪・関西万博公式キャラクターのミャクミャクもステージに登場予定。<br><br><a href='https://www.city.osaka.lg.jp/kankyo/page/0000677584.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.city.osaka.lg.jp/kankyo/page/0000677584.html",
+        "image_url": "https://www.city.osaka.lg.jp/shisei/css/img/ogp_image.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5102,
+          34.7048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）世界のカラフルワールド in KOBE 2026",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【世界のカラフルワールド in KOBE 2026】</b><br>📅 期間: 2026/08/13 ～ 2026/08/18<br>📝 神戸・三宮のさんちかホールで開催される『アフター万博 In KOBE』表記の催事。チュニジア専門店「ダール・ヤスミン」をはじめ、世界各国の雑貨・民芸品・グルメ、異文化交流、ワークショップなどが集まる。<br><br><a href='https://www.santica.com/event/20260813' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": true,
+        "isKomyaku": false,
+        "link": "https://www.santica.com/event/20260813",
+        "image_url": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.1937,
+          34.694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "イタリアパビリオン『アンサルド SVA9型機』復元機（関西国際空港エアロプラザ）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【イタリアパビリオン『アンサルド SVA9型機』復元機（関西国際空港エアロプラザ）】</b><br>📅 期間: 2026/07/25 ～ 2027/03/31<br>📝 大阪・関西万博イタリア館で展示された、1920年のローマ―東京飛行に使われたアンサルドSVA9型機の実物大復元骨格・模型。現存実機ではなく、当時の設計資料を基に再現したもの。<br><br><a href='https://newsdig.tbs.co.jp/articles/mbs/2827012?display=1' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://newsdig.tbs.co.jp/articles/mbs/2827012?display=1",
+        "image_url": "https://newsdig.ismcdn.jp/mwimgs/3/a/1200w/img_3a04b7d580d8035b13e70d044c4e0ff5309631.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.243,
+          34.4358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CONTROLUCE（コントロルーチェ）（立命館大学BKC）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【CONTROLUCE（コントロルーチェ）（立命館大学BKC）】</b><br>📅 期間: 2026/07/25 ～ 常設<br>📝 大阪・関西万博イタリア館に展示された、マルケ州出身の現代美術作家オリヴィエーロ・フィオレンツィ氏による作品。イタリア語で『逆光』を意味し、光を当てると模様が浮かび上がる。作者から立命館大学へ寄贈された。<br><br><a href='https://www.yomiuri.co.jp/local/shiga/news/20260726-OYTNT50051/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.yomiuri.co.jp/local/shiga/news/20260726-OYTNT50051/",
+        "image_url": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.9634,
+          34.9816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "モクル（木製ベンチ）（京都鉄道博物館）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【モクル（木製ベンチ）（京都鉄道博物館）】</b><br>📅 期間: 2026/03/23 ～ 常設<br>📝 万博シャトルバス発着駅として整備されたJR桜島駅の仮設出場口・連絡通路を閉幕後に解体し、その木材をベンチに再生。大屋根リング材ではない。<br><br><a href='https://www.kyotorailwaymuseum.jp/news/sysimg/01804/link_DnhbP.pdf' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.kyotorailwaymuseum.jp/news/sysimg/01804/link_DnhbP.pdf",
+        "image_url": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7427,
+          34.9875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ルーレベンチ（京都鉄道博物館）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ルーレベンチ（京都鉄道博物館）】</b><br>📅 期間: 2026/03/23 ～ 常設<br>📝 役目を終えた鉄道レールを溶かし、金属3Dプリントでフレームを造形。座面には六甲山の間伐材を使用した循環型ベンチ。<br><br><a href='https://www.kyotorailwaymuseum.jp/news/sysimg/01804/link_DnhbP.pdf' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.kyotorailwaymuseum.jp/news/sysimg/01804/link_DnhbP.pdf",
+        "image_url": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7427,
+          34.9875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "スエル（京都鉄道博物館）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【スエル（京都鉄道博物館）】</b><br>📅 期間: 2026/03/23 ～ 常設<br>📝 西日本旅客鉄道の3Dプリント技術活用プロジェクトで製作された、自由曲面を持つモルタル系3Dプリントベンチ。<br><br><a href='https://www.kyotorailwaymuseum.jp/news/sysimg/01804/link_DnhbP.pdf' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.kyotorailwaymuseum.jp/news/sysimg/01804/link_DnhbP.pdf",
+        "image_url": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7427,
+          34.9875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LINQ VISION（京都鉄道博物館）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【LINQ VISION（京都鉄道博物館）】</b><br>📅 期間: 2026/03/23 ～ 常設<br>📝 京都駅で使用された大型透過型ディスプレイを京都鉄道博物館へ移設し、鉄道・万博レガシー映像を再展示。<br><br><a href='https://www.kyotorailwaymuseum.jp/news/sysimg/01804/link_DnhbP.pdf' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.kyotorailwaymuseum.jp/news/sysimg/01804/link_DnhbP.pdf",
+        "image_url": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7427,
+          34.9875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "リングベンチ（えひめこどもの城）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【リングベンチ（えひめこどもの城）】</b><br>📅 期間: 常設 / 時期----<br>📝 第76回全国植樹祭えひめ2026で活用した大屋根リング由来のCLTを、利用可能なベンチへ再加工したもの。<br><br><a href='https://syokujusai-ehime2026.jp/topics/2026/06/12/onodatesyokengaku/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://syokujusai-ehime2026.jp/topics/2026/06/12/onodatesyokengaku/",
+        "image_url": "https://syokujusai-ehime2026.jp/topics/../image/common/ogp.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.7981,
+          33.7649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "大阪・関西万博 大屋根リング木材（仙台市役所 本庁舎）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【大阪・関西万博 大屋根リング木材（仙台市役所 本庁舎）】</b><br>📅 期間: 常設 / 時期----<br>📝 大屋根リングに使用された木材を、再利用・持続可能性と万博レガシー継承を伝える触れる展示として公開。<br><br><a href='https://www.city.sendai.jp/tatekae/2026/expo2025mokuzai.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.city.sendai.jp/tatekae/2026/expo2025mokuzai.html",
+        "image_url": "http://www.city.sendai.jp/shared/images/sns/logo.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.8694,
+          38.2682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "大屋根リング木材（八尾市役所）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【大屋根リング木材（八尾市役所）】</b><br>📅 期間: 常設 / 時期----<br>📝 八尾市へ譲渡された大屋根リング材を、万博の理念とレガシーを伝える展示物として市内公共施設で公開。<br><br><a href='https://www.city.yao.osaka.jp/bunka_sports_event/yaopromotion_banpaku/1011556/1024309.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.city.yao.osaka.jp/bunka_sports_event/yaopromotion_banpaku/1011556/1024309.html",
+        "image_url": "https://www.city.yao.osaka.jp/_template_/_site_/_default_/_res/images/sns/ogimage.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6007,
+          34.6269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "大屋根リング木材（八尾市文化会館 プリズムホール）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【大屋根リング木材（八尾市文化会館 プリズムホール）】</b><br>📅 期間: 常設 / 時期----<br>📝 八尾市へ譲渡された大屋根リング材を、市民文化施設で公開するレガシー展示。<br><br><a href='https://www.city.yao.osaka.jp/bunka_sports_event/yaopromotion_banpaku/1011556/1024309.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.city.yao.osaka.jp/bunka_sports_event/yaopromotion_banpaku/1011556/1024309.html",
+        "image_url": "https://www.city.yao.osaka.jp/_template_/_site_/_default_/_res/images/sns/ogimage.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6049,
+          34.6306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "大屋根リング木材（八尾市生涯学習センター／こども総合支援センター「ほっぷ」）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【大屋根リング木材（八尾市生涯学習センター／こども総合支援センター「ほっぷ」）】</b><br>📅 期間: 常設 / 時期----<br>📝 八尾市へ譲渡された大屋根リング材を、子ども・子育て支援拠点内で公開するレガシー展示。<br><br><a href='https://www.city.yao.osaka.jp/bunka_sports_event/yaopromotion_banpaku/1011556/1024309.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.city.yao.osaka.jp/bunka_sports_event/yaopromotion_banpaku/1011556/1024309.html",
+        "image_url": "https://www.city.yao.osaka.jp/_template_/_site_/_default_/_res/images/sns/ogimage.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6128,
+          34.6376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HOTABENCH（ホタベンチ）（正蓮寺川公園）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【HOTABENCH（ホタベンチ）（正蓮寺川公園）】</b><br>📅 期間: 常設 / 時期----<br>📝 廃棄されるホタテ貝殻を混合したエコプラスチック製ベンチ。万博会場で展示された個体を此花区へ寄贈・移設。<br><br><a href='https://www.city.osaka.lg.jp/hodoshiryo/konohana/0000674287.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.city.osaka.lg.jp/hodoshiryo/konohana/0000674287.html",
+        "image_url": "https://www.city.osaka.lg.jp/main/css/img/ogp_image.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4515,
+          34.6845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "大阪ヘルスケアパビリオンの机・イス（河内長野市立市民交流センター（キックス））",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【大阪ヘルスケアパビリオンの机・イス（河内長野市立市民交流センター（キックス））】</b><br>📅 期間: 時期---- ～ 2026/12/28<br>📝 万博会場で使用された机とイスを『ミャク市！』を通じて譲り受け、来館者が利用できる家具として再配置。<br><br><a href='https://www.city.kawachinagano.lg.jp/soshiki/21/123524.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.city.kawachinagano.lg.jp/soshiki/21/123524.html",
+        "image_url": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5603541,
+          34.4544103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "大阪ヘルスケアパビリオンの机・イス（河内長野市立図書館（キックス内））",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【大阪ヘルスケアパビリオンの机・イス（河内長野市立図書館（キックス内））】</b><br>📅 期間: 時期---- ～ 2026/12/28<br>📝 万博会場で使用された机とイスを、図書館の利用家具として再配置。<br><br><a href='https://www.city.kawachinagano.lg.jp/soshiki/21/123524.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.city.kawachinagano.lg.jp/soshiki/21/123524.html",
+        "image_url": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5603541,
+          34.4544103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ソーラーベンチ「そらいす」（道の駅 奥河内くろまろの郷）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ソーラーベンチ「そらいす」（道の駅 奥河内くろまろの郷）】</b><br>📅 期間: 常設 / 時期----<br>📝 万博で利用されたソーラーベンチ1台を寄贈。平時のイベント利用と災害時の電源・設備活用を想定。<br><br><a href='https://www.city.kawachinagano.lg.jp/uploaded/attachment/45282.pdf' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.city.kawachinagano.lg.jp/uploaded/attachment/45282.pdf",
+        "image_url": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5514,
+          34.4317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Black & White Fur（大阪商工会議所）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【Black & White Fur（大阪商工会議所）】</b><br>📅 期間: 常設 / 時期----<br>📝 鴻池朋子による10体の『Wolf Bench』の一体。万博閉幕後、女性活躍・共創活動を支えた大阪商工会議所へ移設。<br><br><a href='https://sakuyahime.net/project/pr2/tabisaki/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://sakuyahime.net/project/pr2/tabisaki/",
+        "image_url": "https://sakuyahime.net/wp-content/uploads/2025/12/Black__White_Fur_tabisaki1.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5122,
+          34.6812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Star & Moon（TSURUMIこどもホスピス）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【Star & Moon（TSURUMIこどもホスピス）】</b><br>📅 期間: 常設 / 時期----<br>📝 宇宙の広がりを思わせる星と月が描かれた作品。ホスピスを利用する子どもたちがアートを通じて広い世界を感じられるよう移設。<br><br><a href='https://sakuyahime.net/project/pr2/tabisaki/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://sakuyahime.net/project/pr2/tabisaki/",
+        "image_url": "https://sakuyahime.net/wp-content/uploads/2025/12/Black__White_Fur_tabisaki1.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5815,
+          34.7116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "White Model（Snow Wolf）（独立行政法人 男女共同参画機構（JGEPA））",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【White Model（Snow Wolf）（独立行政法人 男女共同参画機構（JGEPA））】</b><br>📅 期間: 常設 / 時期----<br>📝 白い原型的なオオカミ作品。男女共同参画のナショナルセンターに移設され、Well-beingを象徴するアートとして公開。<br><br><a href='https://www.jgepa.go.jp/news/2026/006/index.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.jgepa.go.jp/news/2026/006/index.html",
+        "image_url": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3246,
+          36.0527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Red（THE GARDEN ORIENTAL OSAKA）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【Red（THE GARDEN ORIENTAL OSAKA）】</b><br>📅 期間: 常設 / 時期----<br>📝 鮮烈な赤色の作品。歴史的建築と緑の中で、人々の祝いとコミュニティに寄り添うアートとして移設。<br><br><a href='https://sakuyahime.net/project/pr2/tabisaki/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://sakuyahime.net/project/pr2/tabisaki/",
+        "image_url": "https://sakuyahime.net/wp-content/uploads/2025/12/Black__White_Fur_tabisaki1.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5233,
+          34.6967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Animal Drawings（山津見神社）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【Animal Drawings（山津見神社）】</b><br>📅 期間: 常設 / 時期----<br>📝 動物の絵をまとった作品。原発事故後の地域再生と、参拝者・住民を再び結びつける存在として神社参道へ移設。<br><br><a href='https://medicineinfra.com/site/yamatsumi/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://medicineinfra.com/site/yamatsumi/",
+        "image_url": "https://medicineinfra.com/wp-content/uploads/2025/03/ogp.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.729,
+          37.6902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blue（ポストの森／AD:DAISEN）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【Blue（ポストの森／AD:DAISEN）】</b><br>📅 期間: 常設 / 時期----<br>📝 青いオオカミ作品。幸せを運ぶ黄色いポストと組み合わせ、手紙を投函する人を迎えるアートとして設置。<br><br><a href='https://medicineinfra.com/site/postnomori/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://medicineinfra.com/site/postnomori/",
+        "image_url": "https://medicineinfra.com/wp-content/uploads/2025/03/ogp.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4195,
+          34.6565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blue & Brown Fur（大阪国際空港（伊丹空港））",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【Blue & Brown Fur（大阪国際空港（伊丹空港））】</b><br>📅 期間: 常設 / 時期----<br>📝 青と茶色の毛並みを表現した作品。空港を訪れる人を迎えるフォト・休憩スポットとして設置。<br><br><a href='https://www.kansai-airports.co.jp/special/expo-legacy-project/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.kansai-airports.co.jp/special/expo-legacy-project/",
+        "image_url": "https://www.kansai-airports.co.jp/wp-content/themes/kap-corporate/assets/image/og-image.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4382,
+          34.7855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Four Seasons（安曇野ちひろ公園）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【Four Seasons（安曇野ちひろ公園）】</b><br>📅 期間: 常設 / 時期----<br>📝 安曇野の四季と北アルプスを着想源にした作品。自然景観の中で実際に座れるアートとして移設。<br><br><a href='https://chihiro-park.org/news/5174' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://chihiro-park.org/news/5174",
+        "image_url": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.886,
+          36.4245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "フィリピンパビリオン『籐のベンチと織物』（関西国際空港）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【フィリピンパビリオン『籐のベンチと織物』（関西国際空港）】</b><br>📅 期間: 常設 / 時期----<br>📝 フィリピン各地の籐と織物を使った展示。工芸を間近に見せるため再設置されたが、安全上ベンチへの着座は不可。<br><br><a href='https://www.kansai-airports.co.jp/special/expo-legacy-project/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.kansai-airports.co.jp/special/expo-legacy-project/",
+        "image_url": "https://www.kansai-airports.co.jp/wp-content/themes/kap-corporate/assets/image/og-image.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.2443,
+          34.4356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "タイパビリオン『ソンクラーン（水かけ祭り）のボウル』（関西国際空港）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【タイパビリオン『ソンクラーン（水かけ祭り）のボウル』（関西国際空港）】</b><br>📅 期間: 常設 / 時期----<br>📝 ソンクラーンを題材に、タイ館マスコットとミャクミャクが水を掛け合う友情・連帯の造形物。<br><br><a href='https://www.kansai-airports.co.jp/special/expo-legacy-project/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.kansai-airports.co.jp/special/expo-legacy-project/",
+        "image_url": "https://www.kansai-airports.co.jp/wp-content/themes/kap-corporate/assets/image/og-image.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.2443,
+          34.4356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "オーストラリアパビリオン『コアラのオブジェ』（関西国際空港）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【オーストラリアパビリオン『コアラのオブジェ』（関西国際空港）】</b><br>📅 期間: 常設 / 時期----<br>📝 オーストラリア館のアイコンとして親しまれたコアラを、豪州便の出発ゲート近くのフォトスポットとして再展示。<br><br><a href='https://www.kansai-airports.co.jp/special/expo-legacy-project/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.kansai-airports.co.jp/special/expo-legacy-project/",
+        "image_url": "https://www.kansai-airports.co.jp/wp-content/themes/kap-corporate/assets/image/og-image.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.2443,
+          34.4356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "イタリアパビリオン『アンサルド SVA9型機』復元機（関西国際空港 エアロプラザ）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【イタリアパビリオン『アンサルド SVA9型機』復元機（関西国際空港 エアロプラザ）】</b><br>📅 期間: 2026/07/25 ～ 2027/03/31<br>📝 1920年のローマ―東京飛行に使用された木製・布張り複葉機を再現した実物大模型。現存実機ではない。<br><br><a href='https://prtimes.jp/main/html/rd/p/000000403.000045236.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://prtimes.jp/main/html/rd/p/000000403.000045236.html",
+        "image_url": "https://prcdn.freetls.fastly.net/release_image/45236/403/45236-403-f9e635e61dad6b5bc20b1dd7ce7ec704-928x263.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.243,
+          34.4358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ベルギーパビリオン『屋外用クッション』（関西国際空港）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ベルギーパビリオン『屋外用クッション』（関西国際空港）】</b><br>📅 期間: 常設 / 時期----<br>📝 万博会場で休憩用として使用された大型屋外クッションを廃棄せず、空港の開放的な休憩場所で再利用。<br><br><a href='https://www.kansai-airports.co.jp/special/expo-legacy-project/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.kansai-airports.co.jp/special/expo-legacy-project/",
+        "image_url": "https://www.kansai-airports.co.jp/wp-content/themes/kap-corporate/assets/image/og-image.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.2443,
+          34.4356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "住友館『建築材料からできたベンチ』（大阪国際空港（伊丹空港））",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【住友館『建築材料からできたベンチ』（大阪国際空港（伊丹空港））】</b><br>📅 期間: 常設 / 時期----<br>📝 住友館の屋根・外壁用にヒノキを桂剥きした後に残る芯を、座れるベンチとして有効活用。<br><br><a href='https://www.kansai-airports.co.jp/special/expo-legacy-project/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.kansai-airports.co.jp/special/expo-legacy-project/",
+        "image_url": "https://www.kansai-airports.co.jp/wp-content/themes/kap-corporate/assets/image/og-image.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4382,
+          34.7855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "住友館『UNKNOWN FOREST』ランタン（大阪空港ホテル）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【住友館『UNKNOWN FOREST』ランタン（大阪空港ホテル）】</b><br>📅 期間: 常設 / 時期----<br>📝 住友館の森の体験で使用されたランタンをホテルロビーで再展示。<br><br><a href='https://www.kansai-airports.co.jp/special/expo-legacy-project/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.kansai-airports.co.jp/special/expo-legacy-project/",
+        "image_url": "https://www.kansai-airports.co.jp/wp-content/themes/kap-corporate/assets/image/og-image.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4382,
+          34.7855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "パナソニック『ノモの国―ノモの森ツリーオブジェ』（大阪国際空港（伊丹空港））",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【パナソニック『ノモの国―ノモの森ツリーオブジェ』（大阪国際空港（伊丹空港））】</b><br>📅 期間: 常設 / 時期----<br>📝 生命とエネルギーの循環を象徴したツリーオブジェを、パビリオンの世界観を伝える壁面展示として移設。<br><br><a href='https://www.kansai-airports.co.jp/special/expo-legacy-project/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.kansai-airports.co.jp/special/expo-legacy-project/",
+        "image_url": "https://www.kansai-airports.co.jp/wp-content/themes/kap-corporate/assets/image/og-image.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4382,
+          34.7855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ベルギーパビリオン『屋外用クッション』（大阪国際空港（伊丹空港））",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ベルギーパビリオン『屋外用クッション』（大阪国際空港（伊丹空港））】</b><br>📅 期間: 常設 / 時期----<br>📝 万博で使用された屋外用クッションを、展望デッキの休憩用品として継続利用。<br><br><a href='https://www.kansai-airports.co.jp/special/expo-legacy-project/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.kansai-airports.co.jp/special/expo-legacy-project/",
+        "image_url": "https://www.kansai-airports.co.jp/wp-content/themes/kap-corporate/assets/image/og-image.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4382,
+          34.7855
         ]
       }
     }
