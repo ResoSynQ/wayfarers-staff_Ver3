@@ -219,7 +219,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.chion-in.or.jp/news/6406/",
-        "image_url": ""
+        "image_url": "https://www.chion-in.or.jp/wp/wp-content/uploads//2025/10/上段-1-300x241.jpg?1761812847"
       },
       "geometry": {
         "type": "Point",
@@ -428,7 +428,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.expo70-park.jp/facility/watchlearn/inochidama/",
-        "image_url": ""
+        "image_url": "https://www.expo70-park.jp/sys/wp-content/uploads/1c623daf87c5b4e145327b96ac296f03-640x480.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -732,7 +732,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://panaf.jp/",
-        "image_url": ""
+        "image_url": "https://panaf.jp/assets/img/ogp.png"
       },
       "geometry": {
         "type": "Point",
@@ -751,7 +751,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://sen-oku.or.jp/news_20260414/",
-        "image_url": ""
+        "image_url": "https://sen-oku.or.jp/wp-content/uploads/2026/04/44.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -770,7 +770,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://kobe-journal.com/archives/7547745875.html",
-        "image_url": ""
+        "image_url": "https://i0.wp.com/kobe-journal.com/web/images/2026/04/ai20260421170405.jpg?fit=487%2C274&ssl=1"
       },
       "geometry": {
         "type": "Point",
@@ -789,7 +789,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://medicineinfra.com/site/expo2025/",
-        "image_url": ""
+        "image_url": "https://medicineinfra.com/wp-content/uploads/2025/03/ogp.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -808,7 +808,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://medicineinfra.com/site/expo2025/",
-        "image_url": ""
+        "image_url": "https://medicineinfra.com/wp-content/uploads/2025/03/ogp.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -1093,7 +1093,7 @@
         "isStore": false,
         "isKomyaku": true,
         "link": "https://www.city.osaka.lg.jp/konohana/page/0000623590.html",
-        "image_url": ""
+        "image_url": "https://www.city.osaka.lg.jp/konohana/css/img/ogp_image.png"
       },
       "geometry": {
         "type": "Point",
@@ -1245,7 +1245,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://osaka-shotengai-info.com/bampaku/tenyonkita/",
-        "image_url": ""
+        "image_url": "https://osaka-shotengai-info.com/wp-content/uploads/2026/02/DSC_0628.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -1264,7 +1264,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://osaka-shotengai-info.com/bampaku/tenyonkita/",
-        "image_url": ""
+        "image_url": "https://osaka-shotengai-info.com/wp-content/uploads/2026/02/DSC_0628.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -2309,7 +2309,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://banpakuhanabi.jp/",
-        "image_url": ""
+        "image_url": "https://banpakuhanabi.jp/wp-content/uploads/2026/07/ogp.png"
       },
       "geometry": {
         "type": "Point",
@@ -2328,7 +2328,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://banpakuhanabi.jp/",
-        "image_url": ""
+        "image_url": "https://banpakuhanabi.jp/wp-content/uploads/2026/07/ogp.png"
       },
       "geometry": {
         "type": "Point",
@@ -2523,8 +2523,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.06156,
-          37.91205
+          139.0620872,
+          37.91207459
         ]
       }
     },
@@ -3050,7 +3050,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://takasago-mania.com/town-smartpole-sone/",
-        "image_url": ""
+        "image_url": "https://takasago-mania.com/wp-content/uploads/2026/03/PXL_20260322_074736057.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -3069,7 +3069,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.expo70-park.jp/facility/watchlearn/rosegarden/",
-        "image_url": ""
+        "image_url": "https://www.expo70-park.jp/sys/wp-content/uploads/sns_190515_04-640x480.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -3145,7 +3145,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.threads.com/@crew184_expo.epilogue.cafe",
-        "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/658898481_18070880096308952_7068635315121074024_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=b3fa00&_nc_ohc=mK_mnIxXJGIQ7kNvwED0GYb&_nc_oc=Ado-C3VHRkAJieRqH4VqbSjiHOlN62gGh5urnLjRMlbmDenCVES5KWuJDxxwVmmlJqI&_nc_zt=24&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=AA__48Lk_UkJFyHX26TN8w&_nc_ss=7f20f&oh=00_AQCn-L_I_v0TeuQ6ujh1HHtdFIFKmiJKBeU9Eckyja5qJA&oe=6A6CDF89"
+        "image_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/658898481_18070880096308952_7068635315121074024_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=b3fa00&_nc_ohc=mK_mnIxXJGIQ7kNvwEYtRw6&_nc_oc=AdoznqsdDxJF89giFmMAPJIDdhbMPqv_bAhtC9lP9yl9XwrLOQhaIBMRkPA1ZgGF2M0&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=IkMaWhSTIQf9Wro17gf_pw&_nc_ss=7f20f&oh=00_AQBPHFQJC3zw3oxv3gnTgRzYty-O8ED51U-tg_IimpQtyg&oe=6A6D17C9"
       },
       "geometry": {
         "type": "Point",
@@ -3221,7 +3221,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DalfgwECeqF/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==",
-        "image_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/741671055_18599635276031936_3389225437979274047_n.jpg?stp=c460.0.1383.1382a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=fISQwM6Cl4IQ7kNvwFRSBML&_nc_oc=Ado2mgVOMiL7s-kCGryCial0hsWSEPKlnrFaaTq5AMhYyKdozxBAtZPT0Ks-4eIXMiw&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=FiwfIWWUDLN80QD0W1bQaQ&_nc_ss=7fa02&oh=00_AQDXWVmmUp6g9_pM2U_lFPEyBVyyUAEaBtQwSyJCV75gcA&oe=6A6CDC4D"
+        "image_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/741671055_18599635276031936_3389225437979274047_n.jpg?stp=c460.0.1383.1382a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=fISQwM6Cl4IQ7kNvwFIdhmh&_nc_oc=AdryIABJlg43ywmBbdhnROyXp3nufWRyfGC9qJWXbzUXuVwcmX-NC17_eGCH_MlMOYY&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=TQDywFN5xMpBm7q4AgqpyA&_nc_ss=7fa02&oh=00_AQAxTLPFWZ2gTPqPElNjPzY9X5ViKaq-9pR5Gxrk9iHCwg&oe=6A6D148D"
       },
       "geometry": {
         "type": "Point",
@@ -3245,8 +3245,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.4317,
-          34.73178
+          135.4319203,
+          34.73208713
         ]
       }
     },
@@ -3259,13 +3259,13 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://meets-cheese.com/",
-        "image_url": ""
+        "image_url": "https://meets-cheese.com/wp/wp-content/themes/meets-cheese/img/common/cmn-ogp-img.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.49515,
-          34.69933
+          135.4956006,
+          34.69911828
         ]
       }
     },
@@ -3283,8 +3283,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.50639,
-          34.65056
+          135.5055969,
+          34.64991881
         ]
       }
     },
@@ -3302,8 +3302,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.76503,
-          35.67169
+          139.7655115,
+          35.67238272
         ]
       }
     },
@@ -3321,8 +3321,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          134.05023,
-          34.34334
+          134.0499034,
+          34.34409896
         ]
       }
     },
@@ -3340,8 +3340,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.61986,
-          34.84952
+          135.6184389,
+          34.85068195
         ]
       }
     },
@@ -3359,8 +3359,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.49495,
-          34.6852
+          135.4966006,
+          34.68656285
         ]
       }
     },
@@ -3378,8 +3378,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.49859,
-          34.70139
+          135.4958849,
+          34.70336447
         ]
       }
     },
@@ -3392,13 +3392,13 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DahWKivEoTO/",
-        "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/741068451_18336425095268595_8303109530742012563_n.jpg?stp=c595.0.1786.1786a_dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=0qEW0LY_HhIQ7kNvwFA-0oy&_nc_oc=AdoYgHPxsC1cIkY7rxmGUUNX9xdiT2FsgMN0iFhv3yyv3v8TC55gIKCq0dWyvzq1Y_E&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=VyJE0tJ7Tui2XSDlM-6cQA&_nc_ss=7fa02&oh=00_AQBQIPLZ__AxsBFHQsgOjnVlazveKUKSD2HEjZQOTB8I_w&oe=6A6CE25A"
+        "image_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/741068451_18336425095268595_8303109530742012563_n.jpg?stp=c595.0.1786.1786a_dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=0qEW0LY_HhIQ7kNvwFc8aGO&_nc_oc=AdphyNuSZPtBo19qoyQiBn-s84hi-C8_zJ_0jUTc3XR97pXGlHgSQIKkWhQ3HYNchvI&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=FPKDPtFKWEGPOduZKUmhiw&_nc_ss=7fa02&oh=00_AQBuRLpuBT8Gd3q9kpxu-solhHgSfi76HChLJQNmvismog&oe=6A6D1A9A"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.5296,
-          34.658
+          135.5263796,
+          34.6590586
         ]
       }
     },
@@ -3416,8 +3416,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.6049,
-          34.632
+          135.605742,
+          34.63264627
         ]
       }
     },
@@ -3435,8 +3435,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.5102,
-          34.7048
+          135.5106554,
+          34.70551049
         ]
       }
     },
@@ -3454,27 +3454,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.1937,
-          34.694
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "イタリアパビリオン『アンサルド SVA9型機』復元機（関西国際空港エアロプラザ）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【イタリアパビリオン『アンサルド SVA9型機』復元機（関西国際空港エアロプラザ）】</b><br>📅 期間: 2026/07/25 ～ 2027/03/31<br>📝 大阪・関西万博イタリア館で展示された、1920年のローマ―東京飛行に使われたアンサルドSVA9型機の実物大復元骨格・模型。現存実機ではなく、当時の設計資料を基に再現したもの。<br><br><a href='https://newsdig.tbs.co.jp/articles/mbs/2827012?display=1' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://newsdig.tbs.co.jp/articles/mbs/2827012?display=1",
-        "image_url": "https://newsdig.ismcdn.jp/mwimgs/3/a/1200w/img_3a04b7d580d8035b13e70d044c4e0ff5309631.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.243,
-          34.4358
+          135.1941326,
+          34.69314246
         ]
       }
     },
@@ -3492,8 +3473,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.9634,
-          34.9816
+          135.9636561,
+          34.98235992
         ]
       }
     },
@@ -3511,8 +3492,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.7427,
-          34.9875
+          135.742159,
+          34.98649389
         ]
       }
     },
@@ -3530,8 +3511,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.7427,
-          34.9875
+          135.742159,
+          34.98649389
         ]
       }
     },
@@ -3549,8 +3530,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.7427,
-          34.9875
+          135.742159,
+          34.98649389
         ]
       }
     },
@@ -3568,8 +3549,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.7427,
-          34.9875
+          135.742159,
+          34.98649389
         ]
       }
     },
@@ -3587,8 +3568,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          132.7981,
-          33.7649
+          132.7976196,
+          33.7619561
         ]
       }
     },
@@ -3606,8 +3587,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          140.8694,
-          38.2682
+          140.8697152,
+          38.26831038
         ]
       }
     },
@@ -3625,8 +3606,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.6007,
-          34.6269
+          135.6008942,
+          34.62698864
         ]
       }
     },
@@ -3644,8 +3625,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.6049,
-          34.6306
+          135.6076685,
+          34.62947367
         ]
       }
     },
@@ -3663,8 +3644,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.6128,
-          34.6376
+          135.6103347,
+          34.63368556
         ]
       }
     },
@@ -3682,8 +3663,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.4515,
-          34.6845
+          135.4596724,
+          34.68641237
         ]
       }
     },
@@ -3701,8 +3682,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.5603541,
-          34.4544103
+          135.5611012,
+          34.45460614
         ]
       }
     },
@@ -3720,8 +3701,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.5603541,
-          34.4544103
+          135.5614767,
+          34.45455306
         ]
       }
     },
@@ -3739,8 +3720,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.5514,
-          34.4317
+          135.5513343,
+          34.4362186
         ]
       }
     },
@@ -3758,27 +3739,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.5122,
-          34.6812
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Star & Moon（TSURUMIこどもホスピス）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【Star & Moon（TSURUMIこどもホスピス）】</b><br>📅 期間: 常設 / 時期----<br>📝 宇宙の広がりを思わせる星と月が描かれた作品。ホスピスを利用する子どもたちがアートを通じて広い世界を感じられるよう移設。<br><br><a href='https://sakuyahime.net/project/pr2/tabisaki/' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://sakuyahime.net/project/pr2/tabisaki/",
-        "image_url": "https://sakuyahime.net/wp-content/uploads/2025/12/Black__White_Fur_tabisaki1.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.5815,
-          34.7116
+          135.511278,
+          34.68435483
         ]
       }
     },
@@ -3796,8 +3758,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.3246,
-          36.0527
+          139.325945,
+          36.03555974
         ]
       }
     },
@@ -3815,8 +3777,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.5233,
-          34.6967
+          135.5240189,
+          34.69406444
         ]
       }
     },
@@ -3829,13 +3791,13 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://medicineinfra.com/site/yamatsumi/",
-        "image_url": ""
+        "image_url": "https://medicineinfra.com/wp-content/uploads/2025/03/ogp.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          140.729,
-          37.6902
+          140.697638,
+          37.73665427
         ]
       }
     },
@@ -3848,13 +3810,13 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://medicineinfra.com/site/postnomori/",
-        "image_url": ""
+        "image_url": "https://medicineinfra.com/wp-content/uploads/2025/03/ogp.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.4195,
-          34.6565
+          135.4315427,
+          34.67204565
         ]
       }
     },
@@ -3872,8 +3834,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.4382,
-          34.7855
+          135.4417535,
+          34.79137284
         ]
       }
     },
@@ -3891,8 +3853,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          137.886,
-          36.4245
+          137.8430578,
+          36.41646014
         ]
       }
     },
@@ -3910,8 +3872,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.2443,
-          34.4356
+          135.2376543,
+          34.43240502
         ]
       }
     },
@@ -3929,8 +3891,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.2443,
-          34.4356
+          135.2376543,
+          34.43240502
         ]
       }
     },
@@ -3948,8 +3910,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.2443,
-          34.4356
+          135.2376543,
+          34.43240502
         ]
       }
     },
@@ -3967,27 +3929,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.243,
-          34.4358
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "ベルギーパビリオン『屋外用クッション』（関西国際空港）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ベルギーパビリオン『屋外用クッション』（関西国際空港）】</b><br>📅 期間: 常設 / 時期----<br>📝 万博会場で休憩用として使用された大型屋外クッションを廃棄せず、空港の開放的な休憩場所で再利用。<br><br><a href='https://www.kansai-airports.co.jp/special/expo-legacy-project/' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://www.kansai-airports.co.jp/special/expo-legacy-project/",
-        "image_url": "https://www.kansai-airports.co.jp/wp-content/themes/kap-corporate/assets/image/og-image.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.2443,
-          34.4356
+          135.2376543,
+          34.43240502
         ]
       }
     },
@@ -4005,8 +3948,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.4382,
-          34.7855
+          135.4417535,
+          34.79137284
         ]
       }
     },
@@ -4024,8 +3967,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.4382,
-          34.7855
+          135.4417535,
+          34.79137284
         ]
       }
     },
@@ -4043,27 +3986,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.4382,
-          34.7855
+          135.4417535,
+          34.79137284
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "ベルギーパビリオン『屋外用クッション』（大阪国際空港（伊丹空港））",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ベルギーパビリオン『屋外用クッション』（大阪国際空港（伊丹空港））】</b><br>📅 期間: 常設 / 時期----<br>📝 万博で使用された屋外用クッションを、展望デッキの休憩用品として継続利用。<br><br><a href='https://www.kansai-airports.co.jp/special/expo-legacy-project/' target='_blank'>🔗 詳細を開く</a>",
+        "name": "ルーレベンチ（JR弁天町駅）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ルーレベンチ（JR弁天町駅）】</b><br>📅 期間: 2025/09/05 ～ 常設<br>📝 JR西日本の鉄道廃レールを一部溶解・成形した金属3Dプリントフレームと、六甲山の間伐材ヒノキを座面に活用した大型ベンチ。万博会場への乗換駅である弁天町駅に設置。<br><br><a href='https://www.takenaka.co.jp/news/2025/09/02/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false,
         "isKomyaku": false,
-        "link": "https://www.kansai-airports.co.jp/special/expo-legacy-project/",
-        "image_url": "https://www.kansai-airports.co.jp/wp-content/themes/kap-corporate/assets/image/og-image.png"
+        "link": "https://www.takenaka.co.jp/news/2025/09/02/",
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.4382,
-          34.7855
+          135.4624132,
+          34.6686096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "想うベンチ（SETAGAYA Qs-GARDEN）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【想うベンチ（SETAGAYA Qs-GARDEN）】</b><br>📅 期間: 2026/03/31 ～ 常設<br>📝 大阪府産木材から生まれ、Co-Design Challengeの一環として制作された『想うベンチ』を、万博終了後に東京・世田谷の公園へ移設。公共空間で使われ続ける循環型レガシー。<br><br><a href='https://prtimes.jp/main/html/rd/p/000000003.000143749.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://prtimes.jp/main/html/rd/p/000000003.000143749.html",
+        "image_url": "https://prcdn.freetls.fastly.net/release_image/143749/3/143749-3-be07f8999453f0485479f9e929c0a238-1644x1106.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5937678,
+          35.66177358
         ]
       }
     }
