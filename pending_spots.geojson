@@ -6,6 +6,86 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "ツバメの子育て温かく見守る　鴨川の中野さん夫婦　記録20年、今年は80羽巣立ちへ（千葉県）(房日新聞)",
+        "name": "鴨川市役所",
+        "address": "",
+        "reason": "長年の記録と地域との温かい交流が魅力的",
+        "date": "2026-07-29",
+        "link": "https://news.yahoo.co.jp/articles/13e4d01b42b724ed2233925c1212c0df9a54a45a?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260729-00010000-bonichi-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0987105,
+          35.1139863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "「鴨川萬祝染鈴染」に伝統文化ポーラ賞の地域賞　後継者育成や魅力発信を高評価（千葉県）(房日新聞)",
+        "name": "鴨川萬祝染鈴染",
+        "address": "",
+        "reason": "伝統文化の担い手育成と魅力発信が高評価されたことで、興味をそそられるため",
+        "date": "2026-07-29",
+        "link": "https://news.yahoo.co.jp/articles/09aaeb7003ac093febc068a9c5f70c91dc9ed720?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260729-00010001-bonichi-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.10253581,
+          35.10150009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "スピノサウルス吠える　企画展「背中に特徴のある恐竜」　8月30日までたんば恐竜博物館／兵庫・丹波市(丹波新聞)",
+        "name": "たんば恐竜博物館",
+        "address": "",
+        "reason": "ユニークな恐竜展示に魅力を感じる",
+        "date": "2026-07-29",
+        "link": "https://news.yahoo.co.jp/articles/2d7468d6702daa06ca5ec0bafbc99d92d672c1a1?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260729-00010000-tanba-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.0354451,
+          35.0739406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "「白い恋人6万4000個分」の体験型新エリア 「白い恋人パーク」がリニューアル 札幌市西区(STVニュース北海道)",
+        "name": "白い恋人パーク",
+        "address": "",
+        "reason": "人気お菓子のテーマパークが大規模リニューアル",
+        "date": "2026-07-29",
+        "link": "https://news.yahoo.co.jp/articles/ed60c8bec47a1288b23ae48d3fcc9087c22fdd7f?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260729-09729359-stv-000-1-thumb.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.2716006,
+          43.0886893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "仲間と速歩や筋トレで汗　東条公民館の実践で学ぶ健康講座好評　鴨川（千葉県）(房日新聞)",
         "name": "鴨川市役所　東条公民館",
         "address": "",
