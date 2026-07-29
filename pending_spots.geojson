@@ -6,6 +6,26 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "熱海港発ネーチャーガイド付きナイトクルーズ　船から伊豆山花火大会楽しむ(みんなの経済新聞ネットワーク)",
+        "name": "熱海港",
+        "address": "",
+        "reason": "花火大会とクルーズの組み合わせが魅力的",
+        "date": "2026-07-30",
+        "link": "https://news.yahoo.co.jp/articles/fd965f4a69a219c0281bb8f75091c2786ffd9e36?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260730-00000003-minkei-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.0817165,
+          35.0963791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "ツバメの子育て温かく見守る　鴨川の中野さん夫婦　記録20年、今年は80羽巣立ちへ（千葉県）(房日新聞)",
         "name": "鴨川市役所",
         "address": "",
