@@ -6,6 +6,26 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "小学生が「あったらいいな」考える　地域の魅力で発明楽しむ　館山（千葉県）(房日新聞)",
+        "name": "館山市役所",
+        "address": "",
+        "reason": "子どもたちの創造性を刺激する体験型イベント",
+        "date": "2026-07-31",
+        "link": "https://news.yahoo.co.jp/articles/585e21c3fbda1be017a187b3a8c80c6687949c8b?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260731-00010000-bonichi-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8699652,
+          34.9965054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "熱海港発ネーチャーガイド付きナイトクルーズ　船から伊豆山花火大会楽しむ(みんなの経済新聞ネットワーク)",
         "name": "熱海港",
         "address": "",
