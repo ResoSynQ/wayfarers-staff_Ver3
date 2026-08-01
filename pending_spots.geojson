@@ -6,6 +6,46 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "新たなマンホールカードを配布　館山市×つばきファクトリー　初日はファンら15人が列（千葉県）(房日新聞)",
+        "name": "館山市役所",
+        "address": "",
+        "reason": "人気アイドルグループとのコラボで注目度が高い",
+        "date": "2026-08-02",
+        "link": "https://news.yahoo.co.jp/articles/8300830554fe2b8bd25bd9ae23f76b67ab7ebcba?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260802-00010001-bonichi-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8699652,
+          34.9965054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "【桜坂劇場・下地久美子の映画コレ見た？】『トロフィー』在日の少女　揺れる思い(沖縄タイムス)",
+        "name": "桜坂劇場",
+        "address": "",
+        "reason": "在日少女の複雑な心情を描いた作品に共感し、映画館で鑑賞したくなる",
+        "date": "2026-08-02",
+        "link": "https://news.yahoo.co.jp/articles/1fcdf9142ac34f09bf864506763543e3b3632232?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260802-01892389-okinawat-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.6901384,
+          26.2147706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "小学生が「あったらいいな」考える　地域の魅力で発明楽しむ　館山（千葉県）(房日新聞)",
         "name": "館山市役所",
         "address": "",
