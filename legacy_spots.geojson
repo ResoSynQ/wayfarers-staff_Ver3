@@ -745,25 +745,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "住友館資料受託記念「大阪・関西万博　#住友館のレガシー」\r",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【住友館資料受託記念「大阪・関西万博　#住友館のレガシー」\r】</b><br>📅 期間: 2026/04/21 ～ 2026/07/31<br>📝 大阪・関西万博「住友館」で展示された資料の一部が、泉屋博古館にて特別公開されています。「人と自然の共生」というテーマを継承する取り組みです。1970年万博のレガシーでもある同館で、二つの万博の歴史を同時に体感できます。<br><br><a href='https://sen-oku.or.jp/news_20260414/' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://sen-oku.or.jp/news_20260414/",
-        "image_url": "https://sen-oku.or.jp/wp-content/uploads/2026/04/44.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.7930986,
-          35.01753911
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "大阪・関西万博の『スマートポール』移設",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【大阪・関西万博の『スマートポール』移設】</b><br>📅 期間: 2026/05/01 ～ 常設<br>📝 大阪・関西万博の「未来の都市」パビリオン前に設置されていた多機能ポール『スマートポール』が、神戸のウォーターフロントエリアへ移設されました。5月1日の夕方から点灯が開始され、神戸の海辺の景色を新たに彩ります。<br><br><a href='https://kobe-journal.com/archives/7547745875.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
@@ -1188,7 +1169,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/nauruya_higashiosaka/",
-        "image_url": ""
+        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
       },
       "geometry": {
         "type": "Point",
@@ -1480,6 +1461,25 @@
         "coordinates": [
           135.4808346,
           34.71695467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）タカラベルモント株式会社 東京本社で1日限定のアフター万博イベント開催！",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【タカラベルモント株式会社 東京本社で1日限定のアフター万博イベント開催！】</b><br>📅 期間: 2026/08/08 ～ 2026/08/08<br>📝 万博LOVERSに向けたアフター万博イベントが、8月8日(土)11時〜16時に東京本社で1日限定開催されるとのこと！<br><br><a href='https://x.com/yukikoishi81071/status/2061429568830148840' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://x.com/yukikoishi81071/status/2061429568830148840",
+        "image_url": "https://pbs.twimg.com/media/HJurQZFaEAAZswC.jpg:large"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7302103,
+          35.67459209
         ]
       }
     },
@@ -2056,44 +2056,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "EXPO 2025 ART BLOOM by A4 GALLERY 名古屋会場（イオンモール Nagoya Noritake Garden）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【EXPO 2025 ART BLOOM by A4 GALLERY 名古屋会場（イオンモール Nagoya Noritake Garden）】</b><br>📅 期間: 2026/07/25 ～ 2026/08/02<br>📝 大阪・関西万博公式キャラクター「ミャクミャク」など万博IPを使用したアート作品を巡回展示するアートプロジェクト。国内外の人気アーティストによる作品に加え、サッカーをテーマにしたオリジナルアートやグッズも登場。LEGACY展も同時開催。<br><br><a href='https://a4tokyo.myshopify.com/collections/expo-2025-art-bloom-by-a4-gallery' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://a4tokyo.myshopify.com/collections/expo-2025-art-bloom-by-a4-gallery",
-        "image_url": "http://a4tokyo.myshopify.com/cdn/shop/collections/1_dfec591a-9191-432c-9354-5b767bfb0b81.jpg?v=1753428515"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          136.880304,
-          35.179965
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "（予定）EXPO 2025 ART BLOOM by A4 GALLERY 三重会場（イオンモール津南）",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【EXPO 2025 ART BLOOM by A4 GALLERY 三重会場（イオンモール津南）】</b><br>📅 期間: 2026/08/07 ～ 2026/08/16<br>📝 大阪・関西万博公式キャラクター「ミャクミャク」など万博IPを使用したアート作品を巡回展示するアートプロジェクト。国内外の人気アーティストによる作品に加え、サッカーをテーマにしたオリジナルアートやグッズも登場。LEGACY展も同時開催。<br><br><a href='https://a4tokyo.myshopify.com/collections/expo-2025-art-bloom-by-a4-gallery' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://a4tokyo.myshopify.com/collections/expo-2025-art-bloom-by-a4-gallery",
-        "image_url": "http://a4tokyo.myshopify.com/cdn/shop/collections/1_dfec591a-9191-432c-9354-5b767bfb0b81.jpg?v=1753428515"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          136.517958,
-          34.670349
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "（予定）EXPO 2025 ART BLOOM by A4 GALLERY 和歌山会場（近鉄百貨店和歌山店）",
         "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【EXPO 2025 ART BLOOM by A4 GALLERY 和歌山会場（近鉄百貨店和歌山店）】</b><br>📅 期間: 2026/08/19 ～ 2026/09/01<br>📝 大阪・関西万博公式キャラクター「ミャクミャク」など万博IPを使用したアート作品を巡回展示するアートプロジェクト。国内外の人気アーティストによる作品に加え、サッカーをテーマにしたオリジナルアートやグッズも登場。LEGACY展も同時開催。<br><br><a href='https://a4tokyo.myshopify.com/collections/expo-2025-art-bloom-by-a4-gallery' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
@@ -2119,7 +2081,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/after.expo.event/",
-        "image_url": ""
+        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
       },
       "geometry": {
         "type": "Point",
@@ -2221,25 +2183,6 @@
         "coordinates": [
           135.2990562,
           34.41532333
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "大阪・関西万博の盛り上がりをもう一度！サキタハヂメ氏と創る特別ワークショップ",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【大阪・関西万博の盛り上がりをもう一度！サキタハヂメ氏と創る特別ワークショップ】</b><br>📅 期間: 2026/08/01 ～ 2026/08/01<br>📝 河内長野市の市民交流センターキックスで開催される、世界的ミュージカルソー奏者・サキタハヂメ氏を招いた体験型ワークショップ。音をつくる体験に加え、河内長野で進行中のビッグプロジェクト紹介や、自分に合った関わり方を見つけるワークを実施。万博後の地域共創につながる市民参加型イベント。<br><br><a href='https://www.city.kawachinagano.lg.jp/soshiki/33/126801.html' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://www.city.kawachinagano.lg.jp/soshiki/33/126801.html",
-        "image_url": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.5603541,
-          34.4544103
         ]
       }
     },
@@ -2727,7 +2670,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/salamcoffee_stand/",
-        "image_url": ""
+        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
       },
       "geometry": {
         "type": "Point",
@@ -2879,7 +2822,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://hyogo-no-tsu.jp/theater0327/",
-        "image_url": "https://hyogo-no-tsu.jp/wp/wp-content/themes/hyogonotsu/dist/img/ogp-default.png"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -2936,7 +2879,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.yomiuri.co.jp/local/kansai/news/20260526-GYO1T00123/",
-        "image_url": ""
+        "image_url": "https://www.yomiuri.co.jp/media/2026/05/20260526-GYO1I00124-1.jpg?type=ogp"
       },
       "geometry": {
         "type": "Point",
@@ -3145,7 +3088,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.threads.com/@crew184_expo.epilogue.cafe",
-        "image_url": "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-19/658898481_18070880096308952_7068635315121074024_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=b3fa00&_nc_ohc=7jUuXK6a-J4Q7kNvwFvpVmo&_nc_oc=AdqbeND21q2P2QdOZ32TYKREqULJZ1pV-QuqRB_wRTTDOG1lcTCYMP4KQAcKG9nzfKg&_nc_zt=24&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_gid=ZJk7kCfvNMBZWBeb5jr2Xg&_nc_ss=7f20f&oh=00_AQF_5HQQaVsauqo7WRTA--bH_UUqXyYSRVbfEz983jv4AA&oe=6A784C89"
+        "image_url": "https://scontent-lhr6-2.cdninstagram.com/v/t51.82787-19/658898481_18070880096308952_7068635315121074024_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=b3fa00&_nc_ohc=7jUuXK6a-J4Q7kNvwEB8CUQ&_nc_oc=AdrIeg2SSypKcTnh0f5utMd_SEAurdmdYRF_7FL85qlHEz7wn1ImYIP57GCbvUarBFc&_nc_zt=24&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_gid=-0gScAtH77RuJ3vLtoviqQ&_nc_ss=7f20f&oh=00_AQFV0eKCzpNzkI4HqDOhZ95nrl1igLl2TkmkU9vMExH-1w&oe=6A7884C9"
       },
       "geometry": {
         "type": "Point",
@@ -3221,51 +3164,13 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DalfgwECeqF/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==",
-        "image_url": "https://scontent-atl3-1.cdninstagram.com/v/t51.82787-15/741671055_18599635276031936_3389225437979274047_n.jpg?stp=c460.0.1383.1382a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=b5EJ5M-vZI0Q7kNvwHGrOZc&_nc_oc=AdofXkWY1Z5Fbpv6i3YYYS47LGpUTVuBJItG2i8LH2bI7EYk4Ie7QJ9kOTqOGJJOH4k&_nc_zt=23&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=FTDxTlfHhZQTijoWAxXiMg&_nc_ss=7f60f&oh=00_AQGOCp259VjRzuSeifW37MaCodlPXE9zahuXMYxm5BbvTA&oe=6A78494D"
+        "image_url": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-15/741671055_18599635276031936_3389225437979274047_n.jpg?stp=c460.0.1383.1382a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=b5EJ5M-vZI0Q7kNvwGIaf4h&_nc_oc=Adq8IlV2HbVh3NMgUplkXM1LX21jBPiV4eXwd-q47KjQc6q_NeMnq422tzfAxBFm7TI&_nc_zt=23&_nc_ht=scontent-lhr11-1.cdninstagram.com&_nc_gid=6Dn7TGBnTs7JG-nao5xwpA&_nc_ss=7f60f&oh=00_AQGP_RcvNOoQsqUDIOWl6o8-chuqqICiTUDLkffme0Z5sg&oe=6A78818D"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -73.96927178,
           40.74933092
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "MEETS CHEESE（エキマルスイーツ尼崎店）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【MEETS CHEESE（エキマルスイーツ尼崎店）】</b><br>📅 期間: 2026/07/17 ～ 2026/07/30<br>📝 大阪・関西万博コロンビア館公式スイーツブランド「MEETS CHEESE」がエキマルスイーツ尼崎店に期間限定出店。万博コロンビアセットやチーズケーキを駅ナカで楽しめる。<br><br><a href='https://www.ekimarusweets.com/shops/detail/amagasaki?tab=2' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": true,
-        "isKomyaku": false,
-        "link": "https://www.ekimarusweets.com/shops/detail/amagasaki?tab=2",
-        "image_url": "https://www.ekimarusweets.com/common/img/ogp.webp"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.4319203,
-          34.73208713
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "MEETS CHEESE（Metro Opus 西梅田店）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【MEETS CHEESE（Metro Opus 西梅田店）】</b><br>📅 期間: 2026/07/28 ～ 2026/08/03<br>📝 大阪・関西万博コロンビア館公式スイーツブランド「MEETS CHEESE」がMetro Opus 西梅田店に期間限定出店。梅田エリアで万博ゆかりのチーズスイーツを持ち帰れる。<br><br><a href='https://meets-cheese.com/' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": true,
-        "isKomyaku": false,
-        "link": "https://meets-cheese.com/",
-        "image_url": "https://meets-cheese.com/wp/wp-content/themes/meets-cheese/img/common/cmn-ogp-img.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.4956006,
-          34.69911828
         ]
       }
     },
@@ -3329,25 +3234,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "海外旅行気分で世界のごちそう巡り 第2弾",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【海外旅行気分で世界のごちそう巡り 第2弾】</b><br>📅 期間: 2026/07/22 ～ 2026/07/28<br>📝 松坂屋高槻店で開催される、世界のグルメと雑貨を集めた催事。大阪・関西万博で人気を集めた各国グルメや雑貨が登場し、ヨルダンのバクラヴァ、ネパール・フィリピンのドライフルーツや雑貨、マリ共和国のスパイスセットやアフリカ布雑貨、イエメンのアクセサリーなどを楽しめる。<br><br><a href='https://www.matsuzakaya.co.jp/takatsuki/' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": true,
-        "isKomyaku": false,
-        "link": "https://www.matsuzakaya.co.jp/takatsuki/",
-        "image_url": "https://www.matsuzakaya.co.jp/takatsuki/images/ogp.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.6184389,
-          34.85068195
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "万博スタンプがやってくる！",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【万博スタンプがやってくる！】</b><br>📅 期間: 2026/08/01 ～ 2026/08/02<br>📝 大阪科学技術館で開催される万博レガシーイベント。2階テクノくん広場に、ガスパビリオン「おばけワンダーランド」、電力館「可能性のタマゴたち」、ゼロカーボン電力、パナソニックグループパビリオン「ノモの国」、RITE未来の森、クラゲ館、ミライ人間洗濯機などのスタンプが登場。1階大阪ガスブースではガスパビリオン「化けるLABO」が押せるヒント探し企画も実施。<br><br><a href='https://www.ostec.or.jp/pop/news/2187/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
@@ -3392,7 +3278,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DahWKivEoTO/",
-        "image_url": "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/741068451_18336425095268595_8303109530742012563_n.jpg?stp=c595.0.1786.1786a_dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=fwUktpTwXdIQ7kNvwHqajZm&_nc_oc=Adrow_4yEzJUWPlcnyg31QqFtlCda_rlAvhwCpnBalkTyewgE6aZJCkz6JdBlOaFYCY&_nc_zt=23&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_gid=np7qZbXfCkSB0XEasdjlGw&_nc_ss=7f60f&oh=00_AQEYcXjGAs4OmsK8s96YLB68YzeyQ6xorso4u5rzmDHjNg&oe=6A784F5A"
+        "image_url": "https://scontent-lhr6-2.cdninstagram.com/v/t51.82787-15/741068451_18336425095268595_8303109530742012563_n.jpg?stp=c595.0.1786.1786a_dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=fwUktpTwXdIQ7kNvwFC2Fug&_nc_oc=Adq6_AyktnBqM0VVHMd9A-2i3vzDr5G5soY7KRE4EyYOERdEbZtV5ubMPbuU_guQx74&_nc_zt=23&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_gid=zKw4rCdblaaFj9g88Jv0Zw&_nc_ss=7f60f&oh=00_AQE0GQYtcWzzHeuhNLEZEC2vQM90G6xF5ZecYQffB8udTg&oe=6A78879A"
       },
       "geometry": {
         "type": "Point",
@@ -4032,25 +3918,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "もずやんの大阪推し活！全国キャラバン〜出発セレモニー〜",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【もずやんの大阪推し活！全国キャラバン〜出発セレモニー〜】</b><br>📅 期間: 2026/08/02 ～ 2026/08/02<br>📝 大阪府広報担当副知事もずやんが全国キャラバンへ出発するセレモニー。大阪ガチャ、大阪産（もん）の試食・試飲、Robloxアスレチックレース、ムービー、ステージ、キャラクターグリーティングを実施。<br><br><a href='https://osaka-mozuyan.jp/events/' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://osaka-mozuyan.jp/events/",
-        "image_url": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.5845879,
-          34.73234279
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "EXPO2025オフィシャルポップアップストア 淳久堂書店台湾明曜店",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【EXPO2025オフィシャルポップアップストア 淳久堂書店台湾明曜店】</b><br>📅 期間: 2026/08/01 ～ 2026/12/31<br>📝 EXPO2025オフィシャルストア初の海外店舗として台湾・台北にオープン。公式ライセンス商品を通じて大阪・関西万博とミャクミャクの魅力を台湾へ発信する。<br><br><a href='https://corp.maruzenjunkudo.co.jp/info/20260727-01/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
@@ -4076,7 +3943,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DbKK7NEGE7E/?img_index=1",
-        "image_url": "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/753225335_18022982300902789_7585897524133363841_n.jpg?stp=c604.0.1815.1814a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=WkrVKYAmHWQQ7kNvwHjZQN8&_nc_oc=AdouGxAd6xssFGYSakTnGL-mEoOBmtAq9O2C1a8O9v3tZTthI8jzGVvere7I4R_l8O8&_nc_zt=23&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_gid=yEHnJRatXD3F2LagGxdVhg&_nc_ss=7f60f&oh=00_AQHNtKHUN0PPPEdFgeeVU33n9sKs0Qndaf8trhIvKkJ2Gg&oe=6A78511F"
+        "image_url": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-15/753225335_18022982300902789_7585897524133363841_n.jpg?stp=c604.0.1815.1814a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=WkrVKYAmHWQQ7kNvwHSo-f9&_nc_oc=AdqFouCac6GYPzpEGUvFUvjY7ZOQz1HPBFHXJv2GazbWT3qlm6LA-6QaiJ3LxSomzSs&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_gid=G_OH3uYa7sO5tP2kXH7qHQ&_nc_ss=7f60f&oh=00_AQGxMh80QvvsBrPKpgHJ7jpsoRj7ZmmSTjzC8vYYO9Ltwg&oe=6A78895F"
       },
       "geometry": {
         "type": "Point",
@@ -4090,7 +3957,7 @@
       "type": "Feature",
       "properties": {
         "name": "こみゃく二次創作スツール（河内長野市役所）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【こみゃく二次創作スツール（河内長野市役所）】</b><br>📅 期間: 時期---- ～ 2026/07/28<br>📝 こみゃく二次創作スツール4脚が、河内長野市役所1階市民サロン・市役所バスロータリー側に設置。@taksak2001さん製作の二次創作スツールを、万博協会と河内長野市の連携により市が正式に受け取り管理する形で紹介されている。<br><br><a href='https://www.city.kawachinagano.lg.jp/map/shityosya.html' target='_blank'>🔗 詳細を開く</a>",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【こみゃく二次創作スツール（河内長野市役所）】</b><br>📅 期間: 常設 / 時期----<br>📝 こみゃく二次創作スツール4脚が、河内長野市役所1階市民サロン・市役所バスロータリー側に設置。@taksak2001さん製作の二次創作スツールを、万博協会と河内長野市の連携により市が正式に受け取り管理する形で紹介されている。<br><br><a href='https://www.city.kawachinagano.lg.jp/map/shityosya.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false,
         "isKomyaku": true,
@@ -4109,7 +3976,7 @@
       "type": "Feature",
       "properties": {
         "name": "河内長野市オリジナルスツール（河内長野市観光案内所）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【河内長野市オリジナルスツール（河内長野市観光案内所）】</b><br>📅 期間: 時期---- ～ 2026/07/28<br>📝 こみゃくスツール寄付とあわせて贈呈された河内長野市オリジナルスツール。河内長野駅改札横の観光案内所に設置されている。<br><br><a href='https://www.city.kawachinagano.lg.jp/soshiki/16/4436.html' target='_blank'>🔗 詳細を開く</a>",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【河内長野市オリジナルスツール（河内長野市観光案内所）】</b><br>📅 期間: 常設 / 時期----<br>📝 こみゃくスツール寄付とあわせて贈呈された河内長野市オリジナルスツール。河内長野駅改札横の観光案内所に設置されている。<br><br><a href='https://www.city.kawachinagano.lg.jp/soshiki/16/4436.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false,
         "isKomyaku": true,
@@ -4133,7 +4000,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DSEdd_lAVML/",
-        "image_url": "https://scontent-atl3-3.cdninstagram.com/v/t51.82787-15/597898317_17923907505186513_2290017976650464759_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=Ro5hwCcE-RsQ7kNvwFeZVdh&_nc_oc=AdqqTK37rl-ZTEXYLinZXlVyCMzeda0qHcsOl1BU_9HCYx7f7yWUKFgr0p7ioT_XVz8&_nc_zt=23&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_gid=Myj-BSSkqAudK5bO1qu4fQ&_nc_ss=7f60f&oh=00_AQHmIGW9hHv15kI47WKKWpYRuK4-SUjTiyhZRcld36PTCQ&oe=6A7863B2"
+        "image_url": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-15/597898317_17923907505186513_2290017976650464759_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=Ro5hwCcE-RsQ7kNvwEGGRdf&_nc_oc=Adqpz3-xkbaQZGYyIWtr1XHhKXn2g_3drvCGE5IoKxApYx57f8Txh0QRQdX0tdBuTMc&_nc_zt=23&_nc_ht=scontent-lhr11-1.cdninstagram.com&_nc_gid=6jxfgeUErT_n6GQ0VC57SA&_nc_ss=7f60f&oh=00_AQGimmPJ8sI9oFSsVihWo1N2ipnuNPPotBW7UAHKQ24uwQ&oe=6A789BF2"
       },
       "geometry": {
         "type": "Point",
@@ -4216,6 +4083,25 @@
         "coordinates": [
           135.628053,
           35.481288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）1st Anniversary EXPO 2025 “EXPO Reborn!”",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【1st Anniversary EXPO 2025 “EXPO Reborn!”】</b><br>📅 期間: 2026/10/11 ～ 2026/10/12<br>📝 ATCホールとATCピロティ広場で開催される大阪・関西万博の1周年メモリアルイベント。大阪ヘルスケアパビリオン、海外参加国、大阪府内市町村による展示・体験、「世界のミャクミャク展」、ミャクミャクグリーティング、ステージ、飲食・物販ゾーンなどを予定。<br><br><a href='https://osaka-kitena.jp/event/exporeborn/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://osaka-kitena.jp/event/exporeborn/",
+        "image_url": "https://osaka-kitena.jp/cms/wp-content/uploads/2026/08/ogp.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4123437,
+          34.63725175
         ]
       }
     }
