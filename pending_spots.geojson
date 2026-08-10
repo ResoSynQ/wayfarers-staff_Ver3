@@ -6,6 +6,26 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "[速報】H3ロケット9号機を打ち上げ　準天頂衛星みちびき7号機を搭載　種子島宇宙センター(ＫＹＴ鹿児島読売テレビ)",
+        "name": "宇宙航空研究開発機構種子島宇宙センター",
+        "address": "",
+        "reason": "最新のロケット打ち上げという、貴重で迫力のある体験ができるため",
+        "date": "2026-08-11",
+        "link": "https://news.yahoo.co.jp/articles/7d3b393210550efbd56d1c4d360ac725a2e9842c?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260811-05529651-kytnews-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.9574777,
+          30.3777644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "新たなマンホールカードを配布　館山市×つばきファクトリー　初日はファンら15人が列（千葉県）(房日新聞)",
         "name": "館山市役所",
         "address": "",
