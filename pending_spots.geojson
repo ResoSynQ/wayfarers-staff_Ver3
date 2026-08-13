@@ -6,6 +6,26 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "夜の那古に柔らかな明かり　学生と住民らが行灯試作　10月に向け試験点灯　館山（千葉県）(房日新聞)",
+        "name": "館山市役所",
+        "address": "",
+        "reason": "夜の幻想的な行灯の灯りが訪れたい気持ちを掻き立てる",
+        "date": "2026-08-14",
+        "link": "https://news.yahoo.co.jp/articles/adb7b521ed662c1f9882e052703e965a26aab201?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-00010001-bonichi-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8699652,
+          34.9965054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "[速報】H3ロケット9号機を打ち上げ　準天頂衛星みちびき7号機を搭載　種子島宇宙センター(ＫＹＴ鹿児島読売テレビ)",
         "name": "宇宙航空研究開発機構種子島宇宙センター",
         "address": "",
