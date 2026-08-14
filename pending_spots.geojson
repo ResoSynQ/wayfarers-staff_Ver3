@@ -5,6 +5,26 @@
     {
       "type": "Feature",
       "properties": {
+        "category": "trend",
+        "trend_word": "横浜・織田の初球 甲子園どよめく",
+        "name": "横浜スタジアム前交差点",
+        "address": "",
+        "reason": "甲子園という舞台での「初球」という特別感と、横浜スタジアムでの開催が明示されているため",
+        "date": "2026-08-15",
+        "link": "https://news.yahoo.co.jp/pickup/6591751?source=rss",
+        "image_url": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/8/14/b750277abaec72e5cb1f3b43a5921eb610b058caea43acbb1775fa6941cb46d0.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6404795,
+          35.442016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "category": "local",
         "trend_word": "夜の那古に柔らかな明かり　学生と住民らが行灯試作　10月に向け試験点灯　館山（千葉県）(房日新聞)",
         "name": "館山市役所",
