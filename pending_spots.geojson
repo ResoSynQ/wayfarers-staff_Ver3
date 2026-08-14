@@ -5,6 +5,26 @@
     {
       "type": "Feature",
       "properties": {
+        "category": "local",
+        "trend_word": "願いよ届け、3千基に点火　奈良市の春日大社で「中元万燈籠」(奈良新聞デジタル)",
+        "name": "春日大社社務所",
+        "address": "",
+        "reason": "幻想的な灯りの祭典は魅力的",
+        "date": "2026-08-15",
+        "link": "https://news.yahoo.co.jp/articles/b0bb321ff7ea10fd7c6dc8393c924cd0b9f3ebf9?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260815-00000001-naranp-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.84367254,
+          34.68042674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "category": "trend",
         "trend_word": "横浜・織田の初球 甲子園どよめく",
         "name": "横浜スタジアム前交差点",
