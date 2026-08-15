@@ -6,6 +6,26 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "「プロ選手になって日本を引っ張れるガードに」　インターハイで日本一に　福岡大大濠高　那覇市出身・平良孔龍(RBC琉球放送)",
+        "name": "那覇市役所那覇市上下水道局　沖縄県下水道協会",
+        "address": "",
+        "reason": "出身選手が日本一になったというストーリーに感動し、応援したくなる",
+        "date": "2026-08-16",
+        "link": "https://news.yahoo.co.jp/articles/6c34301fc1b2a1af2b1fddf4c6b9f1328cb1078a?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260816-22873988-rbc-000-1-thumb.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.694213333333,
+          26.223057777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "願いよ届け、3千基に点火　奈良市の春日大社で「中元万燈籠」(奈良新聞デジタル)",
         "name": "春日大社社務所",
         "address": "",
