@@ -6,6 +6,46 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "いよいよ23日まで『描く人、安彦良和』大盛況　アニメ・漫画界の巨匠の直筆のイラストなどを堪能（山形・天童市）(テレビユー山形)",
+        "name": "天童市役所",
+        "address": "",
+        "reason": "巨匠の直筆イラストが堪能できる貴重な機会",
+        "date": "2026-08-17",
+        "link": "https://news.yahoo.co.jp/articles/67a67a98656643ccd25ca094417b22722663306c?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260816-22875333-tuy-000-3-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.3778851,
+          38.3622642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "自分の「嫌」を相手に伝える　親子で「包括的性教育」などを学ぶイベント　愛知・小牧市(メ〜テレ（名古屋テレビ）)",
+        "name": "小牧市役所",
+        "address": "",
+        "reason": "性教育を通じて自己肯定感を育むイベント",
+        "date": "2026-08-17",
+        "link": "https://news.yahoo.co.jp/articles/5ac96262f5bd36cfadf3e6252a6b497a7ac0cfe3?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260817-90036797-nbnv-000-1-thumb.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.9109512,
+          35.2903101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "「プロ選手になって日本を引っ張れるガードに」　インターハイで日本一に　福岡大大濠高　那覇市出身・平良孔龍(RBC琉球放送)",
         "name": "那覇市役所那覇市上下水道局　沖縄県下水道協会",
         "address": "",
