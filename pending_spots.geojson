@@ -6,6 +6,26 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "熊野大花火大会　約1万発が夜空彩る　県内外から約8万人来場(中京テレビＮＥＷＳ)",
+        "name": "熊野市役所",
+        "address": "",
+        "reason": "迫力ある花火と多くの来場者で賑わう",
+        "date": "2026-08-18",
+        "link": "https://news.yahoo.co.jp/articles/e20c0e3953274a7fe4546d078a8ebbcec311fe90?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260818-04171598-sp_ctv-000-1-thumb.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.1002362,
+          33.8886037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "いよいよ23日まで『描く人、安彦良和』大盛況　アニメ・漫画界の巨匠の直筆のイラストなどを堪能（山形・天童市）(テレビユー山形)",
         "name": "天童市役所",
         "address": "",
