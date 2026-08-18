@@ -6,6 +6,26 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "北アルプスに八ヶ岳…信州一望の大パノラマ　長野県誕生150年、鉢伏山から見つめる多様な風土(信濃毎日新聞デジタル)",
+        "name": "前鉢伏山",
+        "address": "",
+        "reason": "雄大な山々のパノラマに魅了される",
+        "date": "2026-08-19",
+        "link": "https://news.yahoo.co.jp/articles/123164b6eb76fb7fedd687dc11fce3b57bad871f?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260819-00010000-shinmai-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.0533694,
+          36.1722505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "熊野大花火大会　約1万発が夜空彩る　県内外から約8万人来場(中京テレビＮＥＷＳ)",
         "name": "熊野市役所",
         "address": "",
