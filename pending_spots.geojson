@@ -5,6 +5,26 @@
     {
       "type": "Feature",
       "properties": {
+        "category": "local",
+        "trend_word": "南北朝時代を楽しむフェス　アニメ「逃げ上手の若君」の舞台となった長野県で開催へ　原作者も登場(信濃毎日新聞デジタル)",
+        "name": "長野県庁",
+        "address": "",
+        "reason": "アニメ聖地巡礼と歴史体験の二重の魅力",
+        "date": "2026-08-20",
+        "link": "https://news.yahoo.co.jp/articles/599a628a0e5f140c9ef0a38058df79af9362123b?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260820-00010000-shinmai-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.1809551,
+          36.651299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "category": "trend",
         "trend_word": "カズ59歳 天皇杯1回戦で2ゴール",
         "name": "日産スタジアム",
