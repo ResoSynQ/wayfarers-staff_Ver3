@@ -5,6 +5,46 @@
     {
       "type": "Feature",
       "properties": {
+        "category": "trend",
+        "trend_word": "カズ59歳 天皇杯1回戦で2ゴール",
+        "name": "日産スタジアム",
+        "address": "",
+        "reason": "レジェンドの活躍を生で観戦できる興奮",
+        "date": "2026-08-20",
+        "link": "https://news.yahoo.co.jp/pickup/6592330?source=rss",
+        "image_url": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/8/19/6c1d2adcdca61150c6d40af210b5d26adeb3156e42a7f50c8794a4e870249249.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6061635,
+          35.5102774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "trend",
+        "trend_word": "8強の有明が熊本帰郷 市民ら歓声",
+        "name": "熊本城・市役所前駅（熊本市電）",
+        "address": "",
+        "reason": "全国大会出場者の凱旋は感動的",
+        "date": "2026-08-20",
+        "link": "https://news.yahoo.co.jp/pickup/6592346?source=rss",
+        "image_url": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/8/19/e77cadb3f5cf3eeab712cc77c73ba5f8431fa92b154d0ec34fbd04a2c699c120.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.7071884,
+          32.8031915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "category": "local",
         "trend_word": "北アルプスに八ヶ岳…信州一望の大パノラマ　長野県誕生150年、鉢伏山から見つめる多様な風土(信濃毎日新聞デジタル)",
         "name": "前鉢伏山",
