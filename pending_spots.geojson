@@ -6,6 +6,26 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "未来の海へ願いを込めて　小中学生ら40人がタマン放流とサンゴ植え付けを体験　沖縄・伊江村(沖縄タイムス)",
+        "name": "伊江村役場",
+        "address": "",
+        "reason": "未来への貢献と自然体験の魅力",
+        "date": "2026-08-22",
+        "link": "https://news.yahoo.co.jp/articles/f02df1b0a8b7655cf62769b0992c5a5ee90d981f?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260822-01906392-okinawat-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.8070698,
+          26.7134822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "JRタワーホテル日航札幌で秋フェア　エゾシカや栗をランチで(みんなの経済新聞ネットワーク)",
         "name": "JRタワーホテル日航札幌",
         "address": "",
