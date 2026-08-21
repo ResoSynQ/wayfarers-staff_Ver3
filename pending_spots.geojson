@@ -6,6 +6,26 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "JRタワーホテル日航札幌で秋フェア　エゾシカや栗をランチで(みんなの経済新聞ネットワーク)",
+        "name": "JRタワーホテル日航札幌",
+        "address": "",
+        "reason": "秋の味覚「エゾシカ」「栗」を使ったランチが魅力的",
+        "date": "2026-08-22",
+        "link": "https://news.yahoo.co.jp/articles/ce4da1812a0dbb0354ea3a25248688e37d1553b8?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260822-00000001-minkei-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.35261567,
+          43.06793398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "南北朝時代を楽しむフェス　アニメ「逃げ上手の若君」の舞台となった長野県で開催へ　原作者も登場(信濃毎日新聞デジタル)",
         "name": "長野県庁",
         "address": "",
