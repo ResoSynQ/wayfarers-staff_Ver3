@@ -6,6 +6,46 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "「パインなのにココナツの味」19年をかけて開発したパイナップルの新品種　“芳醇で良い香り”にかける名護市の生産農家(RBC琉球放送)",
+        "name": "名護市民会館",
+        "address": "",
+        "reason": "ユニークな新種フルーツへの期待感",
+        "date": "2026-08-23",
+        "link": "https://news.yahoo.co.jp/articles/e4fe113b1fddd0b1670a2d50ff773fbaf8660e22?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260823-22889142-rbc-000-1-thumb.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.9752021,
+          26.5908821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "「みるく」先頭に練り歩き　大きなうちわで厄払い　首里の伝統行事「赤田のみるくウンケー」で無病息災を祈願　沖縄・那覇市(沖縄タイムス)",
+        "name": "那覇市 首里公民館",
+        "address": "",
+        "reason": "歴史と伝統を感じられるユニークな祭り",
+        "date": "2026-08-23",
+        "link": "https://news.yahoo.co.jp/articles/d5094533435f5d2da1d4c2f386cd585e274d298b?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260823-01907080-okinawat-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.72126203,
+          26.21886044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "未来の海へ願いを込めて　小中学生ら40人がタマン放流とサンゴ植え付けを体験　沖縄・伊江村(沖縄タイムス)",
         "name": "伊江村役場",
         "address": "",
