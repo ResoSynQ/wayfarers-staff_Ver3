@@ -6,6 +6,26 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "闘病する子供たちを支援しようと食料品や加工品を販売　売り上げは全額寄贈　福岡市(RKB毎日放送)",
+        "name": "福岡県庁",
+        "address": "",
+        "reason": "子供たちへの支援という温かい活動に共感し、貢献したい気持ちになるため",
+        "date": "2026-08-24",
+        "link": "https://news.yahoo.co.jp/articles/eff5d477ca6ff0c87d268829cf6bda6b7be832b5?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260824-22890781-rkbv-000-3-thumb.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.4182971,
+          33.6065752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "「パインなのにココナツの味」19年をかけて開発したパイナップルの新品種　“芳醇で良い香り”にかける名護市の生産農家(RBC琉球放送)",
         "name": "名護市民会館",
         "address": "",
