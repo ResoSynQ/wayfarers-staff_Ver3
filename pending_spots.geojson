@@ -5,6 +5,26 @@
     {
       "type": "Feature",
       "properties": {
+        "category": "trend",
+        "trend_word": "4億円寄付 ミャクミャク像造って",
+        "name": "大阪城公園",
+        "address": "",
+        "reason": "ユニークな寄付の使途が興味を引く",
+        "date": "2026-08-25",
+        "link": "https://news.yahoo.co.jp/pickup/6592897?source=rss",
+        "image_url": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/8/24/18dfaa6932b86e819d90788dad9285fe933677aad3c89ee88b3a638db2de474a.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5310997,
+          34.6819755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "category": "local",
         "trend_word": "闘病する子供たちを支援しようと食料品や加工品を販売　売り上げは全額寄贈　福岡市(RKB毎日放送)",
         "name": "福岡県庁",
