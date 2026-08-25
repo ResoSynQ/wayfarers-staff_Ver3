@@ -5,6 +5,46 @@
     {
       "type": "Feature",
       "properties": {
+        "category": "local",
+        "trend_word": "地元産リンゴのシードル、そば茶や桃のクラフトビール提供　長野県下條村の道の駅に新店舗オープン(信濃毎日新聞デジタル)",
+        "name": "道の駅信濃路下條",
+        "address": "",
+        "reason": "地元特産品を活かしたユニークなドリンクが豊富",
+        "date": "2026-08-26",
+        "link": "https://news.yahoo.co.jp/articles/908f92ccd5f3a6b5fc9740363fd37bbf968413f0?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260826-00010000-shinmai-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.7947208,
+          35.417172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "「春日龍神童子」を奉納　春日大社に籔内さん制作の木彫り作品　金龍神社例祭で参列者に披露(奈良新聞デジタル)",
+        "name": "春日大社社務所",
+        "address": "",
+        "reason": "貴重な木彫り作品の奉納と神社の荘厳な雰囲気",
+        "date": "2026-08-26",
+        "link": "https://news.yahoo.co.jp/articles/61c1c7cdea440d18d63a0e827e20b7d2ef640ddf?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260826-00000001-naranp-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.84367254,
+          34.68042674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "category": "trend",
         "trend_word": "4億円寄付 ミャクミャク像造って",
         "name": "大阪城公園",
