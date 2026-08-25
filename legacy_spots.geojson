@@ -314,7 +314,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.pasonagroup.co.jp/news/tabid312.html?dispmid=821&itemid=5748",
-        "image_url": ""
+        "image_url": "http://www.pasonagroup.co.jp/Portals/0/Skins/PSN/images/ogp.png"
       },
       "geometry": {
         "type": "Point",
@@ -1169,7 +1169,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/nauruya_higashiosaka/",
-        "image_url": ""
+        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
       },
       "geometry": {
         "type": "Point",
@@ -1657,8 +1657,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "大屋根リングが駅のベンチに！　阪神伝法駅",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【大屋根リングが駅のベンチに！　阪神伝法駅】</b><br>📅 期間: 2026/06/09 ～ 常設<br>📝 大阪・関西万博会場のシンボル「大屋根リング」の柱材が、阪神なんば線の伝法駅・福駅で駅の待合ベンチとして活用されることになりました。<br><br><a href='https://prtimes.jp/main/html/rd/p/000003632.000005180.html' target='_blank'>🔗 詳細を開く</a>",
+        "name": "【予定】大屋根リングが駅のベンチに！　阪神伝法駅",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【【予定】大屋根リングが駅のベンチに！　阪神伝法駅】</b><br>📅 期間: 2026/06/09 ～ 常設<br>📝 大阪・関西万博会場のシンボル「大屋根リング」の柱材が、阪神なんば線の伝法駅・福駅で駅の待合ベンチとして活用されることになりました。<br><br><a href='https://prtimes.jp/main/html/rd/p/000003632.000005180.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false,
         "isKomyaku": false,
@@ -1676,8 +1676,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "大屋根リングが駅のベンチに！　阪神福駅",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【大屋根リングが駅のベンチに！　阪神福駅】</b><br>📅 期間: 2026/06/09 ～ 常設<br>📝 大阪・関西万博会場のシンボル「大屋根リング」の柱材が、阪神なんば線の伝法駅・福駅で駅の待合ベンチとして活用されることになりました。<br><br><a href='https://prtimes.jp/main/html/rd/p/000003632.000005180.html' target='_blank'>🔗 詳細を開く</a>",
+        "name": "【予定】大屋根リングが駅のベンチに！　阪神福駅",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【【予定】大屋根リングが駅のベンチに！　阪神福駅】</b><br>📅 期間: 2026/06/09 ～ 常設<br>📝 大阪・関西万博会場のシンボル「大屋根リング」の柱材が、阪神なんば線の伝法駅・福駅で駅の待合ベンチとして活用されることになりました。<br><br><a href='https://prtimes.jp/main/html/rd/p/000003632.000005180.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false,
         "isKomyaku": false,
@@ -1746,44 +1746,6 @@
         "coordinates": [
           134.6939337,
           34.83905275
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "「あの靴」履いて集まろう！ミズノの万博シューズ購入者限定オフ会が開催！",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【「あの靴」履いて集まろう！ミズノの万博シューズ購入者限定オフ会が開催！】</b><br>📅 期間: 2026/08/22 ～ 2026/08/22<br>📝 ミズノと大阪・関西万博がコラボした「THE MIZUNO ENERZY OSAKA EXPO 2025シューズ」の購入者を対象に、アフター万博の特別イベントが開催されます。抽選で200名が招待される購入者限定オフ会で、開催日は2026年8月22日。時間は13:00〜16:00、受付開始は12:30予定とのこと。会場は大阪市内某所、詳細は当選連絡にて通知されるとのこと！（マップ上のピンは大阪ミズノ株式会社）<br><br><a href='https://jpn.mizuno.com/dicontents/osaka_expo2025/after_event?utm_source=twitter&utm_medium=social&utm_campaign=sndilhwk_afterexpo&utm_content=260617' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://jpn.mizuno.com/dicontents/osaka_expo2025/after_event?utm_source=twitter&utm_medium=social&utm_campaign=sndilhwk_afterexpo&utm_content=260617",
-        "image_url": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.4170097,
-          34.63857655
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "りそな銀行主催の万博レガシーイベントがATCホールで開催！",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【りそな銀行主催の万博レガシーイベントがATCホールで開催！】</b><br>📅 期間: 2026/08/21 ～ 2026/08/23<br>📝 大阪・関西万博で生まれた感動を“過去の思い出”で終わらせず、未来の日常へつなげる万博レガシーイベントが、大阪南港ATCホールで開催されます。\r<br><br><a href='https://www.resona-expo.com/' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://www.resona-expo.com/",
-        "image_url": "https://www.resona-expo.com/wpsys/wp-content/uploads/2026/06/ogp.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.4145372,
-          34.63618702
         ]
       }
     },
@@ -2031,25 +1993,6 @@
         "coordinates": [
           135.5063,
           34.652458
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "万博バーラトフェス2026 SUMMER／ビリヤニ祭",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【万博バーラトフェス2026 SUMMER／ビリヤニ祭】</b><br>📅 期間: 2026/08/22 ～ 2026/08/23<br>📝 万博記念公園（上の広場）で開催されるインド文化フェス。全国の本格ビリヤニ、インドフードやスイーツ、雑貨、民族衣装、音楽・ダンス、ヨガ、カバディやクリケットなどを通じ、万博後もインド文化との交流を継続するイベント。<br><br><a href='https://www.expo-bharat.jp/bharat-fes' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://www.expo-bharat.jp/bharat-fes",
-        "image_url": "https://static.wixstatic.com/media/9f5db7_f4149fee544e4b1391c56c4ec8ead853%7Emv2.png/v1/fit/w_2500,h_1330,al_c/9f5db7_f4149fee544e4b1391c56c4ec8ead853%7Emv2.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.530373,
-          34.809953
         ]
       }
     },
@@ -2575,7 +2518,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/salamcoffee_stand/",
-        "image_url": ""
+        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
       },
       "geometry": {
         "type": "Point",
@@ -2993,7 +2936,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.threads.com/@crew184_expo.epilogue.cafe",
-        "image_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-19/658898481_18070880096308952_7068635315121074024_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=b3fa00&_nc_ohc=sr0G2TXyc2QQ7kNvwF02TzI&_nc_oc=AdoKtdQ0-VXseYbTNQdwcsBj2CHZ1afrFE5SKTPnuv338UktoD_hYuK6vON1r3WC-FI&_nc_zt=24&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_gid=R4deJ2F6w3PrHoVu3w_VSg&_nc_ss=7f20f&oh=00_AQHCnrsV9VGM3RVXJjQTf1Lq9DEE49mzzSnKgwzYpM1urg&oe=6A92AA89"
+        "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/658898481_18070880096308952_7068635315121074024_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=b3fa00&_nc_ohc=sr0G2TXyc2QQ7kNvwFb_Wh4&_nc_oc=AdoxWqijvuaS0mFkETYeFPQzSYggxEbi1UCJhIQnQjZGx-fCdaqPq6vrCqbtkpgP7Dc&_nc_zt=24&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=4Zy0E8_GDNxOJCCotGlpKA&_nc_ss=7f20f&oh=00_AQEQOZorr51NudAtOMrbXAMYxeYHsV3Uc6mxaoMu_3Gjfg&oe=6A92E2C9"
       },
       "geometry": {
         "type": "Point",
@@ -3069,7 +3012,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DalfgwECeqF/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==",
-        "image_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-15/741671055_18599635276031936_3389225437979274047_n.jpg?stp=c460.0.1383.1382a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=w2UWApkIFggQ7kNvwHBRHST&_nc_oc=AdpkqjTG0A4ml6QOpiEIJDfmaHEB3wCf33pSXBZUgR8yH-H6Xa6K4j0pr6dcEa767F8&_nc_zt=23&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_gid=zk3SqKmfJtSXfdMv-cCQlA&_nc_ss=7f60f&oh=00_AQEbJug4bkXw9hsj3i0JoOlcfhOfZB6FY2rOp8sMPnJo4A&oe=6A92A74D"
+        "image_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/741671055_18599635276031936_3389225437979274047_n.jpg?stp=c460.0.1383.1382a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=w2UWApkIFggQ7kNvwEdleGZ&_nc_oc=AdpUbr_yB9tRRW9yoIkDdE8qE_WLCfHEb1F84EiC70SSYVnl3SYhv_7wDO6Oz0g08is&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=MK5imAcVA23Smmz9n0IQiA&_nc_ss=7f60f&oh=00_AQHIUEEZMWTQmhzitzWvHPBCWHQgJ3MOIjuFqHqc5gFd4w&oe=6A92DF8D"
       },
       "geometry": {
         "type": "Point",
@@ -3145,32 +3088,13 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DahWKivEoTO/",
-        "image_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-15/741068451_18336425095268595_8303109530742012563_n.jpg?stp=c595.0.1786.1786a_dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=MziFMFf68c8Q7kNvwEdd8L5&_nc_oc=AdrX8Zdewh0nung9-UdhlJcV9hj8psD3nuYNZeX-wFQkYV5n2kfAB5j9teh5MAp4rn0&_nc_zt=23&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_gid=n71JlN0yC9SHm_4flUvIug&_nc_ss=7f60f&oh=00_AQGvWsg3aDSKWs3-7srZTGhhU8xoMymIdPsVDf0LkkrnbQ&oe=6A92AD5A"
+        "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/741068451_18336425095268595_8303109530742012563_n.jpg?stp=c595.0.1786.1786a_dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=MziFMFf68c8Q7kNvwFTtpRK&_nc_oc=Adp2IV-9hQNuwY9hRJeIpGkuP4VgrCuXc9O5UTqMZ51Nze_vmCDiaz5xINrXF-q6Tzo&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=PnhAk0RtcORd2I008GGYyA&_nc_ss=7f60f&oh=00_AQGalMj5DmYPT53EfksKJjIasldHdvVyx24t9y4NninImQ&oe=6A92AD5A"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           135.5263796,
           34.6590586
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "世界のカラフルワールド in KOBE 2026",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【世界のカラフルワールド in KOBE 2026】</b><br>📅 期間: 2026/08/13 ～ 2026/08/18<br>📝 神戸・三宮のさんちかホールで開催される『アフター万博 In KOBE』表記の催事。チュニジア専門店「ダール・ヤスミン」をはじめ、世界各国の雑貨・民芸品・グルメ、異文化交流、ワークショップなどが集まる。<br><br><a href='https://www.santica.com/event/20260813' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": true,
-        "isKomyaku": false,
-        "link": "https://www.santica.com/event/20260813",
-        "image_url": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.1941326,
-          34.69314246
         ]
       }
     },
@@ -3772,7 +3696,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DbKK7NEGE7E/?img_index=1",
-        "image_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-15/753225335_18022982300902789_7585897524133363841_n.jpg?stp=c604.0.1815.1814a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=Ae1QDKYordwQ7kNvwGot3x0&_nc_oc=AdqQsKvNh30w3Ycrcnexp-hQDFF7tMHoKShxKGQRw-XhdRoIDsoc2WQsWIYq5DG6kvE&_nc_zt=23&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_gid=X_ufIyXIivzgjhZYy1N9Gg&_nc_ss=7f60f&oh=00_AQFXXd6MtTYLcrrKgzLD12Mj5l2t8KnJYGPxPEnHWf6SIg&oe=6A92AF1F"
+        "image_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/753225335_18022982300902789_7585897524133363841_n.jpg?stp=c604.0.1815.1814a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=Ae1QDKYordwQ7kNvwGnUC0A&_nc_oc=AdrsafR-VASrAiWiUB5nSogg1I3WafnGAu4An-LF8cJLObvy8vkze0CXggg-DYd3u9k&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=bwLG0Mu7GALhaP3sJJkd0w&_nc_ss=7f60f&oh=00_AQES_ef8sjdy6QfFUgDWiLYshJSAYGFUVqFMkW7TYb-f3w&oe=6A92AF1F"
       },
       "geometry": {
         "type": "Point",
@@ -3829,7 +3753,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DSEdd_lAVML/",
-        "image_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-15/597898317_17923907505186513_2290017976650464759_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=fMEIg2NDazMQ7kNvwGbmRQL&_nc_oc=AdpGVW0RS7LVxmIj47ZUletBJPkyX7Eul2jw5JnXN8_jmtFaZ9nZg6Tk-drv3WugMDE&_nc_zt=23&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_gid=O7cJPoqI3bvRY9i97Oxszg&_nc_ss=7f60f&oh=00_AQGQ5cOQ7Q3-cl79VX8a7RSy7gLmqfU3eDVyzxJ_tktA_g&oe=6A928972"
+        "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/597898317_17923907505186513_2290017976650464759_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=fMEIg2NDazMQ7kNvwEKUnIK&_nc_oc=Adqb7KjzEaYM3Om1IUV1qE5qvOovfDmSlrYaT5vDCrJ09obHU4LmNRYPwaD8P3Dza2M&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=SsuWV619GyTzRLRdIYuJag&_nc_ss=7f60f&oh=00_AQHjLbSYfIo4VIUXlDT_5R0Ah7iZGS50Mh32ozJQFwYLMg&oe=6A92C1B2"
       },
       "geometry": {
         "type": "Point",
@@ -3988,6 +3912,25 @@
         "coordinates": [
           135.4956296,
           34.66851394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）OSAKA FUNtast!c SPORTS PROJECT キックオフイベント（時空の広場）",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【OSAKA FUNtast!c SPORTS PROJECT キックオフイベント（時空の広場）】</b><br>📅 期間: 2026/09/02 ～ 2026/09/02<br>📝 JR大阪駅・大阪ステーションシティ5階「時空の広場」で開催されるスポーツイベントのキックオフ企画。ラグビー選手と大阪府知事によるクロストーク、ミャクミャクによる事業PR、フォトセッションを実施。ミャクミャクは本編のほか14時30分頃・18時45分頃にもステージ登場予定で、自由観覧・自由撮影で楽しめる。<br><br><a href='https://www.pref.osaka.lg.jp/hodo/fumin/o070110/prs_51188.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.pref.osaka.lg.jp/hodo/fumin/o070110/prs_51188.html",
+        "image_url": "https://www.pref.osaka.lg.jp/shared/images/sns/logo.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4959341,
+          34.70249444
         ]
       }
     }
