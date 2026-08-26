@@ -903,7 +903,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.expo2025.or.jp/news/news-20240705-04/",
-        "image_url": ""
+        "image_url": "https://www.expo2025.or.jp/wp/wp-content/uploads/official-shop.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -1657,8 +1657,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "【予定】大屋根リングが駅のベンチに！　阪神伝法駅",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【【予定】大屋根リングが駅のベンチに！　阪神伝法駅】</b><br>📅 期間: 2026/06/09 ～ 常設<br>📝 大阪・関西万博会場のシンボル「大屋根リング」の柱材が、阪神なんば線の伝法駅・福駅で駅の待合ベンチとして活用されることになりました。<br><br><a href='https://prtimes.jp/main/html/rd/p/000003632.000005180.html' target='_blank'>🔗 詳細を開く</a>",
+        "name": "（予定）大屋根リングが駅のベンチに！　阪神伝法駅",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【大屋根リングが駅のベンチに！　阪神伝法駅】</b><br>📅 期間: 予定 ～ 常設<br>📝 大阪・関西万博会場のシンボル「大屋根リング」の柱材が、阪神なんば線の伝法駅・福駅で駅の待合ベンチとして活用されることになりました。<br><br><a href='https://prtimes.jp/main/html/rd/p/000003632.000005180.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false,
         "isKomyaku": false,
@@ -1676,8 +1676,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "【予定】大屋根リングが駅のベンチに！　阪神福駅",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【【予定】大屋根リングが駅のベンチに！　阪神福駅】</b><br>📅 期間: 2026/06/09 ～ 常設<br>📝 大阪・関西万博会場のシンボル「大屋根リング」の柱材が、阪神なんば線の伝法駅・福駅で駅の待合ベンチとして活用されることになりました。<br><br><a href='https://prtimes.jp/main/html/rd/p/000003632.000005180.html' target='_blank'>🔗 詳細を開く</a>",
+        "name": "（予定）大屋根リングが駅のベンチに！　阪神福駅",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【大屋根リングが駅のベンチに！　阪神福駅】</b><br>📅 期間: 予定 ～ 常設<br>📝 大阪・関西万博会場のシンボル「大屋根リング」の柱材が、阪神なんば線の伝法駅・福駅で駅の待合ベンチとして活用されることになりました。<br><br><a href='https://prtimes.jp/main/html/rd/p/000003632.000005180.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false,
         "isKomyaku": false,
@@ -1777,7 +1777,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.expo2025.or.jp/news/news-20260619-03/",
-        "image_url": ""
+        "image_url": "https://www.expo2025.or.jp/wp/wp-content/uploads/key.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -2936,7 +2936,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.threads.com/@crew184_expo.epilogue.cafe",
-        "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/658898481_18070880096308952_7068635315121074024_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=b3fa00&_nc_ohc=sr0G2TXyc2QQ7kNvwGqyyC1&_nc_oc=AdrVWPtmXPMOZ8J7szWV5xCWm3OCU7iNLvP-LuOhqAIVBhFC2Cq1e6nD1P8eq_F2Euk&_nc_zt=24&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=Ex0wEPBEON2q4YYO3MgsqA&_nc_ss=7f20f&oh=00_AQFXdLYb6e7CbF5n48YhLn5GWUrTxGWITMbHDSRLBEEXFg&oe=6A943449"
+        "image_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/658898481_18070880096308952_7068635315121074024_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=b3fa00&_nc_ohc=sr0G2TXyc2QQ7kNvwEFCGON&_nc_oc=AdpJQYrR60lj4kPvAXQjlrLXcuabw_e1ky-nQYMQFrxtobthZ_odJycXfS4Cz39vhNo&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=XMmCLv55KqMKXk-tABodqw&_nc_ss=7f20f&oh=00_AQGjoVzX72KjeIyQm7CzvUXf0_4T7BvYnBAz-Gx1PLB0OQ&oe=6A943449"
       },
       "geometry": {
         "type": "Point",
@@ -3012,7 +3012,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DalfgwECeqF/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==",
-        "image_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/741671055_18599635276031936_3389225437979274047_n.jpg?stp=c460.0.1383.1382a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=w2UWApkIFggQ7kNvwFv-y9h&_nc_oc=AdoH8tbmQAJPOlYImSxvd_wDAf2vpPaALhVfoDO13SwCnwIOJtpfhNH9RUlEGdSJ-p4&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=wbNjThjx2OS_Dwl1FwyAiQ&_nc_ss=7f60f&oh=00_AQGOVhcK9VSkIr_PYRF6vJABknfvISkwxa0PacjH-UTjwA&oe=6A94310D"
+        "image_url": "https://scontent-sea1-1.cdninstagram.com/v/t51.82787-15/741671055_18599635276031936_3389225437979274047_n.jpg?stp=c460.0.1383.1382a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=w2UWApkIFggQ7kNvwFapRBh&_nc_oc=AdqfcltZwBYIuRtudTnOUluBsH8S4k5i1o7vomN_x1G9hzpzJGjBpEujoJO8BtlpdzE&_nc_zt=23&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=z7Ofl2zjF2a93jFu5agdoA&_nc_ss=7f60f&oh=00_AQEN5oBKKrSu9ptjofK-j9pmABO4Jkm4WInRj-XCSRW_TQ&oe=6A94310D"
       },
       "geometry": {
         "type": "Point",
@@ -3088,7 +3088,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DahWKivEoTO/",
-        "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/741068451_18336425095268595_8303109530742012563_n.jpg?stp=c595.0.1786.1786a_dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=36qfX4QKg3UQ7kNvwGG1AhL&_nc_oc=AdoQHdf0lHv2Rv6JYEpj5znlyQxMDydyrQ1YuKWstiWGUSjO_oOfOnk7WiMcFESWTHc&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=_jcNuLCd4SuTYSrNfEcAgw&_nc_ss=7f60f&oh=00_AQGGB5Do526l76sF2z6oz22jk6ycBj6PHxXYqnjYwqSiVw&oe=6A94371A"
+        "image_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/741068451_18336425095268595_8303109530742012563_n.jpg?stp=c595.0.1786.1786a_dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=36qfX4QKg3UQ7kNvwH8EED2&_nc_oc=Adq0Oi3VHgR3VpmYwFTwWPkwX9BqECGsgRNojAaIYCrZghwEknDup9jVP7NGmcL44Tc&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=qLuVZlQbg39BepdKK1hhmw&_nc_ss=7f60f&oh=00_AQHpLbyoEif1jM1KU5h7ANTia2d4OOf6S5s1PxaIH7qRwA&oe=6A94371A"
       },
       "geometry": {
         "type": "Point",
@@ -3696,7 +3696,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DbKK7NEGE7E/?img_index=1",
-        "image_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/753225335_18022982300902789_7585897524133363841_n.jpg?stp=c604.0.1815.1814a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=ZThtS8Kf-GMQ7kNvwEbdEOv&_nc_oc=AdqtzXIb1h4VOHkn43MdGst92swYdrGs8cc4919_B6jAPl6tH7XN6uqq091wANl93RE&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=7GhlW68JBJv9a39ZuuJENA&_nc_ss=7f60f&oh=00_AQGlcLdnoT5P2H3OLPAPMlNjOpq3gUdZLJS2fBLAe58Fmw&oe=6A9438DF"
+        "image_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/753225335_18022982300902789_7585897524133363841_n.jpg?stp=c604.0.1815.1814a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=ZThtS8Kf-GMQ7kNvwHIe60n&_nc_oc=AdreeUz2lfoPSGR0NiDG57DEyjr-gCuxqZXiwEMLhRtTqTJpWGdgllZ_FYvAfR5JtPo&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=tgdSGNA9Ijl98LyJwmDOBA&_nc_ss=7f60f&oh=00_AQEe2TmaOAKiv2FwWdGwfMlm6tfTVRO6eIqo5ORL5Ad6ww&oe=6A9438DF"
       },
       "geometry": {
         "type": "Point",
@@ -3753,7 +3753,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DSEdd_lAVML/",
-        "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/597898317_17923907505186513_2290017976650464759_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=fMEIg2NDazMQ7kNvwF022eb&_nc_oc=Adpinw9SdjWFPdNh9UZblKgmRKp6QjG4gpeJgKZZlkLEHgAOQ_fCU_nu75Op5DTWbcQ&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=zATs7J9b5AWE0yNusvGqvg&_nc_ss=7f60f&oh=00_AQE9eyhDVwyiMjL5RHKAjIeIYePu1ikfAnJ8H2rnLTSMTg&oe=6A944B72"
+        "image_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/597898317_17923907505186513_2290017976650464759_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=fMEIg2NDazMQ7kNvwGYFBsq&_nc_oc=Ado0JLBmoP0I08t_B25znTgEoC0kFe2yhtRuT3_9Mvar7k2PZ00u4adbdwZKDOoidwY&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=ZLbRxNdsY2lPDIxT_G2ysg&_nc_ss=7f60f&oh=00_AQH9ClvIm-laEPJcgvcqUue85IKO63VOUTZAcSkU9WrStg&oe=6A944B72"
       },
       "geometry": {
         "type": "Point",
