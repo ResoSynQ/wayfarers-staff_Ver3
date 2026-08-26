@@ -6,6 +6,66 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "【今だからこそ!熊本城(9)】空中から被災の「いま」を見せる“スーパー回廊”　遺構に配慮、工事の進行を妨げず　復旧終了後には取り壊し(RKK熊本放送)",
+        "name": "熊本城・市役所前駅（熊本市電）",
+        "address": "",
+        "reason": "空撮映像や「スーパー回廊」というユニークな視点から被災状況と復旧の進捗を見られる点が興味を引く。",
+        "date": "2026-08-27",
+        "link": "https://news.yahoo.co.jp/articles/b9cf6e9ef7076122242a3ff2728d8221bab93cf4?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260827-22892766-rkkv-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.7071884,
+          32.8031915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "江戸川区の銭湯巡る「ぶらり湯らりスタンプラリー」　新たにデジタル導入へ(みんなの経済新聞ネットワーク)",
+        "name": "スーパー銭湯湯処葛西",
+        "address": "",
+        "reason": "銭湯巡りとスタンプラリーで地域散策の魅力",
+        "date": "2026-08-27",
+        "link": "https://news.yahoo.co.jp/articles/838961295ae49fa13632ed78972bb02922a3a580?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260827-00000002-minkei-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.88286114,
+          35.65343776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "夏のそうめんシーズンに感謝　奈良県の大神神社で掛唄や音頭奉納(奈良新聞デジタル)",
+        "name": "大神神社",
+        "address": "",
+        "reason": "夏の風物詩と伝統行事を体験できる",
+        "date": "2026-08-27",
+        "link": "https://news.yahoo.co.jp/articles/2cea8eb96427ed73b8e64d652a3ef8ff4f72478f?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260827-00000002-naranp-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.85242345,
+          34.52880991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "地元産リンゴのシードル、そば茶や桃のクラフトビール提供　長野県下條村の道の駅に新店舗オープン(信濃毎日新聞デジタル)",
         "name": "道の駅信濃路下條",
         "address": "",
