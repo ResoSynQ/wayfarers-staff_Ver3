@@ -6,6 +6,46 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "熱海・伊豆山専門の不動産事業、「123MUSIC」田中直人さんが開業(みんなの経済新聞ネットワーク)",
+        "name": "熱海市立　伊豆山幼稚園",
+        "address": "",
+        "reason": "専門不動産事業で地域への期待感",
+        "date": "2026-08-31",
+        "link": "https://news.yahoo.co.jp/articles/fe5126fb4903172f7f6ef453921d1b8e288014d6?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260831-00000002-minkei-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.083928055556,
+          35.115802222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "次世代スターが会場を笑いの渦に　奈良県生駒市で吉本所属芸人によるお笑いバトル　「タチマチ」や「例えば炎」など若手8組出場(奈良新聞デジタル)",
+        "name": "生駒市役所",
+        "address": "",
+        "reason": "若手芸人の熱演とお笑いバトル",
+        "date": "2026-08-31",
+        "link": "https://news.yahoo.co.jp/articles/d089679d76e2b64e8a812e8e473589dd726d1a9c?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260831-00000001-naranp-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7005361,
+          34.6919598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "【今だからこそ!熊本城(9)】空中から被災の「いま」を見せる“スーパー回廊”　遺構に配慮、工事の進行を妨げず　復旧終了後には取り壊し(RKK熊本放送)",
         "name": "熊本城・市役所前駅（熊本市電）",
         "address": "",
