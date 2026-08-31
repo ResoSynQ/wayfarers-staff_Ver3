@@ -428,7 +428,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.expo70-park.jp/facility/watchlearn/inochidama/",
-        "image_url": ""
+        "image_url": "https://www.expo70-park.jp/sys/wp-content/uploads/1c623daf87c5b4e145327b96ac296f03-640x480.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -732,7 +732,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://panaf.jp/",
-        "image_url": ""
+        "image_url": "https://panaf-osaka.com/assets/img/ogp.png"
       },
       "geometry": {
         "type": "Point",
@@ -751,7 +751,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://kobe-journal.com/archives/7547745875.html",
-        "image_url": ""
+        "image_url": "https://i0.wp.com/kobe-journal.com/web/images/2026/04/ai20260421170405.jpg?fit=487%2C274&ssl=1"
       },
       "geometry": {
         "type": "Point",
@@ -770,7 +770,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://medicineinfra.com/site/expo2025/",
-        "image_url": ""
+        "image_url": "https://medicineinfra.com/wp-content/uploads/2025/03/ogp.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -789,7 +789,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://medicineinfra.com/site/expo2025/",
-        "image_url": ""
+        "image_url": "https://medicineinfra.com/wp-content/uploads/2025/03/ogp.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -1169,7 +1169,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/nauruya_higashiosaka/",
-        "image_url": ""
+        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
       },
       "geometry": {
         "type": "Point",
@@ -1226,7 +1226,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://osaka-shotengai-info.com/bampaku/tenyonkita/",
-        "image_url": ""
+        "image_url": "https://osaka-shotengai-info.com/wp-content/uploads/2026/02/DSC_0628.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -1245,7 +1245,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://osaka-shotengai-info.com/bampaku/tenyonkita/",
-        "image_url": ""
+        "image_url": "https://osaka-shotengai-info.com/wp-content/uploads/2026/02/DSC_0628.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -1543,44 +1543,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "SENNAN LONG PARKに、ミャクミャクモニュメント「ワクワク」が登場します！",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【SENNAN LONG PARKに、ミャクミャクモニュメント「ワクワク」が登場します！】</b><br>📅 期間: 2026/06/06 ～ 2026/08/31<br>📝 設置期間は6/6(土)〜8/31(月)の予定。<br><br><a href='https://sennanlongpark.com/?xo_event=2026%E5%B9%B46%E6%9C%886%E6%97%A5%E5%9C%9F%EF%BC%89%EF%BD%9E8%E6%9C%8831%E6%97%A5%E6%9C%88-sennanlongpark%E3%81%AB%E3%83%9F%E3%83%A3%E3%82%AF%E3%83%9F%E3%83%A3%E3%82%AF%E3%81%8C%E3%82%84%E3%81%A3' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://sennanlongpark.com/?xo_event=2026%E5%B9%B46%E6%9C%886%E6%97%A5%E5%9C%9F%EF%BC%89%EF%BD%9E8%E6%9C%8831%E6%97%A5%E6%9C%88-sennanlongpark%E3%81%AB%E3%83%9F%E3%83%A3%E3%82%AF%E3%83%9F%E3%83%A3%E3%82%AF%E3%81%8C%E3%82%84%E3%81%A3",
-        "image_url": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.2620329,
-          34.37931397
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "【LIVE】解体進む万博会場・大屋根リング動画撮影場所",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【【LIVE】解体進む万博会場・大屋根リング動画撮影場所】</b><br>📅 期間: 2026/06/06 ～ 常設<br>📝 解体作業が進む万博会場や大屋根リング、夢洲・舞洲・大阪湾の景色に加え、2030年開業予定のIR建設の様子も見ることができるとのこと。<br><br><a href='https://www.youtube.com/live/WgnLXw_cb2o?si=MNrnFfgDnzRhAue2' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://www.youtube.com/live/WgnLXw_cb2o?si=MNrnFfgDnzRhAue2",
-        "image_url": "https://i.ytimg.com/vi/WgnLXw_cb2o/maxresdefault.jpg?v=6a23880e"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.3868918,
-          34.65041226
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "DotHealth OSAKA　大阪駅：中央コンコース",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【DotHealth OSAKA　大阪駅：中央コンコース】</b><br>📅 期間: 常設 / 時期----<br>📝 DotHealthは、これまで特別な場所でしか触れにくかったヘルスケアとの接点を、駅ナカなど毎日の動線上につくるプロジェクト。数分で肌年齢や内臓脂肪、脳健康度などを含む健康データを測定でき、自分のカラダの状態を日常の中で記録していくことができます。<br><br><a href='https://dot-health.net/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
@@ -1771,25 +1733,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "金沢フォーラス メインエントランスコート　大阪・関西万博の1周年メモリアルイベントTour「EXPO2025 Futures Tour」の開催が決定しました！",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【金沢フォーラス メインエントランスコート　大阪・関西万博の1周年メモリアルイベントTour「EXPO2025 Futures Tour」の開催が決定しました！】</b><br>📅 期間: 2026/08/29 ～ 2026/08/30<br>📝 万博で生まれた感動や未来へのワクワクを、閉幕後も全国各地へつないでいくアフター万博イベントです。大阪・関西万博に行った人も、行けなかった人も、各地で“もう一度万博”を感じられる機会になりそうです。<br><br><a href='https://www.expo2025.or.jp/news/news-20260619-03/' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://www.expo2025.or.jp/news/news-20260619-03/",
-        "image_url": "https://www.expo2025.or.jp/wp/wp-content/uploads/key.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          136.649883,
-          36.57928612
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "（予定）ＫＩＴＴＥ名古屋1階 アトリウム　大阪・関西万博の1周年メモリアルイベントTour「EXPO2025 Futures Tour」の開催が決定しました！",
         "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【ＫＩＴＴＥ名古屋1階 アトリウム　大阪・関西万博の1周年メモリアルイベントTour「EXPO2025 Futures Tour」の開催が決定しました！】</b><br>📅 期間: 2026/09/12 ～ 2026/09/13<br>📝 万博で生まれた感動や未来へのワクワクを、閉幕後も全国各地へつないでいくアフター万博イベントです。大阪・関西万博に行った人も、行けなかった人も、各地で“もう一度万博”を感じられる機会になりそうです。<br><br><a href='https://www.expo2025.or.jp/news/news-20260619-03/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
@@ -1841,25 +1784,6 @@
         "coordinates": [
           135.5117465,
           34.77539548
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "SENNAN LONG PARKにミャクミャクモニュメント フォトハウスが登場！",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【SENNAN LONG PARKにミャクミャクモニュメント フォトハウスが登場！】</b><br>📅 期間: 2026/06/06 ～ 2026/08/31<br>📝 ミャクミャクモニュメント フォトハウスはミャクミャクのぬいぐるみやグッズ、万博のレガシーを感じられる貴重なアイテムを展示。開催期間は2026年6月6日（土）〜8月31日（月）で、土日祝のみOPEN。時間は10:00〜17:00予定で、入場無料です。<br><br><a href='https://sennanlongpark.com/?xo_event=%E5%A4%A7%E9%98%AA%E3%82%92%E3%82%81%E3%81%90%E3%82%8B-%E3%83%9F%E3%83%A3%E3%82%AF%E3%83%9F%E3%83%A3%E3%82%AF%E3%83%A2%E3%83%8B%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88-%E3%83%95%E3%82%A9%E3%83%88%E3%83%8F' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://sennanlongpark.com/?xo_event=%E5%A4%A7%E9%98%AA%E3%82%92%E3%82%81%E3%81%90%E3%82%8B-%E3%83%9F%E3%83%A3%E3%82%AF%E3%83%9F%E3%83%A3%E3%82%AF%E3%83%A2%E3%83%8B%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88-%E3%83%95%E3%82%A9%E3%83%88%E3%83%8F",
-        "image_url": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.2633683,
-          34.37980149
         ]
       }
     },
@@ -1936,25 +1860,6 @@
         "coordinates": [
           139.7888977,
           35.54167621
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "ミャクミャクモニュメント（いらっしゃい）が道頓堀へ",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ミャクミャクモニュメント（いらっしゃい）が道頓堀へ】</b><br>📅 期間: 2026/07/06 ～ 2026/08/31<br>📝 設置期間は2026年7月6日(月)から8月31日(月)まで！\r\n大阪を代表する観光名所にミャクミャクが現れることで、新たなフォトスポットとして注目されそうです\r\n\r\n万博誘致の象徴だった「げんこつオブジェ」の跡地に設置されるのも、万博の歩みと記憶を未来へつなぐレガシーとして熱いポイントです🔥<br><br><a href='https://news.yahoo.co.jp/articles/a0257dcfbdcabfa26fdd11234a0710ede9e7555d' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://news.yahoo.co.jp/articles/a0257dcfbdcabfa26fdd11234a0710ede9e7555d",
-        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260706-01074421-lmaga-000-10-view.jpg?exp=10800"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.5014872,
-          34.66872848
         ]
       }
     },
@@ -2119,7 +2024,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://banpakuhanabi.jp/",
-        "image_url": ""
+        "image_url": "https://banpakuhanabi.jp/wp-content/uploads/2026/07/ogp.png"
       },
       "geometry": {
         "type": "Point",
@@ -2138,203 +2043,13 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://banpakuhanabi.jp/",
-        "image_url": ""
+        "image_url": "https://banpakuhanabi.jp/wp-content/uploads/2026/07/ogp.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           135.529718,
           34.807595
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "ミャクミャク風たこ焼（くくる道頓堀本店）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ミャクミャク風たこ焼（くくる道頓堀本店）】</b><br>📅 期間: 2026/07/06 ～ 2026/08/31<br>📝 関西8店舗限定で販売されるEXPO2025公式ライセンス商品「ミャクミャク風たこ焼」。くくるの大たこ入りふわとろたこ焼を、ミャクミャクを思わせる赤・青のビジュアルに仕上げた期間限定メニュー。販売は2026年7月6日から8月末まで。<br><br><a href='https://x.com/kukuru_takoyaki/status/2074026048875012137' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": true,
-        "isKomyaku": false,
-        "link": "https://x.com/kukuru_takoyaki/status/2074026048875012137",
-        "image_url": "https://pbs.twimg.com/media/HMhrsnuaIAAviIt.jpg:large"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.5009421,
-          34.66883913
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "ミャクミャク風たこ焼（道頓堀コナモンミュージアム店）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ミャクミャク風たこ焼（道頓堀コナモンミュージアム店）】</b><br>📅 期間: 2026/07/06 ～ 2026/08/31<br>📝 関西8店舗限定で販売されるEXPO2025公式ライセンス商品「ミャクミャク風たこ焼」。くくるの大たこ入りふわとろたこ焼を、ミャクミャクを思わせる赤・青のビジュアルに仕上げた期間限定メニュー。販売は2026年7月6日から8月末まで。<br><br><a href='https://x.com/kukuru_takoyaki/status/2074026048875012137' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": true,
-        "isKomyaku": false,
-        "link": "https://x.com/kukuru_takoyaki/status/2074026048875012137",
-        "image_url": "https://pbs.twimg.com/media/HMhrsnuaIAAviIt.jpg:large"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.5022094,
-          34.66899008
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "ミャクミャク風たこ焼（くくる宗右衛門町店）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ミャクミャク風たこ焼（くくる宗右衛門町店）】</b><br>📅 期間: 2026/07/06 ～ 2026/08/31<br>📝 関西8店舗限定で販売されるEXPO2025公式ライセンス商品「ミャクミャク風たこ焼」。くくるの大たこ入りふわとろたこ焼を、ミャクミャクを思わせる赤・青のビジュアルに仕上げた期間限定メニュー。販売は2026年7月6日から8月末まで。<br><br><a href='https://x.com/kukuru_takoyaki/status/2074026048875012137' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": true,
-        "isKomyaku": false,
-        "link": "https://x.com/kukuru_takoyaki/status/2074026048875012137",
-        "image_url": "https://pbs.twimg.com/media/HMhrsnuaIAAviIt.jpg:large"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.5030403,
-          34.66943789
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "ミャクミャク風たこ焼（くくる道頓堀ミナミ店）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ミャクミャク風たこ焼（くくる道頓堀ミナミ店）】</b><br>📅 期間: 2026/07/06 ～ 2026/08/31<br>📝 関西8店舗限定で販売されるEXPO2025公式ライセンス商品「ミャクミャク風たこ焼」。くくるの大たこ入りふわとろたこ焼を、ミャクミャクを思わせる赤・青のビジュアルに仕上げた期間限定メニュー。販売は2026年7月6日から8月末まで。<br><br><a href='https://x.com/kukuru_takoyaki/status/2074026048875012137' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": true,
-        "isKomyaku": false,
-        "link": "https://x.com/kukuru_takoyaki/status/2074026048875012137",
-        "image_url": "https://pbs.twimg.com/media/HMhrsnuaIAAviIt.jpg:large"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.5006757,
-          34.66836181
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "ミャクミャク風たこ焼（くくる心斎橋店）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ミャクミャク風たこ焼（くくる心斎橋店）】</b><br>📅 期間: 2026/07/06 ～ 2026/08/31<br>📝 関西8店舗限定で販売されるEXPO2025公式ライセンス商品「ミャクミャク風たこ焼」。くくるの大たこ入りふわとろたこ焼を、ミャクミャクを思わせる赤・青のビジュアルに仕上げた期間限定メニュー。販売は2026年7月6日から8月末まで。<br><br><a href='https://x.com/kukuru_takoyaki/status/2074026048875012137' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": true,
-        "isKomyaku": false,
-        "link": "https://x.com/kukuru_takoyaki/status/2074026048875012137",
-        "image_url": "https://pbs.twimg.com/media/HMhrsnuaIAAviIt.jpg:large"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.5015697,
-          34.67283026
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "ミャクミャク風たこ焼（くくる大阪国際空港店／伊丹空港）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ミャクミャク風たこ焼（くくる大阪国際空港店／伊丹空港）】</b><br>📅 期間: 2026/07/06 ～ 2026/08/31<br>📝 関西8店舗限定で販売されるEXPO2025公式ライセンス商品「ミャクミャク風たこ焼」。くくるの大たこ入りふわとろたこ焼を、ミャクミャクを思わせる赤・青のビジュアルに仕上げた期間限定メニュー。販売は2026年7月6日から8月末まで。<br><br><a href='https://x.com/kukuru_takoyaki/status/2074026048875012137' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": true,
-        "isKomyaku": false,
-        "link": "https://x.com/kukuru_takoyaki/status/2074026048875012137",
-        "image_url": "https://pbs.twimg.com/media/HMhrsnuaIAAviIt.jpg:large"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.4428894,
-          34.79001913
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "ミャクミャク風たこ焼（くくる大阪のれんめぐり店／JR新大阪駅新幹線改札内）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ミャクミャク風たこ焼（くくる大阪のれんめぐり店／JR新大阪駅新幹線改札内）】</b><br>📅 期間: 2026/07/06 ～ 2026/08/31<br>📝 関西8店舗限定で販売されるEXPO2025公式ライセンス商品「ミャクミャク風たこ焼」。くくるの大たこ入りふわとろたこ焼を、ミャクミャクを思わせる赤・青のビジュアルに仕上げた期間限定メニュー。販売は2026年7月6日から8月末まで。<br><br><a href='https://x.com/kukuru_takoyaki/status/2074026048875012137' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": true,
-        "isKomyaku": false,
-        "link": "https://x.com/kukuru_takoyaki/status/2074026048875012137",
-        "image_url": "https://pbs.twimg.com/media/HMhrsnuaIAAviIt.jpg:large"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.5004137,
-          34.73393609
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "ミャクミャク風たこ焼（くくるハナタコ エキマルシェ新大阪店）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ミャクミャク風たこ焼（くくるハナタコ エキマルシェ新大阪店）】</b><br>📅 期間: 2026/07/06 ～ 2026/08/31<br>📝 関西8店舗限定で販売されるEXPO2025公式ライセンス商品「ミャクミャク風たこ焼」。くくるの大たこ入りふわとろたこ焼を、ミャクミャクを思わせる赤・青のビジュアルに仕上げた期間限定メニュー。販売は2026年7月6日から8月末まで。<br><br><a href='https://x.com/kukuru_takoyaki/status/2074026048875012137' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": true,
-        "isKomyaku": false,
-        "link": "https://x.com/kukuru_takoyaki/status/2074026048875012137",
-        "image_url": "https://pbs.twimg.com/media/HMhrsnuaIAAviIt.jpg:large"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.5014354,
-          34.73462119
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "道頓堀ミャクミャクグッズセット（道頓堀グッズステーション）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【道頓堀ミャクミャクグッズセット（道頓堀グッズステーション）】</b><br>📅 期間: 2026/07/06 ～ 2026/08/31<br>📝 GiGO大阪道頓堀本店の入口付近に期間限定ポップアップストア「道頓堀グッズステーション」がオープン。ミャクミャクのマスコットとリストバンドを組み合わせた、道頓堀限定の公式グッズセットを販売。チャームは全4種で、購入者限定の道頓堀版ミャクミャクスタンプも楽しめる。<br><br><a href='https://news.yahoo.co.jp/articles/a4c782a08df7cb4a9f762da02c8944bcaacbaed6' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": true,
-        "isKomyaku": false,
-        "link": "https://news.yahoo.co.jp/articles/a4c782a08df7cb4a9f762da02c8944bcaacbaed6",
-        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260706-01074787-lmaga-000-4-view.jpg?exp=10800"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.5019887,
-          34.66859616
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EXPO2025オフィシャルポップアップストア 金沢フォーラス店",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【EXPO2025オフィシャルポップアップストア 金沢フォーラス店】</b><br>📅 期間: 2026/08/29 ～ 2026/08/30<br>📝 EXPO2025 Futures Tour金沢会場にあわせて、金沢フォーラスで展開されるオフィシャルポップアップストア。北陸エリアで万博公式グッズを楽しめる期間限定スポット。<br><br><a href='https://expo2025mlo.jp/wp-content/themes/expo-2025/assets/file/officialstore_list.pdf' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": true,
-        "isKomyaku": false,
-        "link": "https://expo2025mlo.jp/wp-content/themes/expo-2025/assets/file/officialstore_list.pdf",
-        "image_url": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          136.6497461,
-          36.57919429
         ]
       }
     },
@@ -2518,7 +2233,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/salamcoffee_stand/",
-        "image_url": ""
+        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
       },
       "geometry": {
         "type": "Point",
@@ -2841,7 +2556,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://takasago-mania.com/town-smartpole-sone/",
-        "image_url": ""
+        "image_url": "https://takasago-mania.com/wp-content/uploads/2026/03/PXL_20260322_074736057.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -2860,7 +2575,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.expo70-park.jp/facility/watchlearn/rosegarden/",
-        "image_url": ""
+        "image_url": "https://www.expo70-park.jp/sys/wp-content/uploads/sns_190515_04-640x480.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -2936,7 +2651,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.threads.com/@crew184_expo.epilogue.cafe",
-        "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/658898481_18070880096308952_7068635315121074024_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=b3fa00&_nc_ohc=NIu2jeCjsCwQ7kNvwH2MyqT&_nc_oc=AdrlfckLuw6dY1WiPI9TYWJvx7-ILuq3Gm0r_hs_eS3LDQAqK5SfOlo7BQCId7ZeVDE&_nc_zt=24&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=7K2d92L9fUfLq7amyx-olw&_nc_ss=7f20f&oh=00_AQIUE4CMvV1dh80_cug0Y0uQjHB-ajKc_rMfbnZld-cUGA&oe=6A9A5B49"
+        "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/658898481_18070880096308952_7068635315121074024_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=b3fa00&_nc_ohc=NIu2jeCjsCwQ7kNvwGFUUDv&_nc_oc=AdqHuAk7R563FUtzaSOzZWIoaRPm_FN-ZJ3-0SX07LuFmU878Yaqe1xvLjOBqayYS8w&_nc_zt=24&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=lzh7Pv7-Y-TgaoFbItfT8A&_nc_ss=7f20f&oh=00_AQKsiQos1mxyu8iwPeQNjJ0EHiXZrlCqzzIDwkOa1vxWOQ&oe=6A9A9389"
       },
       "geometry": {
         "type": "Point",
@@ -2968,25 +2683,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "EXPO2025オフィシャルポップアップストア 丸善丸の内OAZO店",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【EXPO2025オフィシャルポップアップストア 丸善丸の内OAZO店】</b><br>📅 期間: 2026/07/23 ～ 2026/08/30<br>📝 東京・丸の内の丸善丸の内本店1階に期間限定で開くEXPO2025オフィシャルポップアップストア。公式ライセンス商品やミャクミャクぬいぐるみくじ（ブラックVer.）を展開し、万博の余韻を東京で楽しめる公式グッズスポット。<br><br><a href='https://www.expo2025.or.jp/news/news-20260715-01/' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": true,
-        "isKomyaku": false,
-        "link": "https://www.expo2025.or.jp/news/news-20260715-01/",
-        "image_url": "https://www.expo2025.or.jp/wp/wp-content/uploads/22gazou1.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.766614,
-          35.68369848
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "EXPO2025オフィシャルポップアップストア 丸善仙台アエル店",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【EXPO2025オフィシャルポップアップストア 丸善仙台アエル店】</b><br>📅 期間: 2026/07/31 ～ 2026/09/02<br>📝 東北地方に再登場するEXPO2025オフィシャルポップアップストア。仙台アエル1階で公式ライセンス商品を販売し、ミャクミャクぬいぐるみくじ（ブラックVer.）も実施予定。万博の感動を東北でつなぐ公式グッズスポット。<br><br><a href='https://www.expo2025.or.jp/news/news-20260715-01/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
@@ -3012,7 +2708,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DalfgwECeqF/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==",
-        "image_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/741671055_18599635276031936_3389225437979274047_n.jpg?stp=c460.0.1383.1382a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=fYqgSOt21e8Q7kNvwGxAcCI&_nc_oc=AdpnnHj_XZgLzDsQPLSRFXKORM86YIpb3qxzln92Eg8usE4Pf2TUXVvzrDuIJQ7XRcw&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=Z821zDArAO-ugW3XBWiH0A&_nc_ss=7f60f&oh=00_AQIQEirY0J8o_dx9Fis4uaGV0nb_OzfPUUBcI5pHl2yxSA&oe=6A9A904D"
+        "image_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/741671055_18599635276031936_3389225437979274047_n.jpg?stp=c460.0.1383.1382a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=fYqgSOt21e8Q7kNvwHBgnzO&_nc_oc=AdrJliVyE6o-rh6WTiwy6dVauUvcrDIoOYyfV78MJzJs7V_36HC-HnyNwh4aFCQtzIg&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=6eO3-ZGI89PPED3nvd4XwA&_nc_ss=7f60f&oh=00_AQKp_kf4ddbdxo6XrgSj7WkRNy7ekd6BMg6ZwDRKs3gfRQ&oe=6A9A904D"
       },
       "geometry": {
         "type": "Point",
@@ -3088,7 +2784,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DahWKivEoTO/",
-        "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/741068451_18336425095268595_8303109530742012563_n.jpg?stp=c595.0.1786.1786a_dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=0KkY7Syo4LUQ7kNvwGvM3vW&_nc_oc=Adqy4-QZ9NSd9xvrFwjaUaciUQxwY_oQh9QFpLx6crmSwUxSb8HzgI5oDH5Cs3laHLE&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=mWT8mNwZbW0BFbt4t1jOwg&_nc_ss=7f60f&oh=00_AQKAx8mrCbP71ndANMk1zli6uvzxGMV-LjeMlcaBRZOofw&oe=6A9A5E1A"
+        "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/741068451_18336425095268595_8303109530742012563_n.jpg?stp=c595.0.1786.1786a_dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=0KkY7Syo4LUQ7kNvwHzaScs&_nc_oc=AdpukYpbv9_sUavJUhs-2Re1vl7OTxp0zO8UfM2kQ2HyNcH7mmaxRKPqz-qpgoJFMmU&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=s2PLThMyW2vS7gltYOXbhw&_nc_ss=7f60f&oh=00_AQJGXF3YKWJb9HLG6QrzBQdThOG6sshnKWwNBHY8JffZLQ&oe=6A9A965A"
       },
       "geometry": {
         "type": "Point",
@@ -3430,7 +3126,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://medicineinfra.com/site/yamatsumi/",
-        "image_url": ""
+        "image_url": "https://medicineinfra.com/wp-content/uploads/2025/03/ogp.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -3449,7 +3145,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://medicineinfra.com/site/postnomori/",
-        "image_url": ""
+        "image_url": "https://medicineinfra.com/wp-content/uploads/2025/03/ogp.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -3696,7 +3392,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DbKK7NEGE7E/?img_index=1",
-        "image_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/753225335_18022982300902789_7585897524133363841_n.jpg?stp=c604.0.1815.1814a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=erFWSLTWM_YQ7kNvwE5b68L&_nc_oc=AdrPozS0ReLNhaRfAP9080WQzrEuCxOY7AoIb1zR8AnfdW1LOJv9XYJAiej-ujuI7u0&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=gsScguil4vrEeGfRAW_ePA&_nc_ss=7f60f&oh=00_AQJ6LosuNgZ3avHR82XS34i5qp_hY_-04T9n5OrzPWK8WA&oe=6A9A5FDF"
+        "image_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/753225335_18022982300902789_7585897524133363841_n.jpg?stp=c604.0.1815.1814a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=erFWSLTWM_YQ7kNvwEFfqpL&_nc_oc=Adrc7BvDbKwH5c-euf6CcPQgFEptTuQYOvWSfwE_V80eQRfmwJ-UOqWfkGBFgH98KKQ&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=0M1r9mfSfkgK6ck-JhrqhA&_nc_ss=7f60f&oh=00_AQLcXkIgZx0DjseBGTAoqT7qjZfC80Yva-QaeZhokZJf5g&oe=6A9A981F"
       },
       "geometry": {
         "type": "Point",
@@ -3753,7 +3449,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DSEdd_lAVML/",
-        "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/597898317_17923907505186513_2290017976650464759_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=JTK7i-sS6XoQ7kNvwEEPNu8&_nc_oc=AdoP3rdc_loOl-yYXjazYUFO214TxmsBO3d20L20mXaC3ZuSCEqr_IFPmQphgsxO4cs&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=BRfHwqQNt8ssjJZ-co3lJA&_nc_ss=7f60f&oh=00_AQI1D68RYeJZ9I_hUGvL4AQOR26eZenZZ_s6QdIMnEuY4A&oe=6A9A7272"
+        "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/597898317_17923907505186513_2290017976650464759_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=JTK7i-sS6XoQ7kNvwFIXFKg&_nc_oc=AdrGWgoECTPxED-htKf1lgKaKjHBvTrqoSX2O2R3oKrPXGmCwZkSH8IkH8BxjLja0AA&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=xcXn2ArCg0F0uloOSw73Yg&_nc_ss=7f60f&oh=00_AQJMHXtsHl7F6VooZefJSTmuUuHj7KiA8VYC5pQZI_pvZw&oe=6A9AAAB2"
       },
       "geometry": {
         "type": "Point",
@@ -3829,7 +3525,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://osaka-kitena.jp/event/exporeborn/",
-        "image_url": ""
+        "image_url": "https://osaka-kitena.jp/cms/wp-content/uploads/2026/08/ogp.png"
       },
       "geometry": {
         "type": "Point",
