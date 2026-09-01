@@ -656,7 +656,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://x.com/wkamigata/status/2047612623978643853?s=43&t=Spz9-6o9mDMe00Tl3EPxfg",
-        "image_url": "https://pbs.twimg.com/media/HGqU1B8bUAAHxJu.jpg:large"
+        "image_url": "https://pbs.twimg.com/media/HGqU1B8bUAAHxJu?format=webp&name=large"
       },
       "geometry": {
         "type": "Point",
@@ -1169,7 +1169,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/nauruya_higashiosaka/",
-        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -1492,7 +1492,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://x.com/kaiyodo_PR/status/2062368756530348433",
-        "image_url": "https://pbs.twimg.com/media/HJ76hqubkAAZVaD.jpg:large"
+        "image_url": "https://pbs.twimg.com/media/HJ76hqubkAAZVaD?format=webp&name=large"
       },
       "geometry": {
         "type": "Point",
@@ -1530,32 +1530,13 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://x.com/towelmuseumboy/status/2061960021760721196",
-        "image_url": "https://pbs.twimg.com/media/HJ2NtUJbwAAiaqS.jpg:large"
+        "image_url": "https://pbs.twimg.com/media/HJ2NtUJbwAAiaqS?format=webp&name=large"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           133.0326905,
           33.96948839
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "SENNAN LONG PARKに、ミャクミャクモニュメント「ワクワク」が登場します！",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【SENNAN LONG PARKに、ミャクミャクモニュメント「ワクワク」が登場します！】</b><br>📅 期間: 2026/06/06 ～ 2026/08/31<br>📝 設置期間は6/6(土)〜8/31(月)の予定。<br><br><a href='https://sennanlongpark.com/?xo_event=2026%E5%B9%B46%E6%9C%886%E6%97%A5%E5%9C%9F%EF%BC%89%EF%BD%9E8%E6%9C%8831%E6%97%A5%E6%9C%88-sennanlongpark%E3%81%AB%E3%83%9F%E3%83%A3%E3%82%AF%E3%83%9F%E3%83%A3%E3%82%AF%E3%81%8C%E3%82%84%E3%81%A3' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://sennanlongpark.com/?xo_event=2026%E5%B9%B46%E6%9C%886%E6%97%A5%E5%9C%9F%EF%BC%89%EF%BD%9E8%E6%9C%8831%E6%97%A5%E6%9C%88-sennanlongpark%E3%81%AB%E3%83%9F%E3%83%A3%E3%82%AF%E3%83%9F%E3%83%A3%E3%82%AF%E3%81%8C%E3%82%84%E3%81%A3",
-        "image_url": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.2620329,
-          34.37931397
         ]
       }
     },
@@ -1885,25 +1866,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "ミャクミャクモニュメント（いらっしゃい）が道頓堀へ",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ミャクミャクモニュメント（いらっしゃい）が道頓堀へ】</b><br>📅 期間: 2026/07/06 ～ 2026/08/31<br>📝 設置期間は2026年7月6日(月)から8月31日(月)まで！\r\n大阪を代表する観光名所にミャクミャクが現れることで、新たなフォトスポットとして注目されそうです\r\n\r\n万博誘致の象徴だった「げんこつオブジェ」の跡地に設置されるのも、万博の歩みと記憶を未来へつなぐレガシーとして熱いポイントです🔥<br><br><a href='https://news.yahoo.co.jp/articles/a0257dcfbdcabfa26fdd11234a0710ede9e7555d' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://news.yahoo.co.jp/articles/a0257dcfbdcabfa26fdd11234a0710ede9e7555d",
-        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260706-01074421-lmaga-000-10-view.jpg?exp=10800"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.5014872,
-          34.66872848
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "EXPO 2025 ART BLOOM by A4 GALLERY 和歌山会場（近鉄百貨店和歌山店）",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【EXPO 2025 ART BLOOM by A4 GALLERY 和歌山会場（近鉄百貨店和歌山店）】</b><br>📅 期間: 2026/08/19 ～ 2026/09/01<br>📝 大阪・関西万博公式キャラクター「ミャクミャク」など万博IPを使用したアート作品を巡回展示するアートプロジェクト。国内外の人気アーティストによる作品に加え、サッカーをテーマにしたオリジナルアートやグッズも登場。LEGACY展も同時開催。<br><br><a href='https://a4tokyo.myshopify.com/collections/expo-2025-art-bloom-by-a4-gallery' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
@@ -1929,7 +1891,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://x.com/tsutenkaku/status/2072251800065839293",
-        "image_url": "https://pbs.twimg.com/media/HMIeBpTa0AA6pQ0.jpg:large"
+        "image_url": "https://pbs.twimg.com/media/HMIeBpTa0AA6pQ0?format=webp&name=large"
       },
       "geometry": {
         "type": "Point",
@@ -2024,7 +1986,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://x.com/HLO_kaiyodo/status/2072879440439455933",
-        "image_url": "https://pbs.twimg.com/media/HMRY3Hla8AAc2QG.jpg:large"
+        "image_url": "https://pbs.twimg.com/media/HMRY3Hla8AAc2QG?format=webp&name=large"
       },
       "geometry": {
         "type": "Point",
@@ -2088,177 +2050,6 @@
         "coordinates": [
           135.529718,
           34.807595
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "ミャクミャク風たこ焼（くくる道頓堀本店）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ミャクミャク風たこ焼（くくる道頓堀本店）】</b><br>📅 期間: 2026/07/06 ～ 2026/08/31<br>📝 関西8店舗限定で販売されるEXPO2025公式ライセンス商品「ミャクミャク風たこ焼」。くくるの大たこ入りふわとろたこ焼を、ミャクミャクを思わせる赤・青のビジュアルに仕上げた期間限定メニュー。販売は2026年7月6日から8月末まで。<br><br><a href='https://x.com/kukuru_takoyaki/status/2074026048875012137' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": true,
-        "isKomyaku": false,
-        "link": "https://x.com/kukuru_takoyaki/status/2074026048875012137",
-        "image_url": "https://pbs.twimg.com/media/HMhrsnuaIAAviIt.jpg:large"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.5009421,
-          34.66883913
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "ミャクミャク風たこ焼（道頓堀コナモンミュージアム店）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ミャクミャク風たこ焼（道頓堀コナモンミュージアム店）】</b><br>📅 期間: 2026/07/06 ～ 2026/08/31<br>📝 関西8店舗限定で販売されるEXPO2025公式ライセンス商品「ミャクミャク風たこ焼」。くくるの大たこ入りふわとろたこ焼を、ミャクミャクを思わせる赤・青のビジュアルに仕上げた期間限定メニュー。販売は2026年7月6日から8月末まで。<br><br><a href='https://x.com/kukuru_takoyaki/status/2074026048875012137' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": true,
-        "isKomyaku": false,
-        "link": "https://x.com/kukuru_takoyaki/status/2074026048875012137",
-        "image_url": "https://pbs.twimg.com/media/HMhrsnuaIAAviIt.jpg:large"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.5022094,
-          34.66899008
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "ミャクミャク風たこ焼（くくる宗右衛門町店）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ミャクミャク風たこ焼（くくる宗右衛門町店）】</b><br>📅 期間: 2026/07/06 ～ 2026/08/31<br>📝 関西8店舗限定で販売されるEXPO2025公式ライセンス商品「ミャクミャク風たこ焼」。くくるの大たこ入りふわとろたこ焼を、ミャクミャクを思わせる赤・青のビジュアルに仕上げた期間限定メニュー。販売は2026年7月6日から8月末まで。<br><br><a href='https://x.com/kukuru_takoyaki/status/2074026048875012137' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": true,
-        "isKomyaku": false,
-        "link": "https://x.com/kukuru_takoyaki/status/2074026048875012137",
-        "image_url": "https://pbs.twimg.com/media/HMhrsnuaIAAviIt.jpg:large"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.5030403,
-          34.66943789
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "ミャクミャク風たこ焼（くくる道頓堀ミナミ店）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ミャクミャク風たこ焼（くくる道頓堀ミナミ店）】</b><br>📅 期間: 2026/07/06 ～ 2026/08/31<br>📝 関西8店舗限定で販売されるEXPO2025公式ライセンス商品「ミャクミャク風たこ焼」。くくるの大たこ入りふわとろたこ焼を、ミャクミャクを思わせる赤・青のビジュアルに仕上げた期間限定メニュー。販売は2026年7月6日から8月末まで。<br><br><a href='https://x.com/kukuru_takoyaki/status/2074026048875012137' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": true,
-        "isKomyaku": false,
-        "link": "https://x.com/kukuru_takoyaki/status/2074026048875012137",
-        "image_url": "https://pbs.twimg.com/media/HMhrsnuaIAAviIt.jpg:large"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.5006757,
-          34.66836181
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "ミャクミャク風たこ焼（くくる心斎橋店）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ミャクミャク風たこ焼（くくる心斎橋店）】</b><br>📅 期間: 2026/07/06 ～ 2026/08/31<br>📝 関西8店舗限定で販売されるEXPO2025公式ライセンス商品「ミャクミャク風たこ焼」。くくるの大たこ入りふわとろたこ焼を、ミャクミャクを思わせる赤・青のビジュアルに仕上げた期間限定メニュー。販売は2026年7月6日から8月末まで。<br><br><a href='https://x.com/kukuru_takoyaki/status/2074026048875012137' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": true,
-        "isKomyaku": false,
-        "link": "https://x.com/kukuru_takoyaki/status/2074026048875012137",
-        "image_url": "https://pbs.twimg.com/media/HMhrsnuaIAAviIt.jpg:large"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.5015697,
-          34.67283026
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "ミャクミャク風たこ焼（くくる大阪国際空港店／伊丹空港）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ミャクミャク風たこ焼（くくる大阪国際空港店／伊丹空港）】</b><br>📅 期間: 2026/07/06 ～ 2026/08/31<br>📝 関西8店舗限定で販売されるEXPO2025公式ライセンス商品「ミャクミャク風たこ焼」。くくるの大たこ入りふわとろたこ焼を、ミャクミャクを思わせる赤・青のビジュアルに仕上げた期間限定メニュー。販売は2026年7月6日から8月末まで。<br><br><a href='https://x.com/kukuru_takoyaki/status/2074026048875012137' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": true,
-        "isKomyaku": false,
-        "link": "https://x.com/kukuru_takoyaki/status/2074026048875012137",
-        "image_url": "https://pbs.twimg.com/media/HMhrsnuaIAAviIt.jpg:large"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.4428894,
-          34.79001913
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "ミャクミャク風たこ焼（くくる大阪のれんめぐり店／JR新大阪駅新幹線改札内）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ミャクミャク風たこ焼（くくる大阪のれんめぐり店／JR新大阪駅新幹線改札内）】</b><br>📅 期間: 2026/07/06 ～ 2026/08/31<br>📝 関西8店舗限定で販売されるEXPO2025公式ライセンス商品「ミャクミャク風たこ焼」。くくるの大たこ入りふわとろたこ焼を、ミャクミャクを思わせる赤・青のビジュアルに仕上げた期間限定メニュー。販売は2026年7月6日から8月末まで。<br><br><a href='https://x.com/kukuru_takoyaki/status/2074026048875012137' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": true,
-        "isKomyaku": false,
-        "link": "https://x.com/kukuru_takoyaki/status/2074026048875012137",
-        "image_url": "https://pbs.twimg.com/media/HMhrsnuaIAAviIt.jpg:large"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.5004137,
-          34.73393609
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "ミャクミャク風たこ焼（くくるハナタコ エキマルシェ新大阪店）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ミャクミャク風たこ焼（くくるハナタコ エキマルシェ新大阪店）】</b><br>📅 期間: 2026/07/06 ～ 2026/08/31<br>📝 関西8店舗限定で販売されるEXPO2025公式ライセンス商品「ミャクミャク風たこ焼」。くくるの大たこ入りふわとろたこ焼を、ミャクミャクを思わせる赤・青のビジュアルに仕上げた期間限定メニュー。販売は2026年7月6日から8月末まで。<br><br><a href='https://x.com/kukuru_takoyaki/status/2074026048875012137' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": true,
-        "isKomyaku": false,
-        "link": "https://x.com/kukuru_takoyaki/status/2074026048875012137",
-        "image_url": "https://pbs.twimg.com/media/HMhrsnuaIAAviIt.jpg:large"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.5014354,
-          34.73462119
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "道頓堀ミャクミャクグッズセット（道頓堀グッズステーション）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【道頓堀ミャクミャクグッズセット（道頓堀グッズステーション）】</b><br>📅 期間: 2026/07/06 ～ 2026/08/31<br>📝 GiGO大阪道頓堀本店の入口付近に期間限定ポップアップストア「道頓堀グッズステーション」がオープン。ミャクミャクのマスコットとリストバンドを組み合わせた、道頓堀限定の公式グッズセットを販売。チャームは全4種で、購入者限定の道頓堀版ミャクミャクスタンプも楽しめる。<br><br><a href='https://news.yahoo.co.jp/articles/a4c782a08df7cb4a9f762da02c8944bcaacbaed6' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": true,
-        "isKomyaku": false,
-        "link": "https://news.yahoo.co.jp/articles/a4c782a08df7cb4a9f762da02c8944bcaacbaed6",
-        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260706-01074787-lmaga-000-4-view.jpg?exp=10800"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.5019887,
-          34.66859616
         ]
       }
     },
@@ -2442,7 +2233,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/salamcoffee_stand/",
-        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -2841,7 +2632,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://x.com/trbt_expo/status/2077603182302118024",
-        "image_url": "https://pbs.twimg.com/media/HNUhE5sa0AAI0fJ.jpg:large"
+        "image_url": "https://pbs.twimg.com/media/HNUhE5sa0AAI0fJ?format=webp&name=large"
       },
       "geometry": {
         "type": "Point",
@@ -2860,7 +2651,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.threads.com/@crew184_expo.epilogue.cafe",
-        "image_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/658898481_18070880096308952_7068635315121074024_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=b3fa00&_nc_ohc=NIu2jeCjsCwQ7kNvwFx-SlJ&_nc_oc=AdoxDbcpJWDm-Qsr3q70rRpgxHh8jOeGgvC_BKSV8FuIiUrVgVum3zHuTLQbg-oTk8g&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_gid=3KZIZi1TMg0YQHkyou_yZQ&_nc_ss=7f20f&oh=00_AQJbUOBQ9RF2yGU0qxTrkZheIjFYl-sMugh0MEfzPOdpPQ&oe=6A9C5589"
+        "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/658898481_18070880096308952_7068635315121074024_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=b3fa00&_nc_ohc=NIu2jeCjsCwQ7kNvwFBOusN&_nc_oc=Adol26K1vV_uYJDp4cLMYL0TtnHJqypxwUA3DkLcS7v3j4bcD7G6i2hxeYpPnrmvt7Q&_nc_zt=24&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=mA-mAeA7werYH5IaBd-mNw&_nc_ss=7f20f&oh=00_AQJl5oI1cMFTw05ngSO1RpV9g1rIEtd97zhxL93-XfjXpQ&oe=6A9CFE49"
       },
       "geometry": {
         "type": "Point",
@@ -2917,7 +2708,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DalfgwECeqF/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==",
-        "image_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-15/741671055_18599635276031936_3389225437979274047_n.jpg?stp=c460.0.1383.1382a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=fYqgSOt21e8Q7kNvwEVmePC&_nc_oc=Adr9kCGeXgZ5_cx74cdPqxehxj-4dzcHTpr1xXtYVKuW-_kzXEheJhJ7cBwL9ivOF0g&_nc_zt=23&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_gid=wWKrQh4rxd8_2dX7AyjacQ&_nc_ss=7f60f&oh=00_AQIH05pyLKQW03Mqhl1vVwZunV4WNozLw--o0qClyCP7tw&oe=6A9C524D"
+        "image_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/741671055_18599635276031936_3389225437979274047_n.jpg?stp=c460.0.1383.1382a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=fYqgSOt21e8Q7kNvwGyMIwZ&_nc_oc=AdqxMRAJF2ICwRf2oTydw1XJvoWJDe1hYhT9n8I0toSbRUj4XXrYOM6viODHxrTXbdI&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=NLfH6RXqQ6mDB5bCYD4beQ&_nc_ss=7f60f&oh=00_AQIOOBwBvnays6Y3G5nLdKw-pSfQ3tuBsn35F08YhTTY-w&oe=6A9CFB0D"
       },
       "geometry": {
         "type": "Point",
@@ -2993,7 +2784,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DahWKivEoTO/",
-        "image_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-15/741068451_18336425095268595_8303109530742012563_n.jpg?stp=c595.0.1786.1786a_dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=-YM-8VHOgDYQ7kNvwHiFxuM&_nc_oc=Adqc7Xxb3aUwX2MtaX7RYu0YQxil9-me9Ui02Hze0JNMgi6DPNPnCsn5sE1nLdnBbcs&_nc_zt=23&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_gid=P2Qrg5Yi05Ly61gDViLkQA&_nc_ss=7f60f&oh=00_AQJCcLE7Cyff5REdw7TjMTn_QlRrg-6cgQ93RtbWK3u16A&oe=6A9C585A"
+        "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/741068451_18336425095268595_8303109530742012563_n.jpg?stp=c595.0.1786.1786a_dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=-YM-8VHOgDYQ7kNvwFUvQUs&_nc_oc=Adpn3pq72WT2_8jmRTKnetR4DazEjdlJmaiI-MULhZ-9uSdgGo7Id_i90_f7GAbRsJg&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=DP3tZcXi7NiFLlwZqxz-LA&_nc_ss=7f60f&oh=00_AQKGLoVHYxPlOA73WzxO89qTQ2rs0YS5Rdchx1VRYdRekg&oe=6A9D011A"
       },
       "geometry": {
         "type": "Point",
@@ -3601,7 +3392,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DbKK7NEGE7E/?img_index=1",
-        "image_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/753225335_18022982300902789_7585897524133363841_n.jpg?stp=c604.0.1815.1814a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=CNLEbXQv2UkQ7kNvwFFRQaK&_nc_oc=AdrzuTLCACn-K4jUcSRLAbOhJ-oeURQrrehXaU5q7bELKMtXKUtaTG9VAM9GXBay2No&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=99O928KXpFzBYCrDna1EVw&_nc_ss=7f60f&oh=00_AQJqBI98P0JTbkiFS1HWLC8EAHonjCor5Fz8Gw2LCfKSSw&oe=6A9C5A1F"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -3658,7 +3449,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DSEdd_lAVML/",
-        "image_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/597898317_17923907505186513_2290017976650464759_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=JTK7i-sS6XoQ7kNvwFFLH6n&_nc_oc=AdrDix-5ArJqsolDB8bkqtUA8pk-i5iWH0iarEo11gy4ZX_cB4RFACEs4QeU6hsoKkM&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=Me6Aeh-68UcoY0z3CuaRwA&_nc_ss=7f60f&oh=00_AQIxObSYl5a2SIRqOhYF-VAg5veTGILzttknzR7qxjwRQw&oe=6A9C6CB2"
+        "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/597898317_17923907505186513_2290017976650464759_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=oP77_krZnnUQ7kNvwFb2IlE&_nc_oc=Adru-zpJvd0pq-P-ROyDsp7pEyus9Y8cV09G52SWbPOM2fhGRxuV9uVls9D4mcfHA4M&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=cgT9JzwCABenskKBChvtvg&_nc_ss=7f60f&oh=00_AQKblV4As7CklcdN01TwM3q31GgEsE9yZqkmYZomC5wiDw&oe=6A9D1572"
       },
       "geometry": {
         "type": "Point",
@@ -4057,7 +3848,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/after.expo.event/",
-        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -4235,6 +4026,25 @@
         "coordinates": [
           139.7034427,
           35.6590953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）EXPert Otaku2026",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【EXPert Otaku2026】</b><br>📅 期間: 2026/11/15 ～ 2026/11/15<br>📝 大阪・関西万博に関する同人誌と専門的な研究をまとめた同人誌の即売会。大阪南港ATC ITM棟12階 ITMホールで開催し、スタンプラリーやミャクミャク祭壇なども予定。<br><br><a href='https://setouchidozine.com/expert-otaku2026-%e9%96%8b%e5%82%ac%e6%a6%82%e8%a6%81/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": true,
+        "isKomyaku": false,
+        "link": "https://setouchidozine.com/expert-otaku2026-%e9%96%8b%e5%82%ac%e6%a6%82%e8%a6%81/",
+        "image_url": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4107875,
+          34.63807377
         ]
       }
     }

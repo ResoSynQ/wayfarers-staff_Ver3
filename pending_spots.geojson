@@ -6,6 +6,66 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "笑顔あふれる「為又夏まつり」　園児らのエイサーや獅子舞に「和気あいあいと楽しい」　沖縄・名護市(沖縄タイムス)",
+        "name": "名護市民会館",
+        "address": "",
+        "reason": "夏祭りの活気と伝統芸能で心温まる体験ができるから",
+        "date": "2026-09-02",
+        "link": "https://news.yahoo.co.jp/articles/7dbced14d7f7e826520c8a4eabad13b7ce252456?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260902-01914034-okinawat-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.9752021,
+          26.5908821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "「飛鳥・藤原」世界遺産登録を受けて「山田寺跡」ラッピングバスが出発　奈良交通「桜井・飛鳥回遊ライン(桜井飛鳥線)」(奈良新聞デジタル)",
+        "name": "山田寺跡",
+        "address": "",
+        "reason": "世界遺産登録を記念したラッピングバスで、歴史と文化に触れる旅へ誘う",
+        "date": "2026-09-02",
+        "link": "https://news.yahoo.co.jp/articles/b05db9fe2b679aa6e6b741df4b01548cd0b57554?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260902-00000001-naranp-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8300785,
+          34.4844597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "インターハイでの悔しさを糧に…　「あおもり国スポ」体操競技で49年ぶりの入賞狙う弘前学院聖愛　5人の選手の決意「失敗を恐れず、のびのび演技ができるように…」　(ＡＴＶ青森テレビ)",
+        "name": "新青森県総合運動公園",
+        "address": "",
+        "reason": "49年ぶりの入賞というドラマ性と、選手のひたむきな決意に胸を打たれる",
+        "date": "2026-09-02",
+        "link": "https://news.yahoo.co.jp/articles/814d248a1b7d12a5371c655e362f06268ef412b3?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260902-22909219-atv-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.8423189,
+          40.8433881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "熱海・伊豆山専門の不動産事業、「123MUSIC」田中直人さんが開業(みんなの経済新聞ネットワーク)",
         "name": "熱海市立　伊豆山幼稚園",
         "address": "",
