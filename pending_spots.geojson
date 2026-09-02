@@ -6,6 +6,66 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "まるでじゅうたんのよう　長野県青木村でタチアカネのまつり始まる　ソバの白い花が満開(信濃毎日新聞デジタル)",
+        "name": "青木村図書館",
+        "address": "",
+        "reason": "一面に広がるソバ畑の美しい風景が魅力的",
+        "date": "2026-09-03",
+        "link": "https://news.yahoo.co.jp/articles/dab037f562902b93aa5ebc7a1cc5662078e9084e?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260903-00010000-shinmai-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.1245728,
+          36.3700847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "「木の文化継承の一助に」　2027年に奈良で「全国植樹祭」　大会ナビゲーターに奈良出身の元TOKIO城島さん就任(奈良新聞デジタル)",
+        "name": "奈良県農業協同組合 奈良市柏木支店",
+        "address": "",
+        "reason": "城島さんの知名度と植樹祭の意義で関心を引く",
+        "date": "2026-09-03",
+        "link": "https://news.yahoo.co.jp/articles/f1f65cdf62e069db81eecc8d4c4cecc5e16fd5bb?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260903-00000001-naranp-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.79476568,
+          34.67029623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "trend",
+        "trend_word": "学校以外の居場所 様々な選択肢",
+        "name": "東京　警視庁鑑識課身元不明相談室",
+        "address": "",
+        "reason": "多様な居場所の提示に期待",
+        "date": "2026-09-03",
+        "link": "https://news.yahoo.co.jp/pickup/6594000?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/nakanokaori/02705465/title-1788178950973.jpeg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.752151111111,
+          35.676826388889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "笑顔あふれる「為又夏まつり」　園児らのエイサーや獅子舞に「和気あいあいと楽しい」　沖縄・名護市(沖縄タイムス)",
         "name": "名護市民会館",
         "address": "",
