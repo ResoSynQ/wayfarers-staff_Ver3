@@ -6,6 +6,46 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "東中野・松本湯が「湯上がりビタミンC研究所」　エルリスとコラボ(みんなの経済新聞ネットワーク)",
+        "name": "松本湯コインランドリー",
+        "address": "",
+        "reason": "ユニークなコラボで湯上がりが楽しみ",
+        "date": "2026-09-04",
+        "link": "https://news.yahoo.co.jp/articles/3e5ce6113446692c90a8474337cc9b69ccd515e7?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260904-00000001-minkei-000-2-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.68959955,
+          35.71104594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "trend",
+        "trend_word": "混雑状況を床投影 東京メトロ実証",
+        "name": "日比谷駅（東京メトロ［日比谷線］）",
+        "address": "",
+        "reason": "混雑状況の可視化で、快適な移動を期待できるから",
+        "date": "2026-09-04",
+        "link": "https://news.yahoo.co.jp/pickup/6594110?source=rss",
+        "image_url": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/9/3/4b94dfcc15d710414e9cada34fe70b5fe1b868e53ca8e111dfe597381cfac130.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7597643,
+          35.6751128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "まるでじゅうたんのよう　長野県青木村でタチアカネのまつり始まる　ソバの白い花が満開(信濃毎日新聞デジタル)",
         "name": "青木村図書館",
         "address": "",
