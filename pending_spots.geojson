@@ -6,6 +6,46 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "「DNA。遺伝子や」父の背中を追い最年少「根曳」に挑む高校3年生　福を届ける鍛冶屋町「宝船」【シリーズ 長崎くんち 諏訪の舞台へ(3)】(NBC長崎放送)",
+        "name": "万月堂 鍛冶屋町店",
+        "address": "",
+        "reason": "次世代を担う若者の情熱と、伝統的な祭りの活気を感じられる",
+        "date": "2026-09-05",
+        "link": "https://news.yahoo.co.jp/articles/3b36ba792b1bda15e24387c8cd5c2bbe758df457?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260905-22922163-nbcv-000-1-thumb.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.88173682,
+          32.74307262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "上って下って曲がって…夜の遊園地を自転車が駆け抜ける!　開園60周年「グリーンランド」　閉園後の活用モデルに　熊本(RKK熊本放送)",
+        "name": "グリーンランド 本社",
+        "address": "",
+        "reason": "夜の遊園地を自転車で駆け抜けるという非日常体験に魅力を感じるため",
+        "date": "2026-09-05",
+        "link": "https://news.yahoo.co.jp/articles/856b13102370cc5c03a2c14393eb1592bec74f34?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260905-22922682-rkkv-000-1-thumb.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.46637307,
+          32.99081043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "東中野・松本湯が「湯上がりビタミンC研究所」　エルリスとコラボ(みんなの経済新聞ネットワーク)",
         "name": "松本湯コインランドリー",
         "address": "",
