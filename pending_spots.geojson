@@ -6,6 +6,46 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "観光特急を「御朱印」に　近鉄「青の交響曲」運行開始10周年記念　吉野神宮で9月10日から頒布(奈良新聞デジタル)",
+        "name": "吉野神宮",
+        "address": "",
+        "reason": "限定御朱印と観光列車のコラボに魅力を感じて",
+        "date": "2026-09-09",
+        "link": "https://news.yahoo.co.jp/articles/a7c3ef35c3d1e8f1fe0921c527ca5371bb8f2e01?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260909-00000001-naranp-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8458871,
+          34.38489108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "シロテテナガザルの赤ちゃん誕生　親子で展示も開始　釧路市動物園での繁殖成功は初　北海道(STVニュース北海道)",
+        "name": "釧路市動物園協会（ＮＰＯ法人）",
+        "address": "",
+        "reason": "希少なシロテテナガザルの赤ちゃんの誕生と、親子展示が釧路市動物園で初めて行われたことから、来園意欲を掻き立てます。",
+        "date": "2026-09-09",
+        "link": "https://news.yahoo.co.jp/articles/802a64b9ea7f557cb7a9514e3e32a2b4b9a9889e?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260909-07853881-stv-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.236591944444,
+          43.081268888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "「DNA。遺伝子や」父の背中を追い最年少「根曳」に挑む高校3年生　福を届ける鍛冶屋町「宝船」【シリーズ 長崎くんち 諏訪の舞台へ(3)】(NBC長崎放送)",
         "name": "万月堂 鍛冶屋町店",
         "address": "",
