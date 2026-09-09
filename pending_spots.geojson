@@ -6,6 +6,66 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "ミルフィーユのよう　秋の田園地帯に現れた「しま模様」ある風景(信濃毎日新聞デジタル)",
+        "name": "小谷村役場",
+        "address": "",
+        "reason": "絵画のような美しい風景",
+        "date": "2026-09-10",
+        "link": "https://news.yahoo.co.jp/articles/f57a569f1fbbef59cd6c21417ca2acc227498e1d?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260910-00010000-shinmai-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.908405,
+          36.7790669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "日本の人工林学ぶ 奈良県宇陀市で台湾の高校生ら ゲームなどで木材の流通も体験(奈良新聞デジタル)",
+        "name": "宇陀市役所",
+        "address": "",
+        "reason": "異文化交流と自然体験の魅力",
+        "date": "2026-09-10",
+        "link": "https://news.yahoo.co.jp/articles/f1f2ed476cd5fd799291fe1e50904a4e934ca00b?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260910-00000002-naranp-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.9522694,
+          34.528029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "愛知・豊橋市の資料館で「菊の節句」の様子を再現　不老長寿を願う「菊の着せ綿」やひな人形を再び飾る「後の雛」など展示　9月9日は「重陽の節句」　(CBCテレビ)",
+        "name": "豊橋市役所　二川宿本陣資料館・商家・駒屋",
+        "address": "",
+        "reason": "伝統行事と季節感あふれる展示で魅力的な体験を提供",
+        "date": "2026-09-10",
+        "link": "https://news.yahoo.co.jp/articles/334c7591825e9475d9a1ba340f49754367748efa?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260910-22933990-cbcv-000-1-thumb.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.453159166667,
+          34.72362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "観光特急を「御朱印」に　近鉄「青の交響曲」運行開始10周年記念　吉野神宮で9月10日から頒布(奈良新聞デジタル)",
         "name": "吉野神宮",
         "address": "",
