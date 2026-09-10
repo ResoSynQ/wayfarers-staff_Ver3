@@ -2461,7 +2461,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.kobelco.co.jp/releases/2025/1218451_18562.html",
-        "image_url": ""
+        "image_url": "https://www.kobelco.co.jp/app-files/img/symbol/ogp.webp"
       },
       "geometry": {
         "type": "Point",
@@ -2651,7 +2651,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.threads.com/@crew184_expo.epilogue.cafe",
-        "image_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/658898481_18070880096308952_7068635315121074024_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=b3fa00&_nc_ohc=-injprWvsp8Q7kNvwHLRBTk&_nc_oc=AdqHe5AlciRRXpgy9tK06SPcjAs3PgSN98AIgQGhKpLmAiLIg2VvtbOOlGFE-JCPDPE&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_gid=r4u45xq1S1DtXtHKmW48AQ&_nc_ss=7f20f&oh=00_AQKj3x93rbsTVEFlHHur1XBvqSZ0wIPgqhflWCY3IxbYqA&oe=6AA83309"
+        "image_url": "https://scontent-hkg1-1.cdninstagram.com/v/t51.82787-19/658898481_18070880096308952_7068635315121074024_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=b3fa00&_nc_ohc=-injprWvsp8Q7kNvwEMAAnr&_nc_oc=AdrTGkbCvtrJGzxEp2R3Z4Y_lN3KtOFJ75lBxIv2HIKdOkf5Iqy0IzmsJtT0Xp04zpw&_nc_zt=24&_nc_ht=scontent-hkg1-1.cdninstagram.com&_nc_gid=DLUDo4Jn6ggAF2ZpyM5cHA&_nc_ss=7f20f&oh=00_AQJvGLq3gSOMu-pJFuKbNPINOeKohcRMVTJBADMKIRyskA&oe=6AA8DBC9"
       },
       "geometry": {
         "type": "Point",
@@ -2683,32 +2683,13 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "EXPO2025オフィシャルポップアップストア 丸善仙台アエル店",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【EXPO2025オフィシャルポップアップストア 丸善仙台アエル店】</b><br>📅 期間: 2026/07/31 ～ 2026/09/02<br>📝 東北地方に再登場するEXPO2025オフィシャルポップアップストア。仙台アエル1階で公式ライセンス商品を販売し、ミャクミャクぬいぐるみくじ（ブラックVer.）も実施予定。万博の感動を東北でつなぐ公式グッズスポット。<br><br><a href='https://www.expo2025.or.jp/news/news-20260715-01/' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": true,
-        "isKomyaku": false,
-        "link": "https://www.expo2025.or.jp/news/news-20260715-01/",
-        "image_url": "https://www.expo2025.or.jp/wp/wp-content/uploads/22gazou1.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.8814516,
-          38.2628263
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "国連パビリオン展示パネル（国連本部）",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【国連パビリオン展示パネル（国連本部）】</b><br>📅 期間: 2026/07/08 ～ 常設<br>📝 大阪・関西万博の国連パビリオン展示に基づくパネルが、ニューヨークの国連本部ロビーに常設展示。気候変動など国境を越える課題に対応してきた国連の歩みや、日本が関わった多国間協力を紹介する国際的な万博レガシー。<br><br><a href='https://www.instagram.com/p/DalfgwECeqF/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DalfgwECeqF/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==",
-        "image_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-15/741671055_18599635276031936_3389225437979274047_n.jpg?stp=c460.0.1383.1382a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=62ynGt2Yn00Q7kNvwF77Xho&_nc_oc=AdqN6zZYLG7cg0iXawKtpoMQStiWt8qzdfLt6d58Ex0ArSep4RJkonM1Lu2-R-O3Ddc&_nc_zt=23&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_gid=XaSJe7--ddopG37MtllBQg&_nc_ss=7f60f&oh=00_AQIYmYPojVa5uVKAcL7vflIaPFMqUX1t_bopwzTVI5nmIQ&oe=6AA82FCD"
+        "image_url": "https://scontent-hkg4-1.cdninstagram.com/v/t51.82787-15/741671055_18599635276031936_3389225437979274047_n.jpg?stp=c460.0.1383.1382a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=62ynGt2Yn00Q7kNvwEC2d7c&_nc_oc=AdpDC509lfUrg7gC3-dMhIZnEaX2Hp0AWJL0U51yTA7WmGr0n6wF6-fwMyQdBqVGUMk&_nc_zt=23&_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_gid=F_dVCg6blJb5FOetC2eqBw&_nc_ss=7f60f&oh=00_AQJuVL-sHfbNEHepKFVF-b6ysU35o1Iqob5v3Th6YWeIwQ&oe=6AA8D88D"
       },
       "geometry": {
         "type": "Point",
@@ -2784,7 +2765,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DahWKivEoTO/",
-        "image_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-15/741068451_18336425095268595_8303109530742012563_n.jpg?stp=c595.0.1786.1786a_dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=NfRLgcv-qlkQ7kNvwHGTrXG&_nc_oc=AdpU419FCsxyduRZ37fuUxfSLRDF5UEc8t09NMAym0kSPpCfWsKAV0Fo6hTR0Jngong&_nc_zt=23&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_gid=0mNDZ92rtr3afYGCuKNG1A&_nc_ss=7f60f&oh=00_AQL0VjqmIkzmRu_W4pD1EihKLde0aJkvrrbw-uCXQdtNfw&oe=6AA835DA"
+        "image_url": "https://scontent-hkg1-1.cdninstagram.com/v/t51.82787-15/741068451_18336425095268595_8303109530742012563_n.jpg?stp=c595.0.1786.1786a_dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=NfRLgcv-qlkQ7kNvwEngXh7&_nc_oc=AdpHEHEGLfuipZNHJB81dOmFEMbK6_Y0zLeqnI6AZxY7zbYoE28Q1Ot_HxkfZqiyrx8&_nc_zt=23&_nc_ht=scontent-hkg1-1.cdninstagram.com&_nc_gid=fndlLJAT6ehoIDN5EJw0mw&_nc_ss=7f60f&oh=00_AQIjcCFBf5cYsIwM7Wv5VsdgPP3BXlUPWhR9uaH_uRfLCQ&oe=6AA8DE9A"
       },
       "geometry": {
         "type": "Point",
@@ -3392,7 +3373,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DbKK7NEGE7E/?img_index=1",
-        "image_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/753225335_18022982300902789_7585897524133363841_n.jpg?stp=c604.0.1815.1814a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=pGfMLiYTI8UQ7kNvwHOYh6c&_nc_oc=AdqarHAw5sCzo7ZMCsD_7nLtvU_61ErDB4zNbseq_MMNa9bW3hFoaOxxoKwEXqT0V3k&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=Hi64ji2JepmVAj977eNebA&_nc_ss=7f60f&oh=00_AQIn-Ql_lnAzdAamwY-B7R8ryFxdNC31yAw4zVKgKPxqxQ&oe=6AA8379F"
+        "image_url": "https://scontent-hkg1-2.cdninstagram.com/v/t51.82787-15/753225335_18022982300902789_7585897524133363841_n.jpg?stp=c604.0.1815.1814a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=pGfMLiYTI8UQ7kNvwEPVkN4&_nc_oc=AdqZRHXEuOIHGgmidhnwJHUBFzQc_gHvkbtdNzRX1o8c7htJG753T4sznkKFilzgVGk&_nc_zt=23&_nc_ht=scontent-hkg1-2.cdninstagram.com&_nc_gid=uq3hMtsOayeUupI6M2CAWw&_nc_ss=7f60f&oh=00_AQIenbM5DNWh9nTXgtmIPhfPssSAISQXg3VbRJmnJ98zFQ&oe=6AA8E05F"
       },
       "geometry": {
         "type": "Point",
@@ -3449,7 +3430,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DSEdd_lAVML/",
-        "image_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-15/597898317_17923907505186513_2290017976650464759_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=nLsRTKfRqHwQ7kNvwHdJZUU&_nc_oc=AdoHpeqAw6EXH0U654Egvjd1mBwatazfLtr9IURe3P-4_SHtEKf0SIPB0-c1wGBa8AI&_nc_zt=23&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_gid=nNfyR4iWyUf-Rgsx1eIUhQ&_nc_ss=7f60f&oh=00_AQJyFopDHRMaKyBO3PzRZzoUBmKBfKAj_yyx6G_OYDGPUg&oe=6AA84A32"
+        "image_url": "https://scontent-hkg4-2.cdninstagram.com/v/t51.82787-15/597898317_17923907505186513_2290017976650464759_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=4DVvdgs_HCUQ7kNvwEm9KNZ&_nc_oc=AdpSFlSXCPE1RyGfxf6wgHdotxhM2HLFPPPCiKz6YRbLgHHMiSOSbkeAG1aYKhH3q9w&_nc_zt=23&_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_gid=Nepy_HkvNLltnX5nQGkt6A&_nc_ss=7f60f&oh=00_AQLdsGKiuQ7EZI-rynP2Nt284SWJ0Vlqgx24KISB9QFRog&oe=6AA8F2F2"
       },
       "geometry": {
         "type": "Point",
@@ -3595,25 +3576,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "OSAKA FUNtast!c SPORTS PROJECT キックオフイベント（時空の広場）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【OSAKA FUNtast!c SPORTS PROJECT キックオフイベント（時空の広場）】</b><br>📅 期間: 2026/09/02 ～ 2026/09/02<br>📝 JR大阪駅・大阪ステーションシティ5階「時空の広場」で開催されるスポーツイベントのキックオフ企画。ラグビー選手と大阪府知事によるクロストーク、ミャクミャクによる事業PR、フォトセッションを実施。ミャクミャクは本編のほか14時30分頃・18時45分頃にもステージ登場予定で、自由観覧・自由撮影で楽しめる。<br><br><a href='https://www.pref.osaka.lg.jp/hodo/fumin/o070110/prs_51188.html' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://www.pref.osaka.lg.jp/hodo/fumin/o070110/prs_51188.html",
-        "image_url": "https://www.pref.osaka.lg.jp/shared/images/sns/logo.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.4959341,
-          34.70249444
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "EXPO2025オフィシャルポップアップストア JR新大阪駅新幹線ホーム店（再営業）",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【EXPO2025オフィシャルポップアップストア JR新大阪駅新幹線ホーム店（再営業）】</b><br>📅 期間: 2026/09/01 ～ 2027/04/04<br>📝 JR新大阪駅23・24番線ホーム7号車付近で、EXPO2025オフィシャルポップアップストアが再び営業。公式ライセンス商品を販売し、2027年4月4日までの長期展開予定。来店にはJR東海新大阪駅の入場券または有効な乗車券類が必要。<br><br><a href='https://myakumyakuhouse.jp/topics/detail/447/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
@@ -3728,63 +3690,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "ミャクミャクモニュメント「いらっしゃい」除幕式（阪神福駅前）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ミャクミャクモニュメント「いらっしゃい」除幕式（阪神福駅前）】</b><br>📅 期間: 2026/09/04 ～ 2026/09/04<br>📝 大阪・関西万博のレガシーを継承するミャクミャクモニュメント「いらっしゃい」が、第二期展示として阪神なんば線・福駅前に登場。2026年9月4日に除幕式を開催し、11月30日まで設置予定。モニュメントを起点に、健康・多文化・食に関連したイベントや西淀川区内の回遊・にぎわい創出をめざす。<br><br><a href='https://www.city.osaka.lg.jp/hodoshiryo/nishiyodogawa/0000685374.html' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://www.city.osaka.lg.jp/hodoshiryo/nishiyodogawa/0000685374.html",
-        "image_url": "https://www.city.osaka.lg.jp/main/css/img/ogp_image.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.4425545,
-          34.69985961
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "ミャクミャク グリーティング in いのちの未来＋（MoN Takanawa）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ミャクミャク グリーティング in いのちの未来＋（MoN Takanawa）】</b><br>📅 期間: 2026/09/05 ～ 2026/09/06<br>📝 東京・高輪の「いのちの未来＋」会場にミャクミャクが登場。2026年9月5日・6日に各日2回、1階パークテラスで個別記念撮影付きグリーティングを実施する。参加には9月5日以降の「いのちの未来＋」チケットと事前抽選への申込みが必要で、当選者のみ参加可能。<br><br><a href='https://expo-compass.jp/myakumyaku-greeting-inochinomirai-plus-0905/' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://expo-compass.jp/myakumyaku-greeting-inochinomirai-plus-0905/",
-        "image_url": "https://expo-compass.jp/wp/wp-content/uploads/2026/08/img-20260828-070715-1nUgmG-ogp.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.7418178,
-          35.6396988
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "大阪・関西万博 全パビリオンデータベース 増補改訂版 頒布（こみっくトレジャー48）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【大阪・関西万博 全パビリオンデータベース 増補改訂版 頒布（こみっくトレジャー48）】</b><br>📅 期間: 2026/09/06 ～ 2026/09/06<br>📝 インテックス大阪で開催される「こみっくトレジャー48」で、万博内のパビリオン・展示・出来事をまとめた同人誌「大阪・関西万博 全パビリオンデータベース」増補改訂版を頒布。360ページ以上、使用画像4000枚以上の大ボリュームで、配置は4号館D57ab「路辺閑話」。売り切れの場合あり。<br><br><a href='https://www.aoboo.jp/event/item/p0071.html' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://www.aoboo.jp/event/item/p0071.html",
-        "image_url": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.421809,
-          34.637622
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "People 14.（用賀駅前／GMOインターネットTOWER）",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【People 14.（用賀駅前／GMOインターネットTOWER）】</b><br>📅 期間: 常設 / 時期----<br>📝 大阪・関西万博でオーストリアパビリオン隣に展示されていた、ジュリアン・オピー作「People 14.」が東京・用賀駅前のGMOインターネットTOWER付近へ移設。行き交う人々をミニマルな表現で描く両面LED作品で、都市の風景と通行人を作品の一部のように映し出す。<br><br><a href='https://at-art.jp/japan/tokyo/setagaya-tokyo/julianopie-people14/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
@@ -3836,63 +3741,6 @@
         "coordinates": [
           135.4966277,
           34.531458
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "アフター万博 WORLD hands（なんばマルイ3階）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【アフター万博 WORLD hands（なんばマルイ3階）】</b><br>📅 期間: 2026/08/20 ～ 2026/09/10<br>📝 なんばマルイ3階イベントスペースで開催されるアフター万博企画。世界18か国のフード・民芸品・ハンドメイド作品が集まり、一点ものの雑貨や工芸品、日替わりワークショップ、フォトスポットなどを通して、万博で生まれた世界とのつながりを再び楽しめる。<br><br><a href='https://www.instagram.com/after.expo.event/' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://www.instagram.com/after.expo.event/",
-        "image_url": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.50106,
-          34.66557
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "ヒューマノイド駅員 実証実験（Metro Opus 梅田店）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ヒューマノイド駅員 実証実験（Metro Opus 梅田店）】</b><br>📅 期間: 2026/08/31 ～ 2026/09/06<br>📝 2025年大阪・関西万博「いのちの未来」プロデューサー・石黒浩氏がデザインしたヒューマノイドを基に機能を刷新した「ヒューマノイド駅員」が梅田駅に登場。Geminiを搭載し、駅構内・乗換ルート・周辺観光情報などを多言語で案内する接客実証を行う。<br><br><a href='https://subway.osakametro.co.jp/news/news_release/20260828_humanoid_jikken.php' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://subway.osakametro.co.jp/news/news_release/20260828_humanoid_jikken.php",
-        "image_url": "https://www.osakametro.co.jp/common_all/img/og_image.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.4977818,
-          34.7030458
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "第7回コモンズフェス（イズミヤショッピングセンター福町）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【第7回コモンズフェス（イズミヤショッピングセンター福町）】</b><br>📅 期間: 2026/09/04 ～ 2026/09/06<br>📝 大阪・関西万博のコモンズ館をきっかけに続く国際交流を楽しむ「第7回コモンズフェス」を福町で開催。告知ではフィリピンパビリオン関連の出店、ウガンダコーヒー、エジプト料理など、万博で出会った国や文化を再び楽しめる内容が予定されている。<br><br><a href='https://x.com/yYNNHVYaO4NuewD/status/2094018821132833279' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://x.com/yYNNHVYaO4NuewD/status/2094018821132833279",
-        "image_url": "https://pbs.twimg.com/profile_images/1843918062078316544/ebPk0TCt_400x400.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.44391,
-          34.69996
         ]
       }
     },
@@ -4273,6 +4121,44 @@
         "coordinates": [
           135.4449413,
           34.70838989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）オクトーバーフェスト2026 in 芝公園 ～Autumn～（サーキュラーグッズ販売）",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【オクトーバーフェスト2026 in 芝公園 ～Autumn～（サーキュラーグッズ販売）】</b><br>📅 期間: 2026/09/11 ～ 2026/09/23<br>📝 東京・都立芝公園4号地で開催されるオクトーバーフェストに、大阪・関西万博ドイツパビリオン公式マスコット「サーキュラー」のグッズが登場。ぬいぐるみなどの通常商品に加え、オクトーバーフェストコレクションの新商品も展開予定。<br><br><a href='https://prtimes.jp/main/html/rd/p/000000401.000049635.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://prtimes.jp/main/html/rd/p/000000401.000049635.html",
+        "image_url": "https://prcdn.freetls.fastly.net/release_image/49635/401/49635-401-f567ac15c52f241ee372a1c8b7947c1b-1600x1132.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7483924,
+          35.65618328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）おおさか都市緑化フェア2026（大泉緑地）",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【おおさか都市緑化フェア2026（大泉緑地）】</b><br>📅 期間: 2026/10/10 ～ 2026/10/10<br>📝 大泉緑地中央花壇周辺で開催される都市緑化フェア。花とみどりのまちづくりをテーマに、ワークショップや展示・物販を実施し、GREEN×EXPO 2027のPRも展開する。入場無料、事前申込不要、一部プログラムは材料費等が必要。<br><br><a href='https://www.pref.osaka.lg.jp/o130140/toshiryokukafea/toshiryokukafea2026.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.pref.osaka.lg.jp/o130140/toshiryokukafea/toshiryokukafea2026.html",
+        "image_url": "https://www.pref.osaka.lg.jp/shared/images/sns/logo.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5274956,
+          34.56516343
         ]
       }
     }

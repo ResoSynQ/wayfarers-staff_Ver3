@@ -6,6 +6,66 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "縁もゆかりもない学生を高岡ファンに!学生団体「推しまち高岡」が3泊4日の体験活動で導き出した「関係人口」を増やす策(チューリップテレビ)",
+        "name": "高岡市役所",
+        "address": "",
+        "reason": "「推しまち高岡」の活動内容に興味を惹かれる",
+        "date": "2026-09-11",
+        "link": "https://news.yahoo.co.jp/articles/c1f8a244597ea222c28a8d673d8bb05ae7772536?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260911-22936683-tuliptv-000-1-thumb.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.0257276,
+          36.7540958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "ほら貝が列車出迎え祝福　近鉄観光特急「青の交響曲」10周年　奈良県の近鉄吉野駅でセレモニー(奈良新聞デジタル)",
+        "name": "吉野駅（近鉄）",
+        "address": "",
+        "reason": "青の交響曲10周年記念の珍しいセレモニーに魅力を感じるため",
+        "date": "2026-09-11",
+        "link": "https://news.yahoo.co.jp/articles/35f3bb06040eb0c17d965a7fd8cc332560df9538?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260911-00000001-naranp-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8535773,
+          34.3767028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "trend",
+        "trend_word": "朝倉未来 青木真也に159秒で勝利",
+        "name": "有明アリーナ",
+        "address": "",
+        "reason": "圧倒的な勝利で観客を熱狂させる",
+        "date": "2026-09-11",
+        "link": "https://news.yahoo.co.jp/pickup/6594901?source=rss",
+        "image_url": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/9/10/6351965d7471caf682cbd21ffb74e06f1813bfd49a0fb79d12494c32a1228e70.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7941902,
+          35.6435395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "ミルフィーユのよう　秋の田園地帯に現れた「しま模様」ある風景(信濃毎日新聞デジタル)",
         "name": "小谷村役場",
         "address": "",
