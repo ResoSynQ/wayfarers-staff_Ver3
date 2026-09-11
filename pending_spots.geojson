@@ -6,6 +6,86 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "あこがれの標高2,450m「ホテル立山」【日本最高所のホテル】54年の歴史に幕　北アルプスの雲上オアシスに延べ169万人!涙と感謝、最後のチェックアウト(チューリップテレビ)",
+        "name": "ホテル立山",
+        "address": "",
+        "reason": "憧れの雲上ホテル、名残惜しい最後の姿に",
+        "date": "2026-09-12",
+        "link": "https://news.yahoo.co.jp/articles/09b33d338df25022b08d743a1ef451a8ccfa71ac?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.59518438,
+          36.57742844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "飯田下伊那で日本の多様性学ぶ  法政大学  留学生が研究成果を報告【長野県】(南信州新聞)",
+        "name": "下伊那郡町村会",
+        "address": "",
+        "reason": "留学生の研究を通して、日本の多様性に触れるというユニークな体験ができるため",
+        "date": "2026-09-12",
+        "link": "https://news.yahoo.co.jp/articles/69335e07554e39df2cd7a08f9406a9a3ab8f8021?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260912-00010000-mssnw-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.829517777778,
+          35.513730833333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "伝統400年の「西原大綱引き」　響くドラとかねに旗頭舞う　住民ら600人が参加　沖縄・浦添市(沖縄タイムス)",
+        "name": "浦添市役所",
+        "address": "",
+        "reason": "伝統的な祭りに参加できる",
+        "date": "2026-09-12",
+        "link": "https://news.yahoo.co.jp/articles/926e3c67ad3d508ee457b2611fd01e4112c14f32?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260912-01921512-okinawat-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.7217984,
+          26.2458157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "愛知県と長野県にまたがる茶臼山高原で “ラッパ形の花” が開花　見頃は今月中旬に(信濃毎日新聞デジタル)",
+        "name": "愛知県畜産総合センター茶臼山高原牧場",
+        "address": "",
+        "reason": "春の訪れを告げる珍しい花に魅力を感じさせるため",
+        "date": "2026-09-12",
+        "link": "https://news.yahoo.co.jp/articles/bc01c5759ee27ff926afe255c3fdda55003e8d17?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260912-00010000-shinmai-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.661671,
+          35.2246229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "縁もゆかりもない学生を高岡ファンに!学生団体「推しまち高岡」が3泊4日の体験活動で導き出した「関係人口」を増やす策(チューリップテレビ)",
         "name": "高岡市役所",
         "address": "",
