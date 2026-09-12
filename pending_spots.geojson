@@ -6,6 +6,26 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "温田駅への感謝込め  駅前古書店で鉄道グッズ展  金田さん【長野県泰阜村】(南信州新聞)",
+        "name": "温田駅（JR）",
+        "address": "",
+        "reason": "鉄道ファンならずとも、地域への感謝と温かい心を感じられるイベント。",
+        "date": "2026-09-13",
+        "link": "https://news.yahoo.co.jp/articles/f863f7ddc7fe95e666a9eb35ee11d322aebcdfae?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260913-00010000-mssnw-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.8414941,
+          35.336686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "あこがれの標高2,450m「ホテル立山」【日本最高所のホテル】54年の歴史に幕　北アルプスの雲上オアシスに延べ169万人!涙と感謝、最後のチェックアウト(チューリップテレビ)",
         "name": "ホテル立山",
         "address": "",
