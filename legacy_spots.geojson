@@ -1733,8 +1733,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "（予定）ＫＩＴＴＥ名古屋1階 アトリウム　大阪・関西万博の1周年メモリアルイベントTour「EXPO2025 Futures Tour」の開催が決定しました！",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【ＫＩＴＴＥ名古屋1階 アトリウム　大阪・関西万博の1周年メモリアルイベントTour「EXPO2025 Futures Tour」の開催が決定しました！】</b><br>📅 期間: 2026/09/12 ～ 2026/09/13<br>📝 万博で生まれた感動や未来へのワクワクを、閉幕後も全国各地へつないでいくアフター万博イベントです。大阪・関西万博に行った人も、行けなかった人も、各地で“もう一度万博”を感じられる機会になりそうです。<br><br><a href='https://www.expo2025.or.jp/news/news-20260619-03/' target='_blank'>🔗 詳細を開く</a>",
+        "name": "ＫＩＴＴＥ名古屋1階 アトリウム　大阪・関西万博の1周年メモリアルイベントTour「EXPO2025 Futures Tour」の開催が決定しました！",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ＫＩＴＴＥ名古屋1階 アトリウム　大阪・関西万博の1周年メモリアルイベントTour「EXPO2025 Futures Tour」の開催が決定しました！】</b><br>📅 期間: 2026/09/12 ～ 2026/09/13<br>📝 万博で生まれた感動や未来へのワクワクを、閉幕後も全国各地へつないでいくアフター万博イベントです。大阪・関西万博に行った人も、行けなかった人も、各地で“もう一度万博”を感じられる機会になりそうです。<br><br><a href='https://www.expo2025.or.jp/news/news-20260619-03/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false,
         "isKomyaku": false,
@@ -2056,8 +2056,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "（予定）EXPO2025オフィシャルポップアップストア JPタワー名古屋店",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【EXPO2025オフィシャルポップアップストア JPタワー名古屋店】</b><br>📅 期間: 2026/09/12 ～ 2026/09/13<br>📝 EXPO2025 Futures Tour名古屋会場にあわせて、JPタワー名古屋・KITTE名古屋エリアで展開されるオフィシャルポップアップストア。東海エリアで万博公式グッズを手に取れる期間限定レガシースポット。<br><br><a href='https://expo2025mlo.jp/wp-content/themes/expo-2025/assets/file/officialstore_list.pdf' target='_blank'>🔗 詳細を開く</a>",
+        "name": "EXPO2025オフィシャルポップアップストア JPタワー名古屋店",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【EXPO2025オフィシャルポップアップストア JPタワー名古屋店】</b><br>📅 期間: 2026/09/12 ～ 2026/09/13<br>📝 EXPO2025 Futures Tour名古屋会場にあわせて、JPタワー名古屋・KITTE名古屋エリアで展開されるオフィシャルポップアップストア。東海エリアで万博公式グッズを手に取れる期間限定レガシースポット。<br><br><a href='https://expo2025mlo.jp/wp-content/themes/expo-2025/assets/file/officialstore_list.pdf' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": true,
         "isKomyaku": false,
@@ -2404,7 +2404,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.kobelco.co.jp/notices/2025/1218600_18560.html",
-        "image_url": "https://www.kobelco.co.jp/app-files/img/symbol/ogp.webp"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -2651,7 +2651,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.threads.com/@crew184_expo.epilogue.cafe",
-        "image_url": "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-19/658898481_18070880096308952_7068635315121074024_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=b3fa00&_nc_ohc=BYdW2hCDLykQ7kNvwFRw2S7&_nc_oc=AdoAUgRpyOj2uGxc-O2yQuJi8ccrDyCdB4lOhjsOWP7-01crMjwoq7yBAnIi0GhSI3I&_nc_zt=24&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_gid=FvcFH4M-yn2FZWckcWVy1g&_nc_ss=7f20f&oh=00_AQKX58xtkjnhIQDeJ7e0rdsIlfO69k77aMlRrBOM5CUs6A&oe=6AAA2D49"
+        "image_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-19/658898481_18070880096308952_7068635315121074024_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=b3fa00&_nc_ohc=BYdW2hCDLykQ7kNvwFvwmUD&_nc_oc=AdppEW3s4o9VOczSmquq-wgN4wACMghuS3WOa4B3kXGPKNBvxQpIVQYl1DZdaVH5gRY&_nc_zt=24&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_gid=biH9hPS-dndrKargP9Jc3w&_nc_ss=7f20f&oh=00_AQJdBVBPtJsRST12ITj1jjhbDlUxpOYCZW0x33znMc83MA&oe=6AAA6589"
       },
       "geometry": {
         "type": "Point",
@@ -2689,7 +2689,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DalfgwECeqF/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==",
-        "image_url": "https://scontent-atl3-1.cdninstagram.com/v/t51.82787-15/741671055_18599635276031936_3389225437979274047_n.jpg?stp=c460.0.1383.1382a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=zgTXO56ypzUQ7kNvwF8Nu8Q&_nc_oc=AdobQiDQGqh4nLy9uIQndQKhibpZM7knBg64gi9gCa4f8CrKb96j7hj_pDSGQUprvX8&_nc_zt=23&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=g0FrM2FcohGA8zRHnFZbjA&_nc_ss=7f60f&oh=00_AQImoHtGddnV6Cllym02pj3a1JzB0SKiqlG1gkNFd7gmFw&oe=6AAA2A0D"
+        "image_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-15/741671055_18599635276031936_3389225437979274047_n.jpg?stp=c460.0.1383.1382a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=zgTXO56ypzUQ7kNvwHRviNc&_nc_oc=AdpyDAeViQn5qmuRRRww51JJwppCLKUY0IrocOyfDJwNxRQMh6f8adR0tymTBYgavnA&_nc_zt=23&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_gid=KvL8ahwZegPC2ZMDTAG9KA&_nc_ss=7f60f&oh=00_AQKpge7ZT_QjXYj1I_T-MLbSxB29lmtwheTrOGNWy45utw&oe=6AAA624D"
       },
       "geometry": {
         "type": "Point",
@@ -2765,7 +2765,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DahWKivEoTO/",
-        "image_url": "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/741068451_18336425095268595_8303109530742012563_n.jpg?stp=c595.0.1786.1786a_dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=NfRLgcv-qlkQ7kNvwFqpK4U&_nc_oc=Adr2aTSuUnjb3RlgSErgVneE6KVs5nex7KqJUImVFGhZ8CbipIYOVEMB_YBOq6WDRO8&_nc_zt=23&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_gid=7nY9a5rYsYNtDBwczZJNrw&_nc_ss=7f60f&oh=00_AQKydfONlejNc4RRBY_pLUmw9e7df6ECoi6tpFVn0VRw2g&oe=6AAA301A"
+        "image_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-15/741068451_18336425095268595_8303109530742012563_n.jpg?stp=c595.0.1786.1786a_dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=NfRLgcv-qlkQ7kNvwGob8FD&_nc_oc=AdpuwNhGi7HJZJyBmdXJHR99IHkH1Lwo063ivNHYL_d7UafeXq_gJ54bmD0F7C383ME&_nc_zt=23&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_gid=kLNsqmCufz84v6Ye70H5oQ&_nc_ss=7f60f&oh=00_AQKT_Vs9j7K5p2CujrznNfF89ATl-2FFEwvHD_H3DjgoHA&oe=6AAA685A"
       },
       "geometry": {
         "type": "Point",
@@ -3373,7 +3373,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DbKK7NEGE7E/?img_index=1",
-        "image_url": "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/753225335_18022982300902789_7585897524133363841_n.jpg?stp=c604.0.1815.1814a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=pGfMLiYTI8UQ7kNvwFk9V93&_nc_oc=Adrs3qcfqUBLHdxPFbrnqMyGfiOScifEQ_-il9ATgxQtLVoQuVk0GTE68SqKMxbONvE&_nc_zt=23&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_gid=MJ8m2dX0rnR6VHBhxFWpGw&_nc_ss=7f60f&oh=00_AQL1mOJNdfyjR5_HMd8Is140GkI3EFDM6GMkgHmYZlhlQQ&oe=6AAA31DF"
+        "image_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-15/753225335_18022982300902789_7585897524133363841_n.jpg?stp=c604.0.1815.1814a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=pGfMLiYTI8UQ7kNvwHpcdmE&_nc_oc=Adoi7Vxx3bU1r12TPijlZGQGQwkubaiuVceGv-Qae5o-OlLByBq4X4_FpSxlG0wcsyY&_nc_zt=23&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_gid=U1w_40-nE6FygWtr_aVQeQ&_nc_ss=7f60f&oh=00_AQIrnNj4sekgEkmN6kPq8YqtfqYMRfp2saYveRmQGNF50w&oe=6AAA6A1F"
       },
       "geometry": {
         "type": "Point",
@@ -3430,7 +3430,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DSEdd_lAVML/",
-        "image_url": "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/597898317_17923907505186513_2290017976650464759_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=4DVvdgs_HCUQ7kNvwGnLTGJ&_nc_oc=AdqbId0pEQgPSYfsV-s9HU5Hja7J_omu1gQGXCTS1GkE8YalAf994xtSsNpWGa-G4wk&_nc_zt=23&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_gid=G4HTzynp7a2MU9jSO9MuKw&_nc_ss=7f60f&oh=00_AQIRNEjtjNvFa2_9tbV6uPu0atkDH-DU2I_YmqrA25yn0A&oe=6AAA4472"
+        "image_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-15/597898317_17923907505186513_2290017976650464759_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=4DVvdgs_HCUQ7kNvwFpfPe3&_nc_oc=AdqKJsq4JungAvOm0jx950ZjjhW87a1uM76akpaiwSXJx-Wibc9ttVwcBhkj29HirG4&_nc_zt=23&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_gid=76fZZekU_kGm02XKLhfEow&_nc_ss=7f60f&oh=00_AQIqx1qB0TU5Z3lhpdKGz_2Bp167ISUafumIUYSjBRXyXA&oe=6AAA7CB2"
       },
       "geometry": {
         "type": "Point",
@@ -3766,8 +3766,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "（予定）関西はGREEN×EXPO 2027を応援するデー（花博記念公園鶴見緑地）",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【関西はGREEN×EXPO 2027を応援するデー（花博記念公園鶴見緑地）】</b><br>📅 期間: 2026/09/12 ～ 2026/09/13<br>📝 花博記念公園鶴見緑地で、万博の熱気をGREEN×EXPO 2027へつなぐ2日間を開催。応援ステージ、大阪・関西万博などの紹介、ワークショップ、万博グッズ交換会、万博出展国のグルメ、スタンプ＆クイズラリーなどを展開する。入場無料。<br><br><a href='https://wakuwakuexpo.jp/kotei1/' target='_blank'>🔗 詳細を開く</a>",
+        "name": "関西はGREEN×EXPO 2027を応援するデー（花博記念公園鶴見緑地）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【関西はGREEN×EXPO 2027を応援するデー（花博記念公園鶴見緑地）】</b><br>📅 期間: 2026/09/12 ～ 2026/09/13<br>📝 花博記念公園鶴見緑地で、万博の熱気をGREEN×EXPO 2027へつなぐ2日間を開催。応援ステージ、大阪・関西万博などの紹介、ワークショップ、万博グッズ交換会、万博出展国のグルメ、スタンプ＆クイズラリーなどを展開する。入場無料。<br><br><a href='https://wakuwakuexpo.jp/kotei1/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false,
         "isKomyaku": false,
@@ -3899,8 +3899,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "（予定）ミャクミャク＆ワニーサ フォトスポット（未来のためのお金の教室 in 大阪）",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【ミャクミャク＆ワニーサ フォトスポット（未来のためのお金の教室 in 大阪）】</b><br>📅 期間: 2026/09/12 ～ 2026/09/12<br>📝 ららぽーと門真で開催される金融経済教育イベントにミャクミャクが登場。11:00～11:20にワニーサとのフォトスポット撮影を実施し、当日9:00から1F北西エントランス外側で先着30名に整理券を配布する。イベント参加費は無料。<br><br><a href='https://wanisa-caravan.fsa.go.jp/event/osaka/' target='_blank'>🔗 詳細を開く</a>",
+        "name": "ミャクミャク＆ワニーサ フォトスポット（未来のためのお金の教室 in 大阪）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ミャクミャク＆ワニーサ フォトスポット（未来のためのお金の教室 in 大阪）】</b><br>📅 期間: 2026/09/12 ～ 2026/09/12<br>📝 ららぽーと門真で開催される金融経済教育イベントにミャクミャクが登場。11:00～11:20にワニーサとのフォトスポット撮影を実施し、当日9:00から1F北西エントランス外側で先着30名に整理券を配布する。イベント参加費は無料。<br><br><a href='https://wanisa-caravan.fsa.go.jp/event/osaka/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false,
         "isKomyaku": false,
