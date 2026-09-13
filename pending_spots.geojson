@@ -6,6 +6,26 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "小田原宿の風情堪能を　１０月に初の「東海道フェス」　まち歩き、落語、体験イベントめじろ押し(カナロコ by 神奈川新聞)",
+        "name": "小田原宿 なりわい交流館",
+        "address": "",
+        "reason": "歴史的な宿場町の魅力を満喫できるイベント",
+        "date": "2026-09-14",
+        "link": "https://news.yahoo.co.jp/articles/73a63544b511ac4f18d303fc7793ce84a342b57b?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260914-01304173-kana-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.15997581,
+          35.24827732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "温田駅への感謝込め  駅前古書店で鉄道グッズ展  金田さん【長野県泰阜村】(南信州新聞)",
         "name": "温田駅（JR）",
         "address": "",
