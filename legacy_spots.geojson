@@ -2056,25 +2056,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "EXPO2025オフィシャルポップアップストア JPタワー名古屋店",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【EXPO2025オフィシャルポップアップストア JPタワー名古屋店】</b><br>📅 期間: 2026/09/12 ～ 2026/09/13<br>📝 EXPO2025 Futures Tour名古屋会場にあわせて、JPタワー名古屋・KITTE名古屋エリアで展開されるオフィシャルポップアップストア。東海エリアで万博公式グッズを手に取れる期間限定レガシースポット。<br><br><a href='https://expo2025mlo.jp/wp-content/themes/expo-2025/assets/file/officialstore_list.pdf' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": true,
-        "isKomyaku": false,
-        "link": "https://expo2025mlo.jp/wp-content/themes/expo-2025/assets/file/officialstore_list.pdf",
-        "image_url": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          136.8821481,
-          35.17315232
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "（予定）EXPO2025オフィシャルポップアップストア 麻布台ヒルズ店",
         "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【EXPO2025オフィシャルポップアップストア 麻布台ヒルズ店】</b><br>📅 期間: 2026/10/10 ～ 2026/10/11<br>📝 EXPO2025 Futures Tour東京会場にあわせて、麻布台ヒルズで展開されるオフィシャルポップアップストア。全国ツアー終盤に首都圏で万博公式グッズを楽しめるスポット。<br><br><a href='https://expo2025mlo.jp/wp-content/themes/expo-2025/assets/file/officialstore_list.pdf' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
@@ -2651,7 +2632,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.threads.com/@crew184_expo.epilogue.cafe",
-        "image_url": "https://scontent-sin11-1.cdninstagram.com/v/t51.82787-19/658898481_18070880096308952_7068635315121074024_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=b3fa00&_nc_ohc=BYdW2hCDLykQ7kNvwHXwtG_&_nc_oc=Adrk2kqNrJqMnhwimn-xZE2Y--QJOR8VbFzKTcUTpQqsNr8vHstj4h67UcgBf8yOVXg&_nc_zt=24&_nc_ht=scontent-sin11-1.cdninstagram.com&_nc_gid=dDAjmWXX50e9onCSmxZswA&_nc_ss=7f20f&oh=00_AQIOY9YHe03HcabrfgeXN3WmI-7NLey68ctflNw2SI1I8g&oe=6AAD0889"
+        "image_url": "https://scontent-sin11-1.cdninstagram.com/v/t51.82787-19/658898481_18070880096308952_7068635315121074024_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=b3fa00&_nc_ohc=BYdW2hCDLykQ7kNvwFfU88d&_nc_oc=Adqsz-UxCogRiLfxaTllNviQWFBJJGVysdyTbmjeCSxkB6xOrbSWaWXP8lIwUgvW__g&_nc_zt=24&_nc_ht=scontent-sin11-1.cdninstagram.com&_nc_gid=RONd8vg9Zw3nPm0OfGcYCQ&_nc_ss=7f20f&oh=00_AQLRWw-8sToGvRXlCdwnoD8BXao9UTnKMEOyxTAxCyBkOw&oe=6AAD7909"
       },
       "geometry": {
         "type": "Point",
@@ -2689,7 +2670,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DalfgwECeqF/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==",
-        "image_url": "https://scontent-sin6-3.cdninstagram.com/v/t51.82787-15/741671055_18599635276031936_3389225437979274047_n.jpg?stp=c460.0.1383.1382a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=zgTXO56ypzUQ7kNvwExqLlt&_nc_oc=AdobENj6nHdmXhXa4uoz_1FmqIJhTuarsH1vuIkpnj7ICCaER1LTBrcR7hRw0FF02a4&_nc_zt=23&_nc_ht=scontent-sin6-3.cdninstagram.com&_nc_gid=vba9GVNacMKcJSM6SuvMdA&_nc_ss=7f60f&oh=00_AQJ7Zqx9Db40juc3zq38itJknMcNvlPagNUYl4xaH45OdA&oe=6AAD054D"
+        "image_url": "https://scontent-sin6-3.cdninstagram.com/v/t51.82787-15/741671055_18599635276031936_3389225437979274047_n.jpg?stp=c460.0.1383.1382a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=zgTXO56ypzUQ7kNvwFeNn2r&_nc_oc=AdptfdS8QbiWPKlCyFjbWdvnRx1Omn3E9lVl_wE7Z38Z51_0qZhHmhRJOot0xUBsaBE&_nc_zt=23&_nc_ht=scontent-sin6-3.cdninstagram.com&_nc_gid=jP5egwLivAG_OUfJYa5JQw&_nc_ss=7f60f&oh=00_AQJ-VQYkKoBCSEEgDYm90tmG6TWmv2P8hdE_wknBAq76dg&oe=6AAD75CD"
       },
       "geometry": {
         "type": "Point",
@@ -2765,7 +2746,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DahWKivEoTO/",
-        "image_url": "https://scontent-sin11-1.cdninstagram.com/v/t51.82787-15/741068451_18336425095268595_8303109530742012563_n.jpg?stp=c595.0.1786.1786a_dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=HCIhgaiyzasQ7kNvwGxSJFl&_nc_oc=Adq-9orcdksx7XoQHYb0kHCJX_tI5oKV40bhrlS0VBqtk1ZJQKwygnxv1zZd0eYc5kA&_nc_zt=23&_nc_ht=scontent-sin11-1.cdninstagram.com&_nc_gid=Xs5eSaOS-lgyx9i2B2_uaA&_nc_ss=7f60f&oh=00_AQLobDFqjxbz6x5vwqT5gtRHZ7f_YJNhd0v-CnUGhEi-KQ&oe=6AAD0B5A"
+        "image_url": "https://scontent-sin11-1.cdninstagram.com/v/t51.82787-15/741068451_18336425095268595_8303109530742012563_n.jpg?stp=c595.0.1786.1786a_dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=HCIhgaiyzasQ7kNvwFVuf34&_nc_oc=AdpRewIE2F-0wmoYgefUvhH3lzcbhGeUU3mWcHqaOGyiGWswvAt_Kbq7FVuQHizdLo4&_nc_zt=23&_nc_ht=scontent-sin11-1.cdninstagram.com&_nc_gid=E9KmnWnTOa57FNzQv96Hmg&_nc_ss=7f60f&oh=00_AQIGPZMD3-T67KHIEkZayqfc1jLUqlDaijxTf78GVi1iKA&oe=6AAD7BDA"
       },
       "geometry": {
         "type": "Point",
@@ -3373,7 +3354,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DbKK7NEGE7E/?img_index=1",
-        "image_url": "https://scontent-sin2-1.cdninstagram.com/v/t51.82787-15/753225335_18022982300902789_7585897524133363841_n.jpg?stp=c604.0.1815.1814a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=qGBxzRB7t8gQ7kNvwEDMKuQ&_nc_oc=AdrBNPemTBSYS0FfmVq5sAORU3LUXWB4kKYodnuCOB75w_7IuKAArA3lBeEbnkmBBfM&_nc_zt=23&_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_gid=mLwkRtd4beNAh8066oqs5g&_nc_ss=7f60f&oh=00_AQI150Xq3gY_-xAcZWMsh8OS7VNyglmONwHGJZEgPRXzKA&oe=6AAD0D1F"
+        "image_url": "https://scontent-sin2-1.cdninstagram.com/v/t51.82787-15/753225335_18022982300902789_7585897524133363841_n.jpg?stp=c604.0.1815.1814a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=qGBxzRB7t8gQ7kNvwFnX6J7&_nc_oc=AdrV43V8KOu9O-rJs9w2u5Uo39Y8zmBfysPkqx3FuRTC30VD-aNAh3eOtPIP38WaCLY&_nc_zt=23&_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_gid=-WkP-rGJcCGRSYffiUkoRw&_nc_ss=7f60f&oh=00_AQIRdSYa51yl2vd5n6QzJkmkEt9iQQ6RXjvFAUnf68ZWDg&oe=6AAD7D9F"
       },
       "geometry": {
         "type": "Point",
@@ -3430,7 +3411,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DSEdd_lAVML/",
-        "image_url": "https://scontent-sin6-1.cdninstagram.com/v/t51.82787-15/597898317_17923907505186513_2290017976650464759_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=j8qnIkFDzpQQ7kNvwGXi7jC&_nc_oc=AdpcNEMDoBIv6faDEUpo2Lo4qim4-tiHkybCaeMVtlsyMl5BsWgXvpTrEKz2NlgHMCM&_nc_zt=23&_nc_ht=scontent-sin6-1.cdninstagram.com&_nc_gid=X2VdptSuLjjaoRr5NMn4VA&_nc_ss=7f60f&oh=00_AQIngg3HtJnfHv9lGnP-Th6mK1A51eowj6Z8ESsltl-a6w&oe=6AAD1FB2"
+        "image_url": "https://scontent-sin6-1.cdninstagram.com/v/t51.82787-15/597898317_17923907505186513_2290017976650464759_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=j8qnIkFDzpQQ7kNvwFgcanZ&_nc_oc=AdpPDOHqkreTUW5gOOAffuBhXJEZYhhRCw--ufYpEySrSahrOrSJmpU53vKHirdbQYY&_nc_zt=23&_nc_ht=scontent-sin6-1.cdninstagram.com&_nc_gid=kzyg8B2-dATzraqjJonOnw&_nc_ss=7f60f&oh=00_AQKqY0UW5vrJYE5gKBbaLysemdXRGok_w958yYIlIajWSg&oe=6AAD9032"
       },
       "geometry": {
         "type": "Point",
@@ -3677,7 +3658,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://expo-compass.jp/inochino-shiten-photo-exhibition-0922/",
-        "image_url": ""
+        "image_url": "https://expo-compass.jp/wp/wp-content/uploads/2026/08/17846-ogp.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -3741,63 +3722,6 @@
         "coordinates": [
           135.4966277,
           34.531458
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "ヒューマノイド駅員 実証実験（Metro Opus 谷町九丁目east）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ヒューマノイド駅員 実証実験（Metro Opus 谷町九丁目east）】</b><br>📅 期間: 2026/09/09 ～ 2026/09/15<br>📝 2025年大阪・関西万博「いのちの未来」プロデューサー・石黒浩氏がデザインしたヒューマノイドを基に機能を刷新した「ヒューマノイド駅員」が谷町九丁目駅に登場。Geminiを搭載し、駅構内・乗換ルート・周辺観光情報などを多言語で案内する接客実証を行う。<br><br><a href='https://subway.osakametro.co.jp/news/news_release/20260828_humanoid_jikken.php' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://subway.osakametro.co.jp/news/news_release/20260828_humanoid_jikken.php",
-        "image_url": "https://www.osakametro.co.jp/common_all/img/og_image.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.5157548,
-          34.6666339
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "関西はGREEN×EXPO 2027を応援するデー（花博記念公園鶴見緑地）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【関西はGREEN×EXPO 2027を応援するデー（花博記念公園鶴見緑地）】</b><br>📅 期間: 2026/09/12 ～ 2026/09/13<br>📝 花博記念公園鶴見緑地で、万博の熱気をGREEN×EXPO 2027へつなぐ2日間を開催。応援ステージ、大阪・関西万博などの紹介、ワークショップ、万博グッズ交換会、万博出展国のグルメ、スタンプ＆クイズラリーなどを展開する。入場無料。<br><br><a href='https://wakuwakuexpo.jp/kotei1/' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://wakuwakuexpo.jp/kotei1/",
-        "image_url": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.5750219,
-          34.7098731
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "奥河内音絵巻2026 vol.12「戦うな！つまようじ」",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【奥河内音絵巻2026 vol.12「戦うな！つまようじ」】</b><br>📅 期間: 2026/09/13 ～ 2026/09/13<br>📝 大阪・関西万博のEXPOホール「シャインハット」で上演された「奥河内音絵巻2025『日月山水タイムマシン』」につながる最新作。サキタハヂメ氏が芸術監督・音楽・演出を務め、つまようじを持った男が壮大な音楽とともに“戦わない”コメディ音楽劇を展開する。<br><br><a href='https://lovelyhall.com/event/2026/260913_otoemaki/260913_index.html' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://lovelyhall.com/event/2026/260913_otoemaki/260913_index.html",
-        "image_url": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.566564,
-          34.452932
         ]
       }
     },
@@ -3893,44 +3817,6 @@
         "coordinates": [
           135.4107875,
           34.63807377
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "ミャクミャク＆ワニーサ フォトスポット（未来のためのお金の教室 in 大阪）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ミャクミャク＆ワニーサ フォトスポット（未来のためのお金の教室 in 大阪）】</b><br>📅 期間: 2026/09/12 ～ 2026/09/12<br>📝 ららぽーと門真で開催される金融経済教育イベントにミャクミャクが登場。11:00～11:20にワニーサとのフォトスポット撮影を実施し、当日9:00から1F北西エントランス外側で先着30名に整理券を配布する。イベント参加費は無料。<br><br><a href='https://wanisa-caravan.fsa.go.jp/event/osaka/' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://wanisa-caravan.fsa.go.jp/event/osaka/",
-        "image_url": "https://wanisa-caravan.fsa.go.jp/img/og.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.5849634,
-          34.73214881
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "（予定）1st Anniversary EXPO 2025 “EXPO Beat Jam”（USJ）",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【1st Anniversary EXPO 2025 “EXPO Beat Jam”（USJ）】</b><br>📅 期間: 2026/10/13 ～ 2026/10/13<br>📝 大阪・関西万博閉幕1周年を記念し、USJのグラマシーパークで開催。コブクロ、新しい学校のリーダーズ、SIS、フットボールアワー、パークの仲間たち、ミャクミャクらが出演。鑑賞自体は無料だが、イベント鑑賞エリア入場券付きスタジオ・パスが必要。一般販売は抽選3,150名、申込は9月13日まで。<br><br><a href='https://osaka-kitena.jp/event/expobeatjam/' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://osaka-kitena.jp/event/expobeatjam/",
-        "image_url": "https://osaka-kitena.jp/cms/wp-content/uploads/2026/08/ogp.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.4343947,
-          34.66462736
         ]
       }
     },
@@ -4089,25 +3975,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "食べるEARTH MART（麻布台ワクワク文化祭）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【食べるEARTH MART（麻布台ワクワク文化祭）】</b><br>📅 期間: 2026/09/11 ～ 2026/09/11<br>📝 麻布台ヒルズアリーナで、大阪・関西万博のシグネチャーパビリオン「EARTH MART」をテーマにしたフードエリアが1日限定で復活。EARTH MARTに着想を得た料理・スイーツ・飲み物などを楽しめる。入場無料、各ブース有料。<br><br><a href='https://orange-p.co.jp/20th-fes/' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://orange-p.co.jp/20th-fes/",
-        "image_url": "https://orange-p.co.jp/wp-content/uploads/2026/08/HP_news-01.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.7406442,
-          35.66145974
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "パキスタンパビリオン 岩塩オブジェ（HALAL MUGHAL 大和田店）",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【パキスタンパビリオン 岩塩オブジェ（HALAL MUGHAL 大和田店）】</b><br>📅 期間: 常設 / 時期----<br>📝 大阪・関西万博パキスタンパビリオン（コモンズD）から譲り受けたピンク色の岩塩オブジェを、HALAL MUGHAL 大和田店の入口に展示。万博で人気を集めたチキンビリヤニとあわせて、パキスタン館のレガシーを体感できる。<br><br><a href='https://www.tourist-guide.net/osaka/archives/10886?lang=j' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
@@ -4159,6 +4026,120 @@
         "coordinates": [
           135.5274956,
           34.56516343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "たこ焼きお助けトッピングロボット「くくる君」（阪神甲子園球場）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【たこ焼きお助けトッピングロボット「くくる君」（阪神甲子園球場）】</b><br>📅 期間: 2026/03/06 ～ 常設<br>📝 大阪・関西万博のサステナブルフードコート「大阪のれんめぐり～食と祭EXPO～」で活躍した未来型サポートロボット「くくる君」を、たこ家道頓堀くくる阪神甲子園球場店へ常設導入。内野2階・3塁側で、職人が焼いたたこ焼きにソースとマヨネーズを自動トッピングする。<br><br><a href='https://dotonbori-kukuru.com/news/622/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://dotonbori-kukuru.com/news/622/",
+        "image_url": "https://dotonbori-kukuru.com/wp-content/uploads/2026/03/IMG_2323.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.362302,
+          34.72209989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）パートナーフェスティバルGAMES（ミャクミャク×モリゾー・キッコロ公式グッズ）",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【パートナーフェスティバルGAMES（ミャクミャク×モリゾー・キッコロ公式グッズ）】</b><br>📅 期間: 2026/09/22 ～ 2026/09/23<br>📝 愛・地球博記念公園の地球市民交流センターで開催される「パートナーフェスティバルGAMES」。愛知万博ピンバッジ交換会のブースで、EXPO2025公式ライセンス商品のミャクミャク×モリゾー・キッコロコラボピンバッジやシールを販売。万博1周年記念の大屋根リング・ゴールド柄なども登場する。<br><br><a href='https://www.moricoro-chikyu.com/general-6' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.moricoro-chikyu.com/general-6",
+        "image_url": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.0881289,
+          35.17698301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）COMMONs2026「世界縁日」（大阪・中之島）",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【COMMONs2026「世界縁日」（大阪・中之島）】</b><br>📅 期間: 2026/10/12 ～ 2026/10/12<br>📝 大阪・関西万博閉幕1周年の10月12日に、大阪市中央公会堂など中之島エリアで開催する複合型文化祭典。藤本壮介氏の特別講義、大屋根リングのドキュメンタリー上映、「こみゃく」の思想を継ぐ新デザインシステムの公開、世界の食や音楽・アートが集まる縁日などを構想。入場無料予定。<br><br><a href='https://for-good.net/project/1004121' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://for-good.net/project/1004121",
+        "image_url": "https://d30k3r1k74jww1.cloudfront.net/eye_catching_image/9307.webp?20260814160516"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5038372,
+          34.69373372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）京都スマートシティエキスポ2026（けいはんなプラザ）",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【京都スマートシティエキスポ2026（けいはんなプラザ）】</b><br>📅 期間: 2026/10/08 ～ 2026/10/09<br>📝 けいはんなプラザで開催されるスマートシティの展示・講演・交流イベント。石黒浩氏と内田まほろ氏による特別セッションでは、MoN Takanawaで再演される大阪・関西万博シグネチャーパビリオン「いのちの未来」の裏側と、アンドロイドと共に生きる未来社会を語る。参加無料・要事前登録。<br><br><a href='https://smartcity.kyoto/expo2026/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://smartcity.kyoto/expo2026/",
+        "image_url": "/expo2026/assets/img/ogp.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7650656,
+          34.74550595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）みどりであそぶ！キャラクターとふれあいステージ（亀岡運動公園）",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【みどりであそぶ！キャラクターとふれあいステージ（亀岡運動公園）】</b><br>📅 期間: 2026/09/21 ～ 2026/09/21<br>📝 第43回全国都市緑化フェアin京都丹波の亀岡運動公園野外ステージにミャクミャクが登場。11:00のオープニング、13:00の○×クイズ、15:00のグリーティングに出演し、明智かめまる・さくらちゃん・京丹波味夢くんと共演する。<br><br><a href='https://kyototamba-fair.jp/event/208/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://kyototamba-fair.jp/event/208/",
+        "image_url": "/img/OGP.webp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5504865,
+          35.01272727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）SARAYA BLUE OCEAN CHALLENGE ― Redesign Plastics ―",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【SARAYA BLUE OCEAN CHALLENGE ― Redesign Plastics ―】</b><br>📅 期間: 2026/09/23 ～ 2026/09/29<br>📝 Osaka Metro本町ビル1Fで開催する海洋プラスチックをテーマとした展示・参加型イベント。大阪・関西万博「BLUE OCEAN DOME」で使用した映像を再上映し、海洋ごみや代替素材の展示、ワークショップ、トークイベントを実施。万博で人気だったラカント低糖質アイスも限定販売する。<br><br><a href='https://www.saraya.com/news/2026y/1402.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.saraya.com/news/2026y/1402.html",
+        "image_url": "https://www.saraya.com/archives/006/202609/e020124a871989c8.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5009851,
+          34.68303776
         ]
       }
     }
