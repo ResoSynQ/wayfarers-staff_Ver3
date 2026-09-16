@@ -6,6 +6,26 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "若きダンサー 千倉で熱戦　南房総市でダンスのバトルイベント　県内外の26組52人が火花（千葉県）(房日新聞)",
+        "name": "南房総市千倉図書館",
+        "address": "",
+        "reason": "若手ダンサーの熱いパフォーマンスに触れられるイベント",
+        "date": "2026-09-17",
+        "link": "https://news.yahoo.co.jp/articles/74415c7fad7351288f2ca156a68a46bb3cf82bf1?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260917-00010000-bonichi-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.95869816,
+          34.97586771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "小田原宿の風情堪能を　１０月に初の「東海道フェス」　まち歩き、落語、体験イベントめじろ押し(カナロコ by 神奈川新聞)",
         "name": "小田原宿 なりわい交流館",
         "address": "",
