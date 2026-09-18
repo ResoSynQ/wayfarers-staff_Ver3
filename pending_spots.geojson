@@ -6,6 +6,66 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "リンドウの生花を使ったドレスとは　市の特産品を使って地域を元気にする新たなブランディングに地域で挑戦【岡山】(RSK山陽放送)",
+        "name": "岡山県庁",
+        "address": "",
+        "reason": "ユニークな体験と地域活性化への貢献",
+        "date": "2026-09-19",
+        "link": "https://news.yahoo.co.jp/articles/ca398304310979eaab61d7aa766f825cb41b8437?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260919-22944726-rsk-000-1-thumb.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.9344056,
+          34.6617507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "長寿感じる名前「モモエ」夫は「トモカズ」 国内最高齢の長寿動物たちを飼う沖縄こどもの国(RBC琉球放送)",
+        "name": "ローソン沖縄こどもの国前店",
+        "address": "",
+        "reason": "長寿動物に会えるユニークな体験",
+        "date": "2026-09-19",
+        "link": "https://news.yahoo.co.jp/articles/89e70d0c481240710925522936a78c63a50c49b8?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260919-22949890-rbc-000-1-thumb.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.8001111,
+          26.3295492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "国内初確認か、雌雄型のハヤシノウマオイ展示　奈良県の橿原市昆虫館　10月12日まで(奈良新聞デジタル)",
+        "name": "橿原市立博物館・科学館橿原市昆虫館",
+        "address": "",
+        "reason": "珍しい昆虫の展示が魅力的",
+        "date": "2026-09-19",
+        "link": "https://news.yahoo.co.jp/articles/1e03593f86a122ee1c6dad6dc28fb78c4adbc96c?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260919-00000001-naranp-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.827061944444,
+          34.491328333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "若きダンサー 千倉で熱戦　南房総市でダンスのバトルイベント　県内外の26組52人が火花（千葉県）(房日新聞)",
         "name": "南房総市千倉図書館",
         "address": "",
