@@ -6,6 +6,66 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "英語と手話で出雲の魅力案内　タクシードライバーのベルシオさん　対話重ね、乗客との縁大切に　島根県(山陰中央新報)",
+        "name": "出雲市役所",
+        "address": "",
+        "reason": "多様な言語対応と人との繋がりが魅力",
+        "date": "2026-09-20",
+        "link": "https://news.yahoo.co.jp/articles/190eccbe5d321157d5ec2fa4641dfa951e627b0d?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260920-00000001-saninchuo-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.7546809,
+          35.3670344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "世界初！　ホウライザメの繁殖に成功　沖縄美ら海水族館で一般公開　本部町(沖縄タイムス)",
+        "name": "海洋博公園管理センター　沖縄美ら海水族館魚類課",
+        "address": "",
+        "reason": "世界初の繁殖成功という希少性と、沖縄の美しい自然という魅力",
+        "date": "2026-09-20",
+        "link": "https://news.yahoo.co.jp/articles/f0e00da9f13a6412fa314c2155628134af24256d?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260920-01927443-okinawat-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.876525555556,
+          26.693199722222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "園児と短大生が協力して「源助かぶ菜」種まき体験【長野県泰阜村】(南信州新聞)",
+        "name": "泰阜村役場",
+        "address": "",
+        "reason": "子供との触れ合いと特産品体験に魅力を感じる",
+        "date": "2026-09-20",
+        "link": "https://news.yahoo.co.jp/articles/8b30e3e0027c33abfed9fa5b6a14388b35283a72?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260920-00010000-mssnw-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.8460147,
+          35.3775226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "リンドウの生花を使ったドレスとは　市の特産品を使って地域を元気にする新たなブランディングに地域で挑戦【岡山】(RSK山陽放送)",
         "name": "岡山県庁",
         "address": "",
