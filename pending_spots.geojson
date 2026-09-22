@@ -6,6 +6,46 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "奈良県の藤原宮跡周辺でヒガンバナ開花　世界遺産に赤じゅうたん - きょう23日「秋分」(奈良新聞デジタル)",
+        "name": "藤原宮跡",
+        "address": "",
+        "reason": "秋分の日に世界遺産周辺で咲くヒガンバナの圧巻の景観",
+        "date": "2026-09-23",
+        "link": "https://news.yahoo.co.jp/articles/101ee1ce1811568acc5412077ba505ed74c5c984?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260923-00000001-naranp-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8073363,
+          34.5024341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "地域内外7組がパフォーマンス　10月11日にイオンタウン館山で音楽ライブ（千葉県）(房日新聞)",
+        "name": "イオンタウン館山",
+        "address": "",
+        "reason": "地域内外の7組が出演する音楽ライブに興味を引かれ、会場も明確で足を運びやすい。",
+        "date": "2026-09-23",
+        "link": "https://news.yahoo.co.jp/articles/9495aa0c4f22f304dd3ade0470e72c63867940fa?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260923-00010001-bonichi-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8620268,
+          35.0084951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "英語と手話で出雲の魅力案内　タクシードライバーのベルシオさん　対話重ね、乗客との縁大切に　島根県(山陰中央新報)",
         "name": "出雲市役所",
         "address": "",
