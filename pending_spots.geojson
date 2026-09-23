@@ -6,6 +6,26 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "中野マルイにスウェーデン発「ドロップコーヒーロースターズ」　日本初上陸(みんなの経済新聞ネットワーク)",
+        "name": "Seria中野マルイ店",
+        "address": "",
+        "reason": "日本初上陸の話題性",
+        "date": "2026-09-24",
+        "link": "https://news.yahoo.co.jp/articles/d166280992826efa501efad273a76da7623175bd?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260924-00000003-minkei-000-2-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6650881,
+          35.7047182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "奈良県の藤原宮跡周辺でヒガンバナ開花　世界遺産に赤じゅうたん - きょう23日「秋分」(奈良新聞デジタル)",
         "name": "藤原宮跡",
         "address": "",
