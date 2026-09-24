@@ -6,6 +6,46 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "【きょうオープン】大阪から1駅…約21年ぶりに「マクドナルド」が復活！限定アイテム＆無料券がゲットできる“お得イベント”も(Lmaga.jp)",
+        "name": "マクドナルド庄内店",
+        "address": "",
+        "reason": "約21年ぶりの復活と限定アイテム、無料券のお得イベントで興味を引く",
+        "date": "2026-09-25",
+        "link": "https://news.yahoo.co.jp/articles/2659e43d844cc75ccdf6b4630709c884e7776458?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260925-01102817-lmaga-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4753165,
+          34.7491467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "赤映える白じゅうたん　南砺（富山）でソバ満開(北日本新聞)",
+        "name": "南砺市役所",
+        "address": "",
+        "reason": "鮮やかなコントラストと季節感",
+        "date": "2026-09-25",
+        "link": "https://news.yahoo.co.jp/articles/b11f1106bd2fd00bb1fa87aa42a64b0ef9ad8d0a?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260925-00000002-kitanihon-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.8753213,
+          36.5573152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "中野マルイにスウェーデン発「ドロップコーヒーロースターズ」　日本初上陸(みんなの経済新聞ネットワーク)",
         "name": "Seria中野マルイ店",
         "address": "",
