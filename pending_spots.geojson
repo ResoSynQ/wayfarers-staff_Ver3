@@ -6,6 +6,86 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "人気「逃げ上手の若君」の漫画家、作品の舞台となっている諏訪市に登場「全ての歴史人物に敬意持っている」(信濃毎日新聞デジタル)",
+        "name": "諏訪市役所",
+        "address": "",
+        "reason": "人気漫画の作者が作品の舞台を訪れたことで、ファンが聖地巡礼をしたくなる",
+        "date": "2026-09-26",
+        "link": "https://news.yahoo.co.jp/articles/28a57444bd5412f84b422fa9ea502a50377525bf?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260926-00010000-shinmai-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.1141814,
+          36.0391411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "みやびやか管絃船　奈良の猿沢池で悲恋伝説にちなむ「采女祭」(奈良新聞デジタル)",
+        "name": "スターバックスコーヒー奈良猿沢池店",
+        "address": "",
+        "reason": "悲恋伝説と優雅な管絃船に惹かれる",
+        "date": "2026-09-26",
+        "link": "https://news.yahoo.co.jp/articles/a197b86616173a338fe76e7be22a6a4ef2b4f695?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260926-00000001-naranp-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8301784,
+          34.6817263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "【クラーク博士の孫の孫が来道し注目】創基150年の北海道大学が“新たな挑戦”に向け研究組織と連携協定を締結＿優れた技術を世界に発信へ…『少年よ大志を抱け』の高祖父との縁に『深い感慨』と期待感を語る(北海道ニュースUHB)",
+        "name": "北海道大学",
+        "address": "",
+        "reason": "歴史的偉人との繋がりと未来への挑戦に興味をそそられるため",
+        "date": "2026-09-26",
+        "link": "https://news.yahoo.co.jp/articles/9fc2bde269bb358a39afd7cf7b5cd449ac94fe02?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260926-90062384-hokkaibunv-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.340840833333,
+          43.090853611111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "【長崎くんち】元船町・唐船祭「親子で挑む静と動」10年ぶりの緩急ある豪快な船回し《長崎》(長崎国際テレビ)",
+        "name": "諏訪神社",
+        "address": "",
+        "reason": "10年ぶりの豪快な船回しと親子で挑む姿に魅力を感じる",
+        "date": "2026-09-26",
+        "link": "https://news.yahoo.co.jp/articles/5a2e150b327c3bb384adc2630d0c9127ac561d29?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260926-07597359-nib-000-1-thumb.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.88213355,
+          32.75442934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "【きょうオープン】大阪から1駅…約21年ぶりに「マクドナルド」が復活！限定アイテム＆無料券がゲットできる“お得イベント”も(Lmaga.jp)",
         "name": "マクドナルド庄内店",
         "address": "",
