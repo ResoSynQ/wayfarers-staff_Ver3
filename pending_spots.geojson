@@ -6,6 +6,26 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "【桜坂劇場・下地久美子の映画コレ見た？】『ナギダイアリー』孤独を和らげる「理解」(沖縄タイムス)",
+        "name": "桜坂劇場",
+        "address": "",
+        "reason": "映画の舞台となった場所への関心",
+        "date": "2026-09-27",
+        "link": "https://news.yahoo.co.jp/articles/11e6050afd8e32fde8ff2c1f84114839ebd4d127?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260927-01930500-okinawat-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.6901384,
+          26.2147706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "人気「逃げ上手の若君」の漫画家、作品の舞台となっている諏訪市に登場「全ての歴史人物に敬意持っている」(信濃毎日新聞デジタル)",
         "name": "諏訪市役所",
         "address": "",
