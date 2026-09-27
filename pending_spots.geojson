@@ -6,6 +6,66 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "北九州市でデフスポーツ体験会　憧れの日本代表と一緒に(FBS福岡放送)",
+        "name": "エホバの証人の福岡県北九州市戸畑牧山会衆",
+        "address": "",
+        "reason": "憧れの日本代表選手との交流体験",
+        "date": "2026-09-28",
+        "link": "https://news.yahoo.co.jp/articles/c778fb8a741acb155898db12b76ebdbbbf51b9b6?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260928-05789774-fbsnews-000-1-thumb.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.80786104,
+          33.89302927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "【累計37万個販売】パリッザクッ…「シュガーバターの木」”限定パイ”が大阪に、7日間限定で(Lmaga.jp)",
+        "name": "8TH SEA OYSTER Bar Market Kitchen 阪急うめだ本店",
+        "address": "",
+        "reason": "限定パイと人気ブランドの組み合わせに魅力を感じる",
+        "date": "2026-09-28",
+        "link": "https://news.yahoo.co.jp/articles/d552976208ca9f24f6efd3db39daffffe7261b07?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260928-01102741-lmaga-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.49860411,
+          34.70285546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "神戸ビーフのルーツ「世界の但馬牛まつり」BBQに舌鼓！ご当地アイドルや花嫁行列で魅力を発信(関西テレビ)",
+        "name": "JA-SS伊府SS",
+        "address": "",
+        "reason": "神戸ビーフのルーツである但馬牛を堪能できるイベントに魅力を感じ、訪れたくなる。",
+        "date": "2026-09-28",
+        "link": "https://news.yahoo.co.jp/articles/e989b8a718d4f08dbad8b9f712066e780f07775a?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260928-90029903-kantelev-000-1-thumb.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.7347416,
+          35.4607605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "【桜坂劇場・下地久美子の映画コレ見た？】『ナギダイアリー』孤独を和らげる「理解」(沖縄タイムス)",
         "name": "桜坂劇場",
         "address": "",
