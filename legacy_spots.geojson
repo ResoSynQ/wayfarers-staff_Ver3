@@ -1486,8 +1486,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "（予定）株式会社海洋堂　ミャクミャクのカプセルフィギュアにモノクロカラーが登場！",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【株式会社海洋堂　ミャクミャクのカプセルフィギュアにモノクロカラーが登場！】</b><br>📅 期間: 2026/10/01 ～ （予定）<br>📝 大阪・関西万博公式キャラクター「ミャクミャク」の手のひらサイズのカプセルフィギュアに、モノクロカラーが追加されて再登場するとのこと！価格は1回400円（税込）で、全12種。<br><br><a href='https://x.com/kaiyodo_PR/status/2062368756530348433' target='_blank'>🔗 詳細を開く</a>",
+        "name": "株式会社海洋堂　ミャクミャクのカプセルフィギュアにモノクロカラーが登場！",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【株式会社海洋堂　ミャクミャクのカプセルフィギュアにモノクロカラーが登場！】</b><br>📅 期間: 2026/10/01 ～ （予定）<br>📝 大阪・関西万博公式キャラクター「ミャクミャク」の手のひらサイズのカプセルフィギュアに、モノクロカラーが追加されて再登場するとのこと！価格は1回400円（税込）で、全12種。<br><br><a href='https://x.com/kaiyodo_PR/status/2062368756530348433' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": true,
         "isKomyaku": false,
@@ -1828,8 +1828,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "（予定）ミライ人間洗濯機が箕面へ",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【ミライ人間洗濯機が箕面へ】</b><br>📅 期間: 2026/10/01 ～ 常設<br>📝 大阪・関西万博で大きな話題となった「ミライ人間洗濯機」が、Premium 箕面観光ホテル・箕面温泉スパーガーデンに初導入🎉\n\n最先端技術と温浴が融合した新感覚の入浴体験を、貸切風呂（当日予約制・各日限定）で楽しめます♨️\n\n📅2026年10月1日(木)リニューアルオープン\n📅予約受付：2026年7月1日(水)開始\n📍Premium 箕面観光ホテル・箕面温泉スパーガーデン（大阪府箕面市）\n\n万博で生まれた未来のお風呂が、関西の温泉施設で新たなレガシーとして受け継がれます！<br><br><a href='https://prtimes.jp/main/html/rd/p/000000711.000018653.html' target='_blank'>🔗 詳細を開く</a>",
+        "name": "ミライ人間洗濯機が箕面へ",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ミライ人間洗濯機が箕面へ】</b><br>📅 期間: 2026/10/01 ～ 常設<br>📝 大阪・関西万博で大きな話題となった「ミライ人間洗濯機」が、Premium 箕面観光ホテル・箕面温泉スパーガーデンに初導入🎉\n\n最先端技術と温浴が融合した新感覚の入浴体験を、貸切風呂（当日予約制・各日限定）で楽しめます♨️\n\n📅2026年10月1日(木)リニューアルオープン\n📅予約受付：2026年7月1日(水)開始\n📍Premium 箕面観光ホテル・箕面温泉スパーガーデン（大阪府箕面市）\n\n万博で生まれた未来のお風呂が、関西の温泉施設で新たなレガシーとして受け継がれます！<br><br><a href='https://prtimes.jp/main/html/rd/p/000000711.000018653.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false,
         "isKomyaku": false,
@@ -1910,7 +1910,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.hishotelgroup.com/news/3265/",
-        "image_url": ""
+        "image_url": "https://www.hishotelgroup.com/img/common/ogp.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -1929,7 +1929,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.hishotelgroup.com/news/3265/",
-        "image_url": ""
+        "image_url": "https://www.hishotelgroup.com/img/common/ogp.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -1948,7 +1948,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.hishotelgroup.com/news/3265/",
-        "image_url": ""
+        "image_url": "https://www.hishotelgroup.com/img/common/ogp.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -1967,7 +1967,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://myakumyakuhouse.jp/greeting/detail/377/",
-        "image_url": ""
+        "image_url": "https://myakumyakuhouse.jp/assets/images/ogp.png"
       },
       "geometry": {
         "type": "Point",
@@ -2632,7 +2632,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.threads.com/@crew184_expo.epilogue.cafe",
-        "image_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/658898481_18070880096308952_7068635315121074024_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=b3fa00&_nc_ohc=qEFocPdjQJsQ7kNvwEqHKQ4&_nc_oc=AdoiIYW6QtNghZkXCt_bu9Bk9M8hSwOO_avwxO6Kro-4qGL8rwslazSapeU1zSNNgcE&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=YCA_h28_58X-EcCIAmpQgA&_nc_ss=7f20f&oh=00_AQO36WTi3MiRwBkbFtx0ggcnyqMz2K5kMHtSZGK2jHrDeg&oe=6AC37209"
+        "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/658898481_18070880096308952_7068635315121074024_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=b3fa00&_nc_ohc=qEFocPdjQJsQ7kNvwEG6WUw&_nc_oc=AdoT4iK9RLaU7P1s_8qaJOAlOJ-FO9eGooaEFBRJJoStvvM-4y0c3f-a-ujkuJEssvA&_nc_zt=24&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=37w7MmjwWGgrstFxVy7umA&_nc_ss=7f20f&oh=00_AQM8l9AT5yIXB0SMukHSWOnM9zRTxeG3z7V6a_6QMcyE1A&oe=6AC37209"
       },
       "geometry": {
         "type": "Point",
@@ -2670,7 +2670,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DalfgwECeqF/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==",
-        "image_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/741671055_18599635276031936_3389225437979274047_n.jpg?stp=c460.0.1383.1382a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=CassibXQQEQQ7kNvwHWGpIL&_nc_oc=AdrZ9tEDsAKP5s5E0FRGaeaYGjwn25Y0NIBYcmeqf3H71dsZgej9pujxMoHp_3JJps4&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=s12OXAKubsKHU-4xvj20EQ&_nc_ss=7f60f&oh=00_AQNzwqULjYwFu3MDEJQsoBWHK3CejKXgMbokrLNk8JTDyg&oe=6AC36ECD"
+        "image_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/741671055_18599635276031936_3389225437979274047_n.jpg?stp=c460.0.1383.1382a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=CassibXQQEQQ7kNvwFMoVll&_nc_oc=AdpwkVJGDdfWABuBMWu1Opha0dHVi9kPnDoJ1_lekcKlf4mGsK1cXfnR69oiTRir_yc&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=Uvq83AOd1BXT0FelEeXUeg&_nc_ss=7f60f&oh=00_AQOc0As3C9ma2_I8yUbSAojPudjbSv5ZvLw9obn3yMmljw&oe=6AC3A70D"
       },
       "geometry": {
         "type": "Point",
@@ -2746,7 +2746,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DahWKivEoTO/",
-        "image_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/741068451_18336425095268595_8303109530742012563_n.jpg?stp=c595.0.1786.1786a_dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=ee09E2dHJO0Q7kNvwFvM1Ef&_nc_oc=Adoo5oFLf1ziMtTyALzPHXzet_CsnQxvLN2yNXyR0gD1xj7d6Dtkk3TKPk5h1cJwaPY&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=1WJ-U59RwGMGJunVPBPDeA&_nc_ss=7f60f&oh=00_AQM7O6TXeJfmb88Ww7wOgsvJDe1EsOv2T8oN1fLUJBb7oA&oe=6AC374DA"
+        "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/741068451_18336425095268595_8303109530742012563_n.jpg?stp=c595.0.1786.1786a_dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=ee09E2dHJO0Q7kNvwHTTTR7&_nc_oc=AdryO14bFCFTB_XdTyooU4reuabvuDl87FgjsIcAov5B6AQZbl7nqk-AMyKDhfpyal8&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=DG2y7JLxLfAreHOlnyI61g&_nc_ss=7f60f&oh=00_AQM7ZUBZytHWzhjm62iV-zUaZFuEIleaM5TnJJKQraLfEw&oe=6AC374DA"
       },
       "geometry": {
         "type": "Point",
@@ -2860,7 +2860,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://syokujusai-ehime2026.jp/topics/2026/06/12/onodatesyokengaku/",
-        "image_url": ""
+        "image_url": "https://syokujusai-ehime2026.jp/topics/../image/common/ogp.png"
       },
       "geometry": {
         "type": "Point",
@@ -3354,7 +3354,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DbKK7NEGE7E/?img_index=1",
-        "image_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/753225335_18022982300902789_7585897524133363841_n.jpg?stp=c604.0.1815.1814a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=USfFVBkyEA0Q7kNvwEdZ_DD&_nc_oc=AdpSXRC8W58bYSdwSZeaKAdeLvk72PQH6uHp8IaouteCwA7g5Yp35daKxadzys7ivVI&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=s6fvjR5dTLWqfKAb52A3vA&_nc_ss=7f60f&oh=00_AQNycluiVC4puRtUja8mzpV56y4h66rrcYOrRtC10Qe8tg&oe=6AC3769F"
+        "image_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/753225335_18022982300902789_7585897524133363841_n.jpg?stp=c604.0.1815.1814a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=USfFVBkyEA0Q7kNvwGmRFoz&_nc_oc=Adrm3x9fBLzgyQ3NEIXgj-bHR_U4iAJWPAc9LvTejNDdE0hahQ-b9xuXy4eGZmcwpGw&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=fJHemvWk2qUI6xECmrav1A&_nc_ss=7f60f&oh=00_AQMAGJ3DA3xqcZVUaNSdDLGotkiEz0aX8g0EX-9SgrFOLg&oe=6AC3769F"
       },
       "geometry": {
         "type": "Point",
@@ -3411,7 +3411,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DSEdd_lAVML/",
-        "image_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/597898317_17923907505186513_2290017976650464759_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=UKcbKTcquUYQ7kNvwGPwBMW&_nc_oc=Adqe_nx5KlFF37yzau9VZzzZM9Fd6HsxviYnexkIVeWeN2h4lf8lw8LoBrwbpKwtjs0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=PZ5og_5N-0fRKkQvbtI6Dw&_nc_ss=7f60f&oh=00_AQNGP1ahYV5qX8p0uGv6VrcWrSlWqWeqeLq6XAJdEnGxjw&oe=6AC350F2"
+        "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/597898317_17923907505186513_2290017976650464759_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=UKcbKTcquUYQ7kNvwHDz2WF&_nc_oc=AdpB-u_OfCEwUuEalgmt4lTJNk_dr6QaVhgj4DkmkjPA1I7oSOEuGpymYAyh-kQE_mg&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=R9FtggAxIirWKoX0R6UKtw&_nc_ss=7f60f&oh=00_AQNdGL8jvzSnpMWj-LUIoQiw_v60JLAQKKDPPiLxFtrlYQ&oe=6AC38932"
       },
       "geometry": {
         "type": "Point",
@@ -3563,7 +3563,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://myakumyakuhouse.jp/topics/detail/447/",
-        "image_url": ""
+        "image_url": "https://myakumyakuhouse.jp/assets/images/ogp.png"
       },
       "geometry": {
         "type": "Point",
@@ -3582,7 +3582,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://myakumyakuhouse.jp/topics/detail/447/",
-        "image_url": ""
+        "image_url": "https://myakumyakuhouse.jp/assets/images/ogp.png"
       },
       "geometry": {
         "type": "Point",
@@ -3601,7 +3601,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://myakumyakuhouse.jp/topics/detail/447/",
-        "image_url": ""
+        "image_url": "https://myakumyakuhouse.jp/assets/images/ogp.png"
       },
       "geometry": {
         "type": "Point",
@@ -3620,7 +3620,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://myakumyakuhouse.jp/topics/detail/447/",
-        "image_url": ""
+        "image_url": "https://myakumyakuhouse.jp/assets/images/ogp.png"
       },
       "geometry": {
         "type": "Point",
@@ -3924,7 +3924,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://sports.pref.osaka.jp/ofsp/",
-        "image_url": ""
+        "image_url": "https://sports.pref.osaka.jp/ofsp/assets/img/common/img_og.png"
       },
       "geometry": {
         "type": "Point",
