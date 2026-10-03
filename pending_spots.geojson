@@ -6,6 +6,46 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "カエロカエロ　豊穣を神に感謝　奇祭「蛙踊り」奉納／兵庫・丹波篠山市(丹波新聞)",
+        "name": "丹波篠山市役所",
+        "address": "",
+        "reason": "ユニークで地域色豊かな「蛙踊り」という奇祭は、一度は見てみたいと思わせる魅力があるため。",
+        "date": "2026-10-04",
+        "link": "https://news.yahoo.co.jp/articles/d3d064ad59fab3a2fb6563c2ba088968f16dec49?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261004-00010001-tanba-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.2190508,
+          35.0756603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "【桜坂劇場・下地久美子の映画コレ見た？】『愛し合ってるかい？　忌野清志郎が教えてくれた』荒ぶる魂が歌う愛の歌(沖縄タイムス)",
+        "name": "桜坂劇場",
+        "address": "",
+        "reason": "映画への興味を掻き立てる魅力的な記事",
+        "date": "2026-10-04",
+        "link": "https://news.yahoo.co.jp/articles/76475943bd758aba4a2bbb190a02c58aedd1f4b3?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261004-01935967-okinawat-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.6901384,
+          26.2147706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "北九州市でデフスポーツ体験会　憧れの日本代表と一緒に(FBS福岡放送)",
         "name": "エホバの証人の福岡県北九州市戸畑牧山会衆",
         "address": "",
