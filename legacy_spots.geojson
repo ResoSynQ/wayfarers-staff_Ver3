@@ -219,7 +219,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.chion-in.or.jp/news/6406/",
-        "image_url": ""
+        "image_url": "https://www.chion-in.or.jp/img/og_img.jpg?1540975790"
       },
       "geometry": {
         "type": "Point",
@@ -428,7 +428,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.expo70-park.jp/facility/watchlearn/inochidama/",
-        "image_url": ""
+        "image_url": "https://www.expo70-park.jp/sys/wp-content/uploads/1c623daf87c5b4e145327b96ac296f03-640x480.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -656,7 +656,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://x.com/wkamigata/status/2047612623978643853?s=43&t=Spz9-6o9mDMe00Tl3EPxfg",
-        "image_url": ""
+        "image_url": "https://pbs.twimg.com/media/HGqU1B8bUAAHxJu?format=webp&name=large"
       },
       "geometry": {
         "type": "Point",
@@ -732,7 +732,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://panaf.jp/",
-        "image_url": ""
+        "image_url": "https://panaf-osaka.com/assets/img/ogp.png"
       },
       "geometry": {
         "type": "Point",
@@ -751,7 +751,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://kobe-journal.com/archives/7547745875.html",
-        "image_url": ""
+        "image_url": "https://i0.wp.com/kobe-journal.com/web/images/2026/04/ai20260421170405.jpg?fit=487%2C274&ssl=1"
       },
       "geometry": {
         "type": "Point",
@@ -770,7 +770,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://medicineinfra.com/site/expo2025/",
-        "image_url": ""
+        "image_url": "https://medicineinfra.com/wp-content/uploads/2025/03/ogp.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -789,7 +789,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://medicineinfra.com/site/expo2025/",
-        "image_url": ""
+        "image_url": "https://medicineinfra.com/wp-content/uploads/2025/03/ogp.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -1169,7 +1169,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/nauruya_higashiosaka/",
-        "image_url": ""
+        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
       },
       "geometry": {
         "type": "Point",
@@ -1226,7 +1226,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://osaka-shotengai-info.com/bampaku/tenyonkita/",
-        "image_url": ""
+        "image_url": "https://osaka-shotengai-info.com/wp-content/uploads/2026/02/DSC_0628.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -1245,7 +1245,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://osaka-shotengai-info.com/bampaku/tenyonkita/",
-        "image_url": ""
+        "image_url": "https://osaka-shotengai-info.com/wp-content/uploads/2026/02/DSC_0628.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -2024,7 +2024,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://banpakuhanabi.jp/",
-        "image_url": ""
+        "image_url": "https://banpakuhanabi.jp/wp-content/uploads/2026/07/ogp.png"
       },
       "geometry": {
         "type": "Point",
@@ -2043,7 +2043,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://banpakuhanabi.jp/",
-        "image_url": ""
+        "image_url": "https://banpakuhanabi.jp/wp-content/uploads/2026/07/ogp.png"
       },
       "geometry": {
         "type": "Point",
@@ -2214,7 +2214,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/salamcoffee_stand/",
-        "image_url": ""
+        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
       },
       "geometry": {
         "type": "Point",
@@ -2537,7 +2537,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://takasago-mania.com/town-smartpole-sone/",
-        "image_url": ""
+        "image_url": "https://takasago-mania.com/wp-content/uploads/2026/03/PXL_20260322_074736057.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -2556,7 +2556,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.expo70-park.jp/facility/watchlearn/rosegarden/",
-        "image_url": ""
+        "image_url": "https://www.expo70-park.jp/sys/wp-content/uploads/sns_190515_04-640x480.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -2632,7 +2632,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.threads.com/@crew184_expo.epilogue.cafe",
-        "image_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/658898481_18070880096308952_7068635315121074024_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=b3fa00&_nc_ohc=6p2fAAKovmwQ7kNvwH6Wtcc&_nc_oc=AdoA1LFaPZRqbK79MJOY4qfFYAQ0GbgBNikjN8sI--4TWCTlv3XfydarZD6wc9Avy9E&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=MxdKwlolZocEs9DYfV_l3g&_nc_ss=7f20f&oh=00_AQNzijKyrUSqWjFhdx6vg8gtIGKGXHkCxtwH6LYfSCryRA&oe=6ACB9349"
+        "image_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/658898481_18070880096308952_7068635315121074024_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=b3fa00&_nc_ohc=6p2fAAKovmwQ7kNvwFp3xor&_nc_oc=AdoVJmRTZWYFDf550HN5sDhCkKQLz-2SBnVyVACjwdtqZK-AAquciYWVlwoQdno5md0&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_gid=JpSfUlpUELt7hUFZ1UVwkw&_nc_ss=7f20f&oh=00_AQNqAc2NCFaskxB9MSe9JZvFPBAuqXGnbG7g10hUlu3qag&oe=6ACBCB89"
       },
       "geometry": {
         "type": "Point",
@@ -2670,7 +2670,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DalfgwECeqF/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==",
-        "image_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/741671055_18599635276031936_3389225437979274047_n.jpg?stp=c460.0.1383.1382a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=ohpZSsY4lGkQ7kNvwHb65d_&_nc_oc=Adowu7E1uUnY9hYOcnCU6sPGjX7Lo8RgFoAtwk9OeQk8Y-4LodQe-4cAJJnRWRrBPqQ&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=VYNx0706tCE80fMgf3upbg&_nc_ss=7f60f&oh=00_AQP_xdXJG_UoBniQrMBftVawf1cM1gyiEmXtgZyOIwNm4A&oe=6ACB900D"
+        "image_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-15/741671055_18599635276031936_3389225437979274047_n.jpg?stp=c460.0.1383.1382a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=ohpZSsY4lGkQ7kNvwEHE69N&_nc_oc=Ado8-F-bhoEJjruNtG_SOpVjxyzmfOd8M4JUfAWZkG5V4oi1m_ViBu22y1Gz2Nhru1E&_nc_zt=23&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_gid=zrrMfAaldIMe3-Hx6BNCpA&_nc_ss=7f60f&oh=00_AQOlUDED01CfwVfntR9jQdRe-H8mJ_17vT1D39OeZoOVkw&oe=6ACBC84D"
       },
       "geometry": {
         "type": "Point",
@@ -2746,7 +2746,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DahWKivEoTO/",
-        "image_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/741068451_18336425095268595_8303109530742012563_n.jpg?stp=c595.0.1786.1786a_dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=BcjdwvVwqPAQ7kNvwFsABQn&_nc_oc=AdonyJwhONSypCm_GjxEOYbpV28syJhompSq2IB3Jbptchb0byf8djGqwcxl1_itEqc&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=ZO4aDu4YbJ8BYNnTLmRqyA&_nc_ss=7f60f&oh=00_AQN_Flo_OONJg4udZQbp6cfZK5DoJIHgFnhEB9D8rsAUjw&oe=6ACB5DDA"
+        "image_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-15/741068451_18336425095268595_8303109530742012563_n.jpg?stp=c595.0.1786.1786a_dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=BcjdwvVwqPAQ7kNvwEBiIWW&_nc_oc=Ado17s08_8YOAuPxH6tSPE2HGHd52-Jxdqiytx3j1O5wudBJ8UZ3eZLdZxN2C_LGfe4&_nc_zt=23&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_gid=5zHwhCBEYgs48o1JxkV7Zw&_nc_ss=7f60f&oh=00_AQORUz0rTdZ8JhXFXbWMVZ8oi9trg8GJvlTRukgWOYOL1Q&oe=6ACBCE5A"
       },
       "geometry": {
         "type": "Point",
@@ -3088,7 +3088,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://medicineinfra.com/site/yamatsumi/",
-        "image_url": ""
+        "image_url": "https://medicineinfra.com/wp-content/uploads/2025/03/ogp.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -3107,7 +3107,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://medicineinfra.com/site/postnomori/",
-        "image_url": ""
+        "image_url": "https://medicineinfra.com/wp-content/uploads/2025/03/ogp.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -3354,7 +3354,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DbKK7NEGE7E/?img_index=1",
-        "image_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/753225335_18022982300902789_7585897524133363841_n.jpg?stp=c604.0.1815.1814a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=GD0K-vnGhJsQ7kNvwHFd5CI&_nc_oc=Adp5fvT6ytFWDpFsF7fEYSIHqIdTi-019j8rzZ5RpS8yid-FJRaIDbsmVztHP_vLoZA&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=rxb5u9XBcKbVICWKYlWVRw&_nc_ss=7f60f&oh=00_AQNhAfieNGVP48X8CbPWyexmqXyUsptSZ17YalPmj3bvxA&oe=6ACB5F9F"
+        "image_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/753225335_18022982300902789_7585897524133363841_n.jpg?stp=c604.0.1815.1814a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=GD0K-vnGhJsQ7kNvwHX25a8&_nc_oc=Adraxerf0t2benMmi6wjv5veKaqZAj4LRMbF3LwPnv0NS28YEIxpHHgekTf2R7alLN8&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=70ZUVxjru5yb-6_aEFZeGA&_nc_ss=7f60f&oh=00_AQMSXkzYryQnOK5NcljHWN6znUMfLVjEmFlXMcZ2XbtK_Q&oe=6ACBD01F"
       },
       "geometry": {
         "type": "Point",
@@ -3411,7 +3411,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DSEdd_lAVML/",
-        "image_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/597898317_17923907505186513_2290017976650464759_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=8QvXaITkJZYQ7kNvwGH3By3&_nc_oc=AdrJzLvedIze7tx3tCoJN5Zz6fye52KxX64fBcmMH9nwkrkbI9U8SUlMZKOwtB52okY&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=YUva0eOqo-Deqd8a5VT_mg&_nc_ss=7f60f&oh=00_AQPXBr2hAJaFvxh-V9Zb_x1vYEPaDDF6_vF-ANIrbSc3Xw&oe=6ACB7232"
+        "image_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-15/597898317_17923907505186513_2290017976650464759_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=8QvXaITkJZYQ7kNvwF2g-g5&_nc_oc=AdrxI5vdfgzU-XC2plbF7txkIZqsqeVqFOFf0u_oYEG2XG_JE-jUwhugbj30CFPW1YI&_nc_zt=23&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_gid=vbB87lUVCVxBDIj4ickz3w&_nc_ss=7f60f&oh=00_AQPJ-qs0DT2bnH1x1CzqiUwsXkbzF1u_pMGAMFNxhdbAag&oe=6ACBE2B2"
       },
       "geometry": {
         "type": "Point",
@@ -3487,7 +3487,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://osaka-kitena.jp/event/exporeborn/",
-        "image_url": ""
+        "image_url": "https://osaka-kitena.jp/cms/wp-content/uploads/2026/08/ogp.png"
       },
       "geometry": {
         "type": "Point",
@@ -3791,7 +3791,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://blueberry-misaki.osaka/blog-details/20260620-01/",
-        "image_url": ""
+        "image_url": "https://"
       },
       "geometry": {
         "type": "Point",
@@ -4057,7 +4057,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://dotonbori-kukuru.com/news/622/",
-        "image_url": ""
+        "image_url": "https://dotonbori-kukuru.com/wp-content/uploads/2026/03/IMG_2323.jpeg"
       },
       "geometry": {
         "type": "Point",
