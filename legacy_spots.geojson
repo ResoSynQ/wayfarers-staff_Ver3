@@ -213,25 +213,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Magnus Rinn（アイルランド館）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【Magnus Rinn（アイルランド館）】</b><br>📅 期間: 2025/11/20 ～ 2026/09/30<br>📝 アイルランド館の彫刻「Magnus RINN」が、知恩院三門周辺で公開されています。<br><br><a href='https://www.chion-in.or.jp/news/6406/' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://www.chion-in.or.jp/news/6406/",
-        "image_url": "https://www.chion-in.or.jp/img/og_img.jpg?1540975790"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.7822638,
-          35.00477287
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "ヨルダン館の砂",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ヨルダン館の砂】</b><br>📅 期間: 2026/01/31 ～ 常設<br>📝 夢みなとタワーで、砂と記念展示を楽しめる「とっとりサンドパビリオン」を開催中です。<br><br><a href='https://www.yumeminatotower.gr.jp/floorguide/%E5%A4%A7%E9%98%AA%E3%83%BB%E9%96%A2%E8%A5%BF%E4%B8%87%E5%8D%9A%E8%A8%98%E5%BF%B5-%E3%81%A8%E3%81%A3%E3%81%A8%E3%82%8A%E3%82%B5%E3%83%B3%E3%83%89%E3%83%91%E3%83%93%E3%83%AA%E3%82%AA%E3%83%B3/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
@@ -428,7 +409,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.expo70-park.jp/facility/watchlearn/inochidama/",
-        "image_url": "https://www.expo70-park.jp/sys/wp-content/uploads/1c623daf87c5b4e145327b96ac296f03-640x480.jpg"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -732,7 +713,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://panaf.jp/",
-        "image_url": "https://panaf-osaka.com/assets/img/ogp.png"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -751,7 +732,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://kobe-journal.com/archives/7547745875.html",
-        "image_url": "https://i0.wp.com/kobe-journal.com/web/images/2026/04/ai20260421170405.jpg?fit=487%2C274&ssl=1"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -770,7 +751,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://medicineinfra.com/site/expo2025/",
-        "image_url": "https://medicineinfra.com/wp-content/uploads/2025/03/ogp.jpg"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -789,7 +770,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://medicineinfra.com/site/expo2025/",
-        "image_url": "https://medicineinfra.com/wp-content/uploads/2025/03/ogp.jpg"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -1169,7 +1150,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/nauruya_higashiosaka/",
-        "image_url": ""
+        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
       },
       "geometry": {
         "type": "Point",
@@ -1226,7 +1207,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://osaka-shotengai-info.com/bampaku/tenyonkita/",
-        "image_url": "https://osaka-shotengai-info.com/wp-content/uploads/2026/02/DSC_0628.jpg"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -1245,7 +1226,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://osaka-shotengai-info.com/bampaku/tenyonkita/",
-        "image_url": "https://osaka-shotengai-info.com/wp-content/uploads/2026/02/DSC_0628.jpg"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -1391,25 +1372,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "ミャクミャクモニュメント「ワクワク」設置予定",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ミャクミャクモニュメント「ワクワク」設置予定】</b><br>📅 期間: 時期---- ～ 2026年11月予定<br>📝 2026年9月〜11月にミャクミャクモニュメント「ワクワク」がちはや園地に設置予定です。<br><br><a href='https://www.pref.osaka.lg.jp/hodo/fumin/o120030/prs_51172.html' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://www.pref.osaka.lg.jp/hodo/fumin/o120030/prs_51172.html",
-        "image_url": "https://www.pref.osaka.lg.jp/shared/images/sns/logo.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.677444,
-          34.410972
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "ネスタリゾート神戸万博レガシーウォール「ザ・ループ」",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ネスタリゾート神戸万博レガシーウォール「ザ・ループ」】</b><br>📅 期間: 2026/05/26 ～ 常設<br>📝 大阪・関西万博のルクセンブルク・パビリオンを支えた基礎コンクリートブロック220個が、兵庫県のネスタリゾート神戸で全長150mのミューラルアート作品『万博レガシーウォール「ザ・ループ」』として生まれ変わりました！制作したのは兵庫県在住のアーティスト・KAC氏。車中泊しながら2週間で描き上げた作品には、ルクセンブルクのバラや三木刃物、ネスタリゾートの各アトラクションなど多彩なモチーフが散りばめられています。廃棄されるはずだった建材を再利用したこのプロジェクトは、2027年に外交関係樹立100周年を迎える日本とルクセンブルク両国の交流のシンボルとしても注目されています。<br><br><a href='https://news.yahoo.co.jp/articles/c34fa7252cf3141e353bbc35f7142d29d7388793' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
@@ -1461,25 +1423,6 @@
         "coordinates": [
           135.4808346,
           34.71695467
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "いのちの未来＋ が東京・高輪で開催！",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【いのちの未来＋ が東京・高輪で開催！】</b><br>📅 期間: 2026/07/25 ～ 2026/09/25<br>📝 大阪・関西万博で話題となった、石黒浩氏によるシグネチャーパビリオン「いのちの未来」が、東京・高輪で企画展示「いのちの未来＋」として開催されます！万博で描かれた50年後の物語に加え、新たに いのちの未来の選択について のシナリオも追加。アンドロイドとの対話体験やグッズ販売、来場者特典も予定されており、万博の感動を東京でもう一度体験できるレガシー展示です。\r\n\r\n開催期間は2026年7月25日〜9月25日。30分ごとの日時指定制で、第1期は6月12日からチケット販売開始予定とのこと！<br><br><a href='https://news.yahoo.co.jp/articles/b714866bb0c4930ae1e425749b07a48560237628' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://news.yahoo.co.jp/articles/b714866bb0c4930ae1e425749b07a48560237628",
-        "image_url": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.7398603,
-          35.63575782
         ]
       }
     },
@@ -1733,25 +1676,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "ＫＩＴＴＥ名古屋1階 アトリウム　大阪・関西万博の1周年メモリアルイベントTour「EXPO2025 Futures Tour」の開催が決定しました！",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ＫＩＴＴＥ名古屋1階 アトリウム　大阪・関西万博の1周年メモリアルイベントTour「EXPO2025 Futures Tour」の開催が決定しました！】</b><br>📅 期間: 2026/09/12 ～ 2026/09/13<br>📝 万博で生まれた感動や未来へのワクワクを、閉幕後も全国各地へつないでいくアフター万博イベントです。大阪・関西万博に行った人も、行けなかった人も、各地で“もう一度万博”を感じられる機会になりそうです。<br><br><a href='https://www.expo2025.or.jp/news/news-20260619-03/' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://www.expo2025.or.jp/news/news-20260619-03/",
-        "image_url": "https://www.expo2025.or.jp/wp/wp-content/uploads/key.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          136.8823241,
-          35.1732804
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "（予定）麻布台ヒルズアリーナ　大阪・関西万博の1周年メモリアルイベントTour「EXPO2025 Futures Tour」の開催が決定しました！",
         "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【麻布台ヒルズアリーナ　大阪・関西万博の1周年メモリアルイベントTour「EXPO2025 Futures Tour」の開催が決定しました！】</b><br>📅 期間: 2026/10/10 ～ 2026/10/11<br>📝 万博で生まれた感動や未来へのワクワクを、閉幕後も全国各地へつないでいくアフター万博イベントです。大阪・関西万博に行った人も、行けなかった人も、各地で“もう一度万博”を感じられる機会になりそうです。<br><br><a href='https://www.expo2025.or.jp/news/news-20260619-03/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
@@ -1790,32 +1714,13 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "なら国際映画祭2026　ミャクミャクとせんとくんもゲストとして登場予定",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【なら国際映画祭2026　ミャクミャクとせんとくんもゲストとして登場予定】</b><br>📅 期間: 2026/09/19 ～ 2026/09/19<br>📝 「なら国際映画祭2026」の開催が決定！9月19日（土）には、世界遺産・東大寺大仏殿前で「祈りのレッドカーペット」が開催されます。映画の祭典でありながら、舞台は奈良の世界遺産。映画と祈りが交わる、特別なひとときになりそうです。\nさらに、ミャクミャクとせんとくんもゲストとして登場予定とのこと。大阪・関西万博から生まれた“いのち”のテーマが、奈良の地で新たな形につながっていく注目のアフター万博ニュースです。<br><br><a href='https://news.yahoo.co.jp/articles/f22c66cbebeb78f9b485fdfe511d114a6e6c57e0' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://news.yahoo.co.jp/articles/f22c66cbebeb78f9b485fdfe511d114a6e6c57e0",
-        "image_url": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.8439563,
-          34.68350869
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "万博で人気のチキンビリヤニが京都へ！ハラルムガルが四条烏丸に初出店！",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【万博で人気のチキンビリヤニが京都へ！ハラルムガルが四条烏丸に初出店！】</b><br>📅 期間: 2026/07/01 ～ 常設<br>📝 大阪・関西万博で人気を集めた「ハラルムガル」が、7月1日に京都・四条烏丸の「SUINA室町」へ初出店します！\n\n万博会場では、看板商品のチキンビリヤニを52,000食以上提供。今回の京都出店では、ハラル対応やヴィーガン対応メニューも展開予定とのこと。\n\n万博で生まれた“誰もが同じテーブルを囲める食体験”が、京都の日常へ広がっていく注目のレガシースポットです！<br><br><a href='https://prtimes.jp/main/html/rd/p/000000002.000179009.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false,
         "isKomyaku": false,
         "link": "https://prtimes.jp/main/html/rd/p/000000002.000179009.html",
-        "image_url": ""
+        "image_url": "https://prcdn.freetls.fastly.net/release_image/179009/2/179009-2-c999918d7a4b458a5202cca148a11525-780x780.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
       },
       "geometry": {
         "type": "Point",
@@ -1860,25 +1765,6 @@
         "coordinates": [
           139.7888977,
           35.54167621
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EXPO 2025 ART BLOOM by A4 GALLERY 和歌山会場（近鉄百貨店和歌山店）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【EXPO 2025 ART BLOOM by A4 GALLERY 和歌山会場（近鉄百貨店和歌山店）】</b><br>📅 期間: 2026/08/19 ～ 2026/09/01<br>📝 大阪・関西万博公式キャラクター「ミャクミャク」など万博IPを使用したアート作品を巡回展示するアートプロジェクト。国内外の人気アーティストによる作品に加え、サッカーをテーマにしたオリジナルアートやグッズも登場。LEGACY展も同時開催。<br><br><a href='https://a4tokyo.myshopify.com/collections/expo-2025-art-bloom-by-a4-gallery' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://a4tokyo.myshopify.com/collections/expo-2025-art-bloom-by-a4-gallery",
-        "image_url": "http://a4tokyo.myshopify.com/cdn/shop/collections/1_dfec591a-9191-432c-9354-5b767bfb0b81.jpg?v=1753428515"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.190588,
-          34.233136
         ]
       }
     },
@@ -1999,8 +1885,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "（予定）ベルギービールウィークエンド2026 京都（お東さん広場）",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【ベルギービールウィークエンド2026 京都（お東さん広場）】</b><br>📅 期間: 2026/10/08 ～ 2026/10/12<br>📝 京都・お東さん広場で開催されるベルギービールと食文化のフェス。歴史ある東本願寺前のロケーションで、本格ベルギービール、グルメフード、音楽ライブを楽しめる。万博後も海外文化に触れる機会をまちなかへ広げる国際交流型イベント。<br><br><a href='https://belgianbeerweekend.jp/kyoto' target='_blank'>🔗 詳細を開く</a>",
+        "name": "ベルギービールウィークエンド2026 京都（お東さん広場）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ベルギービールウィークエンド2026 京都（お東さん広場）】</b><br>📅 期間: 2026/10/08 ～ 2026/10/12<br>📝 京都・お東さん広場で開催されるベルギービールと食文化のフェス。歴史ある東本願寺前のロケーションで、本格ベルギービール、グルメフード、音楽ライブを楽しめる。万博後も海外文化に触れる機会をまちなかへ広げる国際交流型イベント。<br><br><a href='https://belgianbeerweekend.jp/kyoto' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false,
         "isKomyaku": false,
@@ -2024,7 +1910,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://banpakuhanabi.jp/",
-        "image_url": "https://banpakuhanabi.jp/wp-content/uploads/2026/07/ogp.png"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -2043,7 +1929,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://banpakuhanabi.jp/",
-        "image_url": "https://banpakuhanabi.jp/wp-content/uploads/2026/07/ogp.png"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -2214,7 +2100,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/salamcoffee_stand/",
-        "image_url": ""
+        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
       },
       "geometry": {
         "type": "Point",
@@ -2474,25 +2360,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "播州織のトンネルアート（茜が丘複合施設みらいえ）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【播州織のトンネルアート（茜が丘複合施設みらいえ）】</b><br>📅 期間: 2026/03/24 ～ 2026/09/30<br>📝 兵庫県の情報発信拠点「ひょうごEXPO TERMINAL」で展示された播州織のトンネルアートの一部が西脇市へ移設。みらいえ正面玄関で播州織の風合いに触れられるレガシー展示。<br><br><a href='https://www.kobe-np.co.jp/news/hokuban/202603/0020165762.shtml' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://www.kobe-np.co.jp/news/hokuban/202603/0020165762.shtml",
-        "image_url": "https://i.kobe-np.co.jp/news/hokuban/202603/img/a_20165763.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          134.9568652,
-          34.9737048
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Wafelhuis（ワーフルハウス）",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【Wafelhuis（ワーフルハウス）】</b><br>📅 期間: 2026/07/12 ～ 常設<br>📝 大阪・関西万博オランダ館で提供されたストロープワッフルにゆかりのある、神戸・六甲道の専門店。焼きたてのストロープワッフルやクランブルアイスクリームを楽しめる、オランダ菓子のレガシーフードスポット。<br><br><a href='http://www.wafelhuis.com/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
@@ -2537,7 +2404,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://takasago-mania.com/town-smartpole-sone/",
-        "image_url": "https://takasago-mania.com/wp-content/uploads/2026/03/PXL_20260322_074736057.jpg"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -2556,32 +2423,13 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.expo70-park.jp/facility/watchlearn/rosegarden/",
-        "image_url": "https://www.expo70-park.jp/sys/wp-content/uploads/sns_190515_04-640x480.jpg"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           135.5323809,
           34.81260056
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "小松宏誠展 光と影のモビール 海がのぼる空がふる",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【小松宏誠展 光と影のモビール 海がのぼる空がふる】</b><br>📅 期間: 2026/07/10 ～ 2026/09/27<br>📝 岡山県の瀬戸内市立美術館で開催される特別展。大阪・関西万博にも出品したアーティスト小松宏誠氏のモビール作品を、海のまち牛窓で楽しめるレガシーアート展。<br><br><a href='https://www.city.setouchi.lg.jp/site/museum/159139.html' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://www.city.setouchi.lg.jp/site/museum/159139.html",
-        "image_url": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          134.1468977,
-          34.62063073
         ]
       }
     },
@@ -2607,32 +2455,13 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "徳島県ゾーンレガシー展示会「世界が目撃した TOKUSHIMA BLUE」",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【徳島県ゾーンレガシー展示会「世界が目撃した TOKUSHIMA BLUE」】</b><br>📅 期間: 2026/07/25 ～ 2026/09/23<br>📝 大阪・関西万博の関西パビリオン徳島県ゾーンが、徳島県文化の森総合公園へ帰ってくるレガシー展示。阿波指物の障子イルミネーション、奉納藍染「藍の輪ツリー」、バーチャル阿波おどり体験、写真展・ユニフォーム展示などを楽しめる。<br><br><a href='https://x.com/trbt_expo/status/2077603182302118024' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://x.com/trbt_expo/status/2077603182302118024",
-        "image_url": "https://pbs.twimg.com/media/HNUhE5sa0AAI0fJ?format=webp&name=large"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          134.5267182,
-          34.04009298
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "crew184〜expo epilogue cafe〜(雪国のお絵かきメイドカフェ♡らてめぃど♡黒門市場店)",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【crew184〜expo epilogue cafe〜(雪国のお絵かきメイドカフェ♡らてめぃど♡黒門市場店)】</b><br>📅 期間: 2026/04/13 ～ 2026/10/13<br>📝 万博スタッフゆかりのメンバーによる、万博好きが集まる期間限定コンセプトカフェ。ピンバッジ交換会や限定スタンプなど、閉幕後も万博ファン同士が交流できるアフター万博スポット。<br><br><a href='https://www.threads.com/@crew184_expo.epilogue.cafe' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.threads.com/@crew184_expo.epilogue.cafe",
-        "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/658898481_18070880096308952_7068635315121074024_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=b3fa00&_nc_ohc=6p2fAAKovmwQ7kNvwE9ihc9&_nc_oc=Adp14pvOY-SGtHct9kP18isK9DOxaoJ9F6gjo3vtnakF2ggasfBHnkh_RnmBN7F3M0w&_nc_zt=24&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=lTxGPoGiBUDt8BjsrbllaQ&_nc_ss=7f20f&oh=00_AQN-PGiC97RECE8cYNh8GbzWbPrMMN0EzwjvihbiNvG4TA&oe=6ACCAC89"
+        "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/658898481_18070880096308952_7068635315121074024_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=b3fa00&_nc_ohc=6p2fAAKovmwQ7kNvwGEWHRD&_nc_oc=AdqBO3KojDE8LsGo1w9bp6KOQi2RR3ZqBG1iOd_QFTV1xOTEEH0-wlBeod0_T_MDGww&_nc_zt=24&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=1Cc0CaWh4nevwjp_nGTxVQ&_nc_ss=7f20f&oh=00_AQO9ejB05Yytu71Z4emInRkZqdhq8CpDiLjA2GJ9h8ZGjQ&oe=6ACD1D09"
       },
       "geometry": {
         "type": "Point",
@@ -2670,7 +2499,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DalfgwECeqF/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==",
-        "image_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/741671055_18599635276031936_3389225437979274047_n.jpg?stp=c460.0.1383.1382a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=ohpZSsY4lGkQ7kNvwE2_yMx&_nc_oc=AdqP6ynFr1jgkcKz8K9nEpKBaDjigK6jRZLA2bRA0vIznmiv16SoGpIj-tiGlT56saY&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=V5ELcmGgVid1Ik5Wz8nUJQ&_nc_ss=7f60f&oh=00_AQNL93UvEqV3txRqvriXiKT7SVvdJSQEEr4--uwJHt1w1Q&oe=6ACCA94D"
+        "image_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/741671055_18599635276031936_3389225437979274047_n.jpg?stp=c460.0.1383.1382a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=ohpZSsY4lGkQ7kNvwEEyCGJ&_nc_oc=AdpVKfqAhjJaYKv205Jx40JDYmH_b2f_X3z-RmRB4KUxS0g8ONdQqkfqgkN3gBKVxZ0&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=KB1kSg3VLUCSGW7ma7j0mg&_nc_ss=7f60f&oh=00_AQPHdJYFH-HfiVlD2qvcOQ9QX8lEBJht4HhH8u2eDBFbPQ&oe=6ACD19CD"
       },
       "geometry": {
         "type": "Point",
@@ -2746,7 +2575,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DahWKivEoTO/",
-        "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/741068451_18336425095268595_8303109530742012563_n.jpg?stp=c595.0.1786.1786a_dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=BcjdwvVwqPAQ7kNvwEjvIkD&_nc_oc=AdpFXjpA0jWaS9UAJ_Sk5glBPhyJoxzfpdM4qHFRPRKrObJQWY2BC1bmAQKOvd4ibEY&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=rZGY_9W3JpW9m1Sil6fZpw&_nc_ss=7f60f&oh=00_AQOyzeEuEfQlU2KgHOPZlaGz9ogg4SNytIX8Ek43IrVVlg&oe=6ACCAF5A"
+        "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/741068451_18336425095268595_8303109530742012563_n.jpg?stp=c595.0.1786.1786a_dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=BcjdwvVwqPAQ7kNvwFLBoc6&_nc_oc=AdoUebPaxtfHKUEelXFpeqx35d9JfVrMR6383jh_CDMzi0t2KsAk2WLS5SX-WvPw7Zs&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=8kErtEoeN9GxqtESvK9RgQ&_nc_ss=7f60f&oh=00_AQPMre4argLpE3fIBYfRi4l2b2HjmqIYYEVTVpwM4mJ2Ew&oe=6ACD1FDA"
       },
       "geometry": {
         "type": "Point",
@@ -3088,7 +2917,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://medicineinfra.com/site/yamatsumi/",
-        "image_url": "https://medicineinfra.com/wp-content/uploads/2025/03/ogp.jpg"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -3107,7 +2936,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://medicineinfra.com/site/postnomori/",
-        "image_url": "https://medicineinfra.com/wp-content/uploads/2025/03/ogp.jpg"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -3354,7 +3183,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DbKK7NEGE7E/?img_index=1",
-        "image_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/753225335_18022982300902789_7585897524133363841_n.jpg?stp=c604.0.1815.1814a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=GD0K-vnGhJsQ7kNvwFzx2lE&_nc_oc=AdpBf5x4xW_ppJOjsvNIxX1lmssiWB5VuCCDJYBSZRrw_fV7WafY5osd2NqaaijKtZc&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=m77JJwhjqcQwhkiP98IGhQ&_nc_ss=7f60f&oh=00_AQN0oBkbCQcKK2mOuZujWlkkl-4DbB0dYP3PmhfXn1oV4w&oe=6ACCB11F"
+        "image_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/753225335_18022982300902789_7585897524133363841_n.jpg?stp=c604.0.1815.1814a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=GD0K-vnGhJsQ7kNvwG_Oe9n&_nc_oc=Ado43RVQBi4sD9kgfxS6fRzfLsqSfsaKeU9bZkH9yhp1_LDtCnadYsC713KrnwlxdWQ&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=ohpuyJ72YaYwKUnywwrv6w&_nc_ss=7f60f&oh=00_AQM9FkPniPvOEqv99aYW9a1d4DHR6tTw6EXdmIhzA_jaMg&oe=6ACD219F"
       },
       "geometry": {
         "type": "Point",
@@ -3411,7 +3240,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DSEdd_lAVML/",
-        "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/597898317_17923907505186513_2290017976650464759_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=MplNBQZNQk0Q7kNvwG5fwKU&_nc_oc=AdpxmvPfrO2FUyRVg1MiGv_3Y_944kfCm-__5CWRVkb0kx14H8T4aH-8gChuouBZ4ic&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=sXnbdON8INZLDNqNbcsr_w&_nc_ss=7f60f&oh=00_AQNAGMZExOD0_VsUg5hnwuWxL9XzLj1aXHn9MhFBvYt9Hw&oe=6ACC8B72"
+        "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/597898317_17923907505186513_2290017976650464759_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=MplNBQZNQk0Q7kNvwGtUqDQ&_nc_oc=AdpYsAtG9lklIftvtSNFZDDZnTyjwd3RLgZk3ws4cTeYQVYGGxPeQTwGxpZ_KNj2lXc&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=VEsHlps5JmE4K_yWf5aWiQ&_nc_ss=7f60f&oh=00_AQO1VmNwsz0JStpoohUausBwX0pHY3DicPXZI73w-TSQqQ&oe=6ACCFBF2"
       },
       "geometry": {
         "type": "Point",
@@ -3487,7 +3316,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://osaka-kitena.jp/event/exporeborn/",
-        "image_url": "https://osaka-kitena.jp/cms/wp-content/uploads/2026/08/ogp.png"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -3544,7 +3373,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://jam.jutfoundation.org.tw/exhibition/5639",
-        "image_url": ""
+        "image_url": "https://jam.jutfoundation.org.tw/sites/default/files/2025%20%E5%B9%B4%E5%A4%A7%E9%98%AA%EF%BC%8E%E9%97%9C%E8%A5%BF%E8%90%AC%E5%8D%9A%E3%80%88%E7%92%B0%E5%BD%A2%E5%A4%A7%E5%B1%8B%E9%A0%82%E3%80%89%20%C2%A9%20Iwan%20Baan.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -3576,63 +3405,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "EXPO2025オフィシャルポップアップストア 近鉄百貨店 和歌山店",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【EXPO2025オフィシャルポップアップストア 近鉄百貨店 和歌山店】</b><br>📅 期間: 2026/09/02 ～ 2026/09/15<br>📝 近鉄百貨店和歌山店5階にEXPO2025オフィシャルポップアップストアが再出店。ミャクミャク商品をはじめとする大阪・関西万博の公式ライセンス商品を期間限定で販売する。<br><br><a href='https://myakumyakuhouse.jp/topics/detail/447/' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": true,
-        "isKomyaku": false,
-        "link": "https://myakumyakuhouse.jp/topics/detail/447/",
-        "image_url": "https://myakumyakuhouse.jp/assets/images/ogp.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.1907252,
-          34.23307479
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EXPO2025オフィシャルポップアップストア MARUZEN&ジュンク堂書店 新静岡店",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【EXPO2025オフィシャルポップアップストア MARUZEN&ジュンク堂書店 新静岡店】</b><br>📅 期間: 2026/09/04 ～ 2026/10/05<br>📝 新静岡セノバ5階のMARUZEN&ジュンク堂書店新静岡店内に、EXPO2025オフィシャルポップアップストアが期間限定オープン。公式ライセンス商品の販売に加え、9月にはミャクミャクぬいぐるみくじ（ブラックVer.）も実施予定。<br><br><a href='https://myakumyakuhouse.jp/topics/detail/447/' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": true,
-        "isKomyaku": false,
-        "link": "https://myakumyakuhouse.jp/topics/detail/447/",
-        "image_url": "https://myakumyakuhouse.jp/assets/images/ogp.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          138.3877133,
-          34.97595446
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EXPO2025オフィシャルポップアップストア 大和香林坊店",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【EXPO2025オフィシャルポップアップストア 大和香林坊店】</b><br>📅 期間: 2026/09/18 ～ 2026/09/29<br>📝 金沢市の大和香林坊店8階催事ホールに、EXPO2025オフィシャルポップアップストアが期間限定オープン。ミャクミャク商品をはじめとする大阪・関西万博の公式ライセンス商品を販売する。<br><br><a href='https://myakumyakuhouse.jp/topics/detail/447/' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": true,
-        "isKomyaku": false,
-        "link": "https://myakumyakuhouse.jp/topics/detail/447/",
-        "image_url": "https://myakumyakuhouse.jp/assets/images/ogp.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          136.6540216,
-          36.56339248
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "超時空シアター キャラバンVer.（万博記念公園 EXPO’70パビリオン）",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【超時空シアター キャラバンVer.（万博記念公園 EXPO’70パビリオン）】</b><br>📅 期間: 2026/08/29 ～ 2027/02/28<br>📝 大阪・関西万博のシグネチャーパビリオン『いのちめぐる冒険』で人気を集めた河森正治監督の『超時空シアター』を、巡回可能なキャラバンVer.として復活。巡回展第一弾として万博記念公園EXPO’70パビリオンで上映し、万博体験を次世代・全国へつなぐリユースプロジェクト。<br><br><a href='https://class-earth.com/theater_reuse/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
@@ -3646,25 +3418,6 @@
         "coordinates": [
           135.5359638,
           34.80925435
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "「いのちの視点」写真展（enoco）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【「いのちの視点」写真展（enoco）】</b><br>📅 期間: 2026/09/22 ～ 2026/09/27<br>📝 大阪・関西万博で若手建築家が手がけた20施設のSDGsへの挑戦を、一億画素の写真で見つめ直す写真展。『2億円トイレ』として話題になったトイレ5などを取り上げ、建築に込められた循環や素材活用の工夫を万博レガシーとして次世代へ伝える。入場無料。<br><br><a href='https://expo-compass.jp/inochino-shiten-photo-exhibition-0922/' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://expo-compass.jp/inochino-shiten-photo-exhibition-0922/",
-        "image_url": "https://expo-compass.jp/wp/wp-content/uploads/2026/08/17846-ogp.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.4842314,
-          34.68144453
         ]
       }
     },
@@ -3766,57 +3519,19 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "国際理解セミナー「万博で出会ったヨルダンのその先へ―現地で暮らしたJICA海外協力隊が語る、世界の話」",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【国際理解セミナー「万博で出会ったヨルダンのその先へ―現地で暮らしたJICA海外協力隊が語る、世界の話」】</b><br>📅 期間: 2026/10/02 ～ 2026/10/02<br>📝 大阪・関西万博で注目を集めたヨルダンを、閉幕後さらに深く知るJICA関西の国際理解セミナー。2026年8月までヨルダンで活動したJICA海外協力隊員が、現地の日常・文化・価値観や活動経験を紹介する。終了後には大阪・関西万博ヨルダン館から提供された「ワディラム砂漠」の砂をミニボトルに入れて持ち帰れる。参加無料、定員40人、申込締切は10月1日。<br><br><a href='https://www.jica.go.jp/domestic/kansai/information/event/260831_01.yt.html' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://www.jica.go.jp/domestic/kansai/information/event/260831_01.yt.html",
-        "image_url": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.4146362,
-          34.71992449
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "大阪・関西万博レガシーモニュメント（ブルーベリーファームみさき）",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【大阪・関西万博レガシーモニュメント（ブルーベリーファームみさき）】</b><br>📅 期間: 2026/06/13 ～ 常設<br>📝 大阪・関西万博のシンボル「大屋根リング」の木材を活用したレガシーモニュメント。岬町のブルーベリー農園で、柱モニュメント4本とベンチモニュメント2本を展示・保存している。<br><br><a href='https://blueberry-misaki.osaka/blog-details/20260620-01/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false,
         "isKomyaku": false,
         "link": "https://blueberry-misaki.osaka/blog-details/20260620-01/",
-        "image_url": "https://"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           135.1879153,
           34.33307111
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "ミャクミャク絵本の世界 期間限定ショップ＆絵本版画展（渋谷ヒカリエ）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ミャクミャク絵本の世界 期間限定ショップ＆絵本版画展（渋谷ヒカリエ）】</b><br>📅 期間: 2026/09/03 ～ 2026/09/16<br>📝 渋谷ヒカリエShinQs 2Fで、ミャクミャクをデザインした山下浩平氏の絵本『ミャクミャクと… ミャクミャク誕生ものがたり』の世界を楽しむ期間限定ショップと、関東初となる絵本版画展を開催。EXPO2025公式ライセンス商品24種類を販売し、条件を満たした先着50名には通常版絵本を山下氏直筆サイン本と交換する特典も実施。<br><br><a href='https://prtimes.jp/main/html/rd/p/000004361.000012759.html' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": true,
-        "isKomyaku": false,
-        "link": "https://prtimes.jp/main/html/rd/p/000004361.000012759.html",
-        "image_url": "https://prcdn.freetls.fastly.net/release_image/12759/4361/12759-4361-b89a06fdc569fafe5b267bb2baea2332-1054x1492.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.7034427,
-          35.6590953
         ]
       }
     },
@@ -3899,25 +3614,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "ミャクミャクグリーティング（EXPO2025オフィシャルポップアップストア 高島屋大阪店）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ミャクミャクグリーティング（EXPO2025オフィシャルポップアップストア 高島屋大阪店）】</b><br>📅 期間: 2026/09/21 ～ 2026/09/21<br>📝 高島屋大阪店7階のEXPO2025オフィシャルポップアップストアでミャクミャクグリーティングを開催。11:30、14:00、16:00の3回、各回約20分。各回30組・1組5名までの事前抽選制で、受付は9月5日10:00～9月12日19:00。<br><br><a href='https://www.takashimaya.co.jp/osaka/topics/10_1_20260624164313/?category=event' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://www.takashimaya.co.jp/osaka/topics/10_1_20260624164313/?category=event",
-        "image_url": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.5012754,
-          34.66469853
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "（予定）OSAKA熱活GAMES（東大阪市花園ラグビー場）",
         "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【OSAKA熱活GAMES（東大阪市花園ラグビー場）】</b><br>📅 期間: 2026/11/14 ～ 2026/11/14<br>📝 大阪府のスポーツツーリズム企画によるラグビーのスペシャルマッチ。レッドハリケーンズ大阪、栃木ホンダヒート、花園近鉄ライナーズ、ACTブランビーズが対戦し、ミャクミャクとアバンギャルディのスペシャルパフォーマンス、世界各国グルメのキッチンカーも予定。ミャクミャクグッズ付きチケットや、旅行商品SS席限定のミャクミャクハイタッチ会参加券も用意される。<br><br><a href='https://sports.pref.osaka.jp/ofsp/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
@@ -3975,25 +3671,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "クラゲ館から生まれた「クララとそうぞうのき」＆クララAR絵本カード（ジュンク堂書店 近鉄あべのハルカス店）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【クラゲ館から生まれた「クララとそうぞうのき」＆クララAR絵本カード（ジュンク堂書店 近鉄あべのハルカス店）】</b><br>📅 期間: 2026/07/15 ～ 2026/09/30<br>📝 大阪・関西万博「いのちの遊び場 クラゲ館」から生まれた絵本『クララとそうぞうのき』の世界をARで体験できる「クララAR絵本カード」を、ジュンク堂書店近鉄あべのハルカス店で期間限定展示・販売。店頭でAR体験も楽しめる。<br><br><a href='https://prtimes.jp/main/html/rd/p/000000093.000134299.html' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://prtimes.jp/main/html/rd/p/000000093.000134299.html",
-        "image_url": "https://prcdn.freetls.fastly.net/release_image/134299/93/134299-93-330b02cc25e3557d00f13ea6b38c9798-512x341.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.5143676,
-          34.64583575
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "パキスタンパビリオン 岩塩オブジェ（HALAL MUGHAL 大和田店）",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【パキスタンパビリオン 岩塩オブジェ（HALAL MUGHAL 大和田店）】</b><br>📅 期間: 常設 / 時期----<br>📝 大阪・関西万博パキスタンパビリオン（コモンズD）から譲り受けたピンク色の岩塩オブジェを、HALAL MUGHAL 大和田店の入口に展示。万博で人気を集めたチキンビリヤニとあわせて、パキスタン館のレガシーを体感できる。<br><br><a href='https://www.tourist-guide.net/osaka/archives/10886?lang=j' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
@@ -4007,25 +3684,6 @@
         "coordinates": [
           135.4449413,
           34.70838989
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "オクトーバーフェスト2026 in 芝公園 ～Autumn～（サーキュラーグッズ販売）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【オクトーバーフェスト2026 in 芝公園 ～Autumn～（サーキュラーグッズ販売）】</b><br>📅 期間: 2026/09/11 ～ 2026/09/23<br>📝 東京・都立芝公園4号地で開催されるオクトーバーフェストに、大阪・関西万博ドイツパビリオン公式マスコット「サーキュラー」のグッズが登場。ぬいぐるみなどの通常商品に加え、オクトーバーフェストコレクションの新商品も展開予定。<br><br><a href='https://prtimes.jp/main/html/rd/p/000000401.000049635.html' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://prtimes.jp/main/html/rd/p/000000401.000049635.html",
-        "image_url": "https://prcdn.freetls.fastly.net/release_image/49635/401/49635-401-f567ac15c52f241ee372a1c8b7947c1b-1600x1132.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.7483924,
-          35.65618328
         ]
       }
     },
@@ -4057,32 +3715,13 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://dotonbori-kukuru.com/news/622/",
-        "image_url": "https://dotonbori-kukuru.com/wp-content/uploads/2026/03/IMG_2323.jpeg"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           135.362302,
           34.72209989
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "パートナーフェスティバルGAMES（ミャクミャク×モリゾー・キッコロ公式グッズ）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【パートナーフェスティバルGAMES（ミャクミャク×モリゾー・キッコロ公式グッズ）】</b><br>📅 期間: 2026/09/22 ～ 2026/09/23<br>📝 愛・地球博記念公園の地球市民交流センターで開催される「パートナーフェスティバルGAMES」。愛知万博ピンバッジ交換会のブースで、EXPO2025公式ライセンス商品のミャクミャク×モリゾー・キッコロコラボピンバッジやシールを販売。万博1周年記念の大屋根リング・ゴールド柄なども登場する。<br><br><a href='https://www.moricoro-chikyu.com/general-6' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://www.moricoro-chikyu.com/general-6",
-        "image_url": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          137.0881289,
-          35.17698301
         ]
       }
     },
@@ -4108,8 +3747,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "（予定）京都スマートシティエキスポ2026（けいはんなプラザ）",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【京都スマートシティエキスポ2026（けいはんなプラザ）】</b><br>📅 期間: 2026/10/08 ～ 2026/10/09<br>📝 けいはんなプラザで開催されるスマートシティの展示・講演・交流イベント。石黒浩氏と内田まほろ氏による特別セッションでは、MoN Takanawaで再演される大阪・関西万博シグネチャーパビリオン「いのちの未来」の裏側と、アンドロイドと共に生きる未来社会を語る。参加無料・要事前登録。<br><br><a href='https://smartcity.kyoto/expo2026/' target='_blank'>🔗 詳細を開く</a>",
+        "name": "京都スマートシティエキスポ2026（けいはんなプラザ）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【京都スマートシティエキスポ2026（けいはんなプラザ）】</b><br>📅 期間: 2026/10/08 ～ 2026/10/09<br>📝 けいはんなプラザで開催されるスマートシティの展示・講演・交流イベント。石黒浩氏と内田まほろ氏による特別セッションでは、MoN Takanawaで再演される大阪・関西万博シグネチャーパビリオン「いのちの未来」の裏側と、アンドロイドと共に生きる未来社会を語る。参加無料・要事前登録。<br><br><a href='https://smartcity.kyoto/expo2026/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false,
         "isKomyaku": false,
@@ -4121,82 +3760,6 @@
         "coordinates": [
           135.7650656,
           34.74550595
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "みどりであそぶ！キャラクターとふれあいステージ（亀岡運動公園）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【みどりであそぶ！キャラクターとふれあいステージ（亀岡運動公園）】</b><br>📅 期間: 2026/09/21 ～ 2026/09/21<br>📝 第43回全国都市緑化フェアin京都丹波の亀岡運動公園野外ステージにミャクミャクが登場。11:00のオープニング、13:00の○×クイズ、15:00のグリーティングに出演し、明智かめまる・さくらちゃん・京丹波味夢くんと共演する。<br><br><a href='https://kyototamba-fair.jp/event/208/' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://kyototamba-fair.jp/event/208/",
-        "image_url": "/img/OGP.webp"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.5504865,
-          35.01272727
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "SARAYA BLUE OCEAN CHALLENGE ― Redesign Plastics ―",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【SARAYA BLUE OCEAN CHALLENGE ― Redesign Plastics ―】</b><br>📅 期間: 2026/09/23 ～ 2026/09/29<br>📝 Osaka Metro本町ビル1Fで開催する海洋プラスチックをテーマとした展示・参加型イベント。大阪・関西万博「BLUE OCEAN DOME」で使用した映像を再上映し、海洋ごみや代替素材の展示、ワークショップ、トークイベントを実施。万博で人気だったラカント低糖質アイスも限定販売する。<br><br><a href='https://www.saraya.com/news/2026y/1402.html' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://www.saraya.com/news/2026y/1402.html",
-        "image_url": "https://www.saraya.com/archives/006/202609/e020124a871989c8.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.5009851,
-          34.68303776
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "I Z A with FRIENDS（六本木ヒルズ）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【I Z A with FRIENDS（六本木ヒルズ）】</b><br>📅 期間: 2026/08/21 ～ 2026/09/27<br>📝 六本木ヒルズ ヒルサイド2階ヒルズボックスで開催する期間限定ポップアップ。N21×ミャクミャクのコラボTシャツや、EXPO2025 ミャクミャク サンリオキャラクターズの公式グッズなどを販売する。<br><br><a href='https://prtimes.jp/main/html/rd/p/000000133.000068828.html' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://prtimes.jp/main/html/rd/p/000000133.000068828.html",
-        "image_url": "https://prcdn.freetls.fastly.net/release_image/68828/133/68828-133-4e301e912672bbc2c142cc2ea8451ed1-2022x1616.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.7307334,
-          35.66109527
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "VINYL RECORDS PARTY in EXPO 2025 ～Sounds Without Borders～ 1 Year After Party",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【VINYL RECORDS PARTY in EXPO 2025 ～Sounds Without Borders～ 1 Year After Party】</b><br>📅 期間: 2026/10/03 ～ 2026/10/03<br>📝 2025年10月1日に大阪・関西万博会場内「ポップアップステージ西」で開催されたDJイベントの1周年アフターパーティ。心斎橋PARCO B2のTank酒場で、当時のEXPO DJs約20名が再集結する予定。15:00～22:00。<br><br><a href='https://x.com/Rumi_1212/status/2098210090830725341' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://x.com/Rumi_1212/status/2098210090830725341",
-        "image_url": "https://pbs.twimg.com/media/HR5W8rAbsAA05-y?format=webp&name=large"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.5011398,
-          34.67402815
         ]
       }
     },
@@ -4260,63 +3823,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "にしよどアフター万博2026（イズミヤSC福町）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【にしよどアフター万博2026（イズミヤSC福町）】</b><br>📅 期間: 2026/09/22 ～ 2026/09/23<br>📝 万博出展団体・企業が西淀川区に集結する体験イベント。鳥取・ヨルダンの砂、海外パビリオンレガシー展示、NTT・PASONAのユニフォーム、ペルー民族衣装、ロボット体験、黒板アート、スパークのグリーティングなどを展開。各日10:00～15:00、参加無料。<br><br><a href='https://www.city.osaka.lg.jp/nishiyodogawa/page/0000686791.html' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://www.city.osaka.lg.jp/nishiyodogawa/page/0000686791.html",
-        "image_url": "https://www.city.osaka.lg.jp/nishiyodogawa/cmsfiles/contents/0000686/686791/myakumyaku_eastgate_00264_00001.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.444357,
-          34.70008894
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "「いのちの湧水」大阪公立大学継承プロジェクト（中百舌鳥キャンパス）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【「いのちの湧水」大阪公立大学継承プロジェクト（中百舌鳥キャンパス）】</b><br>📅 期間: 2026/07/01 ～ 2026/09/29<br>📝 大阪・関西万博の大阪ヘルスケアパビリオンで展示された地球儀型アクアポニックス「いのちの湧水」を大阪公立大学が継承。中百舌鳥キャンパスへ移設し、教育・研究・社会貢献に活用するクラウドファンディングを実施。募集は9月29日23:00まで。<br><br><a href='https://readyfor.jp/projects/omu-aquaponics' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://readyfor.jp/projects/omu-aquaponics",
-        "image_url": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.5079368,
-          34.54794967
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EXPO2025オフィシャルポップアップストア エキュート秋葉原店／ミャクミャクスタジオ",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【EXPO2025オフィシャルポップアップストア エキュート秋葉原店／ミャクミャクスタジオ】</b><br>📅 期間: 2026/09/18 ～ 2026/09/27<br>📝 JR秋葉原駅1階改札内「TOPPA!!! BASE AKIBA」に期間限定オープン。PLAT UMEKITA店で好評だった体験型デジタルフォトブース「ミャクミャクスタジオ」が登場し、秋葉原店限定フォトフレームや限定商品も展開。8:00～11:00は当日オンライン整理券制。<br><br><a href='https://www.expo2025.or.jp/news/news-20260916-01/' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": true,
-        "isKomyaku": false,
-        "link": "https://www.expo2025.or.jp/news/news-20260916-01/",
-        "image_url": "https://www.expo2025.or.jp/wp/wp-content/uploads/22gazou1.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.7733555,
-          35.69864843
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "（予定）中東アラビアンフェスティバル2026（咲洲モリーナ）",
         "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【中東アラビアンフェスティバル2026（咲洲モリーナ）】</b><br>📅 期間: 2026/10/23 ～ 2026/10/25<br>📝 大阪・関西万博で高まった中東への関心を、2030年リヤド万博へつなぐ体験型イベント。ワディラム砂漠体験、死海エステ、乳香、アラビアンメイク、各国の食・音楽・ダンスなどを展開。無料エリアとチケット制エリアで構成。<br><br><a href='https://prtimes.jp/main/html/rd/p/000000012.000161409.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
@@ -4330,25 +3836,6 @@
         "coordinates": [
           135.4156619,
           34.6395145
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "アフター万博ひょうごレガシーフェスタ（神戸・京町筋）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【アフター万博ひょうごレガシーフェスタ（神戸・京町筋）】</b><br>📅 期間: 2026/10/03 ～ 2026/10/04<br>📝 万博で発信した兵庫の魅力が神戸・京町筋に集結するレガシーフェスタ。飲食・展示・体験など33ブースを予定し、ミャクミャク×はばタン×スフラのステージを両日3回開催する。10月3日10:30～19:00、4日10:00～18:00。<br><br><a href='https://web.pref.hyogo.lg.jp/kk12/press/20260917.html' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://web.pref.hyogo.lg.jp/kk12/press/20260917.html",
-        "image_url": "https://web.pref.hyogo.lg.jp/shared/site_rn/images/sns/logo.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.1933577,
-          34.68837268
         ]
       }
     },
@@ -4507,19 +3994,342 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "クラゲ館がやってくる！ 万博体験ワークショップ（八尾市文化会館 プリズムホール）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【クラゲ館がやってくる！ 万博体験ワークショップ（八尾市文化会館 プリズムホール）】</b><br>📅 期間: 2026/10/04 ～ 2026/10/04<br>📝 大阪・関西万博シグネチャーパビリオン「いのちの遊び場 クラゲ館」の体験型ワークショップイベント。書や地域散策の絵、土器体験、ミサンガ作りなど複数のプログラムを楽しめる。2026年10月4日10:00～16:00、八尾市文化会館プリズムホール1階 光のプラザで開催。参加無料・申込不要。<br><br><a href='https://www.prismhall.jp/' target='_blank'>🔗 詳細を開く</a>",
+        "name": "（予定）Re:EXPO Final in 中央区",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【Re:EXPO Final in 中央区】</b><br>📅 期間: 2026/10/10 ～ 2026/10/10<br>📝 大阪市中央区役所1階ロビーで開催するアフター万博イベント。万博関連トーク、KURAGE Band生演奏、万博出展ユニフォームやパビリオン使用膜素材などの展示・体験ブースを実施。入場無料・申込不要。<br><br><a href='https://www.city.osaka.lg.jp/chuo/page/0000687066.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false,
         "isKomyaku": false,
-        "link": "https://www.prismhall.jp/",
+        "link": "https://www.city.osaka.lg.jp/chuo/page/0000687066.html",
+        "image_url": "https://www.city.osaka.lg.jp/chuo/css/img/ogp_image.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.509918,
+          34.68143795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）大阪・関西万博報道写真展 ～閉幕から1年 万博から始まった物語～",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【大阪・関西万博報道写真展 ～閉幕から1年 万博から始まった物語～】</b><br>📅 期間: 2026/10/13 ～ 2026/10/19<br>📝 あべのハルカス近鉄本店で、閉幕後1年間のアフター万博や関西に広がるレガシー、GREEN×EXPO 2027への継承を紹介する報道写真展。万博由来の実物展示やスタンプも予定。入場無料。<br><br><a href='https://prtimes.jp/main/html/rd/p/000000171.000155220.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://prtimes.jp/main/html/rd/p/000000171.000155220.html",
+        "image_url": "https://prcdn.freetls.fastly.net/release_image/155220/171/155220-171-906bf71079e51c2f6dd1c5036150608b-3900x970.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5134687,
+          34.64624902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）ミャクミャク×ハミクマ コラボフード＆グッズ（USJ）",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【ミャクミャク×ハミクマ コラボフード＆グッズ（USJ）】</b><br>📅 期間: 2026/10/13 ～ 2026/10/13<br>📝 大阪・関西万博閉幕1周年メモリアルイベントを記念した、ミャクミャクとハミクマのコラボ。2026年10月13日から公式ライセンスグッズを販売し、「EXPO2025 ミャクミャクまん ～たこ焼き味～」は10月13日限定で登場。<br><br><a href='https://www.usj.co.jp/web/ja/jp/news/2026/0930' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.usj.co.jp/web/ja/jp/news/2026/0930",
+        "image_url": "https://www.usj.co.jp/contentdata/usj/ja/jp/files/assets/logos/universal-japan-logo-b.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4330588,
+          34.66588851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "大阪・関西万博グルメフェア（あべのハルカス近鉄本店）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【大阪・関西万博グルメフェア（あべのハルカス近鉄本店）】</b><br>📅 期間: 2026/10/08 ～ 2026/10/13<br>📝 あべのハルカス近鉄本店ウイング館9階催会場で開催。ポルトガル、コロンビア、オマーン、クウェート、カンボジア、イギリス、中央アジア、アンゴラ、カナダなど、大阪・関西万博にゆかりのある各国グルメを展開。<br><br><a href='https://abenoharukas.d-kintetsu.co.jp/pages/202610expo_gourmet/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://abenoharukas.d-kintetsu.co.jp/pages/202610expo_gourmet/",
+        "image_url": "https://abenoharukas.d-kintetsu.co.jp/assets/textarea_web_page/202610expo_gourmet.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5134687,
+          34.64624902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）大阪・関西万博クウェートパビリオン移設記念セレモニー",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【大阪・関西万博クウェートパビリオン移設記念セレモニー】</b><br>📅 期間: 2026/11/07 ～ 2026/11/07<br>📝 佐賀県立産業技術学院へ移設したクウェートパビリオンの一部の完成を記念するセレモニー。愛称発表やフラッグつなぎ、記念撮影を実施し、ミャクミャクも登場予定。一般観覧可・事前申込不要。<br><br><a href='https://www.pref.saga.lg.jp/kiji003121364/index.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.pref.saga.lg.jp/kiji003121364/index.html",
+        "image_url": "http://www.pref.saga.lg.jp/dynamic/common/images/ogp/og_image.gif"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0926098,
+          33.28242171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）秋の民家まつり「めぐる茅、つながる未来」（日本民家集落博物館）",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【秋の民家まつり「めぐる茅、つながる未来」（日本民家集落博物館）】</b><br>📅 期間: 2026/10/25 ～ 2026/10/25<br>📝 日本民家集落博物館の秋イベント内で、シグネチャーパビリオン「EARTH MART」に関する展示・謎解きを実施。クリア者には先着でミャクミャク・もずやんの「万博レガシール」等を進呈。<br><br><a href='https://www.pref.osaka.lg.jp/hodo/fumin/o180150/prs_50731.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.pref.osaka.lg.jp/hodo/fumin/o180150/prs_50731.html",
+        "image_url": "https://www.pref.osaka.lg.jp/shared/images/sns/logo.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4872257,
+          34.77959943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）「おかえりなさいヨヤクナシ42」ファンミーティング（Cafe Bintang 道頓堀店）",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【「おかえりなさいヨヤクナシ42」ファンミーティング（Cafe Bintang 道頓堀店）】</b><br>📅 期間: 2026/10/12 ～ 2026/10/12<br>📝 大阪・関西万博インドネシアパビリオンで人気となったYOYAKUNASHI 42のMeet & Greet。2026年10月12日18:00～20:00、予約制・先着60名、参加費とビュッフェ代の合計5,000円。<br><br><a href='https://docs.google.com/forms/d/e/1FAIpQLScOLd_upxKhYMK55Q429E9pc1REIHuSPIr944t7pN0KuiQgLw/viewform' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://docs.google.com/forms/d/e/1FAIpQLScOLd_upxKhYMK55Q429E9pc1REIHuSPIr944t7pN0KuiQgLw/viewform",
+        "image_url": "https://lh4.googleusercontent.com/Wj3EDPZKaQGc0TwpKF-fvs0UiD3K7G57H-9ObznH4Po4dKRuoIuyya64RtRHtk9YZI2gVRUtbIi4-sI=w1200-h630-p"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.501603,
+          34.66977268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）ミャクミャク グリーティング（SAGA × Out of KidZania 2026）",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【ミャクミャク グリーティング（SAGA × Out of KidZania 2026）】</b><br>📅 期間: 2026/11/07 ～ 2026/11/08<br>📝 SAGA × Out of KidZania 2026会場の佐賀県立産業技術学院で、移設されたクウェートパビリオン付近にミャクミャクが登場。11月7日・8日に複数回グリーティングを実施。<br><br><a href='https://saga-outofkidzania.com/press/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://saga-outofkidzania.com/press/",
+        "image_url": "https://saga-outofkidzania.com/common/img/ogp.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0926098,
+          33.28242171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）万博で食べてもらった【爆】食博（あべのハルカス近鉄本店）",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【万博で食べてもらった【爆】食博（あべのハルカス近鉄本店）】</b><br>📅 期間: 2026/10/17 ～ 2026/10/17<br>📝 八尾市・松原市・藤井寺市が集まり、大阪・関西万博に出店した「食」をテーマに販売するアフター万博イベント。あべのハルカス近鉄本店2階ウエルカムガレリアで開催。<br><br><a href='https://www.city.yao.osaka.jp/bunka_sports_event/yaopromotion_banpaku/1011556/1025368.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.city.yao.osaka.jp/bunka_sports_event/yaopromotion_banpaku/1011556/1025368.html",
+        "image_url": "https://www.city.yao.osaka.jp/_template_/_site_/_default_/_res/images/sns/ogimage.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5134687,
+          34.64624902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）万博バーラトフェス 2nd 2026 AUTUMN／ビリヤニ祭",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【万博バーラトフェス 2nd 2026 AUTUMN／ビリヤニ祭】</b><br>📅 期間: 2026/10/17 ～ 2026/10/18<br>📝 万博記念公園・下の広場で開催する日本万博バーラト協会の秋イベント。ビリヤニを中心にインド・アフリカ・中東などの料理や物販、ステージ企画などを展開。イベント入場無料（別途公園入園料）。<br><br><a href='https://www.expo-bharat.jp/bharat-fes2nd' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.expo-bharat.jp/bharat-fes2nd",
+        "image_url": "https://static.wixstatic.com/media/9f5db7_f4149fee544e4b1391c56c4ec8ead853%7Emv2.png/v1/fit/w_2500,h_1330,al_c/9f5db7_f4149fee544e4b1391c56c4ec8ead853%7Emv2.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5323919,
+          34.80846515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）高石シーサイドフェスティバルファイナル-2026-（アフター万博）",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【高石シーサイドフェスティバルファイナル-2026-（アフター万博）】</b><br>📅 期間: 2026/10/24 ～ 2026/10/24<br>📝 浜寺公園・交通遊園前芝生広場で開催。主にアフター万博をテーマに、大阪・関西万博で高石市が披露したコンテンツの再現などを予定。<br><br><a href='https://www.city.takaishi.lg.jp/kakuka/sougouseisaku/tiikisosei_ka/t_seasidefes/5555.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.city.takaishi.lg.jp/kakuka/sougouseisaku/tiikisosei_ka/t_seasidefes/5555.html",
+        "image_url": "//www.city.takaishi.lg.jp/theme/base/img_common/ogp_noimage.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.440892,
+          34.54223015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）きたよ、万博。in ひらかた ～あの感動をもう一度～（和幸カントリー倶楽部会場）",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【きたよ、万博。in ひらかた ～あの感動をもう一度～（和幸カントリー倶楽部会場）】</b><br>📅 期間: 2026/10/25 ～ 2026/10/25<br>📝 枚方市内3会場で同時開催するアフター万博イベント。万博ユニフォームや民族衣装の展示、ヨルダンのワディ・ラム砂漠の赤い砂体験、ヨルダンフードづくり体験、ヨルダン死海の泥エステ、アラビア語講座などのほか、ヨルダンやフィリピンなどの世界のキッチンカー、地元野菜を使ったラーメン、ビールも出店。特設ステージではミャクミャクの出演のほか、市内の子どもたちによるダンスや吹奏楽も。<br><br><a href='https://www.city.hirakata.osaka.jp/0000054228.html#link-1' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.city.hirakata.osaka.jp/0000054228.html#link-1",
+        "image_url": "https://www.city.hirakata.osaka.jp/design_img/og_image.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7414456,
+          34.79997347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）きたよ、万博。in ひらかた ～あの感動をもう一度～（東部清掃工場 代表地点）",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【きたよ、万博。in ひらかた ～あの感動をもう一度～（東部清掃工場 代表地点）】</b><br>📅 期間: 2026/10/25 ～ 2026/10/25<br>📝 枚方市内3会場で同時開催するアフター万博イベント。ドイツパビリオン公式マスコットキャラクターのサーキュラーちゃんの出演、ドイツパビリオン1/50スケール模型の展示、ノモの国（パナソニックグループパビリオン）関連の展示や動画放映のほか、ミャクミャクパネル展示によるフォトスポットを設置。そのほか、工場見学や高さ100mの煙突登頂、ヌマエビすくい、里山生物の展示など、ごみや環境について楽しく学べるコーナーも。<br><br><a href='https://www.city.hirakata.osaka.jp/0000054228.html#link-2' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.city.hirakata.osaka.jp/0000054228.html#link-2",
+        "image_url": "https://www.city.hirakata.osaka.jp/design_img/og_image.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7442361,
+          34.80165401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）きたよ、万博。in ひらかた ～あの感動をもう一度～(ラポールひらかた、枚方市総合文化芸術センター施設前広場)",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【きたよ、万博。in ひらかた ～あの感動をもう一度～(ラポールひらかた、枚方市総合文化芸術センター施設前広場)】</b><br>📅 期間: 2026/10/25 ～ 2026/10/25<br>📝 枚方市内3会場で同時開催するアフター万博イベント。パビリオン展示や各国文化・グルメ、万博スタンプラリーなどを実施。代表ピンは和幸カントリー倶楽部。<br><br><a href='https://www.city.hirakata.osaka.jp/0000054228.html#link-3' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.city.hirakata.osaka.jp/0000054228.html#link-3",
+        "image_url": "https://www.city.hirakata.osaka.jp/design_img/og_image.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6474797,
+          34.81821963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）ちょこっと万博レガシー・ウォーク&スタンプラリー in 堺区",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【ちょこっと万博レガシー・ウォーク&スタンプラリー in 堺区】</b><br>📅 期間: 2026/10/27 ～ 2026/11/15<br>📝 堺区内6施設を巡り、万博参加国やミャクミャク等のスタンプとレガシー展示を楽しむ周遊企画。全6種類を集めると景品抽選に応募可能。代表ピンはMI-TEさかい（堺市役所21階展望ロビー）。<br><br><a href='https://www.city.sakai.lg.jp/sakai/torikumi/machidukuritorikumi/machi/r8/chokottobannpaku.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.city.sakai.lg.jp/sakai/torikumi/machidukuritorikumi/machi/r8/chokottobannpaku.html",
+        "image_url": "https://www.city.sakai.lg.jp/images/sakai_ogp_image.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4833598,
+          34.57396982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）万博記念公園 プロジェクションマッピングイベント「Back to EXPO’70」",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【万博記念公園 プロジェクションマッピングイベント「Back to EXPO’70」】</b><br>📅 期間: 2026/11/22 ～ 2026/12/30<br>📝 太陽の塔とEXPO’70パビリオンで1970年大阪万博と2025年大阪・関西万博を再体験するプロジェクションマッピング。大阪・関西万博で上映された「Back to EXPO’70」も復活。<br><br><a href='https://www.expo70-park.jp/event/77555/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.expo70-park.jp/event/77555/",
         "image_url": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.6067137,
-          34.62945601
+          135.5323919,
+          34.80846515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）ミャクミャクねそべり",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【ミャクミャクねそべり】</b><br>📅 期間: 2026/10/13 ～ 2026/12/25<br>📝 大阪市は大阪・関西万博の公式キャラクター「ミャクミャク」のモニュメントを13日から市役所正面玄関前に設置すると発表した。昨年12月に市役所から住之江区のアジア太平洋トレードセンター（ATC）に移設されており、万博閉幕から1年に合わせて12月25日までの期間限定で帰ってくる。<br><br><a href='https://www.city.osaka.lg.jp/hodoshiryo/keizaisenryaku/0000686039.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.city.osaka.lg.jp/hodoshiryo/keizaisenryaku/0000686039.html",
+        "image_url": "https://www.city.osaka.lg.jp/main/css/img/ogp_image.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5020918,
+          34.69387333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ミャクミャクワクワク",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ミャクミャクワクワク】</b><br>📅 期間: 2026/09/19 ～ 2026/11/23<br>📝 ミャクミャクモニュメント「ワクワク」の設置は開催期間: 2026年（令和8年）9月19日（土）〜 11月23日（月・祝）まで。万博の思い出と大阪の山の魅力を同時に楽しめるイベントです。<br><br><a href='https://www.pref.osaka.lg.jp/hodo/fumin/o120030/prs_51190.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.pref.osaka.lg.jp/hodo/fumin/o120030/prs_51190.html",
+        "image_url": "https://www.pref.osaka.lg.jp/shared/images/sns/logo.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6782196,
+          34.41105953
         ]
       }
     }
