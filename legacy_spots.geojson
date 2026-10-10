@@ -1676,8 +1676,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "（予定）麻布台ヒルズアリーナ　大阪・関西万博の1周年メモリアルイベントTour「EXPO2025 Futures Tour」の開催が決定しました！",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【麻布台ヒルズアリーナ　大阪・関西万博の1周年メモリアルイベントTour「EXPO2025 Futures Tour」の開催が決定しました！】</b><br>📅 期間: 2026/10/10 ～ 2026/10/11<br>📝 万博で生まれた感動や未来へのワクワクを、閉幕後も全国各地へつないでいくアフター万博イベントです。大阪・関西万博に行った人も、行けなかった人も、各地で“もう一度万博”を感じられる機会になりそうです。<br><br><a href='https://www.expo2025.or.jp/news/news-20260619-03/' target='_blank'>🔗 詳細を開く</a>",
+        "name": "麻布台ヒルズアリーナ　大阪・関西万博の1周年メモリアルイベントTour「EXPO2025 Futures Tour」の開催が決定しました！",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【麻布台ヒルズアリーナ　大阪・関西万博の1周年メモリアルイベントTour「EXPO2025 Futures Tour」の開催が決定しました！】</b><br>📅 期間: 2026/10/10 ～ 2026/10/11<br>📝 万博で生まれた感動や未来へのワクワクを、閉幕後も全国各地へつないでいくアフター万博イベントです。大阪・関西万博に行った人も、行けなかった人も、各地で“もう一度万博”を感じられる機会になりそうです。<br><br><a href='https://www.expo2025.or.jp/news/news-20260619-03/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false,
         "isKomyaku": false,
@@ -1942,8 +1942,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "（予定）EXPO2025オフィシャルポップアップストア 麻布台ヒルズ店",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【EXPO2025オフィシャルポップアップストア 麻布台ヒルズ店】</b><br>📅 期間: 2026/10/10 ～ 2026/10/11<br>📝 EXPO2025 Futures Tour東京会場にあわせて、麻布台ヒルズで展開されるオフィシャルポップアップストア。全国ツアー終盤に首都圏で万博公式グッズを楽しめるスポット。<br><br><a href='https://expo2025mlo.jp/wp-content/themes/expo-2025/assets/file/officialstore_list.pdf' target='_blank'>🔗 詳細を開く</a>",
+        "name": "EXPO2025オフィシャルポップアップストア 麻布台ヒルズ店",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【EXPO2025オフィシャルポップアップストア 麻布台ヒルズ店】</b><br>📅 期間: 2026/10/10 ～ 2026/10/11<br>📝 EXPO2025 Futures Tour東京会場にあわせて、麻布台ヒルズで展開されるオフィシャルポップアップストア。全国ツアー終盤に首都圏で万博公式グッズを楽しめるスポット。<br><br><a href='https://expo2025mlo.jp/wp-content/themes/expo-2025/assets/file/officialstore_list.pdf' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": true,
         "isKomyaku": false,
@@ -2309,7 +2309,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.yomiuri.co.jp/local/kansai/news/20260526-GYO1T00123/",
-        "image_url": "https://www.yomiuri.co.jp/media/2026/05/20260526-GYO1I00124-1.jpg?type=ogp"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -2461,7 +2461,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.threads.com/@crew184_expo.epilogue.cafe",
-        "image_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/658898481_18070880096308952_7068635315121074024_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=b3fa00&_nc_ohc=9Mw_DuN6_EQQ7kNvwHc572H&_nc_oc=AdoYCq3Lc1QfoeUYbIWx91KLmyApfIzXa7LDxrDwIvxPZBPl0c7oqoWiUKarAnyI76c&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=T_ea7iEdbQfWDQLou10bOw&_nc_ss=7f20f&oh=00_AQO36cJhiHUhnqOywG1u8iSqQNqhopagv-OjrStW2bOXqg&oe=6ACF4F89"
+        "image_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/658898481_18070880096308952_7068635315121074024_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=b3fa00&_nc_ohc=9Mw_DuN6_EQQ7kNvwFJbnXS&_nc_oc=Adq_Zwd7DDw3xKdYM8tOADw3jlB7_7gRC51YYLK2I9Kl89ZJQ6RObJOPte65bPGQR-w&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=UXkonsx4bh4ap7S-zhUSCA&_nc_ss=7f20f&oh=00_AQM1MeNhMyx1AKePlqMyKoaJ0zJ74yG-XxBcAo7P8OPwuA&oe=6ACF87C9"
       },
       "geometry": {
         "type": "Point",
@@ -2499,7 +2499,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DalfgwECeqF/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==",
-        "image_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/741671055_18599635276031936_3389225437979274047_n.jpg?stp=c460.0.1383.1382a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=tGubtLM0YosQ7kNvwFOn9MW&_nc_oc=AdrsT2CISABfuhjbK3Q0XlzIaaRx4z7NYcDqtJC3sA0w59GI9v7w3UNfWngJ_MTms_A&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=A2_3TPVyFlGygDWDu0slDg&_nc_ss=7f60f&oh=00_AQNT-pof_J_vIII-l_GiOMo0E7KR8LpdREzrrJ1ORC1FtQ&oe=6ACF4C4D"
+        "image_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/741671055_18599635276031936_3389225437979274047_n.jpg?stp=c460.0.1383.1382a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=tGubtLM0YosQ7kNvwF5JeNZ&_nc_oc=Adp-xGHe02VTDqjaoAYEOO-1rCih866JH4WXHJcwVPywk0s6RS0tvAhOrKvmrtMKw88&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=BmVJBS1GlUuHG554Pcyyqg&_nc_ss=7fa02&oh=00_AQOr76uXv-G38ESr9y3cEV0hVBD3yKw66EVW_Mu07HfkvA&oe=6ACF848D"
       },
       "geometry": {
         "type": "Point",
@@ -2575,7 +2575,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DahWKivEoTO/",
-        "image_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/741068451_18336425095268595_8303109530742012563_n.jpg?stp=c595.0.1786.1786a_dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=oZxlZEtTD8UQ7kNvwFYen97&_nc_oc=AdpqDbnSqS8oGYZ6F1esdpZmod2Y_pvgQDYKoYjL_BfIEBbQunhttuxpgJswrk-zbnA&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=oRa_6qtk1qoSLxng7bqlQQ&_nc_ss=7f60f&oh=00_AQPESFgsSdAFRat4-8dezqXpWxxui_02JE9rSumYEIIjGA&oe=6ACF525A"
+        "image_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/741068451_18336425095268595_8303109530742012563_n.jpg?stp=c595.0.1786.1786a_dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=oZxlZEtTD8UQ7kNvwFZ1e9n&_nc_oc=AdpwZwZ0sjvlYl4fEsBNZqyLyj7g7w8EgTTtOjZfhLnxZ850am4-G6fQK3e9iYHZXi8&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=LyBEYNmE6M0FiWpK2meB_Q&_nc_ss=7fa02&oh=00_AQNAcuFPYcXNK_R59-xENFrEjLcTicwObgjyqUYkGZUlzA&oe=6ACF8A9A"
       },
       "geometry": {
         "type": "Point",
@@ -3183,7 +3183,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DbKK7NEGE7E/?img_index=1",
-        "image_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/753225335_18022982300902789_7585897524133363841_n.jpg?stp=c604.0.1815.1814a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=bHXdZJVSejoQ7kNvwFZTDXf&_nc_oc=AdrmjSCI_SO9fNqADwljhSJ_rwDyxcOfsPHmMnFERhhouie4p-3Y5cEYDHLefcA4AF8&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=M_nho_-2iUfRU8DcEZfMDA&_nc_ss=7f60f&oh=00_AQOz-bU3FBFFt1Tpn0Fwr-ebTYSH_fqgYkDTt4LrN3T80g&oe=6ACF541F"
+        "image_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/753225335_18022982300902789_7585897524133363841_n.jpg?stp=c604.0.1815.1814a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=bHXdZJVSejoQ7kNvwEdkuwJ&_nc_oc=AdoEJ9i812F2lpiG4LVWGsDQY24mXUvF-lRuTzufP8x3jBChYzXVRpVqPNXwTivgiWs&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=WLCdCeMyM_KAQMsXP3xUhg&_nc_ss=7fa02&oh=00_AQMKWBCCR4zeTgtwB-_sVJ6dtfVouFawBWghJ4nKW9pIaQ&oe=6ACF541F"
       },
       "geometry": {
         "type": "Point",
@@ -3240,7 +3240,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DSEdd_lAVML/",
-        "image_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/597898317_17923907505186513_2290017976650464759_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=MplNBQZNQk0Q7kNvwFFpVHS&_nc_oc=Adq1L92XW_W_fo7Jok6O-TBvrlUrGs69USTSPNcU-t5hr1-Oblr83gBKI8yI8jrEqwo&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=yVnAzWD8AKEh4eHJ8dbkew&_nc_ss=7f60f&oh=00_AQMloliXX99m1Y_1JWZEscApQ-NVn0vnmzj7KCyVCrHf1w&oe=6ACF2E72"
+        "image_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/597898317_17923907505186513_2290017976650464759_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=MplNBQZNQk0Q7kNvwFupX4K&_nc_oc=AdoVXg4f-ztg0x5mOcvNA84-XzJMbgeKPAe_Lrt9ujFS5r0qQQstKuHYBNztqIAkO4I&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=EW3-scV9dnpfdys26NAEAg&_nc_ss=7fa02&oh=00_AQNldAUnZg0bozaxYFm_3_5WE_g4Ptf6SZu3evDkO5gNBg&oe=6ACF66B2"
       },
       "geometry": {
         "type": "Point",
@@ -3373,7 +3373,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://jam.jutfoundation.org.tw/exhibition/5639",
-        "image_url": "https://jam.jutfoundation.org.tw/sites/default/files/2025%20%E5%B9%B4%E5%A4%A7%E9%98%AA%EF%BC%8E%E9%97%9C%E8%A5%BF%E8%90%AC%E5%8D%9A%E3%80%88%E7%92%B0%E5%BD%A2%E5%A4%A7%E5%B1%8B%E9%A0%82%E3%80%89%20%C2%A9%20Iwan%20Baan.jpg"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -3690,8 +3690,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "（予定）おおさか都市緑化フェア2026（大泉緑地）",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【おおさか都市緑化フェア2026（大泉緑地）】</b><br>📅 期間: 2026/10/10 ～ 2026/10/10<br>📝 大泉緑地中央花壇周辺で開催される都市緑化フェア。花とみどりのまちづくりをテーマに、ワークショップや展示・物販を実施し、GREEN×EXPO 2027のPRも展開する。入場無料、事前申込不要、一部プログラムは材料費等が必要。<br><br><a href='https://www.pref.osaka.lg.jp/o130140/toshiryokukafea/toshiryokukafea2026.html' target='_blank'>🔗 詳細を開く</a>",
+        "name": "おおさか都市緑化フェア2026（大泉緑地）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【おおさか都市緑化フェア2026（大泉緑地）】</b><br>📅 期間: 2026/10/10 ～ 2026/10/10<br>📝 大泉緑地中央花壇周辺で開催される都市緑化フェア。花とみどりのまちづくりをテーマに、ワークショップや展示・物販を実施し、GREEN×EXPO 2027のPRも展開する。入場無料、事前申込不要、一部プログラムは材料費等が必要。<br><br><a href='https://www.pref.osaka.lg.jp/o130140/toshiryokukafea/toshiryokukafea2026.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false,
         "isKomyaku": false,
@@ -3810,7 +3810,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://x.com/miyaqmyaku389/status/2093088575034438117?s=20",
-        "image_url": "https://pbs.twimg.com/media/HQwk8AaacAA_djA?format=webp&name=large"
+        "image_url": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png"
       },
       "geometry": {
         "type": "Point",
@@ -3994,8 +3994,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "（予定）Re:EXPO Final in 中央区",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【Re:EXPO Final in 中央区】</b><br>📅 期間: 2026/10/10 ～ 2026/10/10<br>📝 大阪市中央区役所1階ロビーで開催するアフター万博イベント。万博関連トーク、KURAGE Band生演奏、万博出展ユニフォームやパビリオン使用膜素材などの展示・体験ブースを実施。入場無料・申込不要。<br><br><a href='https://www.city.osaka.lg.jp/chuo/page/0000687066.html' target='_blank'>🔗 詳細を開く</a>",
+        "name": "Re:EXPO Final in 中央区",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【Re:EXPO Final in 中央区】</b><br>📅 期間: 2026/10/10 ～ 2026/10/10<br>📝 大阪市中央区役所1階ロビーで開催するアフター万博イベント。万博関連トーク、KURAGE Band生演奏、万博出展ユニフォームやパビリオン使用膜素材などの展示・体験ブースを実施。入場無料・申込不要。<br><br><a href='https://www.city.osaka.lg.jp/chuo/page/0000687066.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false,
         "isKomyaku": false,
