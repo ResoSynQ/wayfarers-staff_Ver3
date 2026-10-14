@@ -6,6 +6,26 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "「特別に大事な友達だったんだろうな」11ぴきのねこを和菓子で再現　作家・馬場のぼるさんの同級生の店が考案した商品とそこに込められた思い「絵本に忠実に近づけるように柔らかく優しい商品に」　青森県三戸町(ＡＴＶ青森テレビ)",
+        "name": "三戸町役場",
+        "address": "",
+        "reason": "絵本の世界観を再現した和菓子が魅力的",
+        "date": "2026-10-15",
+        "link": "https://news.yahoo.co.jp/articles/3a331f3c14d294049b5f07bf8d21b481e7852d93?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261015-23012370-atv-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.2587446,
+          40.378406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "カエロカエロ　豊穣を神に感謝　奇祭「蛙踊り」奉納／兵庫・丹波篠山市(丹波新聞)",
         "name": "丹波篠山市役所",
         "address": "",
