@@ -6,6 +6,26 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "9月に続いて再びオオサンショウウオの産卵を確認　飼育環境の整備が産卵につながったか　島根県邑南町　瑞穂ハンザケ自然館(日本海テレビ)",
+        "name": "瑞穂ハンザケ自然館",
+        "address": "",
+        "reason": "珍しいオオサンショウウオの産卵を間近で見られるチャンス",
+        "date": "2026-10-16",
+        "link": "https://news.yahoo.co.jp/articles/a52145deac3044980b0ddb25a328f3156926c48d?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261016-01965896-nkt-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.5167038,
+          34.8500604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "「特別に大事な友達だったんだろうな」11ぴきのねこを和菓子で再現　作家・馬場のぼるさんの同級生の店が考案した商品とそこに込められた思い「絵本に忠実に近づけるように柔らかく優しい商品に」　青森県三戸町(ＡＴＶ青森テレビ)",
         "name": "三戸町役場",
         "address": "",
