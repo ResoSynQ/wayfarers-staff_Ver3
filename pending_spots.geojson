@@ -6,6 +6,106 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "豪華なだんじり巡行　橿原・十市秋の例祭(奈良新聞デジタル)",
+        "name": "十市橋北詰交差点",
+        "address": "",
+        "reason": "「豪華なだんじり」と「秋の例祭」という祭りの魅力を感じさせる言葉で、興味を引くため",
+        "date": "2026-10-17",
+        "link": "https://news.yahoo.co.jp/articles/69304a0f57f03eb560894c9c259935d24747fd42?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261017-00000001-naranp-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7974848,
+          34.5299513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "今季は“野生の楽園”…国内最大級の規模『なばなの里イルミネーション』 新エリア・ゴールデンサファリも登場(東海テレビ)",
+        "name": "なばなの里",
+        "address": "",
+        "reason": "「野生の楽園」をテーマにした幻想的なイルミネーションと新エリアに魅力を感じる",
+        "date": "2026-10-17",
+        "link": "https://news.yahoo.co.jp/articles/6f19e6d904a63bc9a18fbc38f8bab03596f830f0?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261017-90048853-tokaiv-000-1-thumb.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.70257604,
+          35.08108122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "ヤンキー系アイドル「C－Style」を「ぶっちぎり広報官」に委嘱　館山署　イオンタウン館山で防犯呼びかけ（千葉県）(房日新聞)",
+        "name": "イオンタウン館山",
+        "address": "",
+        "reason": "ヤンキー系アイドルの防犯イベントに興味を引かれる",
+        "date": "2026-10-17",
+        "link": "https://news.yahoo.co.jp/articles/eaa942d22c639c47d8da9dc9e3d89f0423ba9012?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261017-00010000-bonichi-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8620268,
+          35.0084951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "絵を描き絆深める　館山市親子写生大会に89人（千葉県）(房日新聞)",
+        "name": "館山市役所",
+        "address": "",
+        "reason": "親子で自然に触れ合いながら絵を描く体験ができる",
+        "date": "2026-10-17",
+        "link": "https://news.yahoo.co.jp/articles/f7136baf00d414c7bc653e1cf845aa5b5bd70507?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261017-00010001-bonichi-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8699652,
+          34.9965054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "専門学校に寿司職人養成の新カリキュラム「寿司専科」登場　背景に“海外の日本食ブーム”　教え子の中には年収1600万円稼ぐ職人も…ネパール人留学生も「お店を開きたい」　寿司に特化するワケとは?(BSS山陰放送)",
+        "name": "米子文化服装専門学校",
+        "address": "",
+        "reason": "海外からの注目度が高く、成功事例もあるため",
+        "date": "2026-10-17",
+        "link": "https://news.yahoo.co.jp/articles/baa4089871ab5397b1e10ed86492e49bd3b8ed25?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261017-23018279-bss-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.3329359,
+          35.4347485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "9月に続いて再びオオサンショウウオの産卵を確認　飼育環境の整備が産卵につながったか　島根県邑南町　瑞穂ハンザケ自然館(日本海テレビ)",
         "name": "瑞穂ハンザケ自然館",
         "address": "",
