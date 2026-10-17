@@ -6,6 +6,86 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "唯一無二のローカル車両・阿武隈急行8100形　角田市で保存へ、最後の“お色直し”も進行中(福島テレビ)",
+        "name": "阿武隈急行",
+        "address": "",
+        "reason": "地域色豊かな車両の保存と最後の整備に興味を引かれるため",
+        "date": "2026-10-18",
+        "link": "https://news.yahoo.co.jp/articles/a222c9a119c64648d60aee91185de3704e55cfed?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261018-90034212-ftv-000-1-thumb.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.7695005,
+          37.9617754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "新しい顔 投票で決定へ  南信州シードル認定ロゴ決定戦スタート【長野県飯田下伊那】(南信州新聞)",
+        "name": "飯田市役所",
+        "address": "",
+        "reason": "地域特産品のロゴ決定というユニークなイベント",
+        "date": "2026-10-18",
+        "link": "https://news.yahoo.co.jp/articles/394ce1db0d5feb96fc58a17f8c01f75b43c7b1d3?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261018-00010000-mssnw-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.8214463,
+          35.5149778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "【VIVANT】福島の乃木憂助!?堺雅人さん似で話題の「タリーズ」店長は2年連続Vの実力派バリスタ「似ている」「かわいい!」お客さんにも大人気(TUFテレビユー福島)",
+        "name": "タリーズコーヒー福島野田町店",
+        "address": "",
+        "reason": "堺雅人似のバリスタがいるカフェ",
+        "date": "2026-10-18",
+        "link": "https://news.yahoo.co.jp/articles/2bb19a87ec1c9ffe11362b4f04bddabd414e9be1?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261018-23013788-tuf-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.4469279,
+          37.7575081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "trend",
+        "trend_word": "関東で今季初の冬日 栃木県日光市",
+        "name": "日光市役所",
+        "address": "",
+        "reason": "冬の風物詩である初雪に期待を抱かせる",
+        "date": "2026-10-18",
+        "link": "https://news.yahoo.co.jp/pickup/6599179?source=rss",
+        "image_url": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/10/17/ee9d5901f6e67d7b633883d42ca60ac6f39e81d6031ba1b29ffba733c2ae3def.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6976233,
+          36.7200075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "豪華なだんじり巡行　橿原・十市秋の例祭(奈良新聞デジタル)",
         "name": "十市橋北詰交差点",
         "address": "",
