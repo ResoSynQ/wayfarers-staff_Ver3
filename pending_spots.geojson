@@ -6,6 +6,26 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "「丹波市検定」スタート　観光好季節に誘客促進へ　新木宏典さんコラボ記念品贈呈／兵庫・丹波市(丹波新聞)",
+        "name": "丹波市役所",
+        "address": "",
+        "reason": "特産品や観光資源への理解を深める検定と、地元出身者のコラボ記念品が魅力的",
+        "date": "2026-10-21",
+        "link": "https://news.yahoo.co.jp/articles/843e77e08ada8e3253e64442ee7e4e3acd5cfe68?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00010000-tanba-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.0358534,
+          35.1770996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "唯一無二のローカル車両・阿武隈急行8100形　角田市で保存へ、最後の“お色直し”も進行中(福島テレビ)",
         "name": "阿武隈急行",
         "address": "",
