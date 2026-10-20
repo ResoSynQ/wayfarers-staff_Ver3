@@ -409,7 +409,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.expo70-park.jp/facility/watchlearn/inochidama/",
-        "image_url": "https://www.expo70-park.jp/sys/wp-content/uploads/1c623daf87c5b4e145327b96ac296f03-640x480.jpg"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -713,7 +713,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://panaf.jp/",
-        "image_url": "https://panaf-osaka.com/assets/img/ogp.png"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -732,7 +732,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://kobe-journal.com/archives/7547745875.html",
-        "image_url": "https://i0.wp.com/kobe-journal.com/web/images/2026/04/ai20260421170405.jpg?fit=487%2C274&ssl=1"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -751,7 +751,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://medicineinfra.com/site/expo2025/",
-        "image_url": "https://medicineinfra.com/wp-content/uploads/2025/03/ogp.jpg"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -770,7 +770,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://medicineinfra.com/site/expo2025/",
-        "image_url": "https://medicineinfra.com/wp-content/uploads/2025/03/ogp.jpg"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -1150,7 +1150,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/nauruya_higashiosaka/",
-        "image_url": ""
+        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
       },
       "geometry": {
         "type": "Point",
@@ -1207,7 +1207,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://osaka-shotengai-info.com/bampaku/tenyonkita/",
-        "image_url": "https://osaka-shotengai-info.com/wp-content/uploads/2026/02/DSC_0628.jpg"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -1226,7 +1226,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://osaka-shotengai-info.com/bampaku/tenyonkita/",
-        "image_url": "https://osaka-shotengai-info.com/wp-content/uploads/2026/02/DSC_0628.jpg"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -1872,7 +1872,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://banpakuhanabi.jp/",
-        "image_url": "https://banpakuhanabi.jp/wp-content/uploads/2026/07/ogp.png"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -1891,7 +1891,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://banpakuhanabi.jp/",
-        "image_url": "https://banpakuhanabi.jp/wp-content/uploads/2026/07/ogp.png"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -2043,7 +2043,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/salamcoffee_stand/",
-        "image_url": ""
+        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
       },
       "geometry": {
         "type": "Point",
@@ -2214,7 +2214,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.kobelco.co.jp/notices/2025/1218600_18560.html",
-        "image_url": ""
+        "image_url": "https://www.kobelco.co.jp/app-files/img/symbol/ogp.webp"
       },
       "geometry": {
         "type": "Point",
@@ -2347,7 +2347,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://takasago-mania.com/town-smartpole-sone/",
-        "image_url": "https://takasago-mania.com/wp-content/uploads/2026/03/PXL_20260322_074736057.jpg"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -2366,7 +2366,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.expo70-park.jp/facility/watchlearn/rosegarden/",
-        "image_url": "https://www.expo70-park.jp/sys/wp-content/uploads/sns_190515_04-640x480.jpg"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -2423,7 +2423,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DalfgwECeqF/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==",
-        "image_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-15/741671055_18599635276031936_3389225437979274047_n.jpg?stp=c460.0.1383.1382a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=wznpAXrWYysQ7kNvwG-5gKs&_nc_oc=AdqvV3t0KXhtz-u8KIP2zMMv5f9_NLUCE1JTo4mXuhDk_83HVn17iNLtqexNjOiMU_c&_nc_zt=23&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_gid=DVoAjc9Dhx2ZMbhe3HUdyw&_nc_ss=7f60f&oh=00_AQPwVMUSqTD_9faD429eJk4sbXYJsqV5ZJhrU84XyYZA0w&oe=6ADC7B4D"
+        "image_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/741671055_18599635276031936_3389225437979274047_n.jpg?stp=c460.0.1383.1382a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=wznpAXrWYysQ7kNvwEnFGsi&_nc_oc=AdqIXebVRNOp0VRF1un0cdcWegGE8NOwc2ZtAy9Lc_ptxpD1Sn9SAkH_7hFjUdtrMjg&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=sr39pGl3Pyiw-vCwaArmTw&_nc_ss=7f60f&oh=00_AQNtFfwtbVOz1ye_wnU_n7r2FrxUQUNZoST0W7LTo9c1Yw&oe=6ADCB38D"
       },
       "geometry": {
         "type": "Point",
@@ -2499,7 +2499,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DahWKivEoTO/",
-        "image_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-15/741068451_18336425095268595_8303109530742012563_n.jpg?stp=c595.0.1786.1786a_dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=uNQpSkH65NkQ7kNvwF2pNH8&_nc_oc=Adq2HvfDw4zhyt6UUrQ3t0frXfHm0uauVYO6M0jwwICmkx2hLd-qY8UO6Sam0rxeiRU&_nc_zt=23&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_gid=aQmGOPfqnNoxJTKQl5TKzQ&_nc_ss=7f60f&oh=00_AQOsNXCD7f1fTSzPt8wz3z7ivas-mXmjP1dPSjXaeqKc7w&oe=6ADC815A"
+        "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/741068451_18336425095268595_8303109530742012563_n.jpg?stp=c595.0.1786.1786a_dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=uNQpSkH65NkQ7kNvwGJdjmp&_nc_oc=Adrdpsj9T0BFL1eiP0dfM5Tfoue5b76JrTQNJUUlnJxuegqLluRmy9sXIgJ4Fcd9IKw&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=yidP_WdsoimjS94FdMS1Uw&_nc_ss=7f60f&oh=00_AQOyFAxkTyoN4xTdzMz67_qFze4Upqy_XTnigbi80BV9Ig&oe=6ADCB99A"
       },
       "geometry": {
         "type": "Point",
@@ -2841,7 +2841,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://medicineinfra.com/site/yamatsumi/",
-        "image_url": "https://medicineinfra.com/wp-content/uploads/2025/03/ogp.jpg"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -2860,7 +2860,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://medicineinfra.com/site/postnomori/",
-        "image_url": "https://medicineinfra.com/wp-content/uploads/2025/03/ogp.jpg"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -3107,7 +3107,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DbKK7NEGE7E/?img_index=1",
-        "image_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/753225335_18022982300902789_7585897524133363841_n.jpg?stp=c604.0.1815.1814a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=bu-c2rPkx7wQ7kNvwE6UMRT&_nc_oc=AdpZwO0ZLpkBUwBWcAuIvh0GO9wSp2Inwlkg-BUysf4DgK3xvIYBpyoUwHgoK3sAtQU&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=1kAZx2oyHAyeF4gN_YFnDg&_nc_ss=7f60f&oh=00_AQOkxXFhC0uEmeJrCllYJsW_IRJ4u5HrlgHfbm0Q9grEuA&oe=6ADC831F"
+        "image_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/753225335_18022982300902789_7585897524133363841_n.jpg?stp=c604.0.1815.1814a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=bu-c2rPkx7wQ7kNvwG7Sj9M&_nc_oc=Adp7Nkqrhkti0a24NpVe4R06sxzhz3V_xiUcaF4hpCUh2zVt5TZClrXOzfKyZHkFQIc&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=j9QOiFXqnWWWgofd9GNcJA&_nc_ss=7f60f&oh=00_AQMG1KCiCuKn9gd1ekFDJI6LlDem7B08UXaA1V1oOlOp5g&oe=6ADCBB5F"
       },
       "geometry": {
         "type": "Point",
@@ -3164,7 +3164,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DSEdd_lAVML/",
-        "image_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-15/597898317_17923907505186513_2290017976650464759_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=JE6oPqsUagUQ7kNvwH83klu&_nc_oc=Adrsw-wO4UxlfX6tFFIqjQxlYSBDQn3FaF3V2xi4VxW4wzyKCCsAqxmSBZ_XrU5AI-4&_nc_zt=23&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_gid=qNwySKXjopwEXkbimS1lNw&_nc_ss=7f60f&oh=00_AQOKP_99JrON0156iyRZKhjJcTNN7SrMIN-AkUvF95bRGA&oe=6ADC95B2"
+        "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/597898317_17923907505186513_2290017976650464759_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=JE6oPqsUagUQ7kNvwG-0TwE&_nc_oc=AdrZqTV9N20Plc-obr6IhC3tTFTdGO8tlh9yIlM3fyvqgID-nvswLd2ZPA4EX1hybgk&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=wxpZHfHekJuHUVxEhTvEqg&_nc_ss=7f60f&oh=00_AQNvqdpOu26wMFoSW5f8XGfEQ1AgPBMnTrikVrAGyijg_g&oe=6ADC95B2"
       },
       "geometry": {
         "type": "Point",
@@ -3392,7 +3392,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://blueberry-misaki.osaka/blog-details/20260620-01/",
-        "image_url": "https://"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -3544,7 +3544,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://dotonbori-kukuru.com/news/622/",
-        "image_url": "https://dotonbori-kukuru.com/wp-content/uploads/2026/03/IMG_2323.jpeg"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -3905,7 +3905,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.city.hirakata.osaka.jp/0000054228.html#link-1",
-        "image_url": "https://www.city.hirakata.osaka.jp/design_img/og_image.png"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -3981,7 +3981,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.expo70-park.jp/event/77555/",
-        "image_url": "https://www.expo70-park.jp/sys/wp-content/uploads/4fa1160c59c37017608ff5c82db37aa6-640x476.jpg"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -4064,6 +4064,158 @@
         "coordinates": [
           139.712239,
           35.7269957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）ミャクミャク来場予定（EXPO2025オフィシャルポップアップストア ハンズ渋谷店）",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【ミャクミャク来場予定（EXPO2025オフィシャルポップアップストア ハンズ渋谷店）】</b><br>📅 期間: 2026/10/31 ～ 2026/10/31<br>📝 2026年10月15日〜11月15日のEXPO2025公式ポップアップストア開催中、10月31日にミャクミャクが来場予定。登場時間・グリーティングの参加条件は後日発表。会場はハンズ渋谷店1A階（東京都渋谷区宇田川町12-18）。店舗通常営業時間10:00〜21:00、10月31日の短縮営業は店舗公式情報を確認。<br><br><a href='https://prtimes.jp/main/html/rd/p/000000735.000026530.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": true,
+        "isKomyaku": false,
+        "link": "https://prtimes.jp/main/html/rd/p/000000735.000026530.html",
+        "image_url": "https://prcdn.freetls.fastly.net/release_image/26530/735/26530-735-4cae0136a792d6209a70145b39aebb4f-3900x3900.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6979258,
+          35.661983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）全国植樹祭アフターフェスタ ミャクミャク撮影会（えひめ森林公園）",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【全国植樹祭アフターフェスタ ミャクミャク撮影会（えひめ森林公園）】</b><br>📅 期間: 2026/10/31 ～ 2026/10/31<br>📝 えひめ森林公園（伊予市上三谷）10:00〜16:00。大屋根リング由来材を使用したウェルカムゲートお披露目11:30〜12:00でミャクミャク＆みきゃんを撮影可能。撮影会13:30・15:30は事前抽選当選者限定、観覧自由、撮影会後グリーティング予定。駐車場台数に限りがありシャトルバス推奨。公園代表座標（NAVITIME）を使用。<br><br><a href='https://www.i-shinrin.jp/news/1398.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.i-shinrin.jp/news/1398.html",
+        "image_url": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.740366,
+          33.749995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）岸和田場外魚市場みなとマルシェ オープニングイベント（ミャクミャク来場）",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【岸和田場外魚市場みなとマルシェ オープニングイベント（ミャクミャク来場）】</b><br>📅 期間: 2026/10/31 ～ 2026/10/31<br>📝 岸和田市地蔵浜町7-1の「みなとマルシェ建物前特設会場」で9:30〜15:30。オープニングセレモニー、稚魚放流、食育、マグロ解体ショーなど。午前中にもずやん・ミャクミャクらのグリーティングあり。新施設14店舗。建物前の正確な座標未確認。<br><br><a href='https://www.pref.osaka.lg.jp/hodo/fumin/o120130/prs_51036.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.pref.osaka.lg.jp/hodo/fumin/o120130/prs_51036.html",
+        "image_url": "https://www.pref.osaka.lg.jp/shared/images/sns/logo.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.0052128,
+          34.06981065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）UNDOKAI WORLD CUP 2026 はじまりの島 あわヂカラ フェスティバル（ミャクミャク出演）",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【UNDOKAI WORLD CUP 2026 はじまりの島 あわヂカラ フェスティバル（ミャクミャク出演）】</b><br>📅 期間: 2026/10/31 ～ 2026/10/31<br>📝 UNDOKAI WORLD CUP 2026の関連イベント「あわヂカラ フェスティバル」にミャクミャクが10/31のステージに出演予定。会場は国営明石海峡公園（淡路市）。フェスは10/30〜11/1、屋台・ブース等の時間は10:00〜15:00。ステージ登場時刻・入場条件は公式更新を確認。<br><br><a href='https://undokaiwc.com/awadikara/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://undokaiwc.com/awadikara/",
+        "image_url": "https://undokaiwc.com/wp-content/uploads/2026/09/ogp-awa.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.0096862,
+          34.5626883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）EXPO2025公式ストア堂島アバンザ店 ミャクミャク撮影会参加チケット付き商品販売",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【EXPO2025公式ストア堂島アバンザ店 ミャクミャク撮影会参加チケット付き商品販売】</b><br>📅 期間: 2026/11/03 ～ 2026/11/30<br>📝 ジュンク堂書店堂島アバンザ店（大阪市北区堂島1-6-20・3階）でミャクミャク撮影会参加チケット付き商品の企画が告知されている。チケットぴあ掲載公演期間11/3〜11/30、抽選プレリザーブ申込期限10/21 23:59。11/3,4,13,18,19,23,28,29,30の開催日はユーザー提供のため個別回・対象商品の条件を公式販売ページで確認要。<br><br><a href='https://t.pia.jp/pia/event/event.do?eventBundleCd=b2670492' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": true,
+        "isKomyaku": false,
+        "link": "https://t.pia.jp/pia/event/event.do?eventBundleCd=b2670492",
+        "image_url": "https://image.pia.jp/images/202610/202610090004_ex.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4964219,
+          34.69709224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）知ろう！気づこう！アルコールと健康（ミャクミャク・もずやんクイズ）",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【知ろう！気づこう！アルコールと健康（ミャクミャク・もずやんクイズ）】</b><br>📅 期間: 2026/11/08 ～ 2026/11/08<br>📝 イオンモール堺鉄砲町1階ノースコート、10:00〜17:00。11/8ミャクミャク＆もずやんと学ぶアルコールと健康のクイズ（13:00・15:00）。大阪・関西万博大阪ヘルスケアパビリオンのレガシー展示など。<br><br><a href='https://www.pref.osaka.lg.jp/hodo/fumin/o100040/prs_51230.html' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://www.pref.osaka.lg.jp/hodo/fumin/o100040/prs_51230.html",
+        "image_url": "https://www.pref.osaka.lg.jp/shared/images/sns/logo.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.481442,
+          34.594168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）U-35記念シンポジウムⅡ（建築家・伊東豊雄氏と若手建築家の対話）",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【U-35記念シンポジウムⅡ（建築家・伊東豊雄氏と若手建築家の対話）】</b><br>📅 期間: 2026/10/24 ～ 2026/10/24<br>📝 U-35 Architects exhibition2026記念シンポジウムⅡ。10/24 15:30〜19:30（開場14:00）、グランフロント大阪北館4Fナレッジシアター。建築家・伊東豊雄氏が若手に向けて講演し出展者と議論。藤本壮介氏の当日登壇は公式情報で確認できない。座標はグランフロント大阪北館の代表地点。<br><br><a href='https://kc-i.jp/activity/fls-event/005762025414/' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://kc-i.jp/activity/fls-event/005762025414/",
+        "image_url": "https://www.grandfront-osaka.jp/files/20261005/8603e283ecee9c8556a18dc60ba4b6aa0fddfd8d.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.49446,
+          34.705875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "（予定）ミャクミャク Osaka Metro コラボフェスタ 新作グッズ販売会（夢洲駅）",
+        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【ミャクミャク Osaka Metro コラボフェスタ 新作グッズ販売会（夢洲駅）】</b><br>📅 期間: 2026/10/31 ～ 2026/11/03<br>📝 Osaka Metro中央線夢洲駅の南改札付近にて10/31・11/1・11/3各日10:00〜17:00に新作ミャクミャクコラボグッズを販売。購入には事前のオンライン整理券が必須（10/23 10:00〜10/30 10:00、先着順、各1時間100枚、1日700枚予定）。販売エリアには券が必要。公式キャラクター本人の来場は未確認。<br><br><a href='https://subway.osakametro.co.jp/news/news/other/20261019_yumeshima_collaboration_festa_goods.php' target='_blank'>🔗 詳細を開く</a>",
+        "category": "legacy",
+        "isStore": false,
+        "isKomyaku": false,
+        "link": "https://subway.osakametro.co.jp/news/news/other/20261019_yumeshima_collaboration_festa_goods.php",
+        "image_url": "https://www.osakametro.co.jp/common_all/img/og_image.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.3894573,
+          34.6518886
         ]
       }
     }
