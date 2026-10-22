@@ -6,6 +6,26 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "「さっぽろホワイトイルミネーション」11月20日開幕へ＿大通3丁目会場が10年ぶりにリニューアル＿高さ約10メートルのオブジェや魚・ウニをモチーフにしたバルーン登場＜北海道札幌市＞(北海道ニュースUHB)",
+        "name": "北海道 キュイジーヌ カムイ/ザ ロイヤルパーク キャンバス 札幌大通公園",
+        "address": "",
+        "reason": "10年ぶりのリニューアルで、高さ約10メートルのオブジェやユニークなモチーフのバルーンが登場し、期待感が高まるため",
+        "date": "2026-10-23",
+        "link": "https://news.yahoo.co.jp/articles/dd67d5a592a4a2e159c1aa99ba669f9a055cc4f4?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261023-90063052-hokkaibunv-000-1-thumb.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.356031,
+          43.060471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "「丹波市検定」スタート　観光好季節に誘客促進へ　新木宏典さんコラボ記念品贈呈／兵庫・丹波市(丹波新聞)",
         "name": "丹波市役所",
         "address": "",
