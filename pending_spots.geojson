@@ -6,6 +6,26 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "岡崎城公園で冬を前に松の木を害虫から守る「こも巻き」　愛知・岡崎市(中京テレビＮＥＷＳ)",
+        "name": "岡崎城公園",
+        "address": "",
+        "reason": "歴史的建造物と自然保護の取り組みを見学できる",
+        "date": "2026-10-24",
+        "link": "https://news.yahoo.co.jp/articles/16d5b4f7e87104805bdf4ea27e88dff907b35232?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261024-08353296-sp_ctv-000-1-thumb.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.1593302,
+          34.9565392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "「さっぽろホワイトイルミネーション」11月20日開幕へ＿大通3丁目会場が10年ぶりにリニューアル＿高さ約10メートルのオブジェや魚・ウニをモチーフにしたバルーン登場＜北海道札幌市＞(北海道ニュースUHB)",
         "name": "北海道 キュイジーヌ カムイ/ザ ロイヤルパーク キャンバス 札幌大通公園",
         "address": "",
