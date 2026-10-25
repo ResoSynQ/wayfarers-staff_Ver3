@@ -6,6 +6,66 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "江戸川の第二寿湯がリニューアル　未来へつなぐコミュニティーの場に(みんなの経済新聞ネットワーク)",
+        "name": "第二寿湯",
+        "address": "",
+        "reason": "リニューアルでコミュニティーの場となり、地域住民の憩いの場として魅力的だから。",
+        "date": "2026-10-26",
+        "link": "https://news.yahoo.co.jp/articles/9f625f2444aef91224e5534f9655c357d5c5aaf9?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261026-00000002-minkei-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.9063938,
+          35.68972528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "原宿拠点のHJK88、石垣島で初のソロライブ　歌とダンスでファン魅了　「ライブをやれて夢のよう」と感激(沖縄タイムス)",
+        "name": "石垣島",
+        "address": "",
+        "reason": "憧れの地での初ライブに感動！",
+        "date": "2026-10-26",
+        "link": "https://news.yahoo.co.jp/articles/f7e4b5ddfb99d16fe7a25ffd28946d2f253185fd?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261026-01951871-okinawat-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.1879385,
+          24.4179861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "奈良県宇陀市で珍しい赤花そば「高嶺ルビー」見頃(奈良新聞デジタル)",
+        "name": "宇陀市役所",
+        "address": "",
+        "reason": "珍しい「高嶺ルビー」という赤花そばが、時期を同じくして見頃を迎えているという情報に惹かれるため。",
+        "date": "2026-10-26",
+        "link": "https://news.yahoo.co.jp/articles/41b860a2910704d6f2aca7d2acaaef0916d62c3d?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261026-00000001-naranp-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.9522694,
+          34.528029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "岡崎城公園で冬を前に松の木を害虫から守る「こも巻き」　愛知・岡崎市(中京テレビＮＥＷＳ)",
         "name": "岡崎城公園",
         "address": "",
