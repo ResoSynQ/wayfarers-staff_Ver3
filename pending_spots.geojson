@@ -6,6 +6,66 @@
       "type": "Feature",
       "properties": {
         "category": "local",
+        "trend_word": "「KEEP OUT（立ち入り禁止）」のテープをくぐって夜の動物園へ！　暗視スコープでのぞいた動物たちの意外な姿とは？　(静岡朝日テレビ)",
+        "name": "静岡市立日本平動物園",
+        "address": "",
+        "reason": "暗視スコープで夜の動物園を探検できる特別感",
+        "date": "2026-11-01",
+        "link": "https://news.yahoo.co.jp/articles/8333fd335ee5e4ec683458ddcd96453cb52d7370?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261101-00101336-satvv-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.4402291,
+          34.9799151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "AIと二人三脚で新アプリ　登山用などの3D地図開発　78歳の平尾奨さん／京都府福知山市(両丹日日新聞)",
+        "name": "福知山市役所",
+        "address": "",
+        "reason": "AIとの共同開発という斬新なアプローチと、78歳という高齢での挑戦が興味を惹くため",
+        "date": "2026-11-01",
+        "link": "https://news.yahoo.co.jp/articles/ccdd265a07ac1c13997b94bba520c6fbb6089c05?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261101-00010000-rtn-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.1265629,
+          35.2966997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
+        "trend_word": "【桜坂劇場・下地久美子の映画コレ見た？】『麦秋』原節子の存在感　楽しみ(沖縄タイムス)",
+        "name": "桜坂劇場",
+        "address": "",
+        "reason": "魅力的な映画紹介で来訪意欲を刺激",
+        "date": "2026-11-01",
+        "link": "https://news.yahoo.co.jp/articles/e0bdc9f483170b42f12e99401f100d63e42acf10?source=rss",
+        "image_url": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261101-01955575-okinawat-000-1-view.jpg?exp=10800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.6901384,
+          26.2147706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "local",
         "trend_word": "江戸川の第二寿湯がリニューアル　未来へつなぐコミュニティーの場に(みんなの経済新聞ネットワーク)",
         "name": "第二寿湯",
         "address": "",
