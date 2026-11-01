@@ -612,25 +612,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "【完全予約制】EXPO2025 OFFICIAL CAFE らぽっぽリンクス梅田店（4/27より）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【【完全予約制】EXPO2025 OFFICIAL CAFE らぽっぽリンクス梅田店（4/27より）】</b><br>📅 期間: 2026/04/27 ～ 2026/10/31<br>📝 リンクス梅田に登場した「EXPO2025 OFFICIAL CAFE らぽっぽリンクス梅田店」は、万博で話題になった「ミャクミャク焼き」をはじめ、ミャクミャクの世界観を五感で楽しめる公式カフェです。店内は思わず写真を撮りたくなる没入感ある空間で、ここだけの限定メニューも用意。見る・味わう・感じるを通して、万博の記憶をもう一度楽しめる特別なスポットです！\n<br><br><a href='https://lapoppo.com/expo2025-oc/' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://lapoppo.com/expo2025-oc/",
-        "image_url": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.4961995,
-          34.704692
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "大阪府立上方演芸資料館（ワッハ上方）",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【大阪府立上方演芸資料館（ワッハ上方）】</b><br>📅 期間: 2026/04/25 ～ 常設<br>📝 ワッハ上方ではSNSフォローキャンペーンを開催中！\r\n館内観覧後にSNSのフォロー画面を提示すると、缶バッジをプレゼント。\r\n展示を楽しんだ記念に、ぜひ持ち帰ってみてください！<br><br><a href='https://x.com/wkamigata/status/2047612623978643853?s=43&t=Spz9-6o9mDMe00Tl3EPxfg' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
@@ -1150,7 +1131,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/nauruya_higashiosaka/",
-        "image_url": ""
+        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
       },
       "geometry": {
         "type": "Point",
@@ -2043,7 +2024,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/salamcoffee_stand/",
-        "image_url": ""
+        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
       },
       "geometry": {
         "type": "Point",
@@ -2423,7 +2404,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DalfgwECeqF/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==",
-        "image_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/741671055_18599635276031936_3389225437979274047_n.jpg?stp=c460.0.1383.1382a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=c0NJvWtSck0Q7kNvwFFAEvF&_nc_oc=Adq9GWDypMNonUtviinz_WPRVjPm8yVDN4bbQHiJonNFNdTAjH-CEm6aGr0tDIS0ylg&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=YTYZvolnUuOup3WDye0JBg&_nc_ss=7f500&oh=00_AQR5Fipu49SWUO6jkcqMwGl0wM-4o6lR2Zu-QQqX_m8XJA&oe=6AEC4D4D"
+        "image_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/741671055_18599635276031936_3389225437979274047_n.jpg?stp=c460.0.1383.1382a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=c0NJvWtSck0Q7kNvwGq2Dtz&_nc_oc=AdoYXwJPLCn42P5vjKSHftz1EHWBHNHRQ81KNs7sZ8mps-GyA-oHhYsHLx9jAhRX6Xs&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=glV8Zz2J613wB9DpTW9yVg&_nc_ss=7f500&oh=00_AQQEDD-Pnv9UUPyQ_TWHqEy5RzEFev7iqozZDjeUImsxRA&oe=6AEC858D"
       },
       "geometry": {
         "type": "Point",
@@ -2499,7 +2480,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DahWKivEoTO/",
-        "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/741068451_18336425095268595_8303109530742012563_n.jpg?stp=c595.0.1786.1786a_dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=B58KSSvn3KMQ7kNvwEf2e7V&_nc_oc=AdoLJC-jFPBaDr0okpRZrLKWDCcnfuRYAGJMoqGRMofO9n20pzDuOoKy43QThNil0cs&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=KHkZ8HyigmPgCCQjhVrMPA&_nc_ss=7f500&oh=00_AQSRwE4ibd1GgeqGF7NM-oYFc_Deduo_Mr5XpwWpOvbaqw&oe=6AEC535A"
+        "image_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/741068451_18336425095268595_8303109530742012563_n.jpg?stp=c595.0.1786.1786a_dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=B58KSSvn3KMQ7kNvwGdfx0B&_nc_oc=AdrkjtylZH5_NP8hr55HZPQ0U0gIw-4KUO9sKwsl1RYiYYknqZfwnARVWqsoamE6gpI&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=FDNgdvS9CsYMKrt0Oq0AMA&_nc_ss=7f500&oh=00_AQQVUXss_gjUHlCzJYCSKnkX9qY4yd5NLQ6QyVwalf-wzw&oe=6AEC535A"
       },
       "geometry": {
         "type": "Point",
@@ -3107,7 +3088,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DbKK7NEGE7E/?img_index=1",
-        "image_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/753225335_18022982300902789_7585897524133363841_n.jpg?stp=c604.0.1815.1814a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=2pJhGBB7MtkQ7kNvwHhlrBi&_nc_oc=Adot90LrCkKTlMKFxch2YEV-XdcZt9A8VsxOJ1oto4oDOeybrbYEUBboUvCrixf8dcA&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=fDoALvYKTZHI6IGzmFLSlQ&_nc_ss=7f500&oh=00_AQSXrQvJLvDcnSe6qRmMkNORT_w66BavVDeMVijXsGYXAw&oe=6AEC1CDF"
+        "image_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/753225335_18022982300902789_7585897524133363841_n.jpg?stp=c604.0.1815.1814a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=2pJhGBB7MtkQ7kNvwGL0GDh&_nc_oc=Adq_FKffYqJKIxRE43qHw5wjSb9th9M-LsM4wb6STLQmxAuqmHF_4tEk2b77sdQI6g0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=DISV0cbgYf8gzfvVdpBwNw&_nc_ss=7f500&oh=00_AQQPKBuPHjTit4BideRnHIr8rtY31wiVLUwJZatEPsIwRA&oe=6AEC551F"
       },
       "geometry": {
         "type": "Point",
@@ -3164,7 +3145,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DSEdd_lAVML/",
-        "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/597898317_17923907505186513_2290017976650464759_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=S40T51tSdo0Q7kNvwHKEUuI&_nc_oc=AdoCW34tzg9v7i9YK8zRvniJg0GLPo2ojiWUpBiYN-Kap8X3dExkSl7n6-SU7B_6Lg8&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=Gh7ErRh8su6kC9ZPkrwzew&_nc_ss=7f500&oh=00_AQSdeYsuQwXWF8n2jtN8SIn_9kB1rDKlaAUxVVam1TJHRA&oe=6AEC2F72"
+        "image_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/597898317_17923907505186513_2290017976650464759_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=S40T51tSdo0Q7kNvwGklLpq&_nc_oc=Adp6RcXk8IV5cJyFfhb28FLg3MhG77MzYUrp1-FIzrIz5Dt-f2IK71ttbhQvWtwSkUE&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=m2MycLM2SXVKOTKCuVaYig&_nc_ss=7f500&oh=00_AQSMkNdJqLA3knzmMuPzBXm8Xtq_tvDn8_La0LjLVQ3B2w&oe=6AEC67B2"
       },
       "geometry": {
         "type": "Point",
@@ -3576,44 +3557,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "ミャクミャク公式ライセンス商品POP-UP（TSUTAYA WAY ガーデンパーク和歌山店）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ミャクミャク公式ライセンス商品POP-UP（TSUTAYA WAY ガーデンパーク和歌山店）】</b><br>📅 期間: 2026/09/03 ～ 2026/10/31<br>📝 フェリシモが企画・生産したEXPO2025公式ライセンス商品24種類を販売する期間限定ショップ。絵本『ミャクミャクと… ミャクミャク誕生ものがたり』由来のアイテム、ミャクミャク1st写真集『I myaku you.』、「ふんばるず」などを展開する。<br><br><a href='https://prtimes.jp/main/html/rd/p/000004372.000012759.html' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": true,
-        "isKomyaku": false,
-        "link": "https://prtimes.jp/main/html/rd/p/000004372.000012759.html",
-        "image_url": "https://prcdn.freetls.fastly.net/release_image/12759/4372/12759-4372-439dc36a88f9f0b6583924300ae5c1bc-1290x480.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.1537851,
-          34.23949792
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "ミャクミャク公式ライセンス商品POP-UP（田村書店 千里中央店）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ミャクミャク公式ライセンス商品POP-UP（田村書店 千里中央店）】</b><br>📅 期間: 2026/09/05 ～ 2026/10/31<br>📝 フェリシモが企画・生産したEXPO2025公式ライセンス商品24種類を販売する期間限定ショップ。絵本『ミャクミャクと… ミャクミャク誕生ものがたり』由来のアイテム、ミャクミャク1st写真集『I myaku you.』、「ふんばるず」などを展開する。<br><br><a href='https://prtimes.jp/main/html/rd/p/000004372.000012759.html' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": true,
-        "isKomyaku": false,
-        "link": "https://prtimes.jp/main/html/rd/p/000004372.000012759.html",
-        "image_url": "https://prcdn.freetls.fastly.net/release_image/12759/4372/12759-4372-439dc36a88f9f0b6583924300ae5c1bc-1290x480.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.4951533,
-          34.81083863
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "ミャクミャク公式ライセンス商品POP-UP（WAY書店 パビリオンシティ田辺店）",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ミャクミャク公式ライセンス商品POP-UP（WAY書店 パビリオンシティ田辺店）】</b><br>📅 期間: 2026/10/02 ～ 2026/11/30<br>📝 フェリシモが企画・生産したEXPO2025公式ライセンス商品24種類を販売する期間限定ショップ。絵本『ミャクミャクと… ミャクミャク誕生ものがたり』由来のアイテム、ミャクミャク1st写真集『I myaku you.』、「ふんばるず」などを展開する。<br><br><a href='https://prtimes.jp/main/html/rd/p/000004372.000012759.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
@@ -3646,25 +3589,6 @@
         "coordinates": [
           135.560562,
           34.540538
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "ミャクミャク公式ライセンス商品POP-UP（WAY書店 美浜店）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ミャクミャク公式ライセンス商品POP-UP（WAY書店 美浜店）】</b><br>📅 期間: 2026/10/05 ～ 2026/10/31<br>📝 フェリシモが企画・生産したEXPO2025公式ライセンス商品24種類を販売する期間限定ショップ。絵本『ミャクミャクと… ミャクミャク誕生ものがたり』由来のアイテム、ミャクミャク1st写真集『I myaku you.』、「ふんばるず」などを展開する。<br><br><a href='https://prtimes.jp/main/html/rd/p/000004372.000012759.html' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": true,
-        "isKomyaku": false,
-        "link": "https://prtimes.jp/main/html/rd/p/000004372.000012759.html",
-        "image_url": "https://prcdn.freetls.fastly.net/release_image/12759/4372/12759-4372-439dc36a88f9f0b6583924300ae5c1bc-1290x480.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.1519256,
-          33.88649312
         ]
       }
     },
@@ -3817,82 +3741,6 @@
         "coordinates": [
           139.712239,
           35.7269957
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "ミャクミャク来場予定（EXPO2025オフィシャルポップアップストア ハンズ渋谷店）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ミャクミャク来場予定（EXPO2025オフィシャルポップアップストア ハンズ渋谷店）】</b><br>📅 期間: 2026/10/31 ～ 2026/10/31<br>📝 2026年10月15日〜11月15日のEXPO2025公式ポップアップストア開催中、10月31日にミャクミャクが来場予定。登場時間・グリーティングの参加条件は後日発表。会場はハンズ渋谷店1A階（東京都渋谷区宇田川町12-18）。店舗通常営業時間10:00〜21:00、10月31日の短縮営業は店舗公式情報を確認。<br><br><a href='https://prtimes.jp/main/html/rd/p/000000735.000026530.html' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": true,
-        "isKomyaku": false,
-        "link": "https://prtimes.jp/main/html/rd/p/000000735.000026530.html",
-        "image_url": "https://prcdn.freetls.fastly.net/release_image/26530/735/26530-735-4cae0136a792d6209a70145b39aebb4f-3900x3900.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.6979258,
-          35.661983
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "全国植樹祭アフターフェスタ ミャクミャク撮影会（えひめ森林公園）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【全国植樹祭アフターフェスタ ミャクミャク撮影会（えひめ森林公園）】</b><br>📅 期間: 2026/10/31 ～ 2026/10/31<br>📝 えひめ森林公園（伊予市上三谷）10:00〜16:00。大屋根リング由来材を使用したウェルカムゲートお披露目11:30〜12:00でミャクミャク＆みきゃんを撮影可能。撮影会13:30・15:30は事前抽選当選者限定、観覧自由、撮影会後グリーティング予定。駐車場台数に限りがありシャトルバス推奨。公園代表座標（NAVITIME）を使用。<br><br><a href='https://www.i-shinrin.jp/news/1398.html' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://www.i-shinrin.jp/news/1398.html",
-        "image_url": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          132.740366,
-          33.749995
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "岸和田場外魚市場みなとマルシェ オープニングイベント（ミャクミャク来場）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【岸和田場外魚市場みなとマルシェ オープニングイベント（ミャクミャク来場）】</b><br>📅 期間: 2026/10/31 ～ 2026/10/31<br>📝 岸和田市地蔵浜町7-1の「みなとマルシェ建物前特設会場」で9:30〜15:30。オープニングセレモニー、稚魚放流、食育、マグロ解体ショーなど。午前中にもずやん・ミャクミャクらのグリーティングあり。新施設14店舗。建物前の正確な座標未確認。<br><br><a href='https://www.pref.osaka.lg.jp/hodo/fumin/o120130/prs_51036.html' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://www.pref.osaka.lg.jp/hodo/fumin/o120130/prs_51036.html",
-        "image_url": "https://www.pref.osaka.lg.jp/shared/images/sns/logo.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          133.0052128,
-          34.06981065
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "UNDOKAI WORLD CUP 2026 はじまりの島 あわヂカラ フェスティバル（ミャクミャク出演）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【UNDOKAI WORLD CUP 2026 はじまりの島 あわヂカラ フェスティバル（ミャクミャク出演）】</b><br>📅 期間: 2026/10/31 ～ 2026/10/31<br>📝 UNDOKAI WORLD CUP 2026の関連イベント「あわヂカラ フェスティバル」にミャクミャクが10/31のステージに出演予定。会場は国営明石海峡公園（淡路市）。フェスは10/30〜11/1、屋台・ブース等の時間は10:00〜15:00。ステージ登場時刻・入場条件は公式更新を確認。<br><br><a href='https://undokaiwc.com/awadikara/' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://undokaiwc.com/awadikara/",
-        "image_url": "https://undokaiwc.com/wp-content/uploads/2026/09/ogp-awa.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.0096862,
-          34.5626883
         ]
       }
     },
@@ -4165,8 +4013,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "（予定）森ノ宮万博（UR森之宮ビル「ほとりで」）",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【森ノ宮万博（UR森之宮ビル「ほとりで」）】</b><br>📅 期間: 2026/11/01 ～ 2026/11/01<br>📝 2026年11月1日（日）、大阪市城東区森之宮のUR森之宮ビル1階「ほとりで」で開催予定。大阪・関西万博で話題になった展示やグッズ、パビリオン由来のフード・雑貨、ゲームなどを楽しむ催し。イラストレーターのナシエさんも参加し、北欧テーマのワークショップ、展示、本・雑貨の販売を予定。オマーン発の乳香キャンディ「O[wa]」も出展予定。<br><br><a href='https://x.com/nashie748/status/2115060440896311764' target='_blank'>🔗 詳細を開く</a>",
+        "name": "森ノ宮万博（UR森之宮ビル「ほとりで」）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【森ノ宮万博（UR森之宮ビル「ほとりで」）】</b><br>📅 期間: 2026/11/01 ～ 2026/11/01<br>📝 2026年11月1日（日）、大阪市城東区森之宮のUR森之宮ビル1階「ほとりで」で開催予定。大阪・関西万博で話題になった展示やグッズ、パビリオン由来のフード・雑貨、ゲームなどを楽しむ催し。イラストレーターのナシエさんも参加し、北欧テーマのワークショップ、展示、本・雑貨の販売を予定。オマーン発の乳香キャンディ「O[wa]」も出展予定。<br><br><a href='https://x.com/nashie748/status/2115060440896311764' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false,
         "isKomyaku": false,
