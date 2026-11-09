@@ -1131,7 +1131,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/nauruya_higashiosaka/",
-        "image_url": ""
+        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
       },
       "geometry": {
         "type": "Point",
@@ -1809,25 +1809,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "たくろう万博 TAKURO EXPO（万博記念公園 もみじ川芝生広場）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【たくろう万博 TAKURO EXPO（万博記念公園 もみじ川芝生広場）】</b><br>📅 期間: 2026/11/07 ～ 2026/11/08<br>📝 M-1グランプリ2025王者・たくろうが主宰する大型イベント。大阪・関西万博で話題となったよしもとwaraii myraii館の「万博盆踊り」が帰ってくるほか、大阪・関西万博で設置されていたスタンプの一部も登場予定。ミャクミャクとのコラボグッズ展開も予定されている。<br><br><a href='https://myakumyakuhouse.jp/greeting/detail/377/' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://myakumyakuhouse.jp/greeting/detail/377/",
-        "image_url": "https://myakumyakuhouse.jp/assets/images/ogp.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.5270591,
-          34.8101825
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "ミャクミャク塗装ワークショップ（ホビーロビー大阪）",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ミャクミャク塗装ワークショップ（ホビーロビー大阪）】</b><br>📅 期間: 2026/07/18 ～ 常設<br>📝 海洋堂ホビーロビー大阪で開催される、EXPO2025公式キャラクター・ミャクミャクフィギュアを自由に塗装できる体験ワークショップ。2025年に好評だった企画が新世界の新拠点で復活。参加年齢は6歳以上、所要時間60分、参加料2,500円（税込）。塗装できるポーズは「お座り」「寝ころび」の2種類で、ポーズは選択不可。<br><br><a href='https://x.com/HLO_kaiyodo/status/2072879440439455933' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
@@ -2024,7 +2005,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/salamcoffee_stand/",
-        "image_url": ""
+        "image_url": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png"
       },
       "geometry": {
         "type": "Point",
@@ -2404,7 +2385,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DalfgwECeqF/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==",
-        "image_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/741671055_18599635276031936_3389225437979274047_n.jpg?stp=c460.0.1383.1382a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=Tgyzju1RDBUQ7kNvwGDx5Pi&_nc_oc=AdqkahuTE5zfMXI2s_Umfm3cppH7H-gzg-r5kz5ZesrwreRXQI8jRDOSXTZ37DsBAUY&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=fAsa_W1K6w6h1kcfOtSTrA&_nc_ss=7f60f&oh=00_AQSwEq6GPrBIsAI96BHXWxjdhBx6qszrZfPAbO-E6bK3Tg&oe=6AF6D94D"
+        "image_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-15/741671055_18599635276031936_3389225437979274047_n.jpg?stp=c460.0.1383.1382a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=Tgyzju1RDBUQ7kNvwEz-88b&_nc_oc=Adp1FhO4_IUrLOMVWhf8fSPsY6OYdhFDp2RQa27MO4yh0XdcHhLVWCpzfVHWiDQ2s1s&_nc_zt=23&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_gid=M13cuj-6XMfdY8C22cNtkA&_nc_ss=7f60f&oh=00_AQTaNStta-gVIF3YJO2nqSqWyGwqCpLplfIr1Ks8vBjXcA&oe=6AF7118D"
       },
       "geometry": {
         "type": "Point",
@@ -2480,7 +2461,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DahWKivEoTO/",
-        "image_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/741068451_18336425095268595_8303109530742012563_n.jpg?stp=c595.0.1786.1786a_dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=qd4i45tVFkcQ7kNvwGt43Qm&_nc_oc=Adro4TlLcfhzI4tnydT_d2X8DM51W6OgvwEbu5PQgZmae65Nj7uj2PH5hH8QQ874qpQ&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=5klT5NeOmjGwD5z0Kn7y2g&_nc_ss=7f60f&oh=00_AQToaMnbsQ86THF_oRtf_F5WwOuoAjTnV44MgSfOudsDfw&oe=6AF6DF5A"
+        "image_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-15/741068451_18336425095268595_8303109530742012563_n.jpg?stp=c595.0.1786.1786a_dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=qd4i45tVFkcQ7kNvwFtSidZ&_nc_oc=Adp20xCZq2EZITIpGRiBbLhjXdv0P2ucwvObvhY6I6j1s8QODT5jCv29J-tp8HNYwzU&_nc_zt=23&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_gid=am-0NnQJjViSXyiCtmjZoA&_nc_ss=7f60f&oh=00_AQRwNEXi39XJVugpVF_D-tctBkd4K6ZK4WIVn9LogN3RSg&oe=6AF7179A"
       },
       "geometry": {
         "type": "Point",
@@ -2765,7 +2746,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://sakuyahime.net/project/pr2/tabisaki/",
-        "image_url": "https://sakuyahime.net/wp-content/uploads/2025/12/Black__White_Fur_tabisaki1.jpg"
+        "image_url": "https://sakuyahime.net/wp-content/uploads/2026/11/Black__White_Fur_tabisaki2.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -2803,7 +2784,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://sakuyahime.net/project/pr2/tabisaki/",
-        "image_url": "https://sakuyahime.net/wp-content/uploads/2025/12/Black__White_Fur_tabisaki1.jpg"
+        "image_url": "https://sakuyahime.net/wp-content/uploads/2026/11/Black__White_Fur_tabisaki2.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -3088,7 +3069,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DbKK7NEGE7E/?img_index=1",
-        "image_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/753225335_18022982300902789_7585897524133363841_n.jpg?stp=c604.0.1815.1814a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=ginQ0F15umIQ7kNvwEgXgdW&_nc_oc=AdoA7xguDK8PHAB0Rh1nVB3SQoDgGFYv13G2IDL1-pFTnfMSHFuODqn-cYrcLKUKEfE&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=Qmi5vxHs5zkPirGps_AmTQ&_nc_ss=7f60f&oh=00_AQQIpG4TGF1cmcDmD8sYTWRKcUWxJjnTERLpwWxec7VS_w&oe=6AF6E11F"
+        "image_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/753225335_18022982300902789_7585897524133363841_n.jpg?stp=c604.0.1815.1814a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=ginQ0F15umIQ7kNvwEvzKTK&_nc_oc=Ado7lIkxXWk9Ucb0SxaGayS_zWKsCcg1wcQVm95-3JAO7DB93Vv54R2luJF5JI0iACw&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=1ytDdmRa8T1Rg3jjEhGdWQ&_nc_ss=7f60f&oh=00_AQTx75K1hxbNvflaONub5qHZL9sBup96iBZvGa_M31daZA&oe=6AF7195F"
       },
       "geometry": {
         "type": "Point",
@@ -3145,7 +3126,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DSEdd_lAVML/",
-        "image_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/597898317_17923907505186513_2290017976650464759_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=Hssbc9N_jRoQ7kNvwE6dFXv&_nc_oc=Adoq6vAsM330pdAjlIQ7WuPAPxnaAjshY83KXVmTC9ftPCIV56cDVdQyZDhLKSFMp0A&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=Y7QM90PLrQlqlTnrcZ2pDA&_nc_ss=7f60f&oh=00_AQTUVy0Gy3sAZm9fxU8137Opd1sDd_NRy6Ep2-swpefDtA&oe=6AF6BB72"
+        "image_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/597898317_17923907505186513_2290017976650464759_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=Hssbc9N_jRoQ7kNvwEG16kd&_nc_oc=AdrW0BGJ79AFs2VmsIQDxWl1tICaPFgtI1pm6T9e1jJ0zKOKernZgj2Oya4TJwFzIZQ&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=pJTmeyZ3uP8D3M9r5Wgvqg&_nc_ss=7f60f&oh=00_AQQ-KP-0UUWzkPGp7jbN4MoI6NQDxiRrFr-EBVGfJyKuuA&oe=6AF6F3B2"
       },
       "geometry": {
         "type": "Point",
@@ -3614,25 +3595,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "ミャクミャク グリーティング（SAGA × Out of KidZania 2026）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ミャクミャク グリーティング（SAGA × Out of KidZania 2026）】</b><br>📅 期間: 2026/11/07 ～ 2026/11/08<br>📝 SAGA × Out of KidZania 2026会場の佐賀県立産業技術学院で、移設されたクウェートパビリオン付近にミャクミャクが登場。11月7日・8日に複数回グリーティングを実施。<br><br><a href='https://saga-outofkidzania.com/press/' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://saga-outofkidzania.com/press/",
-        "image_url": "https://saga-outofkidzania.com/common/img/ogp.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          130.0926098,
-          33.28242171
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "ちょこっと万博レガシー・ウォーク&スタンプラリー in 堺区",
         "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ちょこっと万博レガシー・ウォーク&スタンプラリー in 堺区】</b><br>📅 期間: 2026/10/27 ～ 2026/11/15<br>📝 堺区内6施設を巡り、万博参加国やミャクミャク等のスタンプとレガシー展示を楽しむ周遊企画。全6種類を集めると景品抽選に応募可能。代表ピンはMI-TEさかい（堺市役所21階展望ロビー）。<br><br><a href='https://www.city.sakai.lg.jp/sakai/torikumi/machidukuritorikumi/machi/r8/chokottobannpaku.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
@@ -3741,25 +3703,6 @@
         "coordinates": [
           135.4964219,
           34.69709224
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "知ろう！気づこう！アルコールと健康（ミャクミャク・もずやんクイズ）",
-        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【知ろう！気づこう！アルコールと健康（ミャクミャク・もずやんクイズ）】</b><br>📅 期間: 2026/11/08 ～ 2026/11/08<br>📝 イオンモール堺鉄砲町1階ノースコート、10:00〜17:00。11/8ミャクミャク＆もずやんと学ぶアルコールと健康のクイズ（13:00・15:00）。大阪・関西万博大阪ヘルスケアパビリオンのレガシー展示など。<br><br><a href='https://www.pref.osaka.lg.jp/hodo/fumin/o100040/prs_51230.html' target='_blank'>🔗 詳細を開く</a>",
-        "category": "legacy",
-        "isStore": false,
-        "isKomyaku": false,
-        "link": "https://www.pref.osaka.lg.jp/hodo/fumin/o100040/prs_51230.html",
-        "image_url": "https://www.pref.osaka.lg.jp/shared/images/sns/logo.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.481442,
-          34.594168
         ]
       }
     },
