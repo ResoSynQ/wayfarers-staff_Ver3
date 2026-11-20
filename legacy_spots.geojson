@@ -10,7 +10,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.expo2025.or.jp/news/news-20260204-01-2/",
-        "image_url": "https://www.expo2025.or.jp/wp/wp-content/uploads/20260204.png"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -295,7 +295,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.pasonagroup.co.jp/news/tabid312.html?dispmid=821&itemid=5748",
-        "image_url": ""
+        "image_url": "http://www.pasonagroup.co.jp/Portals/0/Skins/PSN/images/ogp.png"
       },
       "geometry": {
         "type": "Point",
@@ -865,7 +865,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.expo2025.or.jp/news/news-20240705-04/",
-        "image_url": "https://www.expo2025.or.jp/wp/wp-content/uploads/official-shop.jpg"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -1321,7 +1321,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.expo2025.or.jp/expo-map-index/main-facilities/grandring/",
-        "image_url": "http://img.youtube.com/vi/eECndMY-WV0/maxresdefault.jpg"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -2214,7 +2214,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.yomiuri.co.jp/local/kansai/news/20260526-GYO1T00123/",
-        "image_url": "https://www.yomiuri.co.jp/media/2026/05/20260526-GYO1I00124-1.jpg?type=ogp"
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -2233,7 +2233,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.kobelco.co.jp/releases/2025/1218451_18562.html",
-        "image_url": ""
+        "image_url": "https://www.kobelco.co.jp/app-files/img/symbol/ogp.webp"
       },
       "geometry": {
         "type": "Point",
@@ -2385,7 +2385,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DalfgwECeqF/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==",
-        "image_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-15/741671055_18599635276031936_3389225437979274047_n.jpg?stp=c460.0.1383.1382a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=PrnjefTy62sQ7kNvwFXoUGV&_nc_oc=AdpRz9_zfWkx4u4fT7ua9HHSVOLtZ9gPg4H91gQKbWV3rNSLMNRwCCkgR5Ff2IWwHjU&_nc_zt=23&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_gid=TY2f9s-1JJAiFeUP2yRrOg&_nc_ss=7f60f&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQRZuBXN_xnHdlVzgS-V_9-59H078h9k09aCzQqXcSJeyQ&oe=6B04B10D"
+        "image_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/741671055_18599635276031936_3389225437979274047_n.jpg?stp=c460.0.1383.1382a_dst-jpg_e35_s640x640_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=rrZthb11pxwQ7kNvwHMBdpE&_nc_oc=Adp_KsvCz8wvY73BFWLGb8-G0GXC4-ymrck6-S2-0VGSLDN7i2GxyYcE3Ih6HSlB-RQ&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=hBNhO54yAPqT3szllIheJg&_nc_ss=7f60f&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQTw30DXT7b865d0WqwuomIG67v-HVG6qJ4Khp8Um0P18g&oe=6B0559CD"
       },
       "geometry": {
         "type": "Point",
@@ -2461,7 +2461,7 @@
         "isStore": true,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DahWKivEoTO/",
-        "image_url": "https://scontent-dfw5-2.cdninstagram.com/v/t51.82787-15/741068451_18336425095268595_8303109530742012563_n.jpg?stp=c595.0.1786.1786a_dst-jpg_e35_s640x640_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=xcZvztDVhEgQ7kNvwFsUKRG&_nc_oc=Adq2ld12Ss8uGcCdMoqwMw7JVNOSkycsQN_XJDTLeAHsA2uwjagv4ENY35Y4xyOUbIE&_nc_zt=23&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_gid=cScjlR8ORj55Re-EZdy2EQ&_nc_ss=7f60f&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQQCpItUpkco5Xtqke9iRgcyjJQIAaMwPJP9zqBkH9WBzw&oe=6B04B71A"
+        "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/741068451_18336425095268595_8303109530742012563_n.jpg?stp=c595.0.1786.1786a_dst-jpg_e35_s640x640_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=xcZvztDVhEgQ7kNvwGSBFzD&_nc_oc=AdrwubXRgks350mfTErwViBUUGthQx817ld-anvPNgAaCXfjwSB77u8p9b65slAtmrc&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=VLd-FUtaoJSqjjVhvj9eKw&_nc_ss=7f60f&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQTc27GLFc28gpszvnGCwC0GYasodaeVnoNXbW1vPdcL9A&oe=6B055FDA"
       },
       "geometry": {
         "type": "Point",
@@ -3069,7 +3069,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DbKK7NEGE7E/?img_index=1",
-        "image_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-15/753225335_18022982300902789_7585897524133363841_n.jpg?stp=c604.0.1815.1814a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=VgLT6ykkZ1gQ7kNvwEZhill&_nc_oc=AdrSSkiw8li22m88_fKEdU0KiLXEouMLeJI3XkAL0kTOaNfG_GA0SkcNjFWZjZyIHEE&_nc_zt=23&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_gid=fddy3JugJcPY41rcCjKzuQ&_nc_ss=7f60f&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQRe1qQdiZuO20LE7EgLypOarGm6PqX29V21LCuSwgUI1A&oe=6B04B8DF"
+        "image_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/753225335_18022982300902789_7585897524133363841_n.jpg?stp=c604.0.1815.1814a_dst-jpg_e35_s640x640_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=VgLT6ykkZ1gQ7kNvwFjHXgz&_nc_oc=AdpopHzt8wCjZxRvFdNH-T1fNauifPSV1X4kIMqS6UcsaFhGgBcF8Zn_acHS9ruWgFU&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=K9bgO_Oa5L_pFYXrr7jpDw&_nc_ss=7f60f&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQSjelvncGuhxElgtqxPkx4M10M5yn_jWnQ-bwROpH384Q&oe=6B05619F"
       },
       "geometry": {
         "type": "Point",
@@ -3126,7 +3126,7 @@
         "isStore": false,
         "isKomyaku": false,
         "link": "https://www.instagram.com/p/DSEdd_lAVML/",
-        "image_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-15/597898317_17923907505186513_2290017976650464759_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=njDBTycmAvMQ7kNvwHakAxT&_nc_oc=AdqZWIXDvoZbJD8QIbyYzoZt3YZ8Ouznz1xCYf_8EEL-R9j2CUM5VIECUkO5Y-iqOj4&_nc_zt=23&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_gid=jPKrQqZ0iVlQyQRmt2vdBg&_nc_ss=7f60f&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQS8z-HmsagmfRXQ_XXExlJg5CPBB08X5lea6Nyl0mX_xQ&oe=6B049332"
+        "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/597898317_17923907505186513_2290017976650464759_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=njDBTycmAvMQ7kNvwF8nsrp&_nc_oc=AdpRvoqT3PCZtw8sCfCSd4GFUCsX93nhAbYKOY0T6ChZgc52xd9QfBNU4UpVUYQ5_Dc&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=idOPLGQ7nhvKz2b28VXfRw&_nc_ss=7f60f&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQQvHLjDKi06fyhxN5PMq2rOPIy_OWl53zYHYGO9c_fDYw&oe=6B057432"
       },
       "geometry": {
         "type": "Point",
@@ -3861,8 +3861,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "（予定）万博読書会 Vol.04（MIDORI LOUNGE）",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【万博読書会 Vol.04（MIDORI LOUNGE）】</b><br>📅 期間: 2026/11/20 ～ 2026/11/20<br>📝 11/20 19:00〜21:00（受付18:30〜）。万博や万博をきっかけに興味を持った本を持ち寄って読む会。参加費500円（ワンドリンク付き）、事前申込制。主催はうめきたPUBLIC SCOOP。<br><br><a href='https://peatix.com/event/5217363' target='_blank'>🔗 詳細を開く</a>",
+        "name": "万博読書会 Vol.04（MIDORI LOUNGE）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【万博読書会 Vol.04（MIDORI LOUNGE）】</b><br>📅 期間: 2026/11/20 ～ 2026/11/20<br>📝 11/20 19:00〜21:00（受付18:30〜）。万博や万博をきっかけに興味を持った本を持ち寄って読む会。参加費500円（ワンドリンク付き）、事前申込制。主催はうめきたPUBLIC SCOOP。<br><br><a href='https://peatix.com/event/5217363' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false,
         "isKomyaku": false,
@@ -4013,8 +4013,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "（予定）ハラルムガル阪急茨木店・万博パキスタン館記念ピンバッジ",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【ハラルムガル阪急茨木店・万博パキスタン館記念ピンバッジ】</b><br>📅 期間: 2026/11/20 ～ 常設<br>📝 大阪・関西万博でパキスタンの食文化を伝えた「ハラルムガル」が、11月20日（金）、阪急茨木市駅直結のロサヴィアいばらきに新店舗を開きます！🇵🇰 店舗では本格的なパキスタンカレーを中心に展開する予定。万博で生まれた「世界の料理との出会い」を、一過性の催しではなく、駅前で日常的に楽しめる食文化へとつなぐ取り組みです。 オープン記念には、万博パキスタンパビリオンの非売品ピンバッジを先着500名にプレゼント！今回は抽選ではなく、新店舗で料理を注文して食事をした人が対象で、1人1個、なくなり次第終了します。 なお、同店は当初予定していた「麦食音祭2026 final」への出店を取りやめています。パビリオンの記念品を狙う場合は、イベント会場ではなく阪急茨木店での案内を確認してください。 📅11/20(金)オープン（常設予定） 📍ロサヴィアいばらき・ハラルムガル阪急茨木店 🎁非売品ピンバッジは店内飲食者先着500名、1人1個 🏛️店舗運営：ハラルムガル<br><br><a href='https://www.halal-mughal.com/post/%E3%80%90%E6%96%B0%E5%BA%97%E8%88%97%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%80%91%E3%83%8F%E3%83%A9%E3%83%AB%E3%83%A0%E3%82%AC%E3%83%AB%E9%98%AA%E6%80%A5%E8%8C%A8%E6%9C%A8%E5%BA%97-11%E6%9C%8820%E6%97%A5%EF%BC%88%E9%87%91%EF%BC%89open' target='_blank'>🔗 詳細を開く</a>",
+        "name": "ハラルムガル阪急茨木店・万博パキスタン館記念ピンバッジ",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ハラルムガル阪急茨木店・万博パキスタン館記念ピンバッジ】</b><br>📅 期間: 2026/11/20 ～ 常設<br>📝 大阪・関西万博でパキスタンの食文化を伝えた「ハラルムガル」が、11月20日（金）、阪急茨木市駅直結のロサヴィアいばらきに新店舗を開きます！🇵🇰 店舗では本格的なパキスタンカレーを中心に展開する予定。万博で生まれた「世界の料理との出会い」を、一過性の催しではなく、駅前で日常的に楽しめる食文化へとつなぐ取り組みです。 オープン記念には、万博パキスタンパビリオンの非売品ピンバッジを先着500名にプレゼント！今回は抽選ではなく、新店舗で料理を注文して食事をした人が対象で、1人1個、なくなり次第終了します。 なお、同店は当初予定していた「麦食音祭2026 final」への出店を取りやめています。パビリオンの記念品を狙う場合は、イベント会場ではなく阪急茨木店での案内を確認してください。 📅11/20(金)オープン（常設予定） 📍ロサヴィアいばらき・ハラルムガル阪急茨木店 🎁非売品ピンバッジは店内飲食者先着500名、1人1個 🏛️店舗運営：ハラルムガル<br><br><a href='https://www.halal-mughal.com/post/%E3%80%90%E6%96%B0%E5%BA%97%E8%88%97%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%80%91%E3%83%8F%E3%83%A9%E3%83%AB%E3%83%A0%E3%82%AC%E3%83%AB%E9%98%AA%E6%80%A5%E8%8C%A8%E6%9C%A8%E5%BA%97-11%E6%9C%8820%E6%97%A5%EF%BC%88%E9%87%91%EF%BC%89open' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false,
         "isKomyaku": false,
@@ -4032,8 +4032,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "（予定）ミャクミャクダイナソー×ラウンドワン（梅田店）",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【ミャクミャクダイナソー×ラウンドワン（梅田店）】</b><br>📅 期間: 2026/11/20 ～ 2027/02/23<br>📝 大阪・関西万博公式キャラクターのミャクミャクが恐竜になった「ミャクミャクダイナソー」！🦖🔴🔵 ラウンドワンが11月20日から期間限定のコラボ企画を開催します。 全国の対象店舗ではオリジナルグッズ付きのフード・ドリンクなどを展開し、コラボパックや限定アイテムでミャクミャクの新たな姿を楽しめます。景品やメニューの取り扱いは店舗・企画ごとに異なるため、公式案内で確認してください。 大阪の注目スポットはラウンドワン梅田店。ここでは恐竜をテーマにした「XRダイナソー」の体験企画も実施し、ミャクミャク関連商品と組み合わせたプランが用意されます。 万博で親しまれたキャラクターが、閉幕後もエンターテインメント施設を舞台に新たなコンテンツへ広がる事例です。※ミャクミャク本人のグリーティング告知ではありません。 📅11/20(金)10:00〜2027/2/23(火・祝) 📍ラウンドワン梅田店（大阪市北区小松原町4-16） 🎫体験・フード・物販は企画ごとに有料 🏛️実施：ラウンドワン<br><br><a href='https://www.round1.co.jp/collaboration/myakumyaku_dinosaur/index.html' target='_blank'>🔗 詳細を開く</a>",
+        "name": "ミャクミャクダイナソー×ラウンドワン（梅田店）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【ミャクミャクダイナソー×ラウンドワン（梅田店）】</b><br>📅 期間: 2026/11/20 ～ 2027/02/23<br>📝 大阪・関西万博公式キャラクターのミャクミャクが恐竜になった「ミャクミャクダイナソー」！🦖🔴🔵 ラウンドワンが11月20日から期間限定のコラボ企画を開催します。 全国の対象店舗ではオリジナルグッズ付きのフード・ドリンクなどを展開し、コラボパックや限定アイテムでミャクミャクの新たな姿を楽しめます。景品やメニューの取り扱いは店舗・企画ごとに異なるため、公式案内で確認してください。 大阪の注目スポットはラウンドワン梅田店。ここでは恐竜をテーマにした「XRダイナソー」の体験企画も実施し、ミャクミャク関連商品と組み合わせたプランが用意されます。 万博で親しまれたキャラクターが、閉幕後もエンターテインメント施設を舞台に新たなコンテンツへ広がる事例です。※ミャクミャク本人のグリーティング告知ではありません。 📅11/20(金)10:00〜2027/2/23(火・祝) 📍ラウンドワン梅田店（大阪市北区小松原町4-16） 🎫体験・フード・物販は企画ごとに有料 🏛️実施：ラウンドワン<br><br><a href='https://www.round1.co.jp/collaboration/myakumyaku_dinosaur/index.html' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false,
         "isKomyaku": false,
@@ -4051,8 +4051,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "（予定）麦食音祭2026 final（安満遺跡公園）",
-        "popupContent": "<b style='color:#e67e22;'>【予定】</b><br><b>【麦食音祭2026 final（安満遺跡公園）】</b><br>📅 期間: 2026/11/20 ～ 2026/11/23<br>📝 大阪・関西万博をきっかけに生まれた世界の食・音楽・文化の交流イベント「麦食音祭」が、2026年の集大成となる「final」を高槻市の安満遺跡公園で開催！🌏 主催は西尾レントオール、Color create、FoodFesで構成する麦食音祭実行委員会。各国の料理やスイーツ、雑貨に加え、チェコ館儀典長によるライブペインティング、キューバのダンス、ギニアやマリの伝統音楽など、万博の会場で感じた国際交流を再び楽しめます。 注目のキャラクター出演は11/21グリーンココロ、11/22ミャクミャク、11/23ドイツ館マスコットのサーキュラー。サーキュラーの数量限定コラボステッカーやオリジナルグッズも販売予定で、11/21にはクラゲ館にゆかりのある中島さち子さん率いるKURAGE Bandも出演します。 万博が閉幕しても、国や言葉の違いを越えて食と音楽で人が集まる場を育て続ける、アフター万博を象徴する催しです。 📅11/20(金)〜23(月・祝) 各日9:30〜17:00 📍大阪府高槻市・安満遺跡公園 🎫入場無料（一部飲食・物販有料） 🏛️主催：麦食音祭実行委員会 ※キャラクター出演は雨天中止の場合あり。出演時間は公式発表を確認。<br><br><a href='https://www.nishio-rent.co.jp/rentall/news/news/bakushokuonsaifinal/' target='_blank'>🔗 詳細を開く</a>",
+        "name": "麦食音祭2026 final（安満遺跡公園）",
+        "popupContent": "<b style='color:#2e7d32;'>【公開中】</b><br><b>【麦食音祭2026 final（安満遺跡公園）】</b><br>📅 期間: 2026/11/20 ～ 2026/11/23<br>📝 大阪・関西万博をきっかけに生まれた世界の食・音楽・文化の交流イベント「麦食音祭」が、2026年の集大成となる「final」を高槻市の安満遺跡公園で開催！🌏 主催は西尾レントオール、Color create、FoodFesで構成する麦食音祭実行委員会。各国の料理やスイーツ、雑貨に加え、チェコ館儀典長によるライブペインティング、キューバのダンス、ギニアやマリの伝統音楽など、万博の会場で感じた国際交流を再び楽しめます。 注目のキャラクター出演は11/21グリーンココロ、11/22ミャクミャク、11/23ドイツ館マスコットのサーキュラー。サーキュラーの数量限定コラボステッカーやオリジナルグッズも販売予定で、11/21にはクラゲ館にゆかりのある中島さち子さん率いるKURAGE Bandも出演します。 万博が閉幕しても、国や言葉の違いを越えて食と音楽で人が集まる場を育て続ける、アフター万博を象徴する催しです。 📅11/20(金)〜23(月・祝) 各日9:30〜17:00 📍大阪府高槻市・安満遺跡公園 🎫入場無料（一部飲食・物販有料） 🏛️主催：麦食音祭実行委員会 ※キャラクター出演は雨天中止の場合あり。出演時間は公式発表を確認。<br><br><a href='https://www.nishio-rent.co.jp/rentall/news/news/bakushokuonsaifinal/' target='_blank'>🔗 詳細を開く</a>",
         "category": "legacy",
         "isStore": false,
         "isKomyaku": false,
